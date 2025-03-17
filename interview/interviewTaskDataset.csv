@@ -1,0 +1,56 @@
+﻿participantId,studyVisitNumber,treatment_group,dateSurveyCompleted,ethnicity,smoking_status,eq5d5l_indexScore,haq_activitiesOverall,haq_painRating,haq_healthRating,haq_disabilityIndex,rapid3_functionalStatusScore,rapid3_painToleranceScore,rapid3_globalEstimateScore,rapid3_cumulativeRapid3Score,rapid3_weightedRapid3Score,rapid3_rapid3Category,wpaiRa_isEmployed,wpaiRa_hrsMissed_arth,wpaiRa_hrsMissed_other,wpaiRa_hrsWorked,wpaiRa_impact_work,wpaiRa_impact_activities,cdaiTenderCount,cdaiSwollenCount,cdaiPatientGlobal,cdaiPatientPain,sdmQ9_decisionNeed,sdmQ9_discussedInvolvement,sdmQ9_raisedOptions,sdmQ9_discussedAdvDis,sdmQ9_helpedToUnderstand,sdmQ9_askedPreferences,sdmQ9_discussedOptions,sdmQ9_sharedTreatDecision,sdmQ9_agreedPlan,recordComplete
+TEST001,1,1,09/05/1923,White British,Former smoker,0.197,2,5.5,6,3,4.7,5,1,10.7,3.6,Moderate Severity (MS),No,NA,NA,NA,NA,3,3,0,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+TEST002,1,0,17/01/2023,NA,NA,0.874,2,NA,NA,NA,4,1,1,6,2,Low Severity (LS),No,NA,NA,NA,NA,2,NA,NA,6,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+TEST003,1,1,20/01/2023,White British,NA,0.937,2,0,6.5,3,4.3,7.5,7.5,19.3,6.4,High Severity (HS),Yes,11.5,0,35,10,7,0,0,3,1,4,4,5,5,8,4,5,5,5,1
+TEST004,1,0,23/01/2023,25,Former smoker,0.879,2,7.5,7,1.75,7,7,5,19,6.3,High Severity (HS),Yes,8,0,10,8,7,5,1,6,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+TEST005,1,0,28/01/2023,NA,NA,0.73,1,6,5.5,2.25,5,2.5,7.5,15,5,High Severity (HS),No,NA,NA,NA,NA,3,11,6,2.5,7,4,4,4,4,4,4,4,4,4,1
+TEST006,1,0,31/01/2023,NA,Former smoker,NA,3,7.5,5,2.375,6.3,4,3.5,13.8,4.6,High Severity (HS),No,NA,NA,NA,NA,4,15,6,4.5,6.5,2,2,1,2,2,2,2,2,2,1
+TEST007,1,1,31/01/2023,White British,NA,0.775,3,4.5,2.5,1.75,6.3,3,4.5,13.8,4.6,High Severity (HS),No,NA,NA,NA,NA,3,2,6,4,4,4,4,5,4,4,4,4,4,4,1
+TEST008,1,1,01/02/2023,White British,Former smoker,0.593,1,9,0,1,6.3,6.5,6,18.8,6.3,High Severity (HS),No,NA,NA,NA,NA,5,NA,NA,NA,NA,3,2,3,4,3,2,2,3,3,1
+TEST009,1,0,05/02/2023,White British,Non-smoker,0.326,4,7,7.5,1.75,8.3,8,6,22.3,7.4,High Severity (HS),No,NA,NA,NA,NA,9,NA,NA,NA,NA,4,4,4,4,4,3,3,3,4,1
+TEST010,1,0,06/02/2023,Any other mixed background ,Former smoker,0.866,2,7,6,2.625,7.3,6,5,18.3,6.1,High Severity (HS),Yes,0,0,30,7,7,10,8,0,5,4,5,9,5,5,4,4,3,5,
+TEST011,1,0,08/02/2023,White British,NA,-0.937,3,7,7.5,2.5,9,6.7,6,21.7,7.2,High Severity (HS),No,NA,NA,NA,NA,8,NA,NA,NA,NA,5,5,5,5,5,5,5,5,5,1
+TEST012,1,1,08/02/2023,Bangladeshi,Non-smoker,0.916,2,5,4,1.625,5.7,6,7,18.7,6.2,High Severity (HS),No,NA,NA,NA,NA,7,6,4,0,8,4,4,4,4,4,99,4,4,4,1
+TEST013,1,0,13/02/2023,White British,Current smoker,0.727,2,0.5,7,2.125,7,6,7,20,6.7,High Severity (HS),Yes,0,0,20,5,5,4,3,4,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+TEST015,1,0,14/02/2023,White British,NA,0.887,1,1,0,1.5,4,1,0.5,5.5,1.8,Low Severity (LS),Yes,0,8,27,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+TEST016,1,0,15/02/2023,White British,NA,0.808,NA,5,6,2.125,8.3,7.5,7.5,23.3,7.8,High Severity (HS),No,NA,NA,NA,NA,9,2,2,0.5,1,4,3,3,4,4,4,3,3,4,1
+TEST017,1,1,21/02/2023,White British,Former smoker,0.624,2,6.7,9,1.5,10,4,3.5,17.5,5.8,High Severity (HS),No,NA,NA,NA,NA,10,5,2,3,3,5,5,3,3,5,NA,NA,NA,5,1
+TEST018,1,1,05/03/2023,NA,Non-smoker,0.779,1,6,0.8,1.5,6.3,5.5,6,17.8,5.9,High Severity (HS),No,NA,NA,NA,NA,4,48,48,3,3.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+TEST019,1,0,13/03/2023,[Declined],Former smoker,0.937,2,1.2,7.5,3.375,4,6,6,16,5.3,High Severity (HS),Yes,0,0,40,5,5,4,NA,3.5,4.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+TEST020,1,1,20/03/2023,White British,NA,0.619,3,6,6.5,2.25,4.3,8,2.5,14.8,4.9,High Severity (HS),No,NA,NA,NA,NA,3,5,5,6.5,6.5,5,5,5,4,4,3,4,4,5,1
+TEST021,1,0,22/03/2023,White British,Non-smoker,0.829,3,6.5,7,3.125,5.7,6,5.5,17.2,5.7,High Severity (HS),Yes,11,0,12,6,6,NA,NA,5.5,7,2,2,3,2,3,2,2,2,2,1
+TEST022,1,0,26/03/2023,White British,Non-smoker,-0.153,1,6.7,7,2.375,4.3,1.5,1.5,7.3,2.4,Moderate Severity (MS),No,NA,NA,NA,NA,1,5,2,0,1.5,4,4,4,3,3,2,4,4,4,1
+TEST023,1,0,28/03/2023,NA,Non-smoker,0.887,4,8,8,2.25,6.7,7,5,18.7,6.2,High Severity (HS),No,NA,NA,NA,NA,7,NA,NA,7.5,8.5,5,5,5,4,4,5,4,4,4,1
+TEST024,1,1,29/03/2023,NA,NA,1,3,4,1,1.5,6.7,8,7.5,22.2,7.4,High Severity (HS),No,NA,NA,NA,NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+TEST025,1,0,17/04/2023,White British,4,0.652,1,7.5,0.5,1.25,4,6,7,17,5.7,High Severity (HS),Yes,NA,NA,NA,7,5,8,5,8,9,4,2,3,2,2,2,2,2,3,1
+TEST026,1,0,18/04/2023,NA,Non-smoker,0.738,1,5,0.5,1.5,3.7,0,0,3.7,1.2,Low Severity (LS),[Unknown],NA,NA,NA,NA,1,9,3,5,10,5,5,5,4,5,4,4,4,5,1
+TEST027,1,1,18/04/2023,NA,NA,0.733,2,0,4,1.875,NA,NA,NA,NA,NA,[Unknown],[Unknown],NA,NA,NA,NA,NA,9,8,6,7,4,4,5,5,5,5,5,NA,5,1
+TEST028,1,1,18/04/2023,White British,NA,0.758,2,0,7.5,1.875,4.7,5,7,16.7,5.6,High Severity (HS),Yes,0,0,NA,6,6,14,4,6,8,4,4,4,4,4,3,3,4,4,1
+TEST029,1,0,21/04/2023,White British,Current smoker,0.808,3,7.5,7.5,2.125,3.7,1.2,0.8,5.7,1.9,Low Severity (LS),No,NA,NA,NA,NA,2,NA,NA,1,1,5,5,5,5,5,5,5,5,5,1
+TEST030,1,1,24/04/2023,NA,Non-smoker,0.669,1,6,6,1.75,NA,0,9,NA,NA,[Unknown],No,NA,NA,NA,NA,3,5,0,0,1,5,5,5,5,5,5,4,3,5,1
+TEST031,1,1,24/04/2023,NA,Former smoker,0.579,2,2,2.5,1.75,NA,5,4,NA,NA,[Unknown],Yes,0,0,20,2,2,4,2,1,2,5,4,2,4,4,3,2,4,5,1
+TEST032,1,0,27/04/2023,White and black Caribbean,99,1,2,5,7.5,1.75,4.7,4,4,12.7,4.2,High Severity (HS),Yes,0,2,35,3,1,9,NA,1.5,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+TEST033,1,1,04/05/2023,NA,Former smoker,0.887,2,1.5,3.5,3.625,4.3,0.5,0.5,5.3,1.8,Low Severity (LS),Yes,0,0,43,0,0,7,5,7.5,8,5,5,5,5,5,5,99,3,5,1
+TEST029,2,0,04/05/2023,NA,Former smoker,0.113,4,0.7,6.5,2.125,9.3,9,7,25.3,8.4,High Severity (HS),No,NA,NA,NA,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+TEST010,2,0,05/05/2023,White British,Non-smoker,1.829,2,1,0.5,1,7.7,7,7,21.7,7.2,High Severity (HS),No,NA,NA,NA,NA,7,4,4,2,4,5,5,5,5,5,5,5,5,5,
+TEST023,2,0,09/05/2023,NA,Non-smoker,0.751,4,4,5,2.25,3.7,0,0,3.7,1.2,Low Severity (LS),No,NA,NA,NA,NA,1,5,3,5.5,6,5,5,2,3,3,2,2,2,3,1
+TEST017,2,1,14/05/2023,White British,NA,0.937,1,2,2,1.125,4,2,2,8,2.7,Moderate Severity (MS),Yes,0,0,40,1,1,0,1,0.5,1.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+TEST016,2,0,15/05/2023,NA,NA,0.777,2,3,2.5,1.625,5.3,6.5,8,19.8,6.6,High Severity (HS),Yes,0,0,30,7,3,5,5,7,5,3,3,4,3,4,4,2,5,5,1
+TEST027,2,1,15/05/2023,White British,NA,0.887,2,2.5,5,1.125,3.3,0.7,0.5,4.5,1.5,Low Severity (LS),Yes,0,0,45,1,0,3,4,8,8,4,9,4,0,8,4,4,4,4,1
+TEST009,2,0,15/05/2023,White British,Former smoker,0.507,4,5,NA,NA,NA,0,0,NA,NA,[Unknown],[Unknown],NA,NA,NA,NA,0,14,10,7,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+TEST004,2,0,15/05/2023,NA,Former smoker,0.619,1,6,1,1,3.7,4.5,3.5,11.7,3.9,Moderate Severity (MS),No,NA,NA,NA,NA,1,7,3,8,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+TEST013,2,0,17/05/2023,African,NA,0.313,3,0.5,4.5,2.75,4.7,7.5,7.5,19.7,6.6,High Severity (HS),No,NA,NA,NA,NA,4,NA,NA,4,3,5,7,3,5,5,3,3,3,3,1
+TEST006,2,0,08/06/2023,White British,NA,0.937,2,7,5,2.5,4.7,8,8,20.7,6.9,High Severity (HS),Yes,NA,NA,35,2,4,6,2,5.5,3,2,2,4,4,4,2,2,99,3,1
+TEST020,2,1,21/06/2023,White British,NA,-0.937,3,8,7.5,2,NA,5,2.5,NA,NA,[Unknown],Yes,0,0,36,1,3,6,6,7,7.5,5,5,5,5,5,5,5,5,5,1
+TEST022,2,0,22/06/2023,NA,Former smoker,0.887,1,6.5,0,1.375,10.7,7.5,7.5,25.7,8.6,High Severity (HS),No,NA,NA,NA,NA,8,NA,3,8,9,5,5,3,2,2,2,2,2,3,1
+TEST026,2,0,21/01/203,NA,Former smoker,0.641,2,0,1.5,1,3.3,6,5,14.3,4.8,High Severity (HS),Yes,0,0,20,4,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+TEST001,2,1,30/02/2023,NA,Former smoker,0.6.67,3,NA,2,2.625,3.3,0.5,0.5,4.3,1.4,Low Severity (LS),Yes,0,3,0,0,0,2,2,0,0.5,5,5,5,5,5,5,5,5,5,1
+TEST019,2,0,NA,[Declined],Former smoker,0.227,1,4,3.5,2.5,7.3,7.8,6.5,21.6,7.2,High Severity (HS),No,NA,NA,NA,NA,8,1,0,6,7.5,5,5,5,5,5,5,5,5,5,1
+TEST018,2,1,NA,NA,Non-smoker,0.829,1,8,7,2.375,NA,NA,NA,NA,NA,[Unknown],[Unknown],NA,NA,NA,NA,NA,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+TEST028,2,1,NA,White British,NA,0.837,2,6,7,1.625,8,2.5,7.5,18,6,High Severity (HS),No,NA,NA,NA,NA,10,10,2,0,1,5,5,5,5,5,5,5,5,5,1
+TEST008,2,1,NA,NA,Non-smoker,0.811,2,8,3.5,1.75,4,1,0,5,1.7,Low Severity (LS),No,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+TEST031,2,1,NA,NA,Current smoker,0.779,3,7.8,6,1.25,6,7,6.5,19.5,6.5,High Severity (HS),Yes,NA,0,37,6,5,5,7,6.5,6.5,5,5,5,5,5,3,3,3,5,1
+TEST025,2,0,NA,White British,4,0.406,2,1,0,1.25,NA,2,2,NA,NA,[Unknown],No,NA,NA,NA,NA,3,0,0,0.5,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+TEST003,2,1,NA,White British,NA,1,4,6,8,1.875,7.7,5,7.5,20.2,6.7,High Severity (HS),[Unknown],NA,NA,NA,NA,7,4,2,4,6,4,4,4,4,4,4,4,4,4,1
+TEST033,2,1,NA,[Unknown],NA,NA,NA,2.5,0.5,1.625,6.3,6.7,6.5,19.5,6.5,High Severity (HS),No,NA,NA,NA,NA,7,6,8,5,4.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+TEST005,2,0,NA,White British,NA,0.623,2,6.8,7.5,2,4.7,6.8,2.5,14,4.7,High Severity (HS),Yes,0,0,38,7,6,0,0,0,0,4,99,4,3,99,3,3,2,4,1
