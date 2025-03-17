@@ -1,0 +1,380 @@
+ck_wkno,enu_name,enu_village,enu_comp,sen_contact1,sen_contact2,sen_contact3,participant_id,redcap_event_name,redcap_repeat_instrument,redcap_repeat_instance,consent_complete
+01-028-02,Fatou Darboe ,DUMBUTO,028,,,,EDN1826-Q,recruitment_arm_1,consent,1,0
+01-033-014,Aminata  Darboe ,DUMBUTO,033,,,,EDN1827-N,recruitment_arm_1,consent,1,0
+02-009-068W,Mariama Manneh,SANKANDI,009,,,,EDN2768-L,recruitment_arm_1,consent,1,0
+02-007-019B,Isatou Manjang,SANKANDI,014,,,,EDN1207-G,recruitment_arm_1,consent,1,0
+06-010-050U,Binta Jallow,SANKANDI,021,,,,EDN1214-N,recruitment_arm_1,consent,1,0
+02-048-004K,Amadou Jawo,SANKANDI,048,,,,EDN1220-T,recruitment_arm_1,consent,1,0
+03-004-022I,Mariama Jallow,NIORO JATTABA,004,5171320,,,EDN2743-T,recruitment_arm_1,consent,1,0
+03-002-018G,Adama Bah,NIORO JATTABA,012,,,,EDN2742-Q,recruitment_arm_1,consent,1,0
+03-016-014O,Isata Jobe,NIORO JATTABA,016,5124867,,,EDN2745-A,recruitment_arm_1,consent,1,0
+03-021-058O,Dellam Jallow,NIORO JATTABA,021,,,,EDN1795-V,recruitment_arm_1,consent,1,0
+03-017-010W,Mariama Bah,NIORO JATTABA,036,5073143,,,EDN2746-V,recruitment_arm_1,consent,1,0
+03-048-049R,Awa Jobe,NIORO JATTABA,048,3366224,,,EDN2747-K,recruitment_arm_1,consent,1,0
+03-051-030I,Jaila Jobe,NIORO JATTABA,051,,,,EDN2748-L,recruitment_arm_1,consent,1,0
+03-008-007P,Hawa Sey,NIORO JATTABA,065,3551789,,,EDN2744-R,recruitment_arm_1,consent,1,0
+03-083-007F,Hawa Colley,NIORO JATTABA,083,3264047,,,EDN2750-E,recruitment_arm_1,consent,1,0
+33-005-009L,Jaila Sowe,NIORO JATTABA,085,5858726,,,EDN2752-W,recruitment_arm_1,consent,1,0
+03-009-006A,Isatou Jobe,NIORO JATTABA,089,,,,EDN1294-S,recruitment_arm_1,consent,1,0
+03-066-016S,Kaddijatou Jallow,NIORO JATTABA,096,,,,EDN2749-N,recruitment_arm_1,consent,1,0
+03-102-002U,Fatoumata Gano,NIORO JATTABA,102,5175716,,,EDN2751-M,recruitment_arm_1,consent,1,0
+04-024-079H,Oumie Keita,JATTABA,024,2238011,,,EDN2738-F,recruitment_arm_1,consent,1,0
+08-001-019N,Mai Manneh,JIFFARONG,007,,,,EDN1326-Z,recruitment_arm_1,consent,1,0
+05-060-018C,Mariama Njai,BAJANA,004,,,,EDN1375-Y,recruitment_arm_1,consent,1,0
+07-023-074G,Isatou Jallow,KULI KUNDA,023,,,,EDN1808-V,recruitment_arm_1,consent,1,0
+29-021-014W,Mbakaddy Danso,KULI KUNDA,030,,,,EDN2766-B,recruitment_arm_1,consent,1,0
+29-021-014W,Mbakaddy  Danso ,KULI KUNDA,030,3690860,7113846,,EDN2766-B,recruitment_arm_1,consent,1,0
+05-025-008O,Tomaring Njai,JAMARU,001,,,,EDN1407-G,recruitment_arm_1,consent,1,0
+13-021-005X,Fatoumata Sanyang,MANDUAR,001,,,,EDN1434-I,recruitment_arm_1,consent,1,0
+13-29-045D,Saffiatou Camara,MANDUAR,027,,,,EDN1811-Q,recruitment_arm_1,consent,1,0
+15-006-009F,Binta Bah,KENOKOTO,006,7241568,,,EDN2759-M,recruitment_arm_1,consent,1,0
+15-006-009F,Binta Bah,KENOKOTO,002,,,,EDN2759-M,recruitment_arm_1,consent,1,0
+15-011-002G,Sarjo Njai,GISSAY,011,7549480,6374755,,EDN2763-G,recruitment_arm_1,consent,1,0
+07-027-013T,Mariama Njai,TANKULAR,052,,,,EDN2762-E,recruitment_arm_1,consent,1,0
+17-018-005R,Mariama Touray,JOLI,004,7357977,,,EDN1459-I,recruitment_arm_1,consent,2,0
+17-017-04,Nyimanding Bass ,JOLI,017,7001809,,,EDN1828-K,recruitment_arm_1,consent,1,0
+18-001-015T,Kaddy Badjie,KUYANG,001,3590174,,,EDN1470-T,recruitment_arm_1,consent,1,0
+28-003-015B,Kaddy Jarjou,KUYANG,002,3235053,7101799,,EDN1471-U,recruitment_arm_1,consent,1,0
+22-008-013B,Aminata Sanyang,TABORANGKOTO,008,,,,EDN1475-Y,recruitment_arm_1,consent,2,0
+24-002-011H,Fatou Colley,BURONG,001,3824493,7185875,,EDN1480-E,recruitment_arm_1,consent,1,0
+23-010-003D,Sally Camara,BURONG,010,3568612,,,EDN1486-K,recruitment_arm_1,consent,1,0
+23-013-014Y,Salimata Jammeh,BURONG,013,5169408,,,EDN1491-P,recruitment_arm_1,consent,1,0
+26-001-023J,Binta Gibba,JULA KUNDA,008,5254557,,,EDN1503-H,recruitment_arm_1,consent,1,0
+23-020-005V,Aminata Camara,JULA KUNDA,010,,,,EDN1505-K,recruitment_arm_1,consent,2,0
+24-021-018I,Kaddy Darboe,JULA KUNDA,021,3089189,,,EDN1508-E,recruitment_arm_1,consent,2,0
+24-022-012O,Binta Sise,JULA KUNDA,022,,,,EDN1510-B,recruitment_arm_1,consent,2,0
+22-004-015H,Maimuna Barrow,JULA KUNDA,024,,,,EDN1512-F,recruitment_arm_1,consent,2,0
+13-019-002W,Fatou Trawally,KARANTABA,006,,,,EDN1517-E,recruitment_arm_1,consent,1,0
+17-005-006S,Nyimansatou Jammeh,KARANTABA,006,,,,EDN1516-D,recruitment_arm_1,consent,1,0
+25-001-009H,Bakoto Jarju,KARANTABA,007,,,,EDN1518-C,recruitment_arm_1,consent,1,0
+24-010-010Y,Fatou Darboe,KARANTABA,010,,,,EDN1522-K,recruitment_arm_1,consent,1,0
+25-007-053T,Nyimansatou Marong,KARANTABA,010,,,,EDN1519-G,recruitment_arm_1,consent,1,0
+25-010-045V,Fatou Jawo,KARANTABA,010,,,,EDN1520-H,recruitment_arm_1,consent,1,0
+25-011-194A,Sarita Demba,KARANTABA,010,,,,EDN1521-A,recruitment_arm_1,consent,1,0
+22-009-017R,Kaddy Sanyang,KARANTABA,011,,,,EDN1524-B,recruitment_arm_1,consent,1,0
+25-008-046Y,Nyimansatou Jarjou,KARANTABA,011,5826010,,,EDN1523-C,recruitment_arm_1,consent,1,0
+25-008-020Y,Binta Jarju,KARANTABA,020,5948141,,,EDN1529-D,recruitment_arm_1,consent,1,0
+25-020-026S,Natoma Bajinka,KARANTABA,020,3257941,,,EDN1530-J,recruitment_arm_1,consent,1,0
+25-022-014E,Fatoumata Fatty,KARANTABA,022,5343122,,,EDN1532-E,recruitment_arm_1,consent,1,0
+26-008-007Z,Isatou Jawo,KARANTABA,024,3445802,,,EDN1533-F,recruitment_arm_1,consent,1,0
+25-011-145D,Hawa Jadama,KARANTABA,028,3089685,,,EDN1534-D,recruitment_arm_1,consent,1,0
+27-005-040K,Mariama Kanyi,MANDINA,011,3227334,,,EDN1813-P,recruitment_arm_1,consent,1,0
+26-012-008W,Nyimansatou Demba,MANDINA,012,5222163,,,EDN1814-Q,recruitment_arm_1,consent,1,0
+25-007-074O,Oumie Fofana,JANNEH KUNDA,032,,,,EDN2701-B,recruitment_arm_1,consent,1,0
+27-034-024E,Isatou Janneh,JANNEH KUNDA,034,,,,EDN1543-E,recruitment_arm_1,consent,2,0
+27-039-015D,Salimata Janneh,JANNEH KUNDA,039,,,,EDN1545-A,recruitment_arm_1,consent,1,0
+28-030-012K,Mariama Manjang,KEMOTO,008,3766413,,,EDN1554-E,recruitment_arm_1,consent,2,0
+28-009-008O,Oumie Manjang,KEMOTO,032,,,,EDN1557-H,recruitment_arm_1,consent,2,0
+29-004-148E,Jariatou Sise,KENEBA,004,2555080,,,EDN1560-K,recruitment_arm_1,consent,1,0
+07-007-003D,Kaddy Njai,KENEBA,034,,,,EDN1579-E,recruitment_arm_1,consent,1,0
+29-004-045F,Tida Sise,KENEBA,056,,,,EDN1581-B,recruitment_arm_1,consent,1,0
+02-031-032Q,Mariama Saidykhan,KENEBA,059,,,,EDN1582-C,recruitment_arm_1,consent,1,0
+29-069-011X,Kaddijatou Jammeh,KENEBA,103,3596483,2678149,,EDN1589-J,recruitment_arm_1,consent,1,0
+07-008-006S,Fatou Njai,KENEBA,118,5177303,5918491,,EDN1592-A,recruitment_arm_1,consent,2,0
+29-118-063N,Sally Kanteh,KENEBA,118,5218627,,,EDN1593-G,recruitment_arm_1,consent,1,0
+29-074-026U,Fatou Tamba,KENEBA,119,5247599,,,EDN1594-J,recruitment_arm_1,consent,2,0
+34-001-072O,Mariama Baldeh,KENOKOTO,001,3159450,,,EDN2761-Y,recruitment_arm_1,consent,1,0
+34-001-073P,Penda Baldeh,KENOKOTO,001,,,,EDN2760-B,recruitment_arm_1,consent,1,0
+40-007-04,Nyima Sonko,WUROKANG,007,,,,EDN1615-J,recruitment_arm_1,consent,1,0
+40-007-07,Mariama Jallow,WUROKANG,007,5887838,,,EDN1616-D,recruitment_arm_1,consent,1,0
+40-025-013,Jalika Nduru,WUROKANG,001,5313359,,,EDN1829-L,recruitment_arm_1,consent,1,0
+40-034-06,Fatoumatta Ceesay,WUROKANG,034,5842267,,,EDN1641-G,recruitment_arm_1,consent,2,0
+41-35-03,Bintou Ceesay,KWINELLA SANSANKONO,035,5036823,2808753,,EDN1818-D,recruitment_arm_1,consent,1,0
+41-043-01,Jarra Saho,KWINELLA SANSANKONO,043,3080742,,,EDN1656-G,recruitment_arm_1,consent,1,0
+41-047-01,Isatou Jammeh,KWINELLA SANSANKONO,047,5197944,,,EDN1657-H,recruitment_arm_1,consent,2,0
+44-001-01,Hawa Jamanka,BUMARR,001,3541900,,,EDN1705-K,recruitment_arm_1,consent,2,0
+44-004-08,Isatou Demba,BUMARR,004,3112780,,,EDN1707-G,recruitment_arm_1,consent,2,0
+44-015-01,MARIAMA MANJANG,BUMARR,015,7805172,,,EDN1710-B,recruitment_arm_1,consent,2,0
+45-027-01,Isatou Koma,BAMBAKO,027,5967571,,,EDN1789-V,recruitment_arm_1,consent,1,0
+47-041-06,Hawa Sorra ,NEMA,041,2622984,,,EDN1791-M,recruitment_arm_1,consent,1,0
+50-031-01,Musu Sowe,NEMA KUTA,031,3519644,,,EDN1736-C,recruitment_arm_1,consent,2,0
+51-004-01,Hawa Jallow,JIRROFF,004,2755735,,,EDN1821-H,recruitment_arm_1,consent,1,0
+51-029-02,Hawa Jallow,JIRROFF,029,2523041,3251544,,EDN1835-L,recruitment_arm_1,consent,1,0
+51-040-01,Isatou Sanyang,JIRROFF,040,2190018,3028683,,EDN1741-G,recruitment_arm_1,consent,1,0
+51-040-10,Kumba Sabally,JIRROFF,040,2712143,2702591,,EDN2781-X,recruitment_arm_1,consent,1,0
+52-009-02,HAJJA KOLLEY,MADINA ANGALLEH,009,7456977,,,EDN1742-H,recruitment_arm_1,consent,1,0
+52-013-03,kaddijatou jallow,MADINA ANGALLEH,013,2153675,,,EDN1743-E,recruitment_arm_1,consent,1,0
+52-015-01,mariama bah,MADINA ANGALLEH,015,2374588,,,EDN1744-C,recruitment_arm_1,consent,1,0
+52-017-01,fatou bah,MADINA ANGALLEH,017,7957195,,,EDN1745-A,recruitment_arm_1,consent,1,0
+52-017-02,hawa ceesay,MADINA ANGALLEH,017,7957195,,,EDN1746-K,recruitment_arm_1,consent,1,0
+52-017-03,jainaba ceesay,MADINA ANGALLEH,017,7957195,,,EDN1747-F,recruitment_arm_1,consent,1,0
+52-017-05,salla jawo,MADINA ANGALLEH,017,7957195,,,EDN1748-J,recruitment_arm_1,consent,1,0
+52-052-01,Mariama colley,MADINA ANGALLEH,052,2033521,,,EDN1749-B,recruitment_arm_1,consent,1,0
+52-065-01,Hawa colley,MADINA ANGALLEH,065,7641454,5084141,,EDN1750-C,recruitment_arm_1,consent,1,0
+53-031-01,Fatoumata Bah,JATTA KUNDA,031,3519644,,,EDN1753-B,recruitment_arm_1,consent,1,0
+56-003-01,ASIE BAH,SIBETO,003,7505284,,,EDN1768-A,recruitment_arm_1,consent,1,0
+56-018-01,jella jawo,SIBETO,018,2471259,,,EDN1769-F,recruitment_arm_1,consent,1,0
+56-022-01,Binta jallow,SIBETO,022,2290078,,,EDN1770-F,recruitment_arm_1,consent,1,0
+56-064-01,adama choone,SIBETO,064,7377811,,,EDN1771-J,recruitment_arm_1,consent,1,0
+56-065-01,aminata sallah,SIBETO,065,7812763,,,EDN1772-G,recruitment_arm_1,consent,1,0
+56-066-01,Sally bah,SIBETO,066,7334061,,,EDN1773-K,recruitment_arm_1,consent,1,0
+58-001-02,hawa gibba,TABANANI,001,7500979,,,EDN1774-H,recruitment_arm_1,consent,1,0
+58-002-01,adama bah,TABANANI,002,7299330,,,EDN1775-C,recruitment_arm_1,consent,1,0
+58-002-02,aminata sowe,TABANANI,002,7310512,,,EDN1776-A,recruitment_arm_1,consent,1,0
+58-006-01,fatoumata jallow,TABANANI,006,3593906,,,EDN1777-B,recruitment_arm_1,consent,1,0
+60-004-01,Fatou Njado,WILLINGARA,004,5259473,,,EDN2777-L,recruitment_arm_1,consent,1,0
+60-006-03,Maimuna Colley,WILLINGARA,006,3618333,,,EDN2778-Y,recruitment_arm_1,consent,1,0
+60-007-09,Mariama Bah,WILLINGARA,007,3416175,,,EDN2779-X,recruitment_arm_1,consent,1,0
+60-010-05,MARIAMA KEITA ,WILLINGARA,010,3301380,,,EDN2780-U,recruitment_arm_1,consent,1,0
+61-001-01,Jarra Barry,SARE MAMUDU,001,7367417,3018840,,EDN1780-G,recruitment_arm_1,consent,1,0
+61-001-07,Mbureh  Sowe,SARE MAMUDU,001,7106027,,,EDN1792-Q,recruitment_arm_1,consent,1,0
+70-001-02,Kaddijatou Susso,KOLIOR,001,3941991,,,EDN2770-B,recruitment_arm_1,consent,1,0
+70-030-02,Mariama Camara ,KOLIOR,030,3719228,,,EDN2657-A,recruitment_arm_1,consent,1,0
+70-040-01,Mariama Jah,KOLIOR,040,7499671,,,EDN1857-V,recruitment_arm_1,consent,1,0
+70-042-01,FATOUMATA FADERA ,KOLIOR,042,2964051,3222596,,EDN1860-J,recruitment_arm_1,consent,1,0
+70-047-01,Fatou Jassey,KOLIOR,047,7252283,,,EDN1862-I,recruitment_arm_1,consent,1,0
+70-047-03,Fatou Fadera,KOLIOR,047,2945498,,,EDN1864-J,recruitment_arm_1,consent,1,0
+70-050-02,Mam Jarra Drammeh,KOLIOR,050,7709935,,,EDN1867-R,recruitment_arm_1,consent,1,0
+71-007-01,Fatoumata Kanteh,JOMARR,007,2141366,7682620,,EDN1824-K,recruitment_arm_1,consent,1,0
+72-005-02,Fatou Drammeh ,JASOBO,005,6434804,,,EDN2674-B,recruitment_arm_1,consent,1,0
+73-003-01,FATOUMATA CEESAY ,SARE SAMBA,003,7494880,,,EDN1909-T,recruitment_arm_1,consent,1,0
+76-027-01,Joko Jawara,,027,7607259,5026333,,EDN1825-S,recruitment_arm_1,consent,1,0
+77-008-03,Maimuna Dampha,GENIERE,008,7771492,,,EDN2023-D,recruitment_arm_1,consent,1,0
+77-037-02,NBASSEY SANNEH ,GENIERE,037,7284559,,,EDN2756-S,recruitment_arm_1,consent,1,0
+78-033-01,AJA SUTAY TAAL,KAIAF,033,3551619,,,EDN2097-W,recruitment_arm_1,consent,1,0
+78-041-05,Sirehnding Sanneh ,KAIAF,041,3545972,,,EDN2102-F,recruitment_arm_1,consent,1,0
+78-050-01,Tomaring Sanneh,KAIAF,050,,,,EDN2107-K,recruitment_arm_1,consent,2,0
+78-054-02,Fanna  Njie,MADINA KAIAF,054,7067672,,,EDN2109-B,recruitment_arm_1,consent,1,0
+78-054-03,Yassin Touray,MADINA KAIAF,054,7816782,,,EDN2110-X,recruitment_arm_1,consent,1,0
+78-054-04,Kanni Touray,MADINA KAIAF,054,2550016,,,EDN2111-Q,recruitment_arm_1,consent,1,0
+78-054-05,Ndey Fatou Secka,MADINA KAIAF,054,2851818,,,EDN2112-U,recruitment_arm_1,consent,1,0
+78-058-02,Fatou Fatty,KAIAF,058,,,,EDN2119-L,recruitment_arm_1,consent,1,0
+78-072-01,HAWA  CONTEH,KAIAF,072,2707196,,,EDN2148-M,recruitment_arm_1,consent,1,0
+78-078-02,ISATOU  JALLOW ,KAIAF,078,7200660,,,EDN2151-L,recruitment_arm_1,consent,1,0
+78-082-02,Isatou Kassama ,KAIAF,082,7051005,,,EDN2153-W,recruitment_arm_1,consent,1,0
+78-084-02,Kaddijatou Sanneh,KAIAF,084,7033841,3721269,,EDN2156-S,recruitment_arm_1,consent,1,0
+78-087-01,Fatoumata Manjang ,KAIAF,087,3078156,,,EDN2157-Z,recruitment_arm_1,consent,1,0
+78-095-01,Mariama Fatty,KAIAF,095,2377852,,,EDN2161-F,recruitment_arm_1,consent,1,0
+78-101-01,Mariama Sanneh,KAIAF,055,3548403,,,EDN2166-U,recruitment_arm_1,consent,1,0
+78-102-01,Sunkary Ceesay,KAIAF,102,5019449,,,EDN2168-G,recruitment_arm_1,consent,1,0
+78-103-04,Mariama Gassama,KAIAF,103,7375544,,,EDN2170-I,recruitment_arm_1,consent,1,0
+78-105-02,Ramatoulie Jallow,KAIAF,105,7039348,,,EDN2171-U,recruitment_arm_1,consent,1,0
+78-106-01,Jainaba Nyabally,KAIAF,106,7514633,,,EDN2172-C,recruitment_arm_1,consent,1,0
+78-107-03,Jarra Cham,KAIAF,107,3546055,,,EDN2174-Q,recruitment_arm_1,consent,1,0
+78-110-01,Fatoumatta Fatty,KAIAF,110,5379667,,,EDN2181-X,recruitment_arm_1,consent,1,0
+78-112-02,Fatou Sanneh ,KAIAF,112,2506471,,,EDN2185-C,recruitment_arm_1,consent,1,0
+78-118-01,Mariama Sanneh,KAIAF,118,3721080,,,EDN2195-W,recruitment_arm_1,consent,1,0
+78-123-01,Isatou Sanneh,KAIAF,123,6285211,,,EDN2198-O,recruitment_arm_1,consent,1,0
+79-004-08,Sohna Ceesay ,MADINA KAIAF,004,2063341,,,EDN2218-X,recruitment_arm_1,consent,1,0
+79-008-06,Amie Ceesay ,MADINA KAIAF,008,,,,EDN2227-L,recruitment_arm_1,consent,1,0
+79-018-02,Sainabou Touray,MADINA KAIAF,018,7275813,,,EDN2241-H,recruitment_arm_1,consent,1,0
+79-035-01,Halimatou Njie,MADINA KAIAF,035,,,,EDN2277-C,recruitment_arm_1,consent,1,0
+79-036-02,Yassin Touray ,MADINA KAIAF,036,2878644,,,EDN2278-X,recruitment_arm_1,consent,1,0
+79-037-01,Ropey Faal,MADINA KAIAF,037,5019607,,,EDN2279-X,recruitment_arm_1,consent,1,0
+79-037-03,Aram Mangan,MADINA KAIAF,037,5379002,,,EDN2280-U,recruitment_arm_1,consent,1,0
+79-037-04,Amie Ceesay,MADINA KAIAF,037,5019607,,,EDN2281-J,recruitment_arm_1,consent,1,0
+79-038-01,Amie Cham,MADINA KAIAF,038,7575116,,,EDN2282-H,recruitment_arm_1,consent,1,0
+79-038-02,Mam Ceesay,MADINA KAIAF,038,7875116,,,EDN2283-I,recruitment_arm_1,consent,1,0
+79-039-01,Mbombeh Ceesay,MADINA KAIAF,038,5857869,,,EDN2284-M,recruitment_arm_1,consent,1,0
+79-039-02,Rokey Jobe,MADINA KAIAF,038,5857869,,,EDN2285-M,recruitment_arm_1,consent,1,0
+79-039-03,Ndey Touray ,MADINA KAIAF,038,,,,EDN2286-U,recruitment_arm_1,consent,1,0
+79-039-04,Fantastic Touray ,MADINA KAIAF,038,,,,EDN2287-S,recruitment_arm_1,consent,1,0
+79-040-01,Ramata Ceesay,MADINA KAIAF,040,2691961,,,EDN2288-Q,recruitment_arm_1,consent,1,0
+79-040-02,Isatou  Faal,MADINA KAIAF,040,2691961,,,EDN2289-W,recruitment_arm_1,consent,1,0
+79-041-02,Amie Ceesay ,MADINA KAIAF,041,7850075,,,EDN2290-D,recruitment_arm_1,consent,1,0
+79-041-03,Khoja,MADINA KAIAF,041,7273281,,,EDN2291-Q,recruitment_arm_1,consent,1,0
+79-041-04,Fatou Touray ,MADINA KAIAF,041,7112823,,,EDN2292-X,recruitment_arm_1,consent,1,0
+79-041-05,Aja Secka,MADINA KAIAF,041,7112823,,,EDN2293-I,recruitment_arm_1,consent,1,0
+79-042-01,Mariama Touray ,MADINA KAIAF,042,,,,EDN2294-A,recruitment_arm_1,consent,1,0
+79-042-02,Hoja Ceesay ,MADINA KAIAF,042,3576303,,,EDN2295-R,recruitment_arm_1,consent,1,0
+79-042-03,Howard Ceesay ,MADINA KAIAF,041,3576303,,,EDN2296-I,recruitment_arm_1,consent,1,0
+79-043-01,Rohey  Ceesay ,MADINA KAIAF,043,7498529,,,EDN2297-S,recruitment_arm_1,consent,1,0
+79-043-02,Awa Touray ,MADINA KAIAF,043,7498529,,,EDN2298-V,recruitment_arm_1,consent,1,0
+79-043-03,Haddy Cham,MADINA KAIAF,043,7498529,,,EDN2299-W,recruitment_arm_1,consent,1,0
+79-045-01,Mbomber Ceesay ,MADINA KAIAF,045,7644879,,,EDN2300-I,recruitment_arm_1,consent,1,0
+79-045-02,Ndey Fatou Ceesay ,MADINA KAIAF,045,7650860,,,EDN2301-I,recruitment_arm_1,consent,1,0
+79-046-01,Fatou Touray ,MADINA KAIAF,046,,,,EDN2302-J,recruitment_arm_1,consent,1,0
+79-046-03,Jaye Touray ,MADINA KAIAF,046,2706205,,,EDN2303-H,recruitment_arm_1,consent,1,0
+79-046-04,Oumie Njie,MADINA KAIAF,046,,,,EDN2304-J,recruitment_arm_1,consent,1,0
+79-046-05,Isatou Ceesay ,MADINA KAIAF,046,2638725,,,EDN2305-T,recruitment_arm_1,consent,1,0
+79-046-06,Oumie Ceesay ,MADINA KAIAF,046,7510166,,,EDN2306-B,recruitment_arm_1,consent,1,0
+79-046-07,Ramata Gaye,MADINA KAIAF,046,7510166,,,EDN2307-Q,recruitment_arm_1,consent,1,0
+79-047-03,Kaddy Ceesay ,MADINA KAIAF,047,7160705,,,EDN2308-N,recruitment_arm_1,consent,1,0
+79-048-01,Julle Ceesay ,MADINA KAIAF,048,7885737,,,EDN2309-H,recruitment_arm_1,consent,1,0
+79-048-02,Ropey Ceesay ,MADINA KAIAF,048,7885737,,,EDN2310-Q,recruitment_arm_1,consent,1,0
+79-053-01,Alimatou Ceesay,MADINA KAIAF,053,7820629,,,EDN2315-D,recruitment_arm_1,consent,1,0
+79-053-02,Kaddy Touray,MADINA KAIAF,053,7820629,,,EDN2316-O,recruitment_arm_1,consent,1,0
+79-053-03,Haddy Ceesay,MADINA KAIAF,053,7957484,,,EDN2317-I,recruitment_arm_1,consent,1,0
+79-053-04,Kani Touray,MADINA KAIAF,053,7957484,,,EDN2318-R,recruitment_arm_1,consent,1,0
+79-053-05,Kanni Touray,MADINA KAIAF,053,7957484,,,EDN2319-T,recruitment_arm_1,consent,1,0
+79-054-03,Isatou  Njie,MADINA KAIAF,054,7816782,,,EDN2320-D,recruitment_arm_1,consent,1,0
+79-054-07,Ndey Fatou Secka,MADINA KAIAF,054,7161818,,,EDN2324-I,recruitment_arm_1,consent,1,0
+79-055-02,Sohna Ceesay,MADINA KAIAF,055,2772765,,,EDN2326-L,recruitment_arm_1,consent,1,0
+79-057-01,Jai Ceesay,MADINA KAIAF,057,7818862,,,EDN2333-J,recruitment_arm_1,consent,1,0
+79-059-01,Fatou Jobe,MADINA KAIAF,059,7609535,,,EDN2334-Q,recruitment_arm_1,consent,1,0
+79-059-02,Sohna Touray,MADINA KAIAF,059,7609535,,,EDN2335-V,recruitment_arm_1,consent,1,0
+79-059-03,Nyima Touray,MADINA KAIAF,059,7609535,,,EDN2336-A,recruitment_arm_1,consent,1,0
+79-059-04,Mariama Ceesay,MADINA KAIAF,059,7609535,,,EDN2337-J,recruitment_arm_1,consent,1,0
+79-059-05,Jarra Touray,MADINA KAIAF,059,7284495,,,EDN2338-P,recruitment_arm_1,consent,1,0
+79-059-06,Fatou Ceesay ,MADINA KAIAF,059,7442711,,,EDN2339-O,recruitment_arm_1,consent,1,0
+79-059-07,Kaddy Njie,MADINA KAIAF,059,7442711,,,EDN2340-I,recruitment_arm_1,consent,1,0
+79-060-01,Mariama Ceesay ,MADINA KAIAF,060,7101848,,,EDN2341-W,recruitment_arm_1,consent,1,0
+79-060-02,Amie Touray ,MADINA KAIAF,060,7101848,,,EDN2342-Z,recruitment_arm_1,consent,1,0
+79-060-03,Rohey Ceesay,MADINA KAIAF,060,,,,EDN2343-I,recruitment_arm_1,consent,1,0
+79-061-01,Sainabou Touray ,MADINA KAIAF,061,,,,EDN2344-Z,recruitment_arm_1,consent,1,0
+79-061-02,Fanna Ceesay ,MADINA KAIAF,061,5252881,,,EDN2345-W,recruitment_arm_1,consent,1,0
+79-061-03,Fatou Jobe,MADINA KAIAF,061,25943374,,,EDN2346-T,recruitment_arm_1,consent,1,0
+79-061-04,Fatou Touray,MADINA KAIAF,061,2676364,,,EDN2347-E,recruitment_arm_1,consent,1,0
+79-061-05,Ndey Yassin Touray ,MADINA KAIAF,061,2884869,,,EDN2348-N,recruitment_arm_1,consent,1,0
+79-061-06,Isatou Ceesay ,MADINA KAIAF,061,7099388,,,EDN2349-Q,recruitment_arm_1,consent,1,0
+79-063-01,Aram Touray,MADINA KAIAF,063,7931192,,,EDN2352-N,recruitment_arm_1,consent,1,0
+79-065-01,Mariama Njie,MADINA KAIAF,065,2224775,,,EDN2355-K,recruitment_arm_1,consent,1,0
+79-065-02,Fanna Njie,MADINA KAIAF,065,2551742,,,EDN2356-B,recruitment_arm_1,consent,1,0
+79-069-01,Sohna Janneh,MADINA KAIAF,069,,,,EDN2362-S,recruitment_arm_1,consent,1,0
+79-071-04,Adama Touray ,MADINA KAIAF,071,,,,EDN2365-Q,recruitment_arm_1,consent,1,0
+79-087-01,Ancha Gaye,MADINA KAIAF,087,7734008,,,EDN2389-H,recruitment_arm_1,consent,1,0
+79-089-03,Faddy Touray ,MADINA KAIAF,089,,,,EDN2396-R,recruitment_arm_1,consent,1,0
+79-089-05,Isatou Ceesay ,MADINA KAIAF,089,2500927,,,EDN2398-Q,recruitment_arm_1,consent,1,0
+79-090-011,Fatoumata Touray ,MADINA KAIAF,090,,,,EDN2409-Q,recruitment_arm_1,consent,1,0
+79-090-04,Fatou Mbaye,MADINA KAIAF,090,,,,EDN2402-W,recruitment_arm_1,consent,1,0
+79-090-05,Haddy Touray ,MADINA KAIAF,090,,,,EDN2403-O,recruitment_arm_1,consent,1,0
+79-094-06,Jainaba Ndong ,MADINA KAIAF,094,,,,EDN2417-H,recruitment_arm_1,consent,1,0
+79-095-02,Mariama Touray ,MADINA KAIAF,095,2579743,,,EDN2419-J,recruitment_arm_1,consent,1,0
+79-096-03,Kaddy Ceesay ,MADINA KAIAF,096,,,,EDN2421-S,recruitment_arm_1,consent,1,0
+79-097-03,Adama Touray,MADINA KAIAF,097,7154251,,,EDN2425-O,recruitment_arm_1,consent,1,0
+79-097-05,Kaddy Touray ,MADINA KAIAF,097,5372272,7338820,,EDN2728-O,recruitment_arm_1,consent,1,0
+79-098-01,Mbombeh Ceesay ,MADINA KAIAF,098,,,,EDN2427-U,recruitment_arm_1,consent,1,0
+79-098-02,Sohna Ceesay ,MADINA KAIAF,098,7392452,,,EDN2727-J,recruitment_arm_1,consent,1,0
+79-102-01,Kanni Touray ,MADINA KAIAF,102,7520071,,,EDN2430-M,recruitment_arm_1,consent,1,0
+79-102-03,Haddy Gai,MADINA KAIAF,102,7657342,,,EDN2432-T,recruitment_arm_1,consent,1,0
+79-102-05,Kura Secka ,MADINA KAIAF,102,7520071,,,EDN2734-G,recruitment_arm_1,consent,1,0
+79-102-06,Awa Touray ,MADINA KAIAF,102,,,,EDN2735-M,recruitment_arm_1,consent,1,0
+79-107-03,Mbom Ceesay ,MADINA KAIAF,107,7412533,,,EDN2434-W,recruitment_arm_1,consent,1,0
+79-111-01,Amie Njie,MADINA KAIAF,111,2127690,,,EDN2446-H,recruitment_arm_1,consent,1,0
+79-112-01,Sukai Njie,MADINA KAIAF,112,2478887,,,EDN2447-L,recruitment_arm_1,consent,1,0
+79-113-01,Fatou Ceesay ,MADINA KAIAF,113,5929181,,,EDN2450-G,recruitment_arm_1,consent,1,0
+79-113-02,Awa Ceesay ,MADINA KAIAF,113,3853004,,,EDN2451-Y,recruitment_arm_1,consent,1,0
+79-114-01,Isatou  MS Jallow,MADINA KAIAF,114,3862056,,,EDN2452-X,recruitment_arm_1,consent,1,0
+79-114-02,Georget  Jatta,MADINA KAIAF,114,3616097,,,EDN2453-A,recruitment_arm_1,consent,1,0
+79-114-03,Jainaba  Kujabi,MADINA KAIAF,114,3565201,,,EDN2454-Q,recruitment_arm_1,consent,1,0
+79-114-04,Fatou E Badjie,MADINA KAIAF,114,3902480,,,EDN2455-J,recruitment_arm_1,consent,1,0
+79-114-05,Fatou Colley,MADINA KAIAF,114,3508337,,,EDN2456-G,recruitment_arm_1,consent,1,0
+79-114-06,Rahmatoulie Corr,MADINA KAIAF,114,5251700,,,EDN2457-F,recruitment_arm_1,consent,1,0
+79-115-01,Halimatou Secka ,MADINA KAIAF,115,2839176,,,EDN2458-Z,recruitment_arm_1,consent,1,0
+79-115-02,Kaddy Ceesay ,MADINA KAIAF,115,,,,EDN2459-X,recruitment_arm_1,consent,1,0
+80-001-01,OUMIE  CEESAY ,SARE SAMBA,001,5373034,,,EDN2462-F,recruitment_arm_1,consent,1,0
+80-001-02,MAHANI GANNO,SARE SAMBA,001,7273522,,,EDN2463-Z,recruitment_arm_1,consent,1,0
+80-001-04,KADDYJATOU  GANO ,SARE SAMBA,001,2379991 ,,,EDN2465-H,recruitment_arm_1,consent,1,0
+80-001-06,FATOUMATA  DASILVER,SARE SAMBA,001,2744831,,,EDN2467-Y,recruitment_arm_1,consent,1,0
+80-001-07,ADAMA  BAH ,SARE SAMBA,001,2691819,,,EDN2468-K,recruitment_arm_1,consent,1,0
+80-001-08,SAINABOU CEESAY ,SARE SAMBA,001,2925105,,,EDN2469-D,recruitment_arm_1,consent,1,0
+80-002-01,JARRA  GANNO,SARE SAMBA,002,3865520,,,EDN2470-G,recruitment_arm_1,consent,1,0
+80-002-02,ISATOU  JALLOW ,SARE SAMBA,002,2521507,,,EDN2471-U,recruitment_arm_1,consent,1,0
+80-002-03,MAIMUNA CEESAY ,SARE SAMBA,001,7881434,,,EDN2472-F,recruitment_arm_1,consent,1,0
+80-002-04,SIRA NJIE ,SARE SAMBA,002,7322374,,,EDN2473-Y,recruitment_arm_1,consent,1,0
+80-002-05,SIRA  JALLOW ,SARE SAMBA,002,7406565,2521507,,EDN2474-Y,recruitment_arm_1,consent,1,0
+80-002-06,FATOUMATA  CEESAY ,SARE SAMBA,002,7406565,,,EDN2475-G,recruitment_arm_1,consent,1,0
+80-002-07,AMINATA CEESAY ,SARE SAMBA,002,2457798,,,EDN2476-R,recruitment_arm_1,consent,1,0
+80-003-01,FANA  CEESAY ,SARE SAMBA,003,7646959,,,EDN2478-Z,recruitment_arm_1,consent,1,0
+80-003-02,FATOUMATA  TOURAY ,SARE SAMBA,003,7845855,,,EDN2479-M,recruitment_arm_1,consent,1,0
+80-005-01,Awa Ndong,SARE SAMBA,005,,,,EDN2480-J,recruitment_arm_1,consent,1,0
+80-005-02,Muslim Sain,SARE SAMBA,005,,,,EDN2481-K,recruitment_arm_1,consent,1,0
+80-007-01,Kanni Touray ,SARE SAMBA,007,2336304,,,EDN2482-G,recruitment_arm_1,consent,1,0
+80-007-02,Fatou Sallah ,SARE SAMBA,007,,,,EDN2483-Y,recruitment_arm_1,consent,1,0
+80-008-01,Mariama Jallow,SARE SAMBA,008,,,,EDN2484-I,recruitment_arm_1,consent,1,0
+80-008-02,Aminata  Kulubally,SARE SAMBA,008,3232598,,,EDN2485-C,recruitment_arm_1,consent,1,0
+80-008-03,Hassanatou Jallow,SARE SAMBA,008,5246284,,,EDN2486-T,recruitment_arm_1,consent,1,0
+80-008-04,Isatou Jallow ,SARE SAMBA,008,2574579,,,EDN2487-R,recruitment_arm_1,consent,1,0
+80-009-01,Maram Ceesay,SARE SAMBA,009,,,,EDN2488-V,recruitment_arm_1,consent,1,0
+80-009-02,Halimatou Jallow ,SARE SAMBA,009,,,,EDN2489-R,recruitment_arm_1,consent,1,0
+80-009-03,Kumba Ceesay,SARE SAMBA,009,,,,EDN2490-T,recruitment_arm_1,consent,1,0
+80-009-04,Maram Bah,SARE SAMBA,009,,,,EDN2491-O,recruitment_arm_1,consent,1,0
+80-010-01,Jama Faal,SARE SAMBA,010,2249675,,,EDN2492-K,recruitment_arm_1,consent,1,0
+80-010-02,Hadam Secka,SARE SAMBA,010,7747409,,,EDN2493-T,recruitment_arm_1,consent,1,0
+80-010-03,Amie Johnu,SARE SAMBA,010,7152804,,,EDN2494-J,recruitment_arm_1,consent,1,0
+80-010-04,Oumie Mbye ,SARE SAMBA,010,,,,EDN2495-J,recruitment_arm_1,consent,1,0
+80-011-01,Haha Gaye ,SARE SAMBA,011,7309403,,,EDN2496-M,recruitment_arm_1,consent,1,0
+80-013-01,FATOU   CEESAY ,SARE SAMBA,013,3258843,,,EDN2498-F,recruitment_arm_1,consent,1,0
+80-013-02,SOHNA   NJIE ,SARE SAMBA,013,3651384,,,EDN2499-A,recruitment_arm_1,consent,1,0
+80-014-01,Bintou Mbaye ,SARE SAMBA,014,,,,EDN2500-A,recruitment_arm_1,consent,1,0
+80-015-01,Yasin Gaye,SARE SAMBA,015,,,,EDN2501-V,recruitment_arm_1,consent,1,0
+80-015-02,Njumba Touray ,SARE SAMBA,015,,,,EDN2502-X,recruitment_arm_1,consent,1,0
+80-016-01,Mariama Drammeh ,SARE SAMBA,016,,,,EDN2503-V,recruitment_arm_1,consent,1,0
+80-016-02,Jainaba Bah ,SARE SAMBA,016,,,,EDN2504-I,recruitment_arm_1,consent,1,0
+80-017-01,KHOJA  CEESAY ,SARE SAMBA,017,2509121,,,EDN2505-B,recruitment_arm_1,consent,1,0
+80-017-02,FANAH  TOURAY ,SARE SAMBA,017,2509121,,,EDN2506-Q,recruitment_arm_1,consent,1,0
+80-017-03,FATOU   NJIE ,SARE SAMBA,017,2509121,,,EDN2507-P,recruitment_arm_1,consent,1,0
+80-017-05,HOJA TOURAY ,SARE SAMBA,017,2110896,,,EDN2508-E,recruitment_arm_1,consent,1,0
+80-017-06,SOHNA  CEESAY ,SARE SAMBA,017,7551785,,,EDN2509-T,recruitment_arm_1,consent,1,0
+80-017-07,KHOJA NJIE ,SARE SAMBA,017,5147109,,,EDN2510-X,recruitment_arm_1,consent,1,0
+80-017-08,YASSIN  FAAL ,SARE SAMBA,017,2314196,,,EDN2511-N,recruitment_arm_1,consent,1,0
+80-018-01,AMIE CEESAY ,SARE SAMBA,018,7347440,,,EDN2512-G,recruitment_arm_1,consent,1,0
+80-019-01,FANTA  BOYE,SARE SAMBA,019,7162522,,,EDN2513-T,recruitment_arm_1,consent,1,0
+80-019-02,MARIAMA   FAAL,SARE SAMBA,019,7162522,,,EDN2514-J,recruitment_arm_1,consent,1,0
+80-020-01,FANNA   LOWE,SARE SAMBA,020,2152574,2574289,,EDN2515-K,recruitment_arm_1,consent,1,0
+80-021-01,YASSIN  TOURAY ,SARE SAMBA,021,7394073,,,EDN2516-T,recruitment_arm_1,consent,1,0
+80-021-02,ANCHA   CEESAY ,SARE SAMBA,021,2311331,,,EDN2517-Y,recruitment_arm_1,consent,1,0
+80-021-03,ANNA JOHN,SARE SAMBA,021,7394073,,,EDN2518-H,recruitment_arm_1,consent,1,0
+80-022-01,Mariama Kitall ,SARE SAMBA,022,7037554,,,EDN2519-F,recruitment_arm_1,consent,1,0
+80-022-02,Mariama Joof ,SARE SAMBA,022,2702131,,,EDN2520-A,recruitment_arm_1,consent,1,0
+80-024-01,Amie Mbye,SARE SAMBA,024,,,,EDN2521-A,recruitment_arm_1,consent,1,0
+80-024-02,Kanney Touray ,SARE SAMBA,024,3651737,,,EDN2522-A,recruitment_arm_1,consent,1,0
+80-024-03,Fatou Touray ,SARE SAMBA,024,,,,EDN2523-F,recruitment_arm_1,consent,1,0
+80-024-04,Fatou Touray ,SARE SAMBA,024,3575961,,,EDN2524-O,recruitment_arm_1,consent,1,0
+80-025-01,Kumba Jobe,SARE SAMBA,025,2585364,,,EDN2525-B,recruitment_arm_1,consent,1,0
+80-025-02,Jainaba Njie,SARE SAMBA,025,3856922,,,EDN2526-B,recruitment_arm_1,consent,1,0
+80-025-03,Mariama Ngallan ,SARE SAMBA,025,2169996,,,EDN2527-S,recruitment_arm_1,consent,1,0
+80-025-04,Fatou Touray ,SARE SAMBA,025,7560483,3856852,,EDN2528-N,recruitment_arm_1,consent,1,0
+80-025-05,Kani Touray ,SARE SAMBA,025,7560483,3856852,,EDN2529-P,recruitment_arm_1,consent,1,0
+80-026-01,Fatou Touray,SARE SAMBA,026,,,,EDN2530-A,recruitment_arm_1,consent,1,0
+80-027-01,Haha Sallah,SARE SAMBA,027,2522439,,,EDN2531-J,recruitment_arm_1,consent,1,0
+80-027-02,Kaddijatou Jarjusey,SARE SAMBA,027,7732010,,,EDN2532-H,recruitment_arm_1,consent,1,0
+80-027-03,Adama Kandeh,SARE SAMBA,027,7732101,,,EDN2533-V,recruitment_arm_1,consent,1,0
+80-027-04,Eggen Ceesay,SARE SAMBA,027,7900974,,,EDN2534-X,recruitment_arm_1,consent,1,0
+80-028-01,ASHIA  NDOW,SARE SAMBA,028,3068066,,,EDN2535-E,recruitment_arm_1,consent,1,0
+80-028-02,MAI JALLOW ,SARE SAMBA,028,2715549,,,EDN2536-Z,recruitment_arm_1,consent,1,0
+80-028-03,TOLLA CEESAY ,SARE SAMBA,028,7599628,,,EDN2537-R,recruitment_arm_1,consent,1,0
+80-028-04,MAIMUNA  NDOW ,SARE SAMBA,028,2490220,,,EDN2538-V,recruitment_arm_1,consent,1,0
+82-001-01,Mariatou Bah,NJOLFEN,001,7378155,,,EDN2553-T,recruitment_arm_1,consent,1,0
+82-006-01,Hulay Jawo (Njibou),NJOLFEN,006,2278158,,,EDN2560-M,recruitment_arm_1,consent,1,0
+82-006-03,Binta Sowe,NJOLFEN,006,,,,EDN2689-R,recruitment_arm_1,consent,1,0
+82-007-01,KADDY BAH,NJOLFEN,007,5211539,,,EDN2562-T,recruitment_arm_1,consent,1,0
+82-008-03,Isata Jawo,NJOLFEN,008,5409486,,,EDN2567-B,recruitment_arm_1,consent,1,0
+82-009-02,Jainaba Ann,NJOLFEN,009,2376199,,,EDN2569-I,recruitment_arm_1,consent,1,0
+82-010-01,ISATOU ANN,NJOLFEN,010,7603361,,,EDN2570-G,recruitment_arm_1,consent,1,0
+82-012-01,Aminata Ceesay,NJOLFEN,012,2871092,,,EDN2572-U,recruitment_arm_1,consent,1,0
+82-012-02,Awa Ceesay,NJOLFEN,012,2871092,,,EDN2573-Z,recruitment_arm_1,consent,1,0
+82-012-03,Tabara Ceesay,NJOLFEN,012,2441560,,,EDN2574-O,recruitment_arm_1,consent,1,0
+82-012-04,Assiatou Ceesay,NJOLFEN,012,2441560,,,EDN2575-T,recruitment_arm_1,consent,1,0
+82-012-05,Isatou Ceesay,NJOLFEN,012,2871092,,,EDN2576-Y,recruitment_arm_1,consent,1,0
+82-012-06,Aminata Ceesay,NJOLFEN,012,2221487,,,EDN2577-G,recruitment_arm_1,consent,1,0
+82-017-02,Adama Jallow ,NJOLFEN,017,5925651,,,EDN2582-I,recruitment_arm_1,consent,1,0
+82-017-03,Maimuna Ceesay ,NJOLFEN,017,7233448,,,EDN2583-A,recruitment_arm_1,consent,1,0
+82-017-04,Jarra Jobe,NJOLFEN,017,7200883,,,EDN2694-C,recruitment_arm_1,consent,1,0
+82-026-01,Jarra Ceesay,NJOLFEN,026,3599548,,,EDN2589-Z,recruitment_arm_1,consent,1,0
+82-026-02,Kaddy Ceesay,NJOLFEN,026,2355115,,,EDN2590-R,recruitment_arm_1,consent,1,0
+82-029-01,Tabara Jallow,NJOLFEN,029,2880332,,,EDN2592-R,recruitment_arm_1,consent,1,0
+82-030-01,HAWA Bh,NJOLFEN,030,5145646,,,EDN2593-G,recruitment_arm_1,consent,1,0
+82-036-01,JAINABA CEESAY ,NJOLFEN,036,,,,EDN2601-T,recruitment_arm_1,consent,1,0
+82-037-02,Jainaba Colley,NJOLFEN,037,5409480,,,EDN2603-D,recruitment_arm_1,consent,1,0
+82-040-05,Isatou Jallow ,NJOLFEN,040,2547849,,,EDN2608-F,recruitment_arm_1,consent,1,0
+82-040-06,Kumba Jallow,NJOLFEN,040,5803231,,,EDN2609-T,recruitment_arm_1,consent,1,0
+82-040-07,Hawa Jallow,NJOLFEN,040,5978069,,,EDN2610-L,recruitment_arm_1,consent,1,0
+82-041-01,HAWA JALLOW ,NJOLFEN,041,5176995,,,EDN2612-J,recruitment_arm_1,consent,1,0
+82-042-01,ADAMA ANN,NJOLFEN,042,,,,EDN2613-N,recruitment_arm_1,consent,1,0
+82-047-01,PENDA CHUN,NJOLFEN,047,,,,EDN2616-E,recruitment_arm_1,consent,1,0
+83-001-01,Oumou Jallow,TORANKA BANTANG,001,2534897,,,EDN2617-E,recruitment_arm_1,consent,1,0
+83-002-01,Saibatou Jallow,TORANKA BANTANG,002,2628416,,,EDN2618-D,recruitment_arm_1,consent,1,0
+83-004-01,Kumba Jallow,TORANKA BANTANG,004,7980985,,,EDN2619-U,recruitment_arm_1,consent,1,0
+83-006-01,MAJULA JALLOW ,TORANKA BANTANG,006,7740499,,,EDN2620-Q,recruitment_arm_1,consent,1,0
+83-008-01,AMINATA SOWE ,TORANKA BANTANG,008,7068213,,,EDN2621-A,recruitment_arm_1,consent,1,0
+83-008-02,MAIMUNA JALLOW ,TORANKA BANTANG,008,5052339,,,EDN2622-L,recruitment_arm_1,consent,1,0
+83-012-01,Salah Sallah,TORANKA BANTANG,012,3390007,,,EDN2623-J,recruitment_arm_1,consent,1,0
+83-013-01,MARIAMA CAMARA ,TORANKA BANTANG,013,7887281,,,EDN2624-F,recruitment_arm_1,consent,1,0
+83-015-02,Isatou Jallow,TORANKA BANTANG,015,7723628,,,EDN2625-Z,recruitment_arm_1,consent,1,0
+84-004-01,Adama Jawo,SAREH PATEH,004,2034421,,,EDN2763-K,recruitment_arm_1,consent,1,0
+84-005-01,HAWA BAH,SAREH PATEH,005,2525553,,,EDN2629-I,recruitment_arm_1,consent,1,0
+84-006-01,Mariama Jobe,SAREH PATEH,006,,,,EDN2630-A,recruitment_arm_1,consent,1,0
+85-002-01,HAWA  JALLOW ,MUNKUTALA,002,7966228,,,EDN2633-D,recruitment_arm_1,consent,1,0
+85-002-02,KADDIJATOU  BAH ,MUNKUTALA,005,7998724,,,EDN2634-G,recruitment_arm_1,consent,1,0
+85-005-01,JAINABA  CEESAY ,MUNKUTALA,005,2954475,,,EDN2635-I,recruitment_arm_1,consent,1,0
+85-005-02,MARIAMA  JOBE ,MUNKUTALA,005,3459106,,,EDN2636-W,recruitment_arm_1,consent,1,0
+85-006-01,FATOUMATA  CHUNE ,MUNKUTALA,006,5145066,,,EDN2637-H,recruitment_arm_1,consent,1,0
+85-008-01,Isatou Bah,MUNKUTALA,008,2479787,,,EDN2638-P,recruitment_arm_1,consent,1,0
+85-010-01,Kumba Jallow,MUNKUTALA,010,2787746,,,EDN2639-E,recruitment_arm_1,consent,1,0
+85-010-02,Adama Jallow,MUNKUTALA,010,3113298,,,EDN2640-M,recruitment_arm_1,consent,1,0
+85-010-03,Mariama Jallow,MUNKUTALA,010,7095333,,,EDN2641-B,recruitment_arm_1,consent,1,0
+85-011-01,Isatou Ceesay ,MUNKUTALA,011,,,,EDN2642-A,recruitment_arm_1,consent,1,0
+85-013-01,Halimatou Bah,MUNKUTALA,013,7590585,,,EDN2643-W,recruitment_arm_1,consent,1,0
+85-015-01,Hulay Ceesay ,MUNKUTALA,015,2002292,,,EDN2644-J,recruitment_arm_1,consent,1,0
+85-015-02,Musu Sowe,MUNKUTALA,015,2661601,,,EDN2645-R,recruitment_arm_1,consent,1,0

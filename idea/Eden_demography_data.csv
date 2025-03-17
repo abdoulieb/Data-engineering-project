@@ -1,0 +1,979 @@
+﻿participant_id,ck_wkno,FirstName,LastName,DateOfBirth,VillageName  
+EDN0001-D,40-007-01,Mariama ,Kandeh,05/08/1986,Wurokang
+EDN0002-B,40-007-02,Fatou,Darboe,01/12/2001,Wurokang
+EDN0003-H,40-007-03,Mariama,Jawara,15/06/1999,Wurokang
+EDN0004-F,40-009-01,Mariama ,Camara,13/12/1985,Wurokang
+EDN0005-K,40-008-04,Satou,Jammeh,14/10/1999,Wurokang
+EDN0006-J,40-019-01,Aminata,Camara,02/02/1992,Wurokang
+EDN0007-G,40-022-01,Aja Kaddy,Camara,09/12/1990,Wurokang
+EDN0008-E,40-010-01,Jainaba,Camara,15/09/1990,Wurokang
+EDN0009-C,40-025-04,Mariama ,Touray,15/04/1987,Wurokang
+EDN0010-B,40-015-02,Fatoumata,Jammeh,01/03/1996,Wurokang
+EDN0011-H,40-006-01,Nyima ,Sonko,16/05/1987,Wurokang
+EDN0012-F,40-001-02,Satou ,Sonko,26/10/1996,Wurokang
+EDN0013-A,40-025-08,Sally,Manneh,15/07/1996,Wurokang
+EDN0014-K,40-025-09,Nyomie,Darboe,11/03/1985,Wurokang
+EDN0015-J,40-029-01,Fatou,Sowe,05/07/2001,Wurokang
+EDN0016-D,41-002-01,Fatou,Demba,24/08/1990,Kwinella Sansankono
+EDN0017-E,41-035-02,Kaddy,Manneh,11/02/1992,Kwinella Sansankono
+EDN0018-C,41-017-01,Binta,Sanyang,20/05/2000,Kwinella Sansankono
+EDN0019-G,41-037-01,Iastou,Sanyang,11/09/1985,Kwinella Sansankono
+EDN0020-H,41-001-01,Naba,Sanyang,15/03/1998,Kwinella Sansankono
+EDN0021-A,41-010-01,Habisa,Manneh,25/05/1998,Kwinella Sansankono
+EDN0022-K,41-032-01,Nyimansatou,Trawally,24/08/1984,Kwinella Sansankono
+EDN0023-C,42-043-01,Fatou,Darboe,01/12/2002,Kwinella Nia Kunda
+EDN0024-B,42-041-01,Mariama,Ceesay,12/12/1991,Kwinella Sansankono
+EDN0025-F,42-044-01,Nyima,Dibba,06/10/1996,Kwinella Nia Kunda
+EDN0026-E,42-072-02,Musukebba ,Manjang,15/08/1987,Kwinella Nia Kunda
+EDN0027-J,42-072-01,Kaddy ,Manjang,22/12/1986,Kwinella Nia Kunda
+EDN0028-G,40-034-08,Kaddy,Sanyang,05/06/1990,Wurokang
+EDN0030-J,42-076-01,Maimuna,Dibba,12/12/2002,Kwinella Nia Kunda
+EDN0031-K,42-079-01,Natoma,Drammeh,15/02/1999,Kwinella Nia Kunda
+EDN0032-E,44-004-06,Adama,Darboe,26/01/1998,Bumarr
+EDN0033-F,42-053-02,Oumie,Drammeh,18/03/1991,Kwinella Nia Kunda
+EDN0034-D,42-071-02,Isatou,Jarjou,29/02/1996,Kwinella Nia Kunda
+EDN0035-G,42-126-01,Ramatoulie,Jallow,01/06/2001,Kwinella Nia Kunda
+EDN0036-C,42-051-02,Nyimasata ,Sanneh,15/06/1985,Kwinella Nia Kunda
+EDN0037-A,42-050-01,Fatou ,Kinteh,07/02/1990,Kwinella Nia Kunda
+EDN0038-B,42-066-01,Nyima,Sanyang,03/07/1984,Kwinella Nia Kunda
+EDN0039-H,42-066-02,Sally ,Yabo,07/07/1982,Kwinella Nia Kunda
+EDN0040-D,42-069-02,Bato,Sanyang,06/01/1992,Kwinella Nia Kunda
+EDN0041-G,42-067-01,Kaddy,Yabo,26/02/1992,Kwinella Nia Kunda
+EDN0042-H,42-061-02,Fatou,Sanyang,07/12/1994,Kwinella Nia Kunda
+EDN0045-A,42-125-01,Kaddy ,Camara,05/08/1997,Kwinella Nia Kunda
+EDN0046-K,42-060-01,Wonto,Dibba,15/03/1990,Kwinella Nia Kunda
+EDN0047-F,42-020-01,Kaddy ,Demba,15/09/1990,Kwinella Nia Kunda
+EDN0048-J,42-110-02,Nyima,Sanneh,05/10/2001,Kwinella Nia Kunda
+EDN0049-B,42-036-01,Mariama,Sey,06/07/2000,Kwinella Nia Kunda
+EDN0050-C,42-114-01,Hawa,Camara,04/04/1992,Kwinella Nia Kunda
+EDN0051-F,42-114-02,Aja,Camara,26/10/1996,Kwinella Nia Kunda
+EDN0052-J,42-032-02,Mai,Darboe,06/03/1993,Kwinella Nia Kunda
+EDN0053-B,43-026-01,Oumie,Jammeh,01/01/1990,Tendaba
+EDN0054-E,42-009-01,Awa,Bah,14/03/1993,Kwinella Nia Kunda
+EDN0055-D,42-011-01,Jalikatou,Sowe,04/06/1995,Kwinella Nia Kunda
+EDN0056-G,43-019-01,Lisa,Keita,15/07/1991,Tendaba
+EDN0057-H,42-015-02,Oumie,Ndurr,04/12/1998,Kwinella Nia Kunda
+EDN0058-K,42-074-01,Jainaba,Sanneh,28/12/1994,Kwinella Nia Kunda
+EDN0059-A,40-004-01,Hawa,Touray,01/01/1998,Wurokang
+EDN0060-K,42-053-01,Nyima ,Camara,18/05/1999,Kwinella Nia Kunda
+EDN0061-E,42-045-01,Mariama,Demba,14/07/1986,Kwinella Nia Kunda
+EDN0062-D,43-019-02,Kaddy,Famanta,14/09/2002,Tendaba
+EDN0063-J,43-020-01,Nyimasata ,Colley,01/04/1986,Tendaba
+EDN0064-G,42-080-01,Nyara,Manjang,06/09/1995,Kwinella Nia Kunda
+EDN0065-B,43-024-02,Hawa,Conteh,18/05/1999,Tendaba
+EDN0066-H,42-052-01,Isatou,Sarr,24/10/1990,Kwinella Nia Kunda
+EDN0067-C,42-025-02,Lisa,Sanyang,01/01/1997,Kwinella Nia Kunda
+EDN0068-A,42-098-01,Lamarana,Camara,16/09/2000,Kwinella Nia Kunda
+EDN0069-F,40-034-11,Fatou,Darboe,03/03/2003,Kwinella Nia Kunda
+EDN0070-F,42-095-01,Oumie K,Touray,07/09/2002,Kwinella Nia Kunda
+EDN0071-J,42-062-01,Chakunding,Dibba,17/04/1984,Kwinella Nia Kunda
+EDN0072-G,42-063-01,Penda,Trawally,15/06/2002,Kwinella Nia Kunda
+EDN0073-K,42-065-01,Nyima,Demba,01/07/1998,Kwinella Nia Kunda
+EDN0074-H,42-065-02,Binta,Yabo,07/06/1989,Kwinella Nia Kunda
+EDN0076-A,42-107-01,Nyima ,Manjang,01/02/1994,Kwinella Nia Kunda
+EDN0077-B,45-012-02,Mariama,Barrow,10/10/1993,Bambako
+EDN0078-D,45-016-01,Fatou,Drammeh,16/06/1993,Bambako
+EDN0079-E,45-014-02,Nyima ,Sanyang,20/01/1984,Bambako
+EDN0080-G,45-012-03,Wuday,Colley,03/10/2000,Bambako
+EDN0081-B,45-007-01,Hawa,Sanneh,14/08/2000,Bambako
+EDN0082-C,45-028-01,Mariama,Dibba,08/03/1992,Bambako
+EDN0083-D,45-025-02,Fatoumata ,Barrow,15/06/1985,Bambako
+EDN0084-A,45-034-02,Mai,Manneh,10/02/1986,Bambako
+EDN0085-E,45-031-01,Nyimansatou,Yabo,08/04/1993,Bambako
+EDN0086-F,45-003-01,Nenegalleh,Touray,03/05/2001,Bambako
+EDN0087-K,54-005-01,Mariama,Sanneh,11/05/2001,Mandina Central
+EDN0088-H,47-006-05,Mariama,Jallow,05/06/1989,Nema
+EDN0089-J,45-034-01,Binta,Njie,16/06/1991,Bambako
+EDN0090-E,42-088-03,Mariama,Jallow,11/07/2003,Kwinella Nia Kunda
+EDN0091-C,42-019-01,Fatou,Darboe,06/04/1989,Kwinella Nia Kunda
+EDN0092-A,42-109-01,Mariama,Cham,02/12/1990,Kwinella Nia Kunda
+EDN0094-J,42-110-01,Nyima,Sanneh,05/10/2001,Kwinella Nia Kunda
+EDN0095-H,42-115-01,Mariama,Darboe,21/12/1987,Kwinella Nia Kunda
+EDN0096-B,45-013-01,Fatou,Yabo,05/12/2001,Bambako
+EDN0097-D,54-009-05,Isatou,Yarbou,17/01/1998,Mandina Central
+EDN0098-F,30-009-004M,Fatoumata,Jobarteh,07/09/1982,Batelling
+EDN0099-K,30-030-049h,Nyimansatou,Sanko,02/07/1988,Batelling
+EDN0100-H,44-013-01,Fatou,Demba,24/11/1997,Bumarr
+EDN0101-A,44-014-01,Nyima,Demba,15/11/2002,Bumarr
+EDN0102-K,51-009-01,Penda,Bah,25/06/1984,Jiroff
+EDN0103-C,44-005-01,Kaddy,Demba,07/07/1995,Bumarr
+EDN0104-B,43-022-01,Adama,Bangura,15/06/1994,Tendaba
+EDN0105-F,44-010-02,Fatou,Sanneh,15/06/2003,Bumarr
+EDN0106-E,43-025-02,Sariba,Sarr,22/01/1994,Tendaba
+EDN0107-J,44-004-01,Fatou,Sanneh,13/01/1998,Bumarr
+EDN0108-G,44-015-03,Aminata,Fatty,24/06/2003,Bumarr
+EDN0109-D,44-002-01,Musukebba ,Darboe,26/02/1992,Bumarr
+EDN0110-J,44-006-03,Mariama,Dannso,01/01/2000,Bumarr
+EDN0111-K,44-004-02,Sarjo,Demba,14/01/2002,Bumarr
+EDN0112-E,44-005-02,Fatou,Demba,21/03/1999,Bumarr
+EDN0113-F,44-006-02,Kaddijatou,Darboe,01/01/1997,Bumarr
+EDN0114-D,44-006-01,Aminata,Ceesay,16/06/1994,Bumarr
+EDN0115-G,58-001-01,Penda,Sanyang,13/03/1986,Tabanani
+EDN0116-C,58-010-01,Fatou,Sowe,22/08/1991,Tabanani
+EDN0117-A,58-006-03,Sunkary,Jallow,09/05/1985,Tabanani
+EDN0118-B,45-025-01,Aminata,Danso,11/04/1985,Bambako
+EDN0119-H,58-003-02,Hawa,Jallow,15/07/1992,Tabanani
+EDN0120-D,58-003-01,Fatoumata,Bah,06/06/1992,Tabanani
+EDN0121-G,51-012-01,Hawa ,Bah,25/10/1985,Jiroff
+EDN0122-H,53-001-01,Mariama,Bah,04/11/1988,Jatta Kunda
+EDN0123-E,47-007-02,Eggeh,Jallow,11/01/2004,Nema
+EDN0124-C,53-004-02,Isatou,Jallow,15/05/1996,Jatta Kunda
+EDN0125-A,53-003-01,Hawa,Jobe,18/02/1995,Jatta Kunda
+EDN0126-K,43-014-02,Isatou,Singhateh,28/05/2000,Tendaba
+EDN0127-F,43-011-03,Hawa,Trawally,14/04/2003,Tendaba
+EDN0128-J,43-024-05,Fatou,Jallow,03/01/1999,Tendaba
+EDN0129-B,43-021-02,Oumie,Manjang,12/12/1986,Tendaba
+EDN0130-A,47-034-01,Aja,Korita,20/06/1994,Nema
+EDN0131-D,43-014-04,Fatou,Famata,01/01/2004,Tendaba
+EDN0132-B,50-008-02,Penda,Gibba,14/03/2000,Nema Kuta
+EDN0133-H,50-020-01,Nyimansatou,Kanteh,22/06/1994,Nema Kuta
+EDN0134-F,47-053-01,Arokey,Camara,25/08/1988,Nema
+EDN0135-K,50-002-03,Sirra F,Jallow,28/06/2000,Nema Kuta
+EDN0136-J,40-041-01,Fatou,Manjang,17/02/1987,Wurokang
+EDN0137-G,40-037-02,Fatou,Darboe,27/12/1996,Wurokang
+EDN0138-E,40-039-01,Hawa,Sanneh,06/12/1991,Wurokang
+EDN0139-C,40-034-04,Fatou ,Njie,02/01/2003,Wurokang
+EDN0140-C,40-037-01,Fatou,Camara,29/01/1993,Wurokang
+EDN0141-F,40-014-01,Mariama,Sanyang,12/09/1996,Wurokang
+EDN0142-J,48-012-01,Kaddy,Jammeh,23/01/1990,Kundang Numu Kunda
+EDN0143-B,40-016-02,Fatou ,Camra,29/10/2003,Wurokang
+EDN0144-E,48-013-03,Kaddy,Bah,05/02/1997,Kundang Numu Kunda
+EDN0145-D,40-010-02,Kaddijatou,Camara,31/05/2003,Wurokang
+EDN0146-G,40-032-02,Kaddy,Darboe,15/06/2003,Wurokang
+EDN0147-H,40-033-02,Sarjo,Darboe,15/06/1995,Wurokang
+EDN0148-K,40-034-09,Jomma,Njie,11/11/1987,Wurokang
+EDN0149-A,40-034-10,Fatou,Saidy,12/10/1988,Wurokang
+EDN0150-K,40-033-01,Habby,Camara,31/03/1988,Wurokang
+EDN0153-J,47-031-01,Binta Marong,Fadera,01/01/1994,Nema
+EDN0154-G,43-003-03,Fatou,Badjie,26/09/1998,Tendaba
+EDN0155-B,47-012-01,Fatou ,Sanneh,11/02/1995,Nema
+EDN0156-H,47-034-03,Jainaba,Jawara,04/05/2001,Nema
+EDN0157-C,47-003-01,Mama,Cham,14/03/1999,Nema
+EDN0158-A,47-013-02,Mundow,Cham,08/02/1990,Nema
+EDN0159-F,47-013-01,Sally,Fadera,02/01/1996,Nema
+EDN0160-B,47-016-01,Jarra,Fatty,04/01/1994,Nema
+EDN0161-H,47-005-03,Nyimansatou,Fadera,15/06/2000,Nema
+EDN0162-F,47-025-03,Fatou,Fadera,31/12/1991,Nema
+EDN0163-A,47-032-01,Kaddijatou,Fadera,03/03/1994,Nema
+EDN0164-K,47-028-02,Aminata ,Fadera,09/05/1998,Nema
+EDN0165-J,48-004-01,Kumba,Konta,13/04/1995,KUNDANG NUMU KUNDA
+EDN0166-D,Unassigned #,,,,
+EDN0167-E,47-034-04,Fatou Bintou,Jawara,22/12/2002,Nema
+EDN0168-C,47-011-01,Fatoumata,Fadera,24/02/2001,Nema
+EDN0169-G,47-005-02,Salimatou,Jawara,20/12/1989,Nema
+EDN0170-G,47-005-01,Aja,Jabbie,03/01/2002,Nema
+EDN0171-B,47-006-02,Isatou,Bah,04/10/1998,Nema
+EDN0172-C,54-017-01,Fatoumata,Fadera,15/05/2001,Mandina Central
+EDN0173-D,54-008-01,Arokey,Jarju,01/01/1992,Mandina Central
+EDN0174-A,54-018-02,Nyima,Sanneh,02/03/1996,Mandina Central
+EDN0175-E,54-014-02,Mama,Fatty,09/11/1988,Mandina Central
+EDN0176-F,54-007-02,Tida ,Fadera,14/01/1992,Mandina Central
+EDN0178-H,54-018-01,Kumba,Sanneh,15/02/1992,Mandina Central
+EDN0179-J,54-021-02,Kaddy,Kinteh,10/11/1985,Mandina Central
+EDN0180-E,54-019-03,Fatou,Fanneh,11/06/1992,Mandina Central
+EDN0182-A,54-012-01,Belikis,Manka,01/01/1984,Mandina Central
+EDN0183-G,54-015-004,Nyima,Darboe,11/10/1986,Mandina Central 
+EDN0184-J,54-015-01,Fatoumata,Manjang,15/05/1989,Mandina Central
+EDN0185-H,54-011-01,Sali,Sanneh,01/01/1986,Madina Central
+EDN0186-B,54-019-02,Fatoumata,Sama,15/07/2001,Madina Central
+EDN0187-D,54-005-03,Kaddy ,Camara,10/03/1994,Mandina Central
+EDN0188-F,47-046-02,Chamunding,Saho,15/04/1985,Nema
+EDN0190-F,47-010-02,Sira,Samataeh,15/05/1988,Nema
+EDN0191-J,47-038-01,Nyimanding,Sora,10/02/1989,Nema
+EDN0192-G,47-001-01,Fatoumata,Korta,19/07/1995,Nema
+EDN0193-K,47-027-01,Isatou,Jawara,01/05/1988,Nema
+EDN0194-H,47-028-01,Aminata ,Fadera,06/05/1995,Nema
+EDN0195-C,47-042-01,Fatoumata,Jawara,,Nema
+EDN0196-A,47-043-02,Isatou,Jawara,22/12/1994,nema
+EDN0197-B,47-054-02,Isatou,Jarjue,13/01/2002,Nema
+EDN0198-D,47-024-01,Fatou,Fadera,01/02/1994,Nema
+EDN0199-E,47-035-03,Nyimansatou M,Fadera,05/07/2000,Nema
+EDN0200-J,47-035-05,Fatou ,Jarju,22/04/1999,Nema
+EDN0201-K,47-037-03,Fatoumatta,Fadera,23/01/2000,Nema
+EDN0202-E,47-058-02,Isatou,Fadera,22/01/1993,Nema
+EDN0203-F,47-048-01,Mariama,Jawara,22/11/1996,Nema
+EDN0204-D,47-046-01,Kaddy ,Fadera,01/08/1992,Nema
+EDN0205-G,47-005-06,Mama,Seckan,15/06/1990,Nema
+EDN0206-C,47-051-01,Nyimansatou,Fadera,05/05/1997,Nema
+EDN0207-A,47-033-01,Kaddy,Fadera,22/06/1985,Nema
+EDN0208-B,47-054-01,Sarjo,Fadera,11/01/2004,Nema
+EDN0209-H,47-058-01,Jainaba,Fadera,15/01/1996,Nema
+EDN0210-A,47-027-03,Adama,Fadera,06/06/1998,Nema
+EDN0211-D,47-023-01,Fatou,Kanyi,03/11/1992,Nema
+EDN0212-B,47-037-02,Manding,Camara,31/01/2003,Nema
+EDN0213-H,47-045-01,Sangiba ,Gitteh,16/09/2003,Nema
+EDN0214-F,47-056-01,Yaidinding,Fadera,01/06/1992,Nema
+EDN0215-K,47-045-04,Mama,Drammeh,03/03/1993,Nema
+EDN0216-J,47-008-01,Isatou,Fadera,05/01/1995,Nema
+EDN0217-G,47-057-02,Fatou,Korta,06/01/1996,Nema
+EDN0218-E,47-059-01,Nyimansatou,Fatty,03/01/1996,Nema
+EDN0219-C,47-058-03,Adama,Korta,01/06/1991,Nema
+EDN0220-C,47-035-01,Hawa,Fadera,22/10/1997,Nema
+EDN0221-F,47-026-02,Bakoto,Camara,01/02/1987,Nema
+EDN0222-J,47-023-02,Sarjo,Gitteh,07/06/1991,Nema
+EDN0223-B,47-021-02,Kaddy,Bah,15/07/1996,Nema
+EDN0224-E,47-021-01,Fatou,Jallow,14/01/1992,Nema
+EDN0225-D,47-045-03,Kaddy,Demba,01/01/1997,Nema
+EDN0226-G,47-037-01,Fatoumata,Fadera,25/11/2002,Nema
+EDN0227-H,47-028-04,Fatoumata,Kanyi,16/06/1999,Nema
+EDN0228-K,47-057-01,Lisanding, Jawara,15/07/1999,Nema
+EDN0229-A,47-043-01,Aminata,Fadera,11/03/1991,Nema
+EDN0231-C,47-004-02,fatou,Korta,02/06/1998,Nema
+EDN0232-A,47-038-03,Isatou,Korta,13/08/2003,Nema
+EDN0233-G,47-005-08,Binta,Fadera,12/12/1994,Nema
+EDN0234-J,47-005-09,Mamading,Jobe,13/10/1993,Nema
+EDN0235-H,47-008-02,Kaddijatou,Fadera,30/10/2002,Nema
+EDN0236-B,47-040-01,Wontonding,Fadera,01/01/1996,Nema
+EDN0237-D,40-034-03,Mariama,Darboe,03/02/2003,Wurokang
+EDN0238-F,40-034-12,Sammie,Ceesay,11/07/1986,Wurokang
+EDN0239-K,40-034-02,Fatoumatta, Darboe,18/06/2003,Wurokang
+EDN0240-H,53-004-01,Hulay,Jawo,30/09/1998,Jatta Kunda
+EDN0241-A,56-080-01,Kaddijatou,Sallah,01/01/1992,Sibeto
+EDN0242-K,30-017-030E,Kaddy ,Jassey,02/07/1983,Batelling
+EDN0243-C,56-078-01,Oumie,Bah,10/06/1988,Sibeto
+EDN0245-F,30-001-103P,Nyimansatou,Jammeh,02/07/1987,Batelling
+EDN0246-E,30-010-025T,Fatoumata,Sowe,15/12/1996,Batelling
+EDN0247-J,30-004-010k,SATOU ,SONKO,02/07/1986,Batelling
+EDN0248-G,05-022-010G,Awa ,Barrow,08/09/1993,Batelling
+EDN0249-D,30-001-068G,Kaddy ,Mambureh,01/01/1987,Batelling
+EDN0250-D,44-004-05,Fatou,Camara,15/06/2003,Bumarr
+EDN0251-G,61-001-02,Yassin ,Jawo,15/11/1994,Sarre Mamudu
+EDN0252-H,47-005-10,Fatoumatta,Badjie,28/05/2000,Nema
+EDN0253-E,47-039-06,Isatou,Fadera,05/05/1990,Nema
+EDN0254-C,60-007-02,Kumba,Njie,05/01/2000,Willingara
+EDN0255-A,60-003-01,Ramatoulie,Jallow,15/07/2000,Willingara
+EDN0256-K,52-062-01,Binta,Jarju,09/08/1993,Madina Angelleh
+EDN0257-F,52-062-02,Hawa,Bah,28/03/1986,Madina Angelleh
+EDN0258-J,52-005-01,Fatoumata,Bah,23/03/1997,Madina Angelleh
+EDN0259-B,48-007-01,Fatou,Seckhan,16/07/1988,KUNDANG NUMU KUNDA
+EDN0260-G,48-012-02,Sireh,Mambureh,12/01/1996,KUNDANG NUMU KUNDA
+EDN0261-B,48-013-01,Zainabou,Jawo,12/02/1997,KUNDANG NUMU KUNDA
+EDN0262-C,48-002-01,Sonna ,Sanyang,08/07/1995,KUNDANG NUMU KUNDA
+EDN0264-A,48-007-02,Nyima,Cham,02/03/2001,KUNDANG NUMU KUNDA
+EDN0265-E,47-027-02,Tida,Korta,03/04/1995,Nema
+EDN0266-F,48-001-02,Fatou,Suso,15/01/1988,Kundong Numu Kunda
+EDN0267-K,48-012-03,Fatou,Saidy,03/07/1995,Kundong Numu Kunda
+EDN0268-H,48-001-01,Musukebba ,Fadera,05/07/1984,KUNDANG NUMU KUNDA
+EDN0269-J,30-010-023R,Kaddy ,Bah,02/07/1993,Batelling
+EDN0270-K,51-001-01,Kaddy ,Bah,13/03/1993,Jirrof
+EDN0271-E,51-014-01,Binta,Colley,06/06/1992,Jirrof
+EDN0272-D,51-040-03,Aminata ,Bah,03/06/1995,Jirrof
+EDN0273-J,51-022-01,Oumie ,Drammeh,15/03/1993,Jiroff
+EDN0274-G,51-014-02,Fatou,Sanneh,16/08/1990,Jiroff
+EDN0275-B,52-065-04,Isatou,Bah,02/05/1998,Madina Angelleh
+EDN0276-H,52-066-02,Adama,Jobe,04/03/1996,Madina Angelleh
+EDN0277-C,52-063-01,Isatou,Colley,14/01/1996,Madina Angelleh
+EDN0278-A,52-011-01,Kumba,Sowe,04/01/1990,Madina Angelleh
+EDN0279-F,52-008-01,Jainaba,Colley,09/08/1999,Madina Angelleh
+EDN0280-F,52-009-01,Sonna,Camara,12/03/1987,Madina Angelleh
+EDN0281-J,52-013-02,Fatou,Ndow,08/01/1996,Madina Angelleh
+EDN0282-G,52-069-02,Fatou,Mendy,05/03/1999,Madina Angelleh
+EDN0283-K,52-069-01,Zenet V,Bass,06/05/1997,Madina Angelleh
+EDN0284-H,52-069-04,Fatoumata,Sanneh,01/01/1992,Madina Angalleh
+EDN0285-C,52-069-06,Kani M,Trawally,22/07/1996,Madina Angalleh
+EDN0286-A,52-049-01,Isata,Bah,04/02/1991,Madina Angalleh
+EDN0287-B,52-006-01,Aja,Kolley,15/06/2002,Madina Angelleh
+EDN0288-D,52-066-01,Hawa,Sey,10/05/1986,Madina Angelleh
+EDN0289-E,52-063-03,Isata,Dem,16/06/2000,Madina Angelleh
+EDN0290-B,52-063-02,Fatoumatou,Sey,04/01/1997,Madina Angelleh
+EDN0291-H,52-004-01,Fatoumata,Bah,05/09/1987,Madina Angelleh
+EDN0292-F,52-008-02,Halimatou,Jallow,15/07/1999,Madina Angelleh
+EDN0293-A,52-052-02,Adama,Colley,05/06/1999,Madina Angelleh
+EDN0294-K,52-056-01,Haja,Jallow,15/07/2003,Madina Angelleh
+EDN0295-J,52-056-02,Isatou ,Ann,11/04/2000,Madina Angelleh
+EDN0296-D,52-010-01,Boye,Sowe,04/01/1997,Madina Angelleh
+EDN0297-E,61-005-01,Ramatoulie,Ceesay,28/03/1995,Sare Mamudu
+EDN0298-C,61-001-03,Sona,Colley,10/01/1995,Sare Mamudou
+EDN0299-G,61-,Jaila,Colley,11/10/1994,Sare Mamudou
+EDN0300-K,61-003-02,Sally,Bah,02/02/1992,Sare Mamudu
+EDN0301-E,61-005-02,Isatou,Bah,31/01/2003,Sare Mamudu
+EDN0303-J,30-018-006S,Habisatou,Jobarteh,02/07/1990,Batelling
+EDN0304-G,61-007-01,Fatima ,Jallow,10/11/1984,Sare Mamudou
+EDN0305-B,30-019-052Y,Fatou,Trawally,17/07/1989,Batelling
+EDN0306-H,30-002-023Z,Fatou,Sanneh,07/01/1992,Batelling
+EDN0307-C,52-055-02,Isatou,Sey,14/10/1998,Madina Angelleh
+EDN0308-A,51-028-01,Lisa ,Ceesay,01/06/1986,Jiroff
+EDN0309-F,52-054-01,Faddy,Ceesay,01/04/1997,Madina Angelleh
+EDN0310-C,52-057-01,Gabudeh,Bah,26/12/1991,Madina Angelleh
+EDN0311-F,01-033-110A,Fatou Wonto,Camara,02/07/1992,Dumbuto
+EDN0312-J,01-016-021T,Mariama,Jaiteh,02/07/1995,Dumbuto
+EDN0313-B,01-030-053L,Olimatou,Trawally,02/07/1998,Dumbuto
+EDN0314-E,01-044-036G,Nyima ,Darboe,02/07/1998,Dumbuto
+EDN0315-D,01-007-007B,Fatou ,Darboe,02/07/1983,Dumbuto
+EDN0316-G,01-019-012U,MamJarra,Tamba,02/06/1995,Dumbuto
+EDN0317-H,01-007-008C,Fatoumata,Darboe,01/03/2003,Dumbuto
+EDN0318-K,01-035-013F,Hawa,Fadera,02/07/1984,Dumbuto
+EDN0319-A,01-016-031D,Mariama,Sonko,02/07/1992,Dumbuto
+EDN0320-G,01-029-032E,Alimatou,Kinteh,25/01/1985,Dumbuto
+EDN0321-B,04-021-003Z,Binta,Jarju,24/09/1996,Dumbuto
+EDN0322-C,01-007-006A,Fatou,Darboe,02/07/1987,Dumbuto
+EDN0323-D,16-020-002Y,Kaddy,Jassey,13/06/1996,Dumbuto
+EDN0324-A,01-008-008O,Nyimansatou ,Kinteh,15/09/1995,Dumbuto
+EDN0325-E,17-013-011P,Mariama,Marri,13/09/1998,Dumbuto
+EDN0326-F,01-024-013D,Nyima ,Manjang,02/07/1984,Dumbuto
+EDN0327-K,32-008-005D,Sainabou,Camara,15/11/2001,Wudeba
+EDN0328-H,32-018-002Q,Jaila,Sey,02/07/1995,Wudeba
+EDN0329-J,11-003-088S,Mariama,Sise,20/04/1992,Wudeba
+EDN0330-D,32-015-009N,Kaddy ,Jallow,02/07/1997,Wudeba
+EDN0331-G,32-006-003D,Binta ,Jallow,13/07/1993,Wudeba
+EDN0332-H,32-015-002G,Isatou ,Sise,02/07/1993,Wudeba
+EDN0333-E,02-009-004K,Nyimanding,Sise,20/05/1998,Sankandy
+EDN0334-C,02-008-035D,Fatoumata,Camara,02/07/1985,Sankandi
+EDN0335-A,02-009-057L,Mariama,Darboe,02/07/1996,Sankandy
+EDN0336-K,02-008-032A,Aminata,Darboe,02/07/1982,Sankandy
+EDN0337-F,02-048-007N,Kumba,Mballow,02/07/1987,Sankandy
+EDN0338-J,02-015-078A,Awa ,Dibba,02/07/1986,Sankandy
+EDN0339-B,02-008-008C,Isatou ,Manjang,21/01/2003,Sankandy 
+EDN0340-B,02-014-027P,Ramatoulie,Jallow,02/07/1985,Sankandi
+EDN0341-H,02-014-036Y,Adama ,Conteh,02/07/1984,Sankandy
+EDN0342-F,08-007-005T,Naffie,Joof,05/12/2003,Sankandi
+EDN0343-A,02-014-003R,Binta,Drammeh,01/05/2001,Sankandi
+EDN0344-K,02-027-006U,Ramatoulie,Darboe,02/07/1996,Sankandi
+EDN0345-J,02-048-015V,Kaddy,Sabally,02/07/1991,Sankandy
+EDN0346-D,02-015-005F,Adama,Darboe,02/07/1996,Sankandy
+EDN0347-E,06-026-086O,Hassanatou,Jallow,02/07/1987,Sankandi
+EDN0348-C,02-048-012S,Fatou,Sowe,11/05/1993,Sankandy
+EDN0349-G,29-080-007V,Binta,Sise,21/01/1996,Sankandy
+EDN0350-F,13-001-131N,Alimatou,Jallow,02/07/1999,Sankandi
+EDN0351-J,02-015-052A,Aminata,Darboe,02/07/1987,Sankandi
+EDN0352-G,02-012-063B,Isatou,Jallow,02/07/1998,Sankandi
+EDN0353-K,04-024-045Z,Binta,Sanneh,02/07/2000,Sankandi
+EDN0354-H,10-011-109R,Fatou,Sise,10/01/1996,Sankandy
+EDN0355-C,02-005-011V,Fatoumata ,Sise,24/11/2002,Sankandy
+EDN0356-A,02-034-009D,Rokiatou,Touray,03/01/1986,Sankandy
+EDN0357-B,02-006-011H,Nyima,Sise,04/05/1989,Sankandi
+EDN0358-D,02-008-073P,Kumba,Baldeh,14/01/1995,Sankandi
+EDN0359-E,02-042-008U,Jarra,Manjang,15/12/1989,Sankandi
+EDN0360-E,02-025-029T,Mariama,Barrow,23/02/1996,Sankandi
+EDN0361-C,02-006-022S,Fatoumata,Drammeh,02/07/1985,Sankandi
+EDN0362-A,04-001-001R,Kaddy ,Sanneh,17/05/1999,Dumbuto
+EDN0363-G,04-010-010E,Halima,Touray,26/01/2003,JATTABA
+EDN0364-J,32-007-007T,Adama Wurry,Jallow,02/07/1988,Wudeba
+EDN0365-H,32-010-004A,Saffiatou,Jallow,02/07/1995,Wudeba
+EDN0366-B,01-033-102S,Isatou,Sise,02/07/1990,Dumbuto
+EDN0367-D,07-022-007F,Hawa,Bajo,17/12/1989,Dumbuto
+EDN0368-F,01-039-022K,Ramatoulie,Darboe,15/12/2002,Dumbuto
+EDN0369-K,05-065-036C,Fatou,Barrow,25/11/1998,Dumbuto
+EDN0370-A,01-021-018Y,Nyimanding,Saidy,24/09/2001,Dumbuto
+EDN0371-D,02-015-037L,Fatou ,Drammeh,02/07/1991,Dumbuto
+EDN0375-K,04-037-012S,Kaddy ,Njai,02/07/1987,JATTABA
+EDN0376-J,04-001-021L,Fatou ,Sanneh,29/09/1992,Jattaba
+EDN0377-G,04-043-002C,Mai,Sanneh,27/11/2002,Jattaba
+EDN0378-E,03-019-045D,Isatou,Ann,18/02/1996,Nioro Jattaba
+EDN0379-C,03-063-032Y,Isatou,Jobe,02/07/1984,Nioro Jattaba
+EDN0380-H,03-022-044M,Fatoumata,Jobe,02/07/1987,Nioro Jattaba
+EDN0381-A,03-041-020I,Maimuna,Bah,02/07/1988,Nioro Jattaba
+EDN0382-K,03-017-011X,Adama,Bah,19/04/1992,Nioro Jatta
+EDN0383-C,03-027-014Q,Hawa,Sey,25/07/1998,Nioro Jatta
+EDN0384-B,03-029-014O,Hawa,Bah,02/07/1990,Nioro Jatta
+EDN0385-F,03-001-068S,Hawa,Bah,02/07/1996,Nioro Jatta
+EDN0386-E,03-068-007H,Mahani,Jobe,02/07/1985,Nioro Jattaba
+EDN0387-J,03-069-009V,Fatoumata,Bah,02/07/1988,Nioro Jattaba
+EDN0388-G,05-033-024W,Nyimanding,Taal,06/07/1989,Nioro Jattaba
+EDN0389-D,03-021-048E,Jaila,Bah,02/07/1999,Nioro Jattaba
+EDN0390-J,03-067-017F,Jainaba,Jallow,02/07/1984,Nioro Jattaba
+EDN0391-K,03-060-009R,Maimuna,Colley,02/07/1989,Nioro Jattaba
+EDN0392-E,03-060-008Q,Mamie,Jobe,02/07/1988,Nioro Jattaba
+EDN0393-F,03-001-055F,Jaila,Bah,02/07/1991,Nioro Jattaba
+EDN0394-D,03-059-039J,Tabara,Jobe,12/05/1987,Wudeba
+EDN0395-G,03-063-026S,Jainaba,Bah,18/08/1994,Nioro Jattaba
+EDN0396-C,03-059-035F,Hawa,Bah,13/07/1989,Nioro Jattaba
+EDN0398-B,03-001-043T,Aja Ndey,Jallow,07/02/1987,Nioro Jattaba
+EDN0399-H,04-030-002C,Adama,Marong,18/12/2001,Jattaba
+EDN0400-B,04-021-006C,Fatou,Jarju,16/03/1999,Jattaba
+EDN0401-H,01-025-014Q,Fatoumata,Darboe,02/07/1987,Jattaba
+EDN0402-F,04-006-050W,Aminata,Jammeh,26/05/1993,Jattaba
+EDN0403-A,04-007-039X,Isatou,Darboe,02/07/1983,Jattaba
+EDN0404-K,04-001-080S,Mariama,Fadera,02/07/1988,Jattaba
+EDN0405-J,04-005-023J,Habisatou,Touray,20/01/1983,Jattaba
+EDN0406-D,61-003-03,Adama,Jallow,01/01/1990,Sare Mamudou
+EDN0407-E,53-017-01,Halimatou,Jallow,01/01/1990,Jatta Kunda
+EDN0408-C,30-006-005D,Mai ,Sanyang,09/12/1996,Batelling
+EDN0410-F,51-028-02,Rabiatou,Manka,19/09/1983,Jirof
+EDN0411-J,51-028-03,Fatou ,Janneh,10/08/1998,Jirof
+EDN0412-G,61-003-01,Jaila,Chune,21/03/1987,Sarreh Mamudou
+EDN0413-K,04-012-041H,Fatou,Darbo,06/11/1995,Jattaba
+EDN0414-H,04-043-021V,Fatou,Sowe,02/07/1986,Jattaba
+EDN0415-C,04-008-133Z,Juldeh,Jawo,07/02/1994,Jattaba
+EDN0416-A,04-026-042U,Aja,Jaiteh,02/07/1984,Jattaba
+EDN0417-B,04-012-025R,Talla,Touray,02/07/1984,Jattaba
+EDN0418-D,03-066-014Q,Kaddy,Bah,13/11/2003,Nioro Jattaba
+EDN0419-E,03-025-008M,Hulay,Bah,15/08/2003,Niorro Jattaba
+EDN0420-J,03-066-009L,Hawa,Jallow,21/01/1990,Niorro Jattaba
+EDN0421-K,03-002-059V,Jalla,Jallow,11/01/1992,Nioro Jatttaba
+EDN0422-E,03-025-007L,Delam,Bah,12/12/2000,Nioro Jattaba
+EDN0423-F,03-020-021R,Delam,Touray,16/04/1994,Nioro Jattaba
+EDN0424-D,03-020-016M,Amie,Jallow,02/07/1986,Niorro Jattaba
+EDN0425-G,03-026-010A,Nari,Sey,02/07/1995,Nioro Jattaba
+EDN0426-C,03-001-004G,Adama,Bah,21/07/1992,Nioro Jattaba
+EDN0427-A,03-007-007D,Isatou,Jallow,02/07/1987,Niorro Jattaba
+EDN0428-B,03-016-025Z,Adama,Colley,10/10/1991,Nioro Jattaba
+EDN0429-H,03-063-024Q,Hawa,Bah,18/07/1989,Nioro Jatta
+EDN0430-G,03-010-009P,Sirra,Sowe,02/07/1991,Nioro Jatta
+EDN0431-B,03-002-004S,Kaddijatou,Bah,31/08/1991,Nioro Jatta
+EDN0432-C,03-013-008Y,Mariama,Colley,02/07/1984,Nioro Jatta
+EDN0433-D,04-019-013L,Mai,Njai,17/10/1987,JATTABA
+EDN0434-A,04-001-009Z,Fatoumata,Sanneh,02/07/1984,JATTABA
+EDN0435-E,04-027-002S,Hawa,Touray,01/12/2000,JATTABA
+EDN0436-F,04-008-135B,Fatou,Trawally,02/07/2001,JATTABA
+EDN0437-K,04-003-046I,Kaddy ,Sise,15/01/1983,JATTABA
+EDN0438-H,04-036-014I,Borry,Sanneh,02/07/1985,JATTABA
+EDN0439-J,27-004-002M,Tida,Jarra,16/02/1996,JATTABA
+EDN0440-E,04-012-064E,Binta,Camara,02/07/1988,JATTABA
+EDN0441-C,04-004-002C,Aminata,Sanneh,12/09/1999,JATTABA
+EDN0442-A,04-009-087R,Kumba,Sise,04/03/1995,JATTABA
+EDN0443-G,04-011-019Z,Fatoumata,Touray,24/09/2003,JATTABA
+EDN0444-J,04-036-038G,Sarjo,Sise,02/07/2001,JATTABA
+EDN0445-H,04-012-023P,Fatou S,Camara,02/07/1989,JATTABA
+EDN0446-B,04-012-005X,Natoma,Camara,30/06/1998,JATTABA
+EDN0447-D,,Hulay,Bah,16/07/2003,
+EDN0448-F,03-016-016Q,Jarra,Bah,02/07/1984,Nioro Jatta
+EDN0449-K,03-066-007J,Adama,Bah,02/07/1987,Nioro Jatta
+EDN0450-A,03-016-031F,Hawa,Colley,02/07/1992,Nioro Jatta
+EDN0451-D,03-052-027R,Kumba,Jallow,02/07/1989,Nioro Jatta
+EDN0453-H,04-018-008U,Mariama,Jallow,02/07/1991,Nioro Jatta
+EDN0454-F,07-019-003R,Fatoumata ,Barry,07/11/2000,Nioro Jatta
+EDN0455-K,03-027-013P,Hawa,Sey,10/09/2001,Nioro Jatta
+EDN0456-J,03-052-021L,Mariama,Jobe,09/07/1990,Nioro Jatta
+EDN0457-G,03-023-005L,Isata,Bah,02/07/1987,Nioro Jatta
+EDN0458-E,03-023-097Z,Jarra,Colley,02/07/1994,Nioro Jatta
+EDN0459-C,03-029-024Y,Adama ,Gano,02/07/1991,Nioro Jatta
+EDN0460-C,03-066-018U,Hawa,Jobe,02/07/1985,Nioro Jatta
+EDN0461-F,03-027-035L,Sainabou,Colley,25/05/1999,Nioro Jatta
+EDN0462-J,03-023-016W,Mariama,Jallow,02/07/1985,Nioro Jatta
+EDN0463-B,04-040-006W,Sukai,Sanneh,02/07/1994,JATTABA
+EDN0464-E,05-002-038C,Isatou ,Drammeh,19/12/1995,JATTABA
+EDN0465-D,04-009-103H,Isatou ,Sanneh,02/07/1994,JATTABA
+EDN0466-G,11-028-033D,Jankeh Mariama,Samateh,12/03/1987,JATTABA
+EDN0467-H,04-048-007P,Asiatou,Jallow,02/07/1986,JATTABA
+EDN0468-K,04-007-062U,Fatou,Sise,06/02/1989,JATTABA
+EDN0469-A,04-035-007P,Malado,Kanteh,02/07/1987,JATTABA
+EDN0470-D,04-033-015Z,Salimata,Jallow,02/07/1990,JATTABA
+EDN0471-G,04-003-075L,Kundo Fatoumata,Darboe,30/07/2003,JATTABA
+EDN0472-H,04-009-093X,Kaddy,Colley,02/07/1990,JATTABA
+EDN0475-A,31-005-016Q,Fatou,Darboe,19/05/1988,Sandeng
+EDN0476-K,02-030-021T,Mariama,Sise,27/07/1998,Sandeng
+EDN0477-F,04-001-016G,Kaddy,Sanneh,12/02/1986,Sandeng
+EDN0478-J,04-009-075F,Fatou,Njai,02/10/1992,Sandeng
+EDN0479-B,31-015-002S,Isatou,Jobe,10/02/1986,Sandeng
+EDN0480-K,04-009-076G,Mariama,Touray,02/07/1991,Sandeng
+EDN0481-E,31-015-004U,Nyima,Jarjou,06/06/2003,Sandeng
+EDN0482-D,31-004-007V,Isatou,Njai,06/01/1998,Sandeng
+EDN0483-J,31-013-008A,Halimatou,Jobe,07/08/1997,Sandeng
+EDN0484-G,31-018-005F,Fatou,Sowe,02/07/2002,Sandeng
+EDN0485-B,31-013-015H,Nyako,Manjang,06/06/1992,Sandeng
+EDN0486-H,31-014-020Y,Kaddy ,Njai,29/04/2001,Sandeng
+EDN0487-C,31-001-047Z,Saffiatou,Saidy,16/05/2003,Sankandi
+EDN0488-A,31-001-025D,Kaddijatou,Saidy,20/09/2002,Sandeng
+EDN0489-F,31-003-019V,Kaddijatou,Touray,02/12/2001,Sankandi
+EDN0490-H,03-053-010M,Hawa,Jallow,02/07/1993,Nioro Jatta
+EDN0491-A,03-046-013J,Ngibou,Sowe,02/07/1988,Nioro Jatta
+EDN0492-K,03-074-010E,Isata,Jobe,02/07/1995,Nioro Jatta
+EDN0493-C,03-041-017F,Mahani,Bah,02/07/1996,Nioro Jatta
+EDN0494-B,47-035-06,Fatou,Jarju,01/01/1987,Nema
+EDN0496-E,03-026-016G,Fatou,Bah,15/06/1992,Nioro Jatta
+EDN0497-J,03-019-032Q,Adama,Jobe,02/07/1997,Nioro Jatta
+EDN0505-H,03-061-006A,Mariama,Sowe,02/07/1989,Nioro Jatta
+EDN0506-B,00-016-297V,Fatoumata ,Gano,02/07/2000,Niorro Jataba
+EDN0507-D,03-041-036Y,Nyima,Sise,09/11/1993,Nioro Jatta
+EDN0508-F,03-043-010W,Jaila,Jallow,02/07/1987,Nioro Jatta
+EDN0509-K,52-035-01,Binta,Sowe,03/03/1995,Madina Angalleh
+EDN0510-D,03-081-001B,Adama,Jobe,02/07/2000,Nioro Jatta
+EDN0511-G,04-009-122A,Fatou ,Touray ,02/07/1997,Jataba
+EDN0512-H,04-016-036U,Isatou ,Susso,02/07/1983,Jataba
+EDN0513-E,02-007-015X,Fatou,Jawara,16/01/1990,Jattaba
+EDN0514-C,04-015-033J,Binta ,Sanneh ,09/05/1994,Jataba
+EDN0518-J,40-016-04,Nyimansatou,Jammeh,17/09/1984,Wurokang
+EDN0519-B,40-015-03,Fatou,Touray,03/06/2001,Wurokang
+EDN0520-K,41-039-02,Bintou,Sanyang,,Kwinella Sansankono
+EDN0521-E,41-013-01,Adama Saidy ,Sowe,01/11/1996,Kwinella Sansankono
+EDN0522-D,41-029-02,Hawa ,Sanyang,31/08/2003,Kwinala Sansankono
+EDN0523-J,43-021-03,Wonto,Joof,06/01/1995,TENDABA
+EDN0524-G,43-021-01,Aminata,Sanyang,15/02/2000,TENDABA
+EDN0525-B,43-027-01,HAWA,TOURAY,01/01/1998,TENDABA
+EDN0527-C,43-028-02,KADDY ,DARBOE,01/01/1994,TENDABA
+EDN0528-A,54-015-02,Nyima ,Manjang,10/08/1986,Mandina Central
+EDN0529-F,54-022-01,Jatta,Ceesay,15/07/1985,Mandina Central
+EDN0530-H,54-025-02,Isatou,Saidy,24/11/1994,Mandina Central
+EDN0531-A,54-016-01,KADDY ,SANNEH,29/08/1999,MANDINA CENTRAL
+EDN0532-K,50-029-01,Tabara,Ceesay,08/06/1999,Nema Kuta
+EDN0534-B,42-015-01,Fansainey,Ceesay,06/10/1989,Kwinella Nia Kunda
+EDN0535-F,47-054-03,KADDY,SORRA,24/02/1983,NEMA
+EDN0536-E,47-054-04,KUMBA ,JARJU,09/08/1988,NEMA
+EDN0537-J,47-027-04,OUMIE,FADERA,19/01/2001,NEMA
+EDN0538-G,47-028-03,Kaddy S,Fadera,06/05/1987,Nema
+EDN0539-D,47-052-01,Manifa,Fadera,02/01/2004,Nema
+EDN0540-G,47-039-03,Mariama,Mass,17/07/1985,Nema
+EDN0541-B,47-038-02,Amie,Korta,29/12/1999,Nema
+EDN0543-D,47-009-02,Salimatou,Fadera,05/07/1982,Nema
+EDN0544-A,47-039-01,Kaddijatou ,Korta,22/06/1991,Nema
+EDN0545-E,05-047-006Q,Mata,Njai,02/07/1992,Jiffarong
+EDN0546-F,05-001-001F,Isatou ,Drammeh,31/12/2000,Jiffarong
+EDN0547-K,05-002-014E,Oumie,Drammeh,14/12/2002,Jiffarong
+EDN0548-H,05-041-001R,Ida,Kinteh,08/08/2002,Jiffarong
+EDN0549-J,05-002-011B,Adama,Drammeh,23/07/1999,Jiffarong
+EDN0550-B,45-035-02,Nyima ,Ceesay,01/01/1997,Bambako
+EDN0551-H,26-007-016W,Adama,Njie,02/07/1989,Jiffarong
+EDN0552-F,05-041-007X,Fatou,Kinteh,02/07/1991,Jiffarong 
+EDN0553-A,05-060-001L,Jainaba,Njie,01/11/1997,Jiffarong
+EDN0554-K,05-032-004Q,Kaddy,Njie,10/02/1998,Jiffarong
+EDN0555-J,05-019-013Z,Manding,Barrow,05/10/1986,Jiffarong
+EDN0556-D,05-006-014A,Jalika,Barrow,21/11/1983,Jiffarong
+EDN0557-E,05-003-021X,Jainaba ,Barrow ,02/07/1984,Jiffarong 
+EDN0558-C,05-012-023D,Mama,Manka,02/07/1984,Jiffarong
+EDN0560-F,11-020-071X,Hawa,Njie,01/02/1989,Jiffarong
+EDN0561-J,05-020-008G,Aminata,Barrow,26/06/1992,Jiffarong
+EDN0562-G,05-030-027P,Fatou,Njie,27/10/1994,Jiffarong
+EDN0563-K,05-022-022S,Jainaba ,Barrow ,02/07/1989,Jiffarong 
+EDN0565-C,29-014-028E,Jainaba ,Bajo,02/03/1988,Jiffarong 
+EDN0566-A,05-029-015R,Adama,Saidy,20/11/1994,Jiffarong
+EDN0567-B,05-076-003X,Kaddy,Barrow ,02/07/1990,Jiffarong 
+EDN0568-D,05-033-006E,Kaddy ,Taal,30/01/2002,Jifarong 
+EDN0569-E,05-033-001Z,Aminata ,Taal,10/07/1998,Jifarong
+EDN0570-J,06-024-008Q,Nyominding,Touray ,15/06/1993,Jiffarong 
+EDN0571-K,05-027-047Z,Fatou,Kinteh,21/09/1996,Jifarong
+EDN0572-E,29-094-013N,Alimatou,Bajo,31/10/1988,Jiffarong 
+EDN0573-F,05-013-012E,Adama J,Barrow ,11/10/1994,Jiffarong 
+EDN0574-D,05-021-024I,Senbory,Barrow,16/07/1989,Jiffarong 
+EDN0575-G,06-006-018S,Saffiatou,Touray,09/02/1991,Jiffarong 
+EDN0578-B,29-005-014M,Mama,Sise,02/05/1999,Jiffarong 
+EDN0579-H,05-020-007F,Sanjiba,Barrow ,17/03/1989,Jiffarong 
+EDN0580-C,05-021-049H,Nyimansatou ,Colley ,02/07/1993,Jiffarong 
+EDN0581-F,05-024-001V,Mariama ,Njai,09/10/1997,Jiffarong 
+EDN0582-J,05-033-025X,Jainaba ,Taal,06/07/1992,Jiffarong 
+EDN0583-B,05-037-051T,Fatou Kangi,Drammeh,30/12/1983,Jiffarong
+EDN0584-E,05-059-007F,Kaddijatou ,Sise,13/01/1987,Jiffarong 
+EDN0585-D,05-007-030CP,Binta ,Barrow ,02/07/1996,Jiffarong 
+EDN0586-G,05-034-001L,Fatou,Njie,24/11/2000,Jiffarong
+EDN0587-H,05-043-008W,Fatou,Drammeh ,12/09/1997,Jiffarong 
+EDN0588-K,05-025-014Y,Adama,Sanyang,27/02/2002,Jiffarong
+EDN0589-A,05-034-014Y,Aminata ,Njie,26/09/1991,Jiffarong
+EDN0590-A,05-065-040G,Mariama ,Barrow ,28/01/1991,Jiffarong 
+EDN0591-D,05-021-022G,Natoma,Barrow ,09/06/1986,Jiffarong 
+EDN0592-B,06-023-001X,Nyimasatou ,Bajo,14/01/2001,Jifarong
+EDN0594-F,05-067-005V,Fatou,Drammeh ,18/01/1995,Jiffarong 
+EDN0596-J,41-035-01,Fatou ,Cham,15/12/1982,Kwinella Sansankono
+EDN0597-G,17-001-056U,Fatou,Camara,28/10/1996,Jouli
+EDN0598-E,17-001-045J,Halimatou,Camara,17/05/1999,Jouli
+EDN0599-C,17-004-024Y,Isatou,Camara,12/08/1998,Jouli
+EDN0600-C,17-010-019N,Jarra,Bass,05/07/1995,Jouli
+EDN0601-F,17-013-007L,Musukebba,Camara,20/05/2002,JOULI
+EDN0602-J,25-002-013X,Nyimansatou,Jarju,10/04/1989,Janneh Kunda
+EDN0603-B,27-015-063X,Fatoumata,Manneh,02/07/1985,Janneh Kunda
+EDN0604-E,18-004-007V,Binta,Samateh,30/06/1999,Janneh Kunda
+EDN0605-D,05-066-006K,Nakebba,Drammeh,02/07/1988,Jiffarong
+EDN0606-G,05-021-026K,Tomaring,Sanneh,02/07/1984,Jiffarong
+EDN0607-H,05-046-015N,Hawa Sey,Njie,03/07/1995,Jiffarong
+EDN0608-K,05-052-026S,Ramatoulie,Kinteh,11/12/1997,Jiffarong
+EDN0609-A,05-037-095L,Aja ,Touray,01/10/1990,Jiffarong
+EDN0610-G,05-053-012Q,Amie,Taal,28/12/1994,Jiffarong 
+EDN0612-C,06-015-018W,Nyimanding,Bajo,02/07/1985,Bajana
+EDN0613-D,06-026-007N,Bintou,Colley,19/11/2000,Bajana
+EDN0614-A,06-006-014O,Nyimansatou,Touray,02/07/2003,Bajana
+EDN0615-E,06-009-039X,Nyimansatou,Marong,07/01/1986,Bajana
+EDN0616-F,05-057-017R,Jainaba,Barrow,02/02/1995,Bajana
+EDN0617-K,06-029-064C,Anna,Touray,02/07/1987,Bajana
+EDN0618-H,06-017-004G,Fatou,Bajo,14/07/1994,Bajana
+EDN0619-J,06-013-019Z,Saffiatou,Bajo,06/06/1987,Bajana
+EDN0620-B,06-015-039R,Fatou,Njai,02/07/1992,Bajana
+EDN0621-H,06-025-013H,Fatou,Barrow,19/11/2003,Bajana
+EDN0622-F,06-006-010K,Kachikala,Touray,02/07/1986,Bajana
+EDN0623-A,06-025-012G,Fatou,Drammeh,05/05/1987,Bajana
+EDN0624-K,06-015-016U,"Nadinding	",Touray,12/07/1994,Bajana
+EDN0625-J,06-015-051D,Isatou,Bajo,24/12/1999,Bajana
+EDN0626-D,05-040-021Z,Aja,Kinteh,02/07/1987,Bajana
+EDN0627-E,17-001-033X,Kaddy,Marri,12/11/1984,JOULI
+EDN0628-C,17-008-011H,Jainaba,Marri,18/10/1991,JOULI
+EDN0629-G,17-017-000I,Tida,Jobarteh,19/09/1983,Jouli
+EDN0630-K,17-009-016Y,Nyimanding,Drammeh,02/07/1985,Jouli
+EDN0631-E,17-013-006K,Sutering,Manneh,11/09/1987,JOULI
+EDN0632-D,17-001-060Y,Isatou,Camara,27/09/1992,Jouli
+EDN0633-J,17-006-004C,Aminata,Marri,31/01/1987,Jouli
+EDN0634-G,17-001-017M,Binta,Camara,29/08/1994,Jouli
+EDN0635-B,27-020-020O,Isatou,Gaye,10/05/1988,Janneh Kunda
+EDN0636-H,13-045-031Z,Jariatou,Janneh,02/07/1992,Janneh Kunda
+EDN0637-C,27-005-006C,Sutering,Kanteh,16/02/1996,Janneh Kunda
+EDN0638-A,27-018-001X,Mai,Janneh,12/03/2001,Janneh Kunda
+EDN0639-F,26-001-063X,Fansainey,Bajinka,02/07/1989,Janneh Kunda
+EDN0641-J,27-021-013T,Aminata,Bajinka,21/11/1991,Janneh Kunda
+EDN0642-G,27-032-002K,Jainaba,Janneh,25/01/2000,Janneh Kunda
+EDN0643-K,27-037-026Q,Kaddy,Manjang,02/07/1984,Janneh Kunda
+EDN0644-H,27-034-033N,Alimatou,Kanteh,07/01/1991,Janneh Kunda
+EDN0645-C,27-005-020Q,Mariatou,Kanteh,21/04/1998,Janneh Kunda
+EDN0646-A,27-019-002K,Kaddy,Manjang,16/10/2001,Janneh Kunda
+EDN0647-B,21-018-003Z,Kaddy,Janneh,14/08/1996,Janneh Kunda
+EDN0648-D,27-005-028Y,Buteh,Janneh,02/07/1986,Janneh Kunda
+EDN0649-E,27-032-035R,Jainaba,Marong,07/07/1985,Janneh Kunda
+EDN0650-H,27-015-046G,Habbie,Kinteh,02/07/1993,Janneh Kunda
+EDN0651-A,06-026-106I,Mariama,Jarra,07/07/1992,Bajana
+EDN0652-K,06-026-085N,Mariama,Bajo,04/02/1992,Bajana
+EDN0653-C,06-023-012I,Natoma,Bajo,02/07/1985,Bajana
+EDN0654-B,05-030-052O,MARIAMA,NJAI,02/07/1992,BAJANA
+EDN0655-F,06-015-012Q,Naa chaku,Bajo,02/07/1991,Bajana
+EDN0656-E,17-009-008Q,Ajaratou,Marri,02/07/1984,Jouli
+EDN0657-J,29-004-011X,Jarriatou,Sise,23/08/1988,Jouli
+EDN0658-G,17-002-038O,Isatou,Kuyateh,15/12/1993,Jouli
+EDN0659-D,28-009-004K,Fatou,Manjang,02/07/1984,Kemoto
+EDN0660-J,28-032-016M,Alima,Janneh,02/07/1986,kemoto
+EDN0661-K,28-031-012W,Binta,Kinteh,02/07/1982,Kemoto
+EDN0662-E,06-001-001T,Nyimansatou,Bajo,04/12/2000,Kemoto
+EDN0663-F,28-014-029R,Arabiatou,Janneh,28/09/1988,Kemoto
+EDN0664-D,28-017-005D,HAWA,JARJU,17/11/2002,KEMOTO
+EDN0665-G,28-003-020G,Ida,Jarjou,02/07/1994,Kemoto
+EDN0666-C,27-006-029L,Aja,Demba,23/11/1997,Kemoto
+EDN0667-A,28-002-003D,FATOU,JAWO,10/10/1997,KEMOTO
+EDN0668-B,27-015-048I,Kaddy,Bajinka,02/07/1995,Kemoto
+EDN0669-H,27-006-044A,Binta,Manjang,03/07/1995,Kemoto
+EDN0670-E,28-015-009J,Nyimanding,Demba,20/09/1992,Kemoto
+EDN0671-C,28-037-007L,Kaddy,Janneh,02/07/1987,Kemoto
+EDN0672-A,28-014-021J,Jankani,Janneh,03/05/1983,Kemoto
+EDN0673-G,28-085-004K,KADDY,TOURAY,02/07/1983,KEMOTO
+EDN0674-J,27-024-003T,Isatou,Demba,25/03/2003,Janneh Kunda
+EDN0675-H,27-019-004M,Fatou,Manjang,02/11/1998,Janneh Kunda
+EDN0676-B,27-004-003Z,Aminata,Kanteh,04/07/2022,Janneh Kunda
+EDN0677-D,27-008-004K,Binta,Kanteh,02/07/1983,Janneh Kunda
+EDN0678-F,27-043-001L,Jainaba,Manjang,05/12/2001,Janneh Kunda
+EDN0679-K,27-015-030Q,Isatou,Bajinka,29/07/1994,Janneh Kunda
+EDN0680-A,27-009-042I,Fatou,Kambi,30/10/1992,Janneh Kunda
+EDN0681-D,27-017-009T,Kaddy,Janneh,21/08/2003,Janneh Kunda
+EDN0682-B,27-033-014I,Mariama,Sise,10/12/1991,Janneh Kunda
+EDN0683-H,27-034-030K,Bintou,Kanteh,02/07/1987,Janneh Kunda
+EDN0684-F,27-024-020K,Mai,Demba,02/07/1992,Janneh Kunda
+EDN0685-K,27-005-021R,Sunkary,Manjang,02/07/1984,Janneh Kunda
+EDN0686-J,27-004-010U,Sarita,Barrow,27/03/1991,Janneh Kunda
+EDN0687-G,27-042-020S,Jarra,Kanteh,02/07/1985,Janneh Kunda
+EDN0688-E,27-032-046C,Fatou,Janneh,13/09/1993,Janneh Kunda
+EDN0689-C,27-032-086Q,Nyimanding,Janneh,29/07/1991,Janneh Kunda
+EDN0690-D,27-035-011D,Nyimanding,Janneh,13/02/1994,Janneh Kunda
+EDN0691-G,25-014-006E,Oumie,Kambi,02/02/1998,Karantaba
+EDN0692-H,28-014-018G,Naffie,Manjang,17/02/1998,Karantaba
+EDN0693-E,25-012-305T,Oumie,Camara,11/03/1990,Karantaba
+EDN0694-C,25-011-045H,Binta,Jarju,02/07/1982,Karantaba
+EDN0695-A,25-007-084Y,Fatoumata,Bajinka,12/07/2022,Karantaba
+EDN0696-K,25-009-013D,Aminata,Fofana,30/09/2002,Karantaba
+EDN0697-F,25-012-097T,Isatou,Minteh,10/07/1985,Karantaba
+EDN0698-J,26-008-016I,Fatou,Marri,17/11/1997,Karantaba
+EDN0699-B,26-001-042C,Binta,Gibba,03/07/1989,Karantaba
+EDN0700-D,27-027-010K,Jainaba,Njai,12/03/1995,Karantaba
+EDN0701-G,07-010-002M,Alimatou,Njai,14/03/1999,Kuli kunda
+EDN0702-H,07-002-009B,Fatou,Njie,01/09/2002,Kuli kunda
+EDN0703-E,07-005-039P,Salimatou,Njai,02/07/1993,Kuli kunda
+EDN0704-C,07-035-011j,Masireh,Njai,06/06/1999,Kuli kunda
+EDN0705-A,07-045-014C,Jainaba,Sise,01/07/1993,Kuli kunda
+EDN0706-K,07-034-014A,Nyimasatou,Jallow,06/03/1997,Kuli kunda
+EDN0707-F,06-030-0120,Mariama,Sise,02/07/1984,Kuli kunda
+EDN0708-J,07-005-061L,Fatou,Sanneh,02/07/1991,Kuli kunda
+EDN0709-B,07-005-002E,Kaddijatou,Njai,31/03/2001,Kuli Kunda
+EDN0710-K,07-036-001L,Binta,Njai,27/03/2002,Kuli kunda
+EDN0711-E,29-018-020S,Mamanding,Darboe,07/10/1996,Kuli  kunda
+EDN0712-D,07-030-030u,Isatou,Njai,18/03/2002,Kuli kunda
+EDN0713-J,07-039-002W,Fatou,Njai,01/07/2000,Kuli kunda
+EDN0714-G,07-031-018U,Hulay,Sowe,01/01/1991,Kuli Kunda
+EDN0715-B,07-024-0121,Fatou,Njai,02/07/1989,Kuli kunda
+EDN0716-H,07-009-014m,Kaddy,Sise,24/04/1996,Kuli kunda
+EDN0717-C,05-003-007V,Nyimansatou,Njai,06/03/1997,Kuli Kunda
+EDN0718-A,30-019-014M,Kaddy,Sise,02/07/1988,Kuli kunda
+EDN0719-F,07-036-002m,Mariama,Njai,03/06/2002,Kuli kunda
+EDN0720-F,07-031-033J,Ramata,Bah,02/07/1998,Kuli Kunda
+EDN0721-J,07-015-008A,Nyimasatou,Njai,16/02/1992,Kuli kunda
+EDN0722-G,07-002-046m,Nyimansatou,Njai,07/12/1991,Kuli kunda
+EDN0723-K,07-002-029V,Hawa,Minteh,21/09/1991,Kuli kunda
+EDN0724-H,10-009-023L,Fatou,Sise,31/12/1990,Kuli kunda
+EDN0725-C,07-040-009p,Binta,Njai,19/02/1992,Kuli kunda
+EDN0726-A,10-021-003f,Binta fatou,Dibba,23/11/1983,Kuli kunda
+EDN0727-B,07-023-029N,Kaddy,Njai,11/11/1987,Kuli kunda
+EDN0728-D,10-008-003f,Fatoumata,Sise,28/03/1988,Kuli kunda
+EDN0729-E,07-008-073H,Fatou,Manneh,02/07/2000,Kuli kunda
+EDN0730-C,007-008-019F,Nyima,Njai,02/07/1986,Kuli Kunda
+EDN0731-F,07-031-012O,Fatou,Jallow,16/07/1998,Kuli Kunda
+EDN0732-J,07-006-031T,Sonna,Njai,02/07/1996,Kuli Kunda
+EDN0733-B,13-001-013-Z,Jaciatou,Sanyang,12/06/1984,Jamaru
+EDN0734-E,07-056-007X,Oulimatou,Sarr,12/06/1992,Kuli kunda
+EDN0735-D,07-033-037L,Sirra,Jallow,02/07/1994,Kuli Kunda
+EDN0736-G,07-045-012A,Isatou,Darboe,02/07/2003,Kuli Kunda
+EDN0737-H,07-004-044I,Isatou,Njai,21/11/2003,Kuli kunda
+EDN0738-K,07-004-003T,Fatou,Njai,01/01/2002,Kuli
+EDN0739-A,07-007-040O,Binta,Bajo,22/04/1984,Kuli kunda
+EDN0740-J,29-068-017R,Nyimansatou,Sise,12/05/1994,Kuli Kunda
+EDN0741-K,07-038-004M,Binta,Njai,05/03/2003,Kuli kunda
+EDN0742-E,08-003-005X,Kaddijatou,Njai,02/07/1987,Jamaru
+EDN0743-F,08-001-049R,Jainaba,Njai,12/06/1984,Jamaru
+EDN0744-D,07-005-003F,Fatou,Njai,09/03/2000,Jamaru
+EDN0745-G,08-007-016E,Mariama,Manga,10/06/1996,Jamaru
+EDN0746-C,08-005-013D,Abisatou,Jallow,16/05/2004,Jamaru
+EDN0747-A,08-002-031L,Aminata,Jallow,02/07/2001,Jamaru
+EDN0748-B,09-002-067J,Tuti,Gomez,05/05/1989,Brikamanding
+EDN0749-H,09-018-001F,Zikiline,Mendy,09/04/1984,Brikamading
+EDN0750-E,10-010-007H,Sonna,Sise,23/11/1992,Kantong kunda
+EDN0751-C,01-044-051V,Aminata,Samateh,12/11/1996,Kantong kunda
+EDN0752-A,10-008-025B,Mariama,Sise,16/06/1991,Kantong kunda
+EDN0753-G,02-010-029V,Sarjo,Darboe,02/07/1985,Kantong kunda
+EDN0754-J,10-006-015T,Nyara,Sise,15/03/1984,Kantong kunda
+EDN0755-H,10-001-020Q,Musukebba,Sise,01/01/1983,Kantong kunda
+EDN0756-B,06-023-004A,Isatou,Drammeh,18/11/1999,Kantong kunda
+EDN0757-D,17-001-027R,Kaddy,Camara,03/10/1996,Kantong kunda
+EDN0758-F,10-003-113D,Fatou,Sise,02/07/2000,Kantong kunda
+EDN0759-K,10-001-205T,Fatou,Sise,22/03/2003,Kantong kunda
+EDN0760-A,10-003-031Z,Isatou,Sise,07/02/1984,Kantong kunda
+EDN0761-D,25-010-033J,Jainaba,Jarju,05/04/1991,Kantong kunda
+EDN0762-B,10-004-114Q,Isatou,Sora,22/06/1991,Kantong kunda
+EDN0763-H,10-010-003D,Mariama,Sise,28/12/1987,Kantong kunda
+EDN0764-F,29-004-044E,Salimata,Sise,02/05/1991,Kantong kunda
+EDN0765-K,10-021-006J,Binta,Ceesay,31/03/1992,Kantong kunda
+EDN0766-J,25-007-092G,Nyimanding,Fatty,22/04/1994,Karantaba
+EDN0767-G,25-011-207N,Fatoumata,Kambi,02/03/2001,Karantaba
+EDN0768-E,26-025-019F,Kaddy,Daffeh,17/09/1992,Mandina
+EDN0769-C,14-001-038M,Mariama J,Sanyang,01/12/1991,Bankuling
+EDN0770-H,26-001-02,Mai,Gibba,17/09/2002,Mandina
+EDN0774-B,17-002-018U,Fatoumata,Kuyateh,19/11/1992,Mandina
+EDN0775-F,26-001-052M,Nyima,Bajinka,21/07/1984,Mandina
+EDN0778-G,26-004-005B,Binta,Bojang,02/07/1984,Mandina
+EDN0780-B,24-009-004G,Mariama,Daffeh,02/07/1987,Mandina
+EDN0782-F,47-005-28,Isatou,Fadera,21/03/1994,Nema
+EDN0787-E,10-010-013N,Ida,Sise,10/10/1992,Kantong kunda
+EDN0788-C,10-002-033P,Mariatou,Sawo,07/07/1989,Kantong kunda
+EDN0789-G,11-012-018E,Aja,Drammeh,26/07/1989,Jali
+EDN0790-G,11-021-016G,Nakebba,Drammeh,15/07/1996,Jali
+EDN0791-B,10-009-015D,Majeh,Sise,18/10/1985,Jali
+EDN0792-C,11-033-003H,Famatanding,Camara,02/07/1983,Jali
+EDN0793-D,11-042-015X,Wonto,Drammeh,20/04/1990,Jali
+EDN0794-A,11-007-024C,MBA Sirey,Dibba,19/03/1993,Jali
+EDN0795-E,08-006-004G,Sainabou,Touray,06/08/2000,Jali
+EDN0796-F,11-006-071L,Mama,Dibba,15/01/1994,Jali
+EDN0797-K,11-042-019B,Binta,Drammeh,10/03/1996,Jali
+EDN0798-H,11-008-095H,Fatou,Drammeh,04/07/1998,Jali
+EDN0799-J,29-004-159P,Myimansatou,Sanyang,22/11/1990,Jali
+EDN0800-F,11-025-108Q,Kaddy,Dibba,13/07/2022,Jali
+EDN0801-J,11-008-020K,Sirreh,Darboe,20/04/1998,Jali
+EDN0802-G,11-054-007D,Kaddy,Darboe,23/11/1994,Jali
+EDN0803-K,11-023-005T,Kaddy,Drammeh,26/06/1984,Jali
+EDN0804-H,11-003-041X,Kaddijatou,Samateh,24/01/2001,Jali
+EDN0805-C,11-052-008G,Musukebba,Drammeh,05/06/1996,Jali
+EDN0806-A,11-038-006S,Jainaba,Samateh,31/08/1998,Jali
+EDN0807-B,11-047-002S,Aramata,Njai,02/07/1984,Jali
+EDN0808-D,11-008-014E,Fatou,Darboe,01/10/1992,Jali
+EDN0809-E,11-024-003D,Sariba,Samateh,10/07/1984,Jali
+EDN0810-H,11-007-011P,Jainaba,Dibba,02/07/1985,Jali
+EDN0811-A,11-047-019J,Kaddy,Jeng,02/07/1983,Jali
+EDN0812-K,11-034-126M,Mariama ,Bah,30/01/1998,Jali
+EDN0813-C,11-034-071J,Mariama,Jatta,02/07/1985,Jali
+EDN0814-B,27-018-007D,Fatou,Janneh,04/07/1986,Jali
+EDN0815-F,11-013-087H,Fatou,Sowe,20/06/1986,Jali
+EDN0816-E,11-029-058O,Fatoumata,Samateh,11/12/1991,Jali
+EDN0817-J,11-026-049V,Jainaba,Kanteh,31/07/1988,Jali
+EDN0818-G,10-006-049B,Fatoumata,Touray,28/10/1985,Jali
+EDN0819-D,11-045-008A,Yai,Samateh,01/02/1983,Jali
+EDN0820-E,11-038-014A,Mariama,Samateh,02/07/1986,Jali
+EDN0821-C,11-029-066W,Zainabou,Drammeh,02/02/1989,Jali
+EDN0822-A,11-041-003Z,Fatoumata,Dibba,26/05/1987,Jali
+EDN0823-G,11-029-112Q,Ndey,Sise,21/08/2000,Jali
+EDN0824-J,11-054-003Z,Mami,Darboe,02/07/1984,Jali
+EDN0826B,24-021-042G,Mai,Darboe,06/09/1993,JULA KUNDA
+EDN0828-F,24-024-004E,Fatou,Daffeh,31/12/1992,Jula Kunda
+EDN0829-K,23-013-036U,Binta,Jallow,02/07/2001,Burong
+EDN0830-B,28-013-010M,Salimata,Barrow,11/06/1998,Burong
+EDN0832-F,24-008-017H,Lisa,Darboe,02/06/1994,Burong
+EDN0835-J,22-008-006U,Hawa,Jadama,02/07/1993,Burong
+EDN0836-D,23-001-085D,Jamie,Colley,18/10/1995,Burong
+EDN0837-E,22-006-004O,Mai,Sanyang,17/05/1992,Missira
+EDN0838-C,21-001-028W,Isatou,Jawo,02/07/2000,Missira
+EDN0839-G,24-024-016Q,Bintou,Darboe,22/04/2001,Seen
+EDN0840-A,21-003-009B,Amie,Jallow,02/07/1995,Mesira
+EDN0841-D,27-026-010Y,Sarjo,Bojang,19/03/2003,Taborangkoto
+EDN0842-B,18-005-043-R,Kadijatou,Baldeh,02/07/1994,Taborangkoto
+EDN0843-H,22-003-12-I,Sarjo,Sanyang,02/07/1982,Taborangkoto
+EDN0844-F,22-011-004C,BUYA,JAWO,02/07/1995,Taborangkoto
+EDN0845-K,24-010-035X,Nadinding,Darboe,02/07/1994,Jula kunda
+EDN0846-J,23-004-022C,KADDY,DARBOE,03/07/1995,TABORANGKOTO
+EDN0847-G,23-001-166G,Fatou O,Sise1,14/10/1997,Burong
+EDN0848-E,16-027-017T,Mariama,Manjang,02/07/1982,Tankular
+EDN0849-C,16-002-001-P,Lolly,Janneh,11/06/1998,Tankular
+EDN0850-G,16-006-060-S,Fatou,Sise,02/07/1982,Tankular
+EDN0851-B,16-015-005T,Binta,Drammeh,20/10/2001,Tankular
+EDN0852-C,16-014-010M,Binta,Drammeh,02/07/1988,Tankular
+EDN0853-D,17-001-071J,AMINATA,CAMARA,24/12/1984,TANKULARR
+EDN0854-A,16-030-024K,Tida,Taal,25/08/1997,Tankular
+EDN0856-F,11-020-061N,Nakebba,Drammeh,20/10/1984,Jali
+EDN0857-K,11-053-034S,Amie,Faal,20/09/1988,Jali
+EDN0858-H,11-015-021R,Sireh,Samateh,17/09/1984,Jali
+EDN0859J,16-024-040G,Jankey,Manka,17/11/2001,Tannkular
+EDN0860-D,23-017-026G,Isatou,CAMARA,25/05/1999,TANKULARR
+EDN0861G,16-005-060S,Fatou,Njai,02/07/1986,Tankular
+EDN0862-H,16-001-030G,Fatou,Sise,23/04/1984,Tankular
+EDN0863-E,16-030-044E,Nyima,Njai,01/07/1984,Tankular
+EDN0864-C,16-031-047T,Mama,Sise,06/04/1985,Tankular
+EDN0865-A,16-013-019J,JOMMA,Drammeh,15/11/1982,TANKULARR
+EDN0866-K,16-001-034K,Sainabou,Sise,25/05/1999,Tankular
+EDN0867-F,16-032-004O,Fatou,Njai janneh,14/08/1982,Tankukar
+EDN0868-J,16-016-020U,Ansata,Sowe,02/07/1994,Tankular
+EDN0869-B,18-008-005P,Sheriffo,Camara,29/10/1992,Manduar
+EDN0870-C,13-012-066C,Awa,Jammeh,05/01/1994,Manduar
+EDN0871-F,13-034-010C,Jonsaba,Susso,16/08/1994,Manduar
+EDN0872-J,13-037-009L,Kaddy,Sanyang,23/05/1985,Manduar
+EDN0873-B,13-012-171D,Aminata,Saidy,13/01/1995,Manduar
+EDN0874-B,13-001-014A,Jainaba,Sanyang,05/03/1988,Manduar
+EDN0875-D,13-012-062Y,Fatou,Darboe,05/11/1995,Manduar
+EDN0876-G,13-029-007R,Fatou,Jammeh,03/11/1990,Manduar
+EDN0877-H,13-040-020G,Nanding,Sanyang,02/06/1986,Manduar
+EDN0878-K,27-042-017P,Salimatou,Janneh,02/07/1984,Manduar
+EDN0879-A,10-016-004O,Mariama,Kanteh,17/01/1988,Manduar
+EDN0880-J,13-040-003P,Jainaba,Sanyang,20/07/2022,Manduar
+EDN0881-K,13-003-011V,Darbonding,Darboe,12/08/1986,Manduar
+EDN0883-F,27-001-001B,Bintou,Manjang,10/12/1999,Manduar
+EDN0885-G,18-008-011V,Ndey,Bah,25/08/2003,Manduar
+EDN0886-C,13-010-034Y,Awa,Sanyang,06/10/1985,Manduar
+EDN0888-B,13-033-035P,Fatou,Cham,02/07/1991,Manduar
+EDN0890-K,13-037-029F,Maimuna,Sise,02/03/1998,Manduar
+EDN0891-E,13-012-008W,Jainaba,Darboe,27/10/1995,Manduar
+EDN0893-J,13-001-026M,Kaddy,Sanyang,01/02/1984,Manduar
+EDN0894-G,27-012-005H,Kaddy,Samateh,24/08/1996,Manduar
+EDN0895-B,07-038-007P,Nurse,Njai,02/07/1985,Tankular
+EDN0896-H,23-022-027P,Marang ,Camara ,01/01/1989,Kuyang
+EDN0897C,18-004-005T,Binta,Demba,18/11/1984,Kuyang
+EDN0898-A,18-002-017H,Jainaba,Darboe,02/07/1986,Kuyang
+EDN0899F,18-002-023N,Kaddy,Sanyang ,18/07/1986,Kuyang
+EDN0900-G,17-010-030Y,Fatoumata,Bass,02/07/1996,Keneba
+EDN0901-B,29-009-013H,Isatou ,Sise,01/12/1988,Keneba
+EDN0902-C,29-001-027D,Tida,Manneh,09/09/1993,Keneba
+EDN0903-D,20-077-009N,Binta,Minteh,12/11/1983,Keneba
+EDN0904-A,29-022-018M,Jainaba,Minteh,15/11/1994,Keneba
+EDN0905-E,29-031-011J,Maimuna,Sise,02/07/1998,Keneba
+EDN0906-F,29-110-008S,Isatou,Sise,04/11/1999,Keneba
+EDN0908-H,29-005-020S,Fatoumata,Sise,08/04/1996,Keneba
+EDN0909-J,17-002-037N,Jalika,Kuyateh ,02/07/1996,Keneba 
+EDN0910-E,29-028-006U,Binta ,Ceesay ,17/07/1990,Keneba 
+EDN0913-G,47-009-01,Binta ,Saidy,04/09/1988,Nema
+EDN0914-J,29-042-009-J,BINTOU,SISE,09/01/1997,KENEBA
+EDN0915-H,29-076-040G,Nyima,Sanyang ,09/02/1982,Keneba
+EDN0916-B,13-012-020I,Sireh,Samateh,06/07/1996,Mandure
+EDN0917-D,13-010-003T,Kaddy,Jammeh,20/01/1990,Manduar
+EDN0918-F,15-005-007R,Fatou ,Jobe ,15/02/1997,Jissey
+EDN0919-K,01-014-015P,Mai,Jallow,02/07/1992,Gissay
+EDN0920-A,15-006-023-T,Maimuna ,Jallow ,02/07/1990,Jissey
+EDN0921-D,15-010-003V,Kaddy,Jallow,02/07/1986,Gissay
+EDN0922-B,01-014-009J,Fatou ,Bah ,26/07/1999,Jissey 
+EDN0923-H,15-008-004Y,Ndey,Sonko,02/07/1992,Gissay
+EDN0924-F,15-004-028A,Jully,Bah,10/07/1988,Gissey 
+EDN0925-K,15-004-058E,Mariama ,Bojang ,02/07/1985,Gissey 
+EDN0926-J,29-033-011H,Nyima,Minteh,17/11/1984,KENEBA
+EDN0927-G,29-059-021R,Sainabou,Danso,12/09/1997,KENEBA
+EDN0928-E,10-005-009B,Nyimasatou,Sise,22/05/1997,KENEBA
+EDN0930-F,29-038-077D,Fatou ,Touray ,02/07/1997,KENEBA 
+EDN0931-J,29-068-018S,Jainaba ,Sise ,24/01/1997,KENEBA 
+EDN0933-K,29-035-015J,Sarita,Sise,12/08/2002,KENEBA
+EDN0936-A,20-017-002O,Fatoumata,Samateh,15/04/1983,KENEBA
+EDN0937-B,29-025-037P,Binta,Sise,18/04/1991,Keneba
+EDN0938-D,29-032-021F,Aminata,Sise,13/11/1990,Keneba
+EDN0939-E,29-077-008M,Aminata,Bajo,26/09/2000,Keneba
+EDN0940-K,29-001-010M,Isatou,Sise,04/02/1986,Keneba
+EDN0941-E,29-013-016G,Hafisatou,Sanyang ,04/01/2001,KENEBA 
+EDN0942-D,29-050-009B,Bintou ,Barrow ,26/06/1996,KENEBA 
+EDN0943-J,29-005-031D,Isatou,Sise,30/08/1993,Keneba
+EDN0944-G,01-033-017L,Fatou,Colley,02/07/1987,KENEBA
+EDN0945-B,29-080-013B,Fatou,Sise,28/01/2000,Keneba
+EDN0946-H,29-044-030C,Fatou,Camara,08/11/1997,KENEBA
+EDN0947-C,29-025-039R,Bintou,Sise,31/08/2000,Keneba
+EDN0948-A,11-029-059P,Kaddijatou,Samateh,02/10/1994,Keneba
+EDN0949-F,29-035-010E,Mariatou,Sise,04/08/1996,KENEBA
+EDN0950-J,29-047-003L,Isatou,Sise,13/07/1986,Keneba
+EDN0951-K,10-009-037Z,Binta,Sise,17/07/1990,Keneba
+EDN0952-E,29-004-207L,Kaddy,Jammeh,02/07/1989,Keneba
+EDN0953-F,29-048-004Y,Mariama,Sise,13/01/1988,Keneba
+EDN0954-D,02-026-002E,Binta,Minteh,29/09/1998,Keneba 
+EDN0956-C,29-033-081Z,Maimuna,Sise,26/03/2003,Keneba
+EDN0957-A,29-032-030O,Mariama,Sise,12/12/2002,Keneba
+EDN0958-B,29-010-020A,Isatou,Bajo,06/03/1991,Keneba
+EDN0959-H,29-020-011-H,Mabinta,Sanyang,12/02/1986,Keneba
+EDN0960-H,29-061-011F,Haminata,Minteh,07/09/1983,Keneba
+EDN0961-A,25-006-196U,Nyimanding,Fatty,02/07/2002,Karantaba
+EDN0962-K,29-005-003B,Mariama,Sise,13/11/1997,Keneba
+EDN0963-C,29-014-0640,Banna,Sise,01/11/1984,Keneba
+EDN0964B,16-030-005R,Binta ,Sise,07/09/2022,Tankular
+EDN0965-F,27-036-022A,Isatou,Samateh,30/09/2000,Karantaba
+EDN0966-E,25-006-005L,Fatou,Kambi,27/09/1997,Karantaba
+EDN0967-J,25-012-050Y,Isatou,Conteh,02/07/1985,Karantaba
+EDN0968-G,25-012-441Z,Mariama,Jarju,14/01/2000,Karanta
+EDN0969-D,25-006-083L,Isatou,Kambi,05/05/1996,Karantaba
+EDN0970-B,25-004-014W,Fatou,Chorr,11/11/1983,Karantaba
+EDN0971-H,25-011-031T,Musukuta,Marong,02/07/1986,Karantaba
+EDN0972-F,25-008-051D,Kaddy,Kanyi,02/07/1991,Karantaba
+EDN0973-A,25-012-219L,Fatoumata,Jaiteh,03/07/1984,Karantaba
+EDN0974-K,25-012-053B,Wuday,Conteh,02/07/1988,Karantaba
+EDN0975-J,25-008-009N,Fatou,Jarju,02/07/1999,Karantaba
+EDN0976-D,25-012-228U,Aja,Minteh,02/07/1993,Karantaba
+EDN0977-E,52-018-04,Ramatoulie,Sowe,19/04/1983,Madina Angalleh
+EDN0978-C,52-013-01,Mariama ,Jallow ,04/01/1994,Mandina Angalleh
+EDN0979-G,52-051-01,Kaddijatou ,Bah ,24/04/1998,Madina Angalleh
+EDN0997-H,47-004-01,Fatou,Korta,02/06/1998,Nema
+EDN0998-K,47-043-03,Nyimansatou ,Fadera ,22/07/1994,Nema
+EDN0999-A,47-018-12,Masireh,Samateh,09/05/1999,Nema
+EDN1001-A,54-014-001,Fatou ,Sarr,03/02/1985,Mandina
+EDN1002-B,54-023-001,Jainaba,Barrow,11/07/1989,Mandina
+EDN1003-C,50-002-004,Adama wuri,Jallow,10/02/2003,Nemakuta
+EDN1004-D,42-032-001,Fatou,Darboe,03/02/1987,Kwinalla Nya Kunda
+EDN1005-E,41-041-001,Alimatou,Jallow,03/06/1985,Kwinella Sansangkono
+EDN1006-F,54-024-002,Lisa,Touray,31/12/1994,Mandina Central
+EDN1007-G,54-011-002,Aja,Suso,29/01/1995,Mandina Central
+EDN1008-H,30-008-005,Ndey Fatou,Gibba,03/06/1994,Nema kuta
+EDN1010-G,54-025-001,Sainey,Jallow,30/03/1987,Madina Central
+EDN1011-K,50-031-002,Fatou ,Bah,15/06/1990,Nema Kuta
+EDN1012-L,41-029-003,Adama,Saidy Sowe,01/11/1997,Kwinella Sansankono
+EDN1013-M,41-028-004,Nyima,Sanneh,10/06/1997,Kwinella Sansangkono
+EDN1014-N,05-032-051l,Ndey,Bajinka,02/10/1982,Jiffarong
+EDN1015-O,05-017-006u,Aramata ,Barrow,07/01/1990,Jifarong
+EDN1016-P,05-064-010q,Aminata,Barrow,26/03/1986,Jifarong
+EDN1017-G,05-013-014G,Yassin,Njai,05/09/1985,Jiffarong
+EDN1018-R,05-014-029H,MUSUKEBBA  ,DRAMMEH,02/07/1986,JIFFARONG 
+EDN1020-T,41-017-003,Nana,Konteh,30/06/1989,Kwinella 
+EDN1021-U,05-039-003V,KUMBA,JAITEH,02/07/1983,Jifarong
+EDN1022-V,05-002-106S,Natoma,Drammeh,02/07/1985,Jiffarong
+EDN1023-W,40-008-002,Binta,Sidibeh,16/07/1992,Wurokang 
+EDN1024-X,40-022-001,FATOU ,CAMARA ,15/06/1992,WUROKANG
+EDN1026-Z,05-023-008Q,Menata,Barrow ,02/07/1986,Jiffarong
+EDN1027-B,05-058-01Y,Maimuna ,Bah,19/01/1994,Jiffarong
+EDN1030-E,10-005-030W,Bintou ,Manka,05/01/1988,Kantong kunda 
+EDN1035-G,23-017-030K,Nyimanding,Jadama,02/07/1982,Burong
+EDN1037-L,23-014-011H,BINTOU ,SISE,02/07/1994,BURONG
+EDN1038-M,22-003-004K,Mariama,Jammeh,17/01/1998,Burong
+EDN1039-N,24-025-013Z,Jainaba,Daffeh,16/01/1996,Jula Kunda
+EDN1040-O,16-031-002A,FANTA,CAMARA ,28/10/1987,TANKULAR
+EDN1041-P,16-006-025J ,SARIBA,KASSAMA,02/07/1985,TANKULAR
+EDN1042-G,Unknown DSS #,ISATOU ,BAJO,13/05/1998,TANKULAR 
+EDN1043-R,Unknown DSS#,NYIMANDING ,SANYANG ,24/06/2003,TANKULAR 
+EDN1044-S,17-010-007B,NYARA,BASS,31/08/1988,Tankular
+EDN1051-Z,29-045-049H,Mariatou,Sanneh,06/10/1985,Keneba
+EDN1053-C,28-028-008I,Fatou,Kanteh,03/08/1999,Kemoto 
+EDN1054-D,27-011-004U,Kaddy ,Jorbateh,06/11/1996,Janneh-kunda 
+EDN1055-E,28-021-005Z,Fatou,Keita,02/07/2000,Janneh Kunda
+EDN1056-F,27-036-014S,Jainaba ,Jorbateh ,02/07/1984,Janneh-kunda 
+EDN1057-G,29-078-009Z,Wuday ,Sise,04/04/1990,Janneh Kunda
+EDN1058-H,25-012-116M,Isatou ,Sawaneh ,02/07/1994,Janneh-kunda 
+EDN1059-I,25-010-041R,Kaddijatou ,Fofana ,29/12/1986,Karantaba 
+EDN1060-G,09-005-017V,Mariama,Barrow,29/08/1996,Karantaba
+EDN1061-K,25-011-144C,Fatou,Kambie,25/03/2002,Karantaba
+EDN1062-L,28-015-013N,Maimuna ,Demba ,29/10/1995,Karantaba 
+EDN1064-N,25-011-225F,Oumie ,Kambi ,30/03/1997,Karantaba 
+EDN1067-G,25-011-293V,Jainaba ,Kambi ,19/09/1992,Karantaba 
+EDN1068-R,25-011-0117L,Matty,Kambie,30/01/2001,Karantaba
+EDN1069-S,25-006-093V,Nyimanding ,Marong ,02/07/1991,Karantaba 
+EDN1070-T,27-006-018A,Alima ,Janneh,19/08/1989,Manduar
+EDN1071-U,25-007-021N,Nyimanding ,Sise,02/07/1984,Karantaba
+EDN1072-V,11-003-039V,Mariama,Samateh,01/01/1994,Karantaba
+EDN1077-B,29-103-002G,Nakebba ,Minteh,07/07/1983,Keneba
+EDN1078-C,29-131-014Q,Fatou ,Sise,02/07/1998,Keneba
+EDN1079-D,29-013-043H,Nakebba,Sanyang,20/08/1991,Keneba
+EDN1081-F,29-001-035L,Alimatou ,Sise ,02/07/1996,KENEBA 
+EDN1082-G,29-013-013D,AROKEY,SANYANG ,18/06/1993,KENEBA 
+EDN1083-H,10-001-038I,Isatou ,Sise ,18/09/2003,KENEBA 
+EDN1084-I,29-056-030Q,ISATOU ,JAMMEH ,02/02/1985,KENEBA 
+EDN1085-G,13-024-006I,Kaddy,Jammeh,12/04/1991,Manduar
+EDN1086-K,13-015-009H,Kaddy ,Camara ,11/01/1988,Manduar 
+EDN1087-L,29-017-017D,Isatou,Kanteh,02/07/1989,Manduar
+EDN1101-Z,47-027-05,Aminata,Sabally,15/07/1997,Nema
+EDN1102-B,30-018-02,Binta ,Bojang,07/07/1987,Batelling
+EDN1104-D,06-015-006K,Aja,Drammeh ,15/05/1997,Bajana
+EDN1105-E,06-017,MAI ,CEESAY,28/02/1988,BAJANA
+EDN1106-F,13-036-004U,Kuta,Darboe ,02/01/1996,Bajana
+EDN1108-H,04-005,Mama,Keita,15/07/1988,Jattaba
+EDN1109-I,31-001-028G,Aja ,Sanneh ,14/02/1995,Jattaba 
+EDN1110-G,04-007-059R,Binta,Sanneh,15/07/1999,Jattaba

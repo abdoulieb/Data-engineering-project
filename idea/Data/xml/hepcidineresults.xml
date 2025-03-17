@@ -1,0 +1,3693 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <cons_recordid_q1>IDeA30003H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.4826</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30003H</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.3352</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30004F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.5031</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30004F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.8340</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30008E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.8261</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30008E</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>30.8348</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30010B</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.2966</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30010B</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>12.1133</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-31 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30011H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.9503</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30012F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.7538</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30012F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>6.4767</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-31 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30017E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>4.4134</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30020H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>15.6269</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30020H</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>15.3517</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30021A</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.5066</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30021A</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>4.8063</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30022K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.2646</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30022K</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.2526</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30023C</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>11.3146</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30023C</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>22.9208</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30024B</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.5036</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30024B</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.0166</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30026E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>8.3763</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30028G</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>10.2000</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30029D</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>4.5238</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30029D</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.7481</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30030J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>12.0527</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30030J</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.1288</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30031K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.9469</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30031K</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.8558</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30037A</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>40.8799</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30037A</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>10.5854</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30042H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>10.7236</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30042H</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>9.1332</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30043E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>4.2513</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30043E</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>8.4350</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30045A</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.0044</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30045A</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>8.6727</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30049B</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.7904</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30049B</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>8.5564</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30051F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.5106</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-31 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30051F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.3661</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30052J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>22.2609</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30052J</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.9053</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30058K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.2333</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30059A</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.4643</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30059A</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.3782</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30063J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>6.7113</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30063J</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>23.5417</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30064G</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>14.6665</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30064G</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>11.6073</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30065B</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.6969</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30065B</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.3940</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30066H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.5229</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30066H</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>9.5448</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30070F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.0690</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30070F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>4.0198</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30071J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.1053</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-31 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30071J</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>9.6142</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30073K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>9.3027</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30073K</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>25.2052</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30074H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.5130</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30074H</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.2034</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30081B</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.4451</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30081B</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>25.3847</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30085E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.4614</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30085E</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>20.9476</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30089J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.4980</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30089J</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>15.3199</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30090E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.3902</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30090E</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>10.8017</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30095H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>6.7231</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30097D</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.4962</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30098F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.8801</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30098F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>8.5349</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30101A</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.9131</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30101A</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.6090</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30103C</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.2737</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30103C</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>6.7146</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30109D</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.8811</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30109D</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>72.9765</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30110J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.5419</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30112E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>23.6095</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30121G</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>23.5170</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30121G</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>11.5226</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30131D</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.4174</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30131D</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>15.0228</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30135K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.7280</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30146G</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.6615</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30146G</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>9.1276</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30148K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.8487</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30148K</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>19.1958</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30151E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.0565</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30154G</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>10.0342</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30154G</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.0090</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30159F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.0128</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30159F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>11.2730</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30160B</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>4.7181</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30160B</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>29.0837</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30164K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>7.1684</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30164K</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>4.6338</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30165J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.0668</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30165J</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>23.2972</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30169G</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.3254</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30169G</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.8961</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30176F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.1883</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30176F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>18.5366</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30179J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.3676</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30180E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>9.5929</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30180E</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>54.7033</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30181C</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>8.0664</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30181C</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.5852</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30186B</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.3501</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30186B</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.9187</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30188F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>8.2058</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30188F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>15.1347</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30189K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>7.0648</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30189K</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>8.5711</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30191J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.5411</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30191J</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.9369</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30192G</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>14.4853</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30192G</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.8485</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30193K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>4.6554</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30194H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>11.4507</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30194H</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>6.2305</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-31 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30196A</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>6.6996</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30196A</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>11.8584</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30201K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.2589</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30201K</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.1659</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30210A</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.7881</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30210A</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>11.1969</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30212B</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.4996</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30212B</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.2931</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30213H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.2982</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30221F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>18.2166</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30221F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>38.6071</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30223B</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.4017</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30223B</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>28.2872</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30224E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>4.8666</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30224E</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.3723</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30228K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.4781</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30228K</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>14.8878</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30229A</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.0056</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30232A</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.3523</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30232A</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.0373</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30234J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>16.6875</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30235H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>13.1831</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30235H</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>6.3055</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30236B</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>16.4166</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30236B</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.8047</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30237D</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>16.1197</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30237D</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>24.7687</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30238F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.5346</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30238F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.6940</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30239K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>20.4097</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30239K</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>6.6841</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30240H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.6851</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30240H</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>47.0018</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30243C</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.0063</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30243C</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>11.7930</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30254C</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>11.4536</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30255A</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>22.5497</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30255A</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>12.9453</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30257F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.9211</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30257F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>13.2626</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30260G</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.6363</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30260G</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.5310</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30265E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.7145</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30265E</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.1777</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30272D</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.3075</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30273J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>6.3890</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30273J</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>20.5301</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30277C</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.0501</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-31 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30278A</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>12.1481</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30278A</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>7.1055</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-31 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30280F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.7254</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30280F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>47.5558</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30290B</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.7851</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30294K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.6795</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30298C</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.8817</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30299G</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>17.9362</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30299G</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>23.7852</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-31 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30300K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.6578</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30300K</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.9778</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30301E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>4.9501</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30301E</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>14.6035</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30316G</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>18.1631</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30316G</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>11.6054</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30317H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.7264</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30317H</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.0433</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30318K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.4748</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30318K</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.2215</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30320G</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.5807</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30327K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.5624</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30328H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.3995</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30328H</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.3137</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30330D</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.9730</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30330D</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>4.1828</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30331G</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>10.3042</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30334C</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.1100</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30334C</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>9.9768</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30342F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.8595</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30342F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>18.5530</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30343A</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.7574</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30343A</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.6510</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30344K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>15.5708</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30347E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>11.2809</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30347E</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>13.5299</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30349G</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>20.1017</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30351J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>50.1317</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30351J</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.9949</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30352G</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>12.8333</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30352G</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>16.3871</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30353K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.6392</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30353K</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.5866</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30359E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.1534</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30359E</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>8.0595</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30361C</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.1737</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30361C</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>12.1303</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30362A</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.7000</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30362A</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.9569</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30363G</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>11.2755</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30364J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>9.2912</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30364J</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>6.6947</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30365H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.3053</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30365H</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>20.4543</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30370A</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>13.6595</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30370A</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>22.6092</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30374F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.0903</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30374F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>6.2520</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30375K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>4.0763</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30376J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>7.2321</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30377G</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.2642</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30377G</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>65.9996</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30380H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.9042</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30380H</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.4124</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30381A</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.2120</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30386E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.7284</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30386E</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>14.4824</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30388G</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>8.0881</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30388G</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>23.3241</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30390J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>13.6580</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30390J</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>4.1626</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30393F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>27.1465</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30397A</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>7.6298</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30397A</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>6.2245</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30401H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.5870</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30401H</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>8.4631</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30402F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>9.9898</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30404K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.8664</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30404K</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>43.8918</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30406D</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.5133</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30407E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.3981</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30414H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>8.0373</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30414H</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>8.5470</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30416A</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.3131</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30417B</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.6965</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30417B</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.1043</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30418D</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.1555</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30418D</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>14.3053</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30419E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.9526</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30419E</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.3627</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30420J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.8685</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30420J</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.0800</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30423F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.1293</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30423F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.7183</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30424D</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>17.6144</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30424D</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>30.0408</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30426C</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>7.3567</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30426C</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.3511</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30430G</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.7561</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30430G</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.1134</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30431B</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>37.0908</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30431B</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>12.5697</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30433D</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>9.3838</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-31 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30433D</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>10.8986</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30436F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>15.7344</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30436F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>13.3802</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30437K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>4.7157</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30437K</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>9.0670</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30438H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.2941</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30438H</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.8377</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30439J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.5846</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30439J</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>4.2194</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30440E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.0376</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30440E</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>37.2230</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30441C</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.2216</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30441C</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>15.2382</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30442A</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.1522</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30442A</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.0805</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30444J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.9428</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30444J</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>11.5700</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30445H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>31.1509</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30445H</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>29.9920</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30448F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>9.1485</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30448F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>6.6480</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30449K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.6935</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30449K</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>11.4100</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30453H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.1630</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30453H</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>4.1253</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30454F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.1712</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30454F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.8479</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30455K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.0895</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30455K</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>4.8168</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30456J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.5940</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30456J</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.7611</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30458E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.8141</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30458E</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.8770</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30461F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.7455</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30461F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>6.2620</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30464E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>11.8402</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30464E</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>11.0173</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30466G</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>15.3770</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30467H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.1852</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30468K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.6502</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30468K</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.4132</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30469A</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>23.8129</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30469A</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>4.1519</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30470D</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.2934</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30470D</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>6.7430</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30472H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.9240</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30472H</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.5603</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30473E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.3674</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30473E</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>6.9223</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30478J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>22.8409</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30478J</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>7.4506</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30479B</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>13.8289</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30479B</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>15.1341</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30489F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.6704</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30489F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.6740</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30490H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.0893</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30490H</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>41.3906</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30491A</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.0965</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30491A</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>11.5700</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30493C</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.3474</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30493C</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>10.8755</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30494B</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>6.1349</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30494B</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>12.0978</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30495F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.0133</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30495F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.6663</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30500E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>12.6118</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30500E</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>14.9895</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30501C</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>6.4789</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30504J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.3774</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30504J</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.7260</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30506B</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>20.9665</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30506B</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>9.1729</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30508F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.2680</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30508F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.9193</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30509K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.6062</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30509K</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.9052</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30513E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>4.3881</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30513E</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>6.6608</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30514C</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.7697</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30514C</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>0.9122</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30517F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>8.3116</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30517F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.9674</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30518J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.8728</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30518J</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.5091</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30519B</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>7.0558</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30519B</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>24.1506</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30521E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>58.4229</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30523J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.2939</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30523J</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.3637</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30528A</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.9996</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-31 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30529F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>4.8305</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30529F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>7.9806</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30538G</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>11.3364</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-31 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30538G</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>17.6203</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30543D</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>29.0112</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30543D</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>12.9493</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30547K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.7372</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30547K</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.5251</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30552F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>9.4516</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30552F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>11.5247</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30553A</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>15.5932</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30553A</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>21.9644</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30554K</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>12.4576</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30554K</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>9.4164</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30555J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.7170</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30555J</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>3.9819</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30556D</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>17.3294</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30556D</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>4.3191</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30559G</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>7.5793</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30559G</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>12.2727</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30560F</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>7.2090</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30560F</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>11.4348</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30561J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>18.4894</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30561J</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>5.0091</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30568D</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>4.3001</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30568D</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>12.1521</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30570J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>78.5200</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30570J</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>16.7990</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30574D</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>6.3627</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30574D</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>4.1372</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30582J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.7771</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30582J</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.1114</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30583B</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>8.6298</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30583B</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>6.3107</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30584E</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>2.5683</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30584E</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>1.3423</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-31 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30587H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>8.0873</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30587H</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>15.7397</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30592B</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>18.5998</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30593H</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>11.3903</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30593H</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>20.4669</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30596J</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>33.6091</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30596J</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>7.4994</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30600C</cons_recordid_q1>
+    <redcap_event_name>v1_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>17.6929</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-08 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+  <row>
+    <cons_recordid_q1>IDeA30600C</cons_recordid_q1>
+    <redcap_event_name>v12_arm_1</redcap_event_name>
+    <redcap_repeat_instrument/>
+    <redcap_repeat_instance/>
+    <hepc_hepconcentration_q1>4.8333</hepc_hepconcentration_q1>
+    <hepc_dateproc_q2>2024-01-30 00:00</hepc_dateproc_q2>
+    <hepcidineresults_complete>2</hepcidineresults_complete>
+  </row>
+</data>

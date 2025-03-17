@@ -1,0 +1,1029 @@
+ck,participant_id,FirstName,LastName,DateOfBirth,VillageName  ,Sensitization status,Complete?
+40-007-01,EDN0001-D,Mariama ,Kandeh,05/08/1986,Wurokang,Seen,Complete
+40-007-02,EDN0002-B,Fatou,Darboe,01/12/2001,Wurokang,Seen,Complete
+40-007-03,EDN0003-H,Mariama,Jawara,15/06/1999,Wurokang,seen,Complete
+40-009-01,EDN0004-F,Mariama ,Camara,13/12/1985,Wurokang,seen,Complete
+40-008-04,EDN0005-K,Satou,Jammeh,14/10/1999,Wurokang,Seen,Complete
+40-019-01,EDN0006-J,Aminata,Camara,02/02/1992,Wurokang,Seen,Complete
+40-022-01,EDN0007-G,Aja Kaddy,Camara,09/12/1990,Wurokang,Seen,Complete
+40-010-01,EDN0008-E,Jainaba,Camara,15/09/1990,Wurokang,Seen,Complete
+40-025-04,EDN0009-C,Mariama ,Touray,15/04/1987,Wurokang,Seen,Complete
+40-015-02,EDN0010-B,Fatoumata,Jammeh,01/03/1996,Wurokang,Seen,Complete
+40-006-01,EDN0011-H,Nyima ,Sonko,16/05/1987,Wurokang,Seen,Complete
+40-001-02,EDN0012-F,Satou ,Sonko,26/10/1996,Wurokang,Seen,Complete
+40-025-08,EDN0013-A,Sally,Manneh,15/07/1996,Wurokang,Seen,Complete
+40-025-09,EDN0014-K,Nyomie,Darboe,11/03/1985,Wurokang,Seen,Complete
+40-029-01,EDN0015-J,Fatou,Sowe,05/07/2001,Wurokang,Seen,Complete
+41-002-01,EDN0016-D,Fatou,Demba,24/08/1990,Kwinella Sansankono,Seen,Complete
+41-035-02,EDN0017-E,Kaddy,Manneh,11/02/1992,Kwinella Sansankono,Seen,Complete
+41-017-01,EDN0018-C,Binta,Sanyang,20/05/2000,Kwinella Sansankono,Seen,Complete
+41-037-01,EDN0019-G,Iastou,Sanyang,11/09/1985,Kwinella Sansankono,Seen,Complete
+41-001-01,EDN0020-H,Naba,Sanyang,15/03/1998,Kwinella Sansankono,Seen,Complete
+41-010-01,EDN0021-A,Habisa,Manneh,25/05/1998,Kwinella Sansankono,Seen,Complete
+41-032-01,EDN0022-K,Nyimansatou,Trawally,24/08/1984,Kwinella Sansankono,Seen,Complete
+42-043-01,EDN0023-C,Fatou,Darboe,01/12/2002,Kwinella Nia Kunda,Seen,Complete
+42-041-01,EDN0024-B,Mariama,Ceesay,12/12/1991,Kwinella Sansankono,Seen,Complete
+42-044-01,EDN0025-F,Nyima,Dibba,06/10/1996,Kwinella Nia Kunda,Seen,Complete
+42-072-02,EDN0026-E,Musukebba ,Manjang,15/08/1987,Kwinella Nia Kunda,Seen,Complete
+42-072-01,EDN0027-J,Kaddy ,Manjang,22/12/1986,Kwinella Nia Kunda,Seen,Complete
+40-034-08,EDN0028-G,Kaddy,Sanyang,05/06/1990,Wurokang,Seen,Complete
+42-076-01,EDN0030-J,Maimuna,Dibba,12/12/2002,Kwinella Nia Kunda,Seen,Complete
+42-079-01,EDN0031-K,Natoma,Drammeh,15/02/1999,Kwinella Nia Kunda,Seen,Complete
+44-004-06,EDN0032-E,Adama,Darboe,26/01/1998,Bumarr,Seen,Complete
+42-053-02,EDN0033-F,Oumie,Drammeh,18/03/1991,Kwinella Nia Kunda,Seen,Complete
+42-071-02,EDN0034-D,Isatou,Jarjou,29/02/1996,Kwinella Nia Kunda,Seen,Complete
+42-126-01,EDN0035-G,Ramatoulie,Jallow,01/06/2001,Kwinella Nia Kunda,Seen,Complete
+42-051-02,EDN0036-C,Nyimasata ,Sanneh,15/06/1985,Kwinella Nia Kunda,Seen,Complete
+42-050-01,EDN0037-A,Fatou ,Kinteh,07/02/1990,Kwinella Nia Kunda,Seen,Complete
+42-066-01,EDN0038-B,Nyima,Sanyang,03/07/1984,Kwinella Nia Kunda,Seen,Complete
+42-066-02,EDN0039-H,Sally ,Yabo,07/07/1982,Kwinella Nia Kunda,Seen,Complete
+42-069-02,EDN0040-D,Bato,Sanyang,06/01/1992,Kwinella Nia Kunda,Seen,Complete
+42-067-01,EDN0041-G,Kaddy,Yabo,26/02/1992,Kwinella Nia Kunda,seen,Complete
+42-061-02,EDN0042-H,Fatou,Sanyang,07/12/1994,Kwinella Nia Kunda,Seen,Complete
+42-020-01,EDN0044-C,Kaddy,Demba,01/12/2001,Kwinella Nia Kunda,Seen,Complete
+42-125-01,EDN0045-A,Kaddy ,Camara,05/08/1997,Kwinella Nia Kunda,Seen,Complete
+42-060-01,EDN0046-K,Wonto,Dibba,15/03/1990,Kwinella Nia Kunda,Seen,Complete
+44-005-01,EDN0047-F,Kaddy ,Demba,15/09/1990,Kwinella Nia Kunda,Seen,Complete
+42-110-02,EDN0048-J,Nyima,Sanneh,05/10/2001,Kwinella Nia Kunda,Seen,Complete
+42-036-01,EDN0049-B,Mariama,Sey,06/07/2000,Kwinella Nia Kunda,Seen,Complete
+42-114-01,EDN0050-C,Hawa,Camara,04/04/1992,Kwinella Nia Kunda,Seen,Complete
+42-114-02,EDN0051-F,Aja,Camara,26/10/1996,Kwinella Nia Kunda,Seen,Complete
+42-032-02,EDN0052-J,Mai,Darboe,06/03/1993,Kwinella Nia Kunda,Seen,Complete
+43-026-01,EDN0053-B,Oumie,Jammeh,01/01/1990,Tendaba,Seen,Complete
+42-009-01,EDN0054-E,Awa,Bah,14/03/1993,Kwinella Nia Kunda,Seen,Complete
+42-011-01,EDN0055-D,Jalikatou,Sowe,04/06/1995,Kwinella Nia Kunda,Seen,Complete
+43-019-01,EDN0056-G,Lisa,Keita,15/07/1991,Tendaba,Seen,Complete
+42-015-02,EDN0057-H,Oumie,Ndurr,04/12/1998,Kwinella Nia Kunda,Seen,Complete
+42-074-01,EDN0058-K,Jainaba,Sanneh,28/12/1994,Kwinella Nia Kunda,Seen,Complete
+40-004-01,EDN0059-A,Hawa,Touray,01/01/1998,Wurokang,Seen,Complete
+42-053-01,EDN0060-K,Nyima ,Camara,18/05/1999,Kwinella Nia Kunda,Seen,Complete
+42-045-01,EDN0061-E,Mariama,Demba,14/07/1986,Kwinella Nia Kunda,Seen,Complete
+43-019-02,EDN0062-D,Kaddy,Famanta,14/09/2002,Tendaba,Seen,Complete
+43-020-01,EDN0063-J,Nyimasata ,Colley,01/04/1986,Tendaba,Seen,Complete
+42-080-01,EDN0064-G,Nyara,Manjang,06/09/1995,Kwinella Nia Kunda,Seen,Complete
+42-051-02,EDN0065-B,Nymasatou,Sanneh,15/06/1985,Kwinella Nia Kunda,Seen,Complete
+42-052-01,EDN0066-H,Isatou,Sarr,24/10/1990,Kwinella Nia Kunda,Seen,Complete
+42-025-02,EDN0067-C,Lisa,Sanyang,01/01/1997,Kwinella Nia Kunda,Seen,Complete
+42-098-01,EDN0068-A,Lamarana,Camara,16/09/2000,Kwinella Nia Kunda,Seen,Complete
+40-034-11,EDN0069-F,Fatou,Darboe,03/03/2003,Kwinella Nia Kunda,Seen,Complete
+42-095-01,EDN0070-F,Oumie K,Touray,07/09/2002,Kwinella Nia Kunda,Seen,Complete
+42-062-01,EDN0071-J,Chakunding,Dibba,17/04/1984,Kwinella Nia Kunda,Seen,Complete
+42-063-01,EDN0072-G,Penda,Trawally,15/06/2002,Kwinella Nia Kunda,Seen,Complete
+42-065-01,EDN0073-K,Nyima,Demba,01/07/1998,Kwinella Nia Kunda,Seen,Complete
+42-065-02,EDN0074-H,Binta,Yabo,07/06/1989,Kwinella Nia Kunda,Seen,Complete
+42-066-01,EDN0075-C,Nyima,Sanyang,03/07/1984,Kwinella Nia Kunda,Seen,Complete
+42-107-01,EDN0076-A,Nyima ,Manjang,01/02/1994,Kwinella Nia Kunda,Seen,Complete
+45-012-02,EDN0077-B,Mariama,Barrow,10/10/1993,Bambako,Seen,Complete
+45-016-01,EDN0078-D,Fatou,Drammeh,16/06/1993,Bambako,Seen,Complete
+45-014-02,EDN0079-E,Nyima ,Sanyang,20/01/1984,Bambako,seen,Complete
+45-012-03,EDN0080-G,Wuday,Colley,03/10/2000,Bambako,Seen,Complete
+45-007-01,EDN0081-B,Hawa,Sanneh,14/08/2000,Bambako,Seen,Complete
+45-028-01,EDN0082-C,Mariama,Dibba,08/03/1992,Bambako,Seen,Complete
+45-025-02,EDN0083-D,Fatoumata ,Barrow,15/06/1985,Bambako,Seen,Complete
+45-034-02,EDN0084-A,Mai,Manneh,10/02/1986,Bambako,Seen,Complete
+45-031-01,EDN0085-E,Nyimansatou,Yabo,08/04/1993,Bambako,Seen,Complete
+45-003-01,EDN0086-F,Nenegalleh,Touray,03/05/2001,Bambako,Seen,Complete
+54-005-01,EDN0087-K,Mariama,Sanneh,11/05/2001,Mandina Central,Seen,Complete
+47-006-05,EDN0088-H,Mariama,Jallow,05/06/1989,Nema,Seen,Complete
+45-034-01,EDN0089-J,Binta,Njie,16/06/1991,Bambako,Seen,Complete
+42-088-03,EDN0090-E,Mariama,Jallow,11/07/2003,Kwinella Nia Kunda,Seen,Complete
+42-019-01,EDN0091-C,Fatou,Darboe,06/04/1989,Kwinella Nia Kunda,Seen,Complete
+42-109-01,EDN0092-A,Mariama,Cham,02/12/1990,Kwinella Nia Kunda,Seen,Complete
+43-026-01,EDN0093-G,Oumie,Jammeh,01/01/1999,Tendaba,Seen,Complete
+42-110-01,EDN0094-J,Nyima,Sanneh,05/10/2001,Kwinella Nia Kunda,Seen,Complete
+42-115-01,EDN0095-H,Mariama,Darboe,21/12/1987,Kwinella Nia Kunda,Seen,Complete
+45-013-01,EDN0096-B,Fatou,Yabo,05/12/2001,Bambako,Seen,Complete
+54-009-05,EDN0097-D,Isatou,Yarbou,17/01/1998,Mandina Central,Seen,Complete
+30-009-004M,EDN0098-F,Fatoumata,Jobarteh,07/09/1982,Batelling,seen,Complete
+30-030-049h,EDN0099-K,Nyimansatou,Sanko,02/07/1988,Batelling,seen,Complete
+44-013-01,EDN0100-H,Fatou,Demba,24/11/1997,Bumarr,Seen,Complete
+44-014-01,EDN0101-A,Nyima,Demba,15/11/2002,Bumarr,Seen,Complete
+51-009-01,EDN0102-K,Penda,Bah,25/06/1984,Jiroff,Seen,Complete
+44-005-01,EDN0103-C,Kaddy,Demba,07/07/1995,Bumarr,Seen,Complete
+43-022-01,EDN0104-B,Adama,Bangura,15/06/1994,Tendaba,Seen,Complete
+44-010-02,EDN0105-F,Fatou,Sanneh,15/06/2003,Bumarr,Seen,Complete
+43-025-02,EDN0106-E,Sariba,Sarr,22/01/1994,Tendaba,Seen,Complete
+44-004-01,EDN0107-J,Fatou,Sanneh,13/01/1998,Bumarr,Seen,Complete
+44-015-03,EDN0108-G,Aminata,Fatty,24/06/2003,Bumarr,Seen,Complete
+44-002-01,EDN0109-D,Musukebba ,Darboe,26/02/1992,Bumarr,Seen,Complete
+44-006-03,EDN0110-J,Mariama,Dannso,01/01/2000,Bumarr,Seen,Complete
+44-004-02,EDN0111-K,Sarjo,Demba,14/01/2002,Bumarr,Seen,Complete
+44-005-02,EDN0112-E,Fatou,Demba,21/03/1999,Bumarr,Seen,Complete
+44-006-02,EDN0113-F,Kaddijatou,Darboe,01/01/1997,Bumarr,Seen,Complete
+44-006-01,EDN0114-D,Aminata,Ceesay,16/06/1994,Bumarr,Seen,Complete
+58-001-01,EDN0115-G,Penda,Sanyang,13/03/1986,Tabanani,Seen,Complete
+58-010-01,EDN0116-C,Fatou,Sowe,22/08/1991,Tabanani,Seen,Complete
+58-006-03,EDN0117-A,Sunkary,Jallow,09/05/1985,Tabanani,Seen,Complete
+45-025-01,EDN0118-B,Aminata,Danso,11/04/1985,Bambako,Seen,Complete
+58-003-02,EDN0119-H,Hawa,Jallow,15/07/1992,Tabanani,Seen,Complete
+58-003-01,EDN0120-D,Fatoumata,Bah,06/06/1992,Tabanani,Seen,Complete
+51-012-01,EDN0121-G,Hawa ,Bah,25/10/1985,Jiroff,Seen,Complete
+45-034-02,EDN0122-H,Mai,Manneh,10/06/1985,Bambako,Seen,Complete
+47-007-02,EDN0123-E,Eggeh,Jallow,11/01/2004,Nema,Seen,Complete
+53-004-02,EDN0124-C,Isatou,Jallow,15/05/1996,Jatta Kunda,Seen,Complete
+53-003-01,EDN0125-A,Hawa,Jobe,18/02/1995,Jatta Kunda,Seen,Complete
+47-009-01,EDN0126-K,Binta,Saidy,05/05/1988,Nema,Seen,Complete
+43-011-03,EDN0127-F,Hawa,Trawally,14/04/2003,Tendaba,Seen,Complete
+43-024-05,EDN0128-J,Fatou,Jallow,03/01/1999,Tendaba,Seen,Complete
+43-021-02,EDN0129-B,Oumie,Manjang,12/12/1986,Tendaba,Seen,Complete
+47-034-01,EDN0130-A,Aja,Korita,20/06/1994,Nema,Seen,Complete
+43-014-04,EDN0131-D,Fatou,Famata,01/01/2004,Tendaba,Seen,Complete
+50-008-02,EDN0132-B,Penda,Gibba,14/03/2000,Nema Kuta,Seen,Complete
+50-020-01,EDN0133-H,Nyimansatou,Kanteh,22/06/1994,Nema Kuta,Seen,Complete
+47-053-01,EDN0134-F,Arokey,Camara,25/08/1988,Nema,Seen,Complete
+50-002-03,EDN0135-K,Sirra F,Jallow,28/06/2000,Nema Kuta,Seen,Complete
+47-054-02,EDN0136-J,Isatou,jarju,13/01/2002,Nema,Seen,Complete
+40-037-02,EDN0137-G,Fatou,Darboe,27/12/1996,Wurokang,Seen,Complete
+40-039-01,EDN0138-E,Hawa,Sanneh,06/12/1991,Wurokang,Seen,Complete
+40-034-04,EDN0139-C,Fatou ,Njie,02/01/2003,Wurokang,Seen,Complete
+40-037-01,EDN0140-C,Fatou,Camara,29/01/1993,Wurokang,Seen,Complete
+40-014-01,EDN0141-F,Mariama,Sanyang,12/09/1996,Wurokang,seen,Complete
+48-012-01,EDN0142-J,Kaddy,Jammeh,23/01/1990,Kundang Numu Kunda,Seen,Complete
+40-016-02,EDN0143-B,Fatou ,Camra,29/10/2003,Wurokang,Seen,Complete
+48-013-03,EDN0144-E,Kaddy,Bah,05/02/1997,Kundang Numu Kunda,Seen,Complete
+40-010-02,EDN0145-D,Kaddijatou,Camara,31/05/2003,Wurokang,Seen,Complete
+40-032-02,EDN0146-G,Kaddy,Darboe,15/06/2003,Wurokang,Seen,Complete
+40-033-02,EDN0147-H,Sarjo,Darboe,15/06/1995,Wurokang,Seen,Complete
+40-034-09,EDN0148-K,Jomma,Njie,11/11/1987,Wurokang,Seen,Complete
+40-034-10,EDN0149-A,Fatou,Saidy,12/10/1988,Wurokang,Seen,Complete
+40-033-01,EDN0150-K,Habby,Camara,31/03/1988,Wurokang,Seen,Complete
+40-034-11,EDN0151-E,Fatou,Darboe,23/03/2003,Wurokang,Seen,Complete
+47-009-01,EDN0152-D,Binta,Saidy,05/05/1988,Nema,Seen,Complete
+47-031-01,EDN0153-J,Binta Marong,Fadera,01/01/1994,Nema,Seen,Complete
+43-003-03,EDN0154-G,Fatou,Badjie,26/09/1998,Tendaba,Seen,Complete
+47-012-01,EDN0155-B,Fatou ,Sanneh,11/02/1995,Nema,Seen,Complete
+47-034-03,EDN0156-H,Jainaba,Jawara,04/05/2001,Nema,Seen,Complete
+47-003-01,EDN0157-C,Mama,Cham,14/03/1999,Nema,Seen,Complete
+47-013-02,EDN0158-A,Mundow,Cham,08/02/1990,Nema,Seen,Complete
+47-013-01,EDN0159-F,Sally,Fadera,02/01/1996,Nema,Seen,Complete
+47-016-01,EDN0160-B,Jarra,Fatty,04/01/1994,Nema,Seen,Complete
+47-005-03,EDN0161-H,Nyimansatou,Fadera,15/06/2000,Nema,Seen,Complete
+47-025-03,EDN0162-F,Fatou,Fadera,31/12/1991,Nema,Seen,Complete
+47-032-01,EDN0163-A,Kaddijatou,Fadera,03/03/1994,Nema,Seen,Complete
+47-028-02,EDN0164-K,Aminata ,Fadera,09/05/1998,Nema,Seen,Complete
+48-004-01,EDN0165-J,Kumba,Konta,13/04/1995,KUNDANG NUMU KUNDA,Seen,Complete
+47-034-03,EDN0166-D,Jainaba,Jawara,01/05/2001,Nema,Seen,Complete
+47-034-04,EDN0167-E,Fatou Bintou,Jawara,22/12/2002,Nema,Seen,Complete
+47-011-01,EDN0168-C,Fatoumata,Fadera,24/02/2001,Nema,Seen,Complete
+52-004-01,EDN0169-G,Fatoumata,Bah,05/09/1987,Madina Angalleh,Seen,Complete
+47-005-01,EDN0170-G,Aja,Jabbie,03/01/2002,Nema,Seen,Complete
+47-006-02,EDN0171-B,Isatou,Bah,04/10/1998,Nema,Seen,Complete
+54-017-01,EDN0172-C,Fatoumata,Fadera,15/05/2001,Mandina Central,Seen,Complete
+54-008-01,EDN0173-D,Arokey,Jarju,01/01/1992,Mandina Central,Seen,Complete
+54-018-02,EDN0174-A,Nyima,Sanneh,02/03/1996,Mandina Central,Seen,Complete
+54-014-02,EDN0175-E,Mama,Fatty,09/11/1988,Mandina Central,Seen,Complete
+54-007-02,EDN0176-F,Tida ,Fadera,14/01/1992,Mandina Central,Seen,Complete
+54-018-01,EDN0178-H,Kumba,Sanneh,15/02/1992,Mandina Central,Seen,Complete
+54-021-02,EDN0179-J,Kaddy,Kinteh,10/11/1985,Mandina Central,Seen,Complete
+54-019-03,EDN0180-E,Fatou,Fanneh,11/06/1992,Mandina Central,Seen,Complete
+54-012-01,EDN0182-A,Belikis,Manka,01/01/1984,Mandina Central,Seen,Complete
+54-015-004,EDN0183-G,Nyima,Darboe,11/10/1986,Mandina Central ,Seen,Complete
+54-015-01,EDN0184-J,Fatoumata,Manjang,15/05/1989,Mandina Central,Seen,Complete
+54-005-03,EDN0185-H,Kaddy,Camara,10/03/1994,Madina Central,Seen,Complete
+54-005-03,EDN0187-D,Kaddy ,Camara,10/03/1994,Mandina Central,Seen,Complete
+47-046-02,EDN0188-F,Chamunding,Saho,15/04/1985,Nema,Seen,Complete
+47-038-01,EDN0191-J,Nyimanding,Sora,10/02/1989,Nema,Seen,Complete
+47-001-01,EDN0192-G,Fatoumata,Korta,19/07/1995,Nema,Seen,Complete
+47-027-01,EDN0193-K,Isatou,Jawara,01/05/1988,Nema,Seen,Complete
+47-028-01,EDN0194-H,Aminata ,Fadera,06/05/1995,Nema,Seen,Complete
+47-054-02,EDN0197-B,Isatou,Jarjue,13/01/2002,Nema,Seen,Complete
+47-024-01,EDN0198-D,Fatou,Fadera,01/02/1994,Nema,Seen,Complete
+47-035-03,EDN0199-E,Nyimansatou M,Fadera,05/07/2000,Nema,Seen,Complete
+47-037-03,EDN0201-K,Fatoumatta,Fadera,23/01/2000,Nema,Seen,Complete
+47-058-02,EDN0202-E,Isatou,Fadera,22/01/1993,Nema,Seen,Complete
+48-001-01,EDN0203-F,Musukebba,Fadera,05/07/1984,Kundang Numu Kunda,Seen,Complete
+47-046-01,EDN0204-D,Kaddy ,Fadera,01/08/1992,Nema,Seen,Complete
+47-005-06,EDN0205-G,Mama,Seckan,15/06/1990,Nema,Seen,Complete
+47-043-03,EDN0206-C,Nyimansatou,Fadera,02/02/1994,Nema,Seen,Complete
+47-033-01,EDN0207-A,Kaddy,Fadera,22/06/1985,Nema,Seen,Complete
+47-027-03,EDN0210-A,Adama,Fadera,06/06/1998,Nema,Seen,Complete
+47-023-01,EDN0211-D,Fatou,Kanyi,03/11/1992,Nema,Seen,Complete
+47-037-02,EDN0212-B,Manding,Camara,31/01/2003,Nema,Seen,Complete
+47-045-01,EDN0213-H,Sangiba ,Gitteh,16/09/2003,Nema,Seen,Complete
+47-056-01,EDN0214-F,Yaidinding,Fadera,01/06/1992,Nema,Seen,Complete
+47-045-04,EDN0215-K,Mama,Drammeh,03/03/1993,Nema,Seen,Complete
+47-008-01,EDN0216-J,Isatou,Fadera,05/01/1995,Nema,Seen,Complete
+43-020-01,EDN0217-G,Nyimasata,Colley,01/04/1986,Tendaba,Seen,Complete
+47-059-01,EDN0218-E,Nyimansatou,Fatty,03/01/1996,Nema,Seen,Complete
+47-058-03,EDN0219-C,Adama,Korta,01/06/1991,Nema,Seen,Complete
+47-035-01,EDN0220-C,Hawa,Fadera,22/10/1997,Nema,Seen,Complete
+47-026-02,EDN0221-F,Bakoto,Camara,01/02/1987,Nema,Seen,Complete
+47-023-02,EDN0222-J,Sarjo,Gitteh,07/06/1991,Nema,Seen,Complete
+47-021-01,EDN0224-E,Fatou,Jallow,14/01/1992,Nema,Seen,Complete
+47-045-03,EDN0225-D,Kaddy,Demba,01/01/1997,Nema,Seen,Complete
+47-037-01,EDN0226-G,Fatoumata,Fadera,25/11/2002,Nema,Seen,Complete
+47-028-04,EDN0227-H,Fatoumata,Kanyi,16/06/1999,Nema,Seen,Complete
+41-017-01,EDN0228-K,Binta,Sanyang,20/05/2000,Kwinella Sansakono,Seen,Complete
+47-043-01,EDN0229-A,Aminata,Fadera,11/03/1991,Nema,Seen,Complete
+41-032-01,EDN0230-E,Habisa,Manneh,01/01/1996,Kwinella Sansakono,Seen,Complete
+47-001-01,EDN0231-C,fatou,Korta,02/06/1998,Nema,Seen,Complete
+47-038-03,EDN0232-A,Isatou,Korta,13/08/2003,Nema,Seen,Complete
+47-005-08,EDN0233-G,Binta,Fadera,12/12/1994,Nema,Seen,Complete
+42-079-01,EDN0234-J,Natoma,Drammeh,15/02/1999,Kwinella Nia Kunda,Seen,Complete
+47-008-02,EDN0235-H,Kaddijatou,Fadera,30/10/2002,Nema,Seen,Complete
+47-040-01,EDN0236-B,Wontonding,Fadera,01/01/1996,Nema,Seen,Complete
+40-034-03,EDN0237-D,Mariama,Darboe,03/02/2003,Wurokang,Seen,Complete
+40-034-12,EDN0238-F,Sammie,Ceesay,11/07/1986,Wurokang,Seen,Complete
+40-034-02,EDN0239-K,Fatoumatta, Darboe,18/06/2003,Wurokang,Seen,Complete
+53-004-01,EDN0240-H,Hulay,Jawo,30/09/1998,Jatta Kunda,Seen,Complete
+30-017-030E,EDN0242-K,Kaddy ,Jassey,02/07/1983,Batelling,seen,Complete
+56-078-01,EDN0243-C,Oumie,Bah,10/06/1988,Sibeto,Seen,Complete
+56-080-01,EDN0244-B,Kaddijatou,Sallah,01/01/1992,Sibeto,Seen,Complete
+30-001-103P,EDN0245-F,Nyimansatou,Jammeh,02/07/1987,Batelling,seen,Complete
+30-010-025T,EDN0246-E,Fatoumata,Sowe,15/12/1996,Batelling,seen,Complete
+30-004-010k,EDN0247-J,SATOU ,SONKO,02/07/1986,Batelling,seen,Complete
+05-022-010G,EDN0248-G,Awa ,Barrow,08/09/1993,Batelling,seen,Complete
+30-001-068G,EDN0249-D,Kaddy ,Mambureh,01/01/1987,Batelling,seen,Complete
+44-004-05,EDN0250-D,Fatou,Camara,15/06/2003,Bumarr,Seen,Complete
+61-001-02,EDN0251-G,Yassin ,Jawo,15/11/1994,Sarre Mamudu,seen,Complete
+47-005-10,EDN0252-H,Fatoumatta,Badjie,28/05/2000,Nema,Seen,Complete
+60-007-02,EDN0254-C,Kumba,Njie,05/01/2000,Willingara,Seen,Complete
+60-003-01,EDN0255-A,Ramatoulie,Jallow,15/07/2000,Willingara,Seen,Complete
+52-062-01,EDN0256-K,Binta,Jarju,09/08/1993,Madina Angelleh,Seen,Complete
+52-062-02,EDN0257-F,Hawa,Bah,28/03/1986,Madina Angelleh,Seen,Complete
+52-005-01,EDN0258-J,Fatoumata,Bah,23/03/1997,Madina Angelleh,Seen,Complete
+40-016-02,EDN0259-B,Fatou,Camara,21/05/2003,wurokang,Seen,Complete
+48-012-02,EDN0260-G,Sireh,Mambureh,12/01/1996,KUNDANG NUMU KUNDA,Seen,Complete
+48-013-03,EDN0263-D,Kaddy,Bah,12/02/1997,KUNDANG NUMU KUNDA,Seen,Complete
+48-007-02,EDN0264-A,Nyima,Cham,02/03/2001,KUNDANG NUMU KUNDA,Seen,Complete
+47-027-02,EDN0265-E,Tida,Korta,03/04/1995,Nema,Seen,Complete
+48-001-02,EDN0266-F,Fatou,Suso,15/01/1988,Kundong Numu Kunda,Seen,Complete
+48-001-01,EDN0268-H,Musukebba ,Fadera,05/07/1984,KUNDANG NUMU KUNDA,Seen,Complete
+30-010-023R,EDN0269-J,Kaddy ,Bah,02/07/1993,Batelling,seen,Complete
+51-001-01,EDN0270-K,Kaddy ,Bah,13/03/1993,Jirrof,Seen,Complete
+51-014-01,EDN0271-E,Binta,Colley,06/06/1992,Jirrof,Seen,Complete
+51-022-01,EDN0273-J,Oumie ,Drammeh,15/03/1993,Jiroff,Seen,Complete
+51-014-02,EDN0274-G,Fatou,Sanneh,16/08/1990,Jiroff,Seen,Complete
+52-065-04,EDN0275-B,Isatou,Bah,02/05/1998,Madina Angelleh,Seen,Complete
+52-066-02,EDN0276-H,Adama,Jobe,04/03/1996,Madina Angelleh,Seen,Complete
+52-011-01,EDN0278-A,Kumba,Sowe,04/01/1990,Madina Angelleh,Seen,Complete
+52-008-01,EDN0279-F,Jainaba,Colley,09/08/1999,Madina Angelleh,Seen,Complete
+52-009-01,EDN0280-F,Sonna,Camara,12/03/1987,Madina Angelleh,Seen,Complete
+52-013-02,EDN0281-J,Fatou,Ndow,08/01/1996,Madina Angelleh,Seen,Complete
+52-069-02,EDN0282-G,Fatou,Mendy,05/03/1999,Madina Angelleh,Seen,Complete
+52-069-01,EDN0283-K,Zenet V,Bass,06/05/1997,Madina Angelleh,Seen,Complete
+52-069-04,EDN0284-H,Fatoumata,Sanneh,01/01/1992,Madina Angalleh,Seen,Complete
+52-069-06,EDN0285-C,Kani M,Trawally,22/07/1996,Madina Angalleh,Seen,Complete
+52-006-01,EDN0287-B,Aja,Kolley,15/06/2002,Madina Angelleh,Seen,Complete
+52-066-01,EDN0288-D,Hawa,Sey,10/05/1986,Madina Angelleh,Seen,Complete
+52-063-03,EDN0289-E,Isata,Dem,16/06/2000,Madina Angelleh,Seen,Complete
+52-063-02,EDN0290-B,Fatoumatou,Sey,04/01/1997,Madina Angelleh,Seen,Complete
+52-004-01,EDN0291-H,Fatoumata,Bah,05/09/1987,Madina Angelleh,Seen,Complete
+52-008-02,EDN0292-F,Halimatou,Jallow,15/07/1999,Madina Angelleh,Seen,Complete
+52-052-02,EDN0293-A,Adama,Colley,05/06/1999,Madina Angelleh,Seen,Complete
+52-056-01,EDN0294-K,Haja,Jallow,15/07/2003,Madina Angelleh,Seen,Complete
+52-056-02,EDN0295-J,Isatou ,Ann,11/04/2000,Madina Angelleh,Seen,Complete
+52-010-01,EDN0296-D,Boye,Sowe,04/01/1997,Madina Angelleh,Seen,Complete
+61-005-01,EDN0297-E,Ramatoulie,Ceesay,28/03/1995,Sare Mamudu,Seen,Complete
+61-001-02,EDN0298-C,Sona,Colley,10/01/1995,Sare Mamudou,Seen,Complete
+61-003-02,EDN0300-K,Sally,Bah,02/02/1992,Sare Mamudu,Seen,Complete
+50-020-01,EDN0302-D,Nymasatou,Kanteh,22/06/1994,Nema Kuta,Seen,Complete
+30-018-006S,EDN0303-J,Habisatou,Jobarteh,02/07/1990,Batelling,seen,Complete
+61-007-01,EDN0304-G,Fatima ,Jallow,10/11/1984,Sare Mamudou,seen,Complete
+30-019-052Y,EDN0305-B,Fatou,Trawally,17/07/1989,Batelling,seen,Complete
+30-002-023Z,EDN0306-H,Fatou,Sanneh,07/01/1992,Batelling,seen,Complete
+52-055-02,EDN0307-C,Isatou,Sey,14/10/1998,Madina Angelleh,Seen,Complete
+51-028-01,EDN0308-A,Lisa ,Ceesay,01/06/1986,Jiroff,Seen,Complete
+52-054-01,EDN0309-F,Faddy,Ceesay,01/04/1997,Madina Angelleh,Seen,Complete
+52-057-01,EDN0310-C,Gabudeh,Bah,26/12/1991,Madina Angelleh,Seen,Complete
+01-033-110A,EDN0311-F,Fatou Wonto,Camara,02/07/1992,Dumbuto,Seen,Complete
+01-016-021T,EDN0312-J,Mariama,Jaiteh,02/07/1995,Dumbuto,Seen,Complete
+01-030-053L,EDN0313-B,Olimatou,Trawally,02/07/1998,Dumbuto,Seen,Complete
+01-044-036G,EDN0314-E,Nyima ,Darboe,02/07/1998,Dumbuto,Seen,Complete
+01-007-007B,EDN0315-D,Fatou ,Darboe,02/07/1983,Dumbuto,Seen,Complete
+01-019-012U,EDN0316-G,MamJarra,Tamba,02/06/1995,Dumbuto,Seen,Complete
+01-007-008C,EDN0317-H,Fatoumata,Darboe,01/03/2003,Dumbuto,Seen,Complete
+01-035-013F,EDN0318-K,Hawa,Fadera,02/07/1984,Dumbuto,Seen,Complete
+01-016-031D,EDN0319-A,Mariama,Sonko,02/07/1992,Dumbuto,Seen,Complete
+01-029-032E,EDN0320-G,Alimatou,Kinteh,25/01/1985,Dumbuto,Seen,Complete
+04-021-003Z,EDN0321-B,Binta,Jarju,24/09/1996,Dumbuto,Seen,Complete
+01-007-006A,EDN0322-C,Fatou,Darboe,02/07/1987,Dumbuto,Seen,Complete
+16-020-002Y,EDN0323-D,Kaddy,Jassey,13/06/1996,Dumbuto,seen,Complete
+01-008-008O,EDN0324-A,Nyimansatou ,Kinteh,15/09/1995,Dumbuto,Seen,Complete
+17-013-011P,EDN0325-E,Mariama,Marri,13/09/1998,Dumbuto,Seen,Complete
+01-024-013D,EDN0326-F,Nyima ,Manjang,02/07/1984,Dumbuto,Seen,Complete
+32-008-005D,EDN0327-K,Sainabou,Camara,15/11/2001,Wudeba,Seen,Complete
+32-018-002Q,EDN0328-H,Jaila,Sey,02/07/1995,Wudeba,seen,Complete
+11-003-088S,EDN0329-J,Mariama,Sise,20/04/1992,Wudeba,seen,Complete
+32-015-009N,EDN0330-D,Kaddy ,Jallow,02/07/1997,Wudeba,seen,Complete
+32-006-003D,EDN0331-G,Binta ,Jallow,13/07/1993,Wudeba,seen,Complete
+32-015-002G,EDN0332-H,Isatou ,Sise,02/07/1993,Wudeba,seen,Complete
+02-009-004K,EDN0333-E,Nyimanding,Sise,20/05/1998,Sankandy,seen,Complete
+02-008-035D,EDN0334-C,Fatoumata,Camara,02/07/1985,Sankandi,seen,Complete
+02-009-057L,EDN0335-A,Mariama,Darboe,02/07/1996,Sankandy,seen,Complete
+02-008-032A,EDN0336-K,Aminata,Darboe,02/07/1982,Sankandy,seen,Complete
+02-048-007N,EDN0337-F,Kumba,Mballow,02/07/1987,Sankandy,seen,Complete
+02-015-078A,EDN0338-J,Awa ,Dibba,02/07/1986,Sankandy,seen,Complete
+02-008-008C,EDN0339-B,Isatou ,Manjang,21/01/2003,Sankandy ,seen,Complete
+02-014-027P,EDN0340-B,Ramatoulie,Jallow,02/07/1985,Sankandi,Seen,Complete
+02-014-036Y,EDN0341-H,Adama ,Conteh,02/07/1984,Sankandy,seen,Complete
+08-007-005T,EDN0342-F,Naffie,Joof,05/12/2003,Sankandi,seen,Complete
+02-014-003R,EDN0343-A,Binta,Drammeh,01/05/2001,Sankandi,seen,Complete
+02-027-006U,EDN0344-K,Ramatoulie,Darboe,02/07/1996,Sankandi,seen,Complete
+02-048-015V,EDN0345-J,Kaddy,Sabally,02/07/1991,Sankandy,seen,Complete
+02-015-005F,EDN0346-D,Adama,Darboe,02/07/1996,Sankandy,seen,Complete
+06-026-086O,EDN0347-E,Hassanatou,Jallow,02/07/1987,Sankandi,seen,Complete
+02-048-012S,EDN0348-C,Fatou,Sowe,11/05/1993,Sankandy,seen,Complete
+29-080-007V,EDN0349-G,Binta,Sise,21/01/1996,Sankandy,seen,Complete
+13-001-131N,EDN0350-F,Alimatou,Jallow,02/07/1999,Sankandi,seen,Complete
+02-015-052A,EDN0351-J,Aminata,Darboe,02/07/1987,Sankandi,seen,Complete
+02-012-063B,EDN0352-G,Isatou,Jallow,02/07/1998,Sankandi,Undecided,Complete
+04-024-045Z,EDN0353-K,Binta,Sanneh,02/07/2000,Sankandi,seen,Complete
+10-011-109R,EDN0354-H,Fatou,Sise,10/01/1996,Sankandy,seen,Complete
+02-005-011V,EDN0355-C,Fatoumata ,Sise,24/11/2002,Sankandy,seen,Complete
+02-034-009D,EDN0356-A,Rokiatou,Touray,03/01/1986,Sankandy,seen,Complete
+02-006-011H,EDN0357-B,Nyima,Sise,04/05/1989,Sankandi,Complete,Complete
+02-008-073P,EDN0358-D,Kumba,Baldeh,14/01/1995,Sankandi,Complete,Complete
+02-042-008U,EDN0359-E,Jarra,Manjang,15/12/1989,Sankandi,Complete,Complete
+02-025-029T,EDN0360-E,Mariama,Barrow,23/02/1996,Sankandi,Complete,Complete
+02-006-022S,EDN0361-C,Fatoumata,Drammeh,02/07/1985,Sankandi,Complete,Complete
+04-001-001R,EDN0362-A,Kaddy ,Sanneh,17/05/1999,Dumbuto,seen,Complete
+04-010-010E,EDN0363-G,Halima,Touray,26/01/2003,JATTABA,seen,Complete
+32-007-007T,EDN0364-J,Adama Wurry,Jallow,02/07/1988,Wudeba,seen,Complete
+32-010-004A,EDN0365-H,Saffiatou,Jallow,02/07/1995,Wudeba,seen,Complete
+01-033-102S,EDN0366-B,Isatou,Sise,02/07/1990,Dumbuto,seen,Complete
+07-022-007F,EDN0367-D,Hawa,Bajo,17/12/1989,Dumbuto,seen,Complete
+01-039-022K,EDN0368-F,Ramatoulie,Darboe,15/12/2002,Dumbuto,seen,Complete
+05-065-036C,EDN0369-K,Fatou,Barrow,25/11/1998,Dumbuto,Seen,Complete
+01-021-018Y,EDN0370-A,Nyimanding,Saidy,24/09/2001,Dumbuto,Seen,Complete
+02-015-037L,EDN0371-D,Fatou ,Drammeh,02/07/1991,Dumbuto,seen,Complete
+04-037-012S,EDN0375-K,Kaddy ,Njai,02/07/1987,JATTABA,seen,Complete
+04-001-021L,EDN0376-J,Fatou ,Sanneh,29/09/1992,Jattaba,seen,Complete
+04-043-002C,EDN0377-G,Mai,Sanneh,27/11/2002,Jattaba,seen,Complete
+03-019-045D,EDN0378-E,Isatou,Ann,18/02/1996,Nioro Jattaba,seen,Complete
+03-063-032Y,EDN0379-C,Isatou,Jobe,02/07/1984,Nioro Jattaba,seen,Complete
+03-022-044M,EDN0380-H,Fatoumata,Jobe,02/07/1987,Nioro Jattaba,seen,Complete
+03-041-020I,EDN0381-A,Maimuna,Bah,02/07/1988,Nioro Jattaba,seen,Complete
+03-017-011X,EDN0382-K,Adama,Bah,19/04/1992,Nioro Jatta,seen,Complete
+03-027-014Q,EDN0383-C,Hawa,Sey,25/07/1998,Nioro Jatta,seen,Complete
+03-029-014O,EDN0384-B,Hawa,Bah,02/07/1990,Nioro Jatta,seen,Complete
+03-001-068S,EDN0385-F,Hawa,Bah,02/07/1996,Nioro Jatta,seen,Complete
+03-068-007H,EDN0386-E,Mahani,Jobe,02/07/1985,Nioro Jattaba,Seen,Complete
+03-069-009V,EDN0387-J,Fatoumata,Bah,02/07/1988,Nioro Jattaba,SEN0951-K,Complete
+05-033-024W,EDN0388-G,Nyimanding,Taal,06/07/1989,Nioro Jattaba,Seen,Complete
+03-021-048E,EDN0389-D,Jaila,Bah,02/07/1999,Nioro Jattaba,Seen,Complete
+03-067-017F,EDN0390-J,Jainaba,Jallow,02/07/1984,Nioro Jattaba,Seen,Complete
+03-060-009R,EDN0391-K,Maimuna,Colley,02/07/1989,Nioro Jattaba,Seen,Complete
+03-060-008Q,EDN0392-E,Mamie,Jobe,02/07/1988,Nioro Jattaba,Seen,Complete
+03-001-055F,EDN0393-F,Jaila,Bah,02/07/1991,Nioro Jattaba,Seen,Complete
+03-059-039J,EDN0394-D,Tabara,Jobe,12/05/1987,Wudeba,Seen,Complete
+03-063-026S,EDN0395-G,Jainaba,Bah,18/08/1994,Nioro Jattaba,Seen,Complete
+03-059-035F,EDN0396-C,Hawa,Bah,13/07/1989,Nioro Jattaba,Seen,Complete
+03-059-035F,EDN0397-A,Hawa,Bah,13/07/1989,Nioro Jattaba,Seen,Complete
+03-001-043T,EDN0398-B,Aja Ndey,Jallow,07/02/1987,Nioro Jattaba,Seen,Complete
+04-030-002C,EDN0399-H,Adama,Marong,18/12/2001,Jattaba,Seen,Complete
+04-021-006C,EDN0400-B,Fatou,Jarju,16/03/1999,Jattaba,Seen,Complete
+01-025-014Q,EDN0401-H,Fatoumata,Darboe,02/07/1987,Jattaba,Seen,Complete
+04-006-050W,EDN0402-F,Aminata,Jammeh,26/05/1993,Jattaba,Seen,Complete
+04-007-039X,EDN0403-A,Isatou,Darboe,02/07/1983,Jattaba,Seen,Complete
+04-001-080S,EDN0404-K,Mariama,Fadera,02/07/1988,Jattaba,Seen,Complete
+04-005-023J,EDN0405-J,Habisatou,Touray,20/01/1983,Jattaba,Seen,Complete
+61-003-03,EDN0406-D,Adama,Jallow,01/01/1990,Sare Mamudou,seen,Complete
+53-017-01,EDN0407-E,Halimatou,Jallow,01/01/1990,Jatta Kunda,seen,Complete
+30-006-005D,EDN0408-C,Mai ,Sanyang,09/12/1996,Batelling,seen,Complete
+51-028-01,EDN0410-F,Rabiatou,Manka,19/09/1983,Jirof,seen,Complete
+51-028-03,EDN0411-J,Fatou ,Janneh,10/08/1998,Jirof,seen,Complete
+61-003-01,EDN0412-G,Jaila,Chune,21/03/1987,Sarreh Mamudou,seen,Complete
+04-012-041H,EDN0413-K,Fatou,Darbo,06/11/1995,Jattaba,seen,Complete
+04-043-021V,EDN0414-H,Fatou,Sowe,02/07/1986,Jattaba,seen,Complete
+04-008-133Z,EDN0415-C,Juldeh,Jawo,07/02/1994,Jattaba,seen,Complete
+04-026-042U,EDN0416-A,Aja,Jaiteh,02/07/1984,Jattaba,seen,Complete
+04-012-025R,EDN0417-B,Talla,Touray,02/07/1984,Jattaba,seen,Complete
+03-066-014Q,EDN0418-D,Kaddy,Bah,13/11/2003,Nioro Jattaba,seen,Complete
+03-025-008M,EDN0419-E,Hulay,Bah,15/08/2003,Niorro Jattaba,seen,Complete
+03-066-009L,EDN0420-J,Hawa,Jallow,21/01/1990,Niorro Jattaba,seen,Complete
+03-002-059V,EDN0421-K,Jalla,Jallow,11/01/1992,Nioro Jatttaba,seen,Complete
+03-025-007L,EDN0422-E,Delam,Bah,12/12/2000,Nioro Jattaba,seen,Complete
+03-020-021R,EDN0423-F,Delam,Touray,16/04/1994,Nioro Jattaba,seen,Complete
+03-020-016M,EDN0424-D,Amie,Jallow,02/07/1986,Niorro Jattaba,seen,Complete
+03-026-010A,EDN0425-G,Nari,Sey,02/07/1995,Nioro Jattaba,seen,Complete
+03-001-004G,EDN0426-C,Adama,Bah,21/07/1992,Nioro Jattaba,seen,Complete
+03-007-007D,EDN0427-A,Isatou,Jallow,02/07/1987,Niorro Jattaba,seen,Complete
+03-016-025Z,EDN0428-B,Adama,Colley,10/10/1991,Nioro Jattaba,seen,Complete
+03-063-024Q,EDN0429-H,Hawa,Bah,18/07/1989,Nioro Jatta,Seen,Complete
+03-010-009P,EDN0430-G,Sirra,Sowe,02/07/1991,Nioro Jatta,seen,Complete
+03-002-004S,EDN0431-B,Kaddijatou,Bah,31/08/1991,Nioro Jatta,seen,Complete
+03-013-008Y,EDN0432-C,Mariama,Colley,02/07/1984,Nioro Jatta,seen,Complete
+04-019-013L,EDN0433-D,Mai,Njai,17/10/1987,JATTABA,seen,Complete
+04-001-009Z,EDN0434-A,Fatoumata,Sanneh,02/07/1984,JATTABA,seen,Complete
+04-027-002S,EDN0435-E,Hawa,Touray,01/12/2000,JATTABA,seen,Complete
+04-008-135B,EDN0436-F,Fatou,Trawally,02/07/2001,JATTABA,seen,Complete
+04-003-046I,EDN0437-K,Kaddy ,Sise,15/01/1983,JATTABA,seen,Complete
+04-036-014I,EDN0438-H,Borry,Sanneh,02/07/1985,JATTABA,seen,Complete
+27-004-002M,EDN0439-J,Tida,Jarra,16/02/1996,JATTABA,seen,Complete
+04-012-064E,EDN0440-E,Binta,Camara,02/07/1988,JATTABA,seen,Complete
+04-004-002C,EDN0441-C,Aminata,Sanneh,12/09/1999,JATTABA,seen,Complete
+04-009-087R,EDN0442-A,Kumba,Sise,04/03/1995,JATTABA,seen,Complete
+04-011-019Z,EDN0443-G,Fatoumata,Touray,24/09/2003,JATTABA,seen,Complete
+04-036-038G,EDN0444-J,Sarjo,Sise,02/07/2001,JATTABA,seen,Complete
+04-012-023P,EDN0445-H,Fatou S,Camara,02/07/1989,JATTABA,seen,Complete
+04-012-005X,EDN0446-B,Natoma,Camara,30/06/1998,JATTABA,Seen,Complete
+03-016-016Q,EDN0448-F,Jarra,Bah,02/07/1984,Nioro Jatta,Seen,Complete
+03-066-007J,EDN0449-K,Adama,Bah,02/07/1987,Nioro Jatta,Seen,Complete
+03-016-031F,EDN0450-A,Hawa,Colley,02/07/1992,Nioro Jatta,seen,Complete
+03-052-027R,EDN0451-D,Kumba,Jallow,02/07/1989,Nioro Jatta,Seen,Complete
+04-018-008U,EDN0453-H,Mariama,Jallow,02/07/1991,Nioro Jatta,Seen,Complete
+07-019-003R,EDN0454-F,Fatoumata ,Barry,07/11/2000,Nioro Jatta,Seen,Complete
+03-027-013P,EDN0455-K,Hawa,Sey,10/09/2001,Nioro Jatta,Seen,Complete
+03-052-021L,EDN0456-J,Mariama,Jobe,09/07/1990,Nioro Jatta,Seen,Complete
+03-023-005L,EDN0457-G,Isata,Bah,02/07/1987,Nioro Jatta,Seen,Complete
+03-023-097Z,EDN0458-E,Jarra,Colley,02/07/1994,Nioro Jatta,Seen,Complete
+03-029-024Y,EDN0459-C,Adama ,Gano,02/07/1991,Nioro Jatta,seen,Complete
+03-066-018U,EDN0460-C,Hawa,Jobe,02/07/1985,Nioro Jatta,Seen,Complete
+03-027-035L,EDN0461-F,Sainabou,Colley,25/05/1999,Nioro Jatta,Seen,Complete
+03-023-016W,EDN0462-J,Mariama,Jallow,02/07/1985,Nioro Jatta,Seen,Complete
+04-040-006W,EDN0463-B,Sukai,Sanneh,02/07/1994,JATTABA,seen,Complete
+05-002-038C,EDN0464-E,Isatou ,Drammeh,19/12/1995,JATTABA,Seen,Complete
+04-009-103H,EDN0465-D,Isatou ,Sanneh,02/07/1994,JATTABA,seen,Complete
+11-028-033D,EDN0466-G,Jankeh Mariama,Samateh,12/03/1987,JATTABA,Seen,Complete
+04-048-007P,EDN0467-H,Asiatou,Jallow,02/07/1986,JATTABA,Seen,Complete
+04-007-062U,EDN0468-K,Fatou,Sise,06/02/1989,JATTABA,Seen,Complete
+04-035-007P,EDN0469-A,Malado,Kanteh,02/07/1987,JATTABA,seen,Complete
+04-033-015Z,EDN0470-D,Salimata,Jallow,02/07/1990,JATTABA,Seen,Complete
+04-003-075L,EDN0471-G,Kundo Fatoumata,Darboe,30/07/2003,JATTABA,Seen,Complete
+04-009-093X,EDN0472-H,Kaddy,Colley,02/07/1990,JATTABA,Seen,Complete
+31-005-016Q,EDN0475-A,Fatou,Darboe,19/05/1988,Sandeng,Seen,Complete
+02-030-021T,EDN0476-K,Mariama,Sise,27/07/1998,Sandeng,Seen,Complete
+04-001-016G,EDN0477-F,Kaddy,Sanneh,12/02/1986,Sandeng,Seen,Complete
+04-009-075F,EDN0478-J,Fatou,Njai,02/10/1992,Sandeng,Seen,Complete
+31-015-002S,EDN0479-B,Isatou,Jobe,10/02/1986,Sandeng,Seen,Complete
+04-009-076G,EDN0480-K,Mariama,Touray,02/07/1991,Sandeng,Seen,Complete
+31-015-004U,EDN0481-E,Nyima,Jarjou,06/06/2003,Sandeng,Seen,Complete
+31-004-007V,EDN0482-D,Isatou,Njai,06/01/1998,Sandeng,Seen,Complete
+31-013-008A,EDN0483-J,Halimatou,Jobe,07/08/1997,Sandeng,Seen,Complete
+31-018-005F,EDN0484-G,Fatou,Sowe,02/07/2002,Sandeng,Seen,Complete
+31-013-015H,EDN0485-B,Nyako,Manjang,06/06/1992,Sandeng,Seen,Complete
+31-014-020Y,EDN0486-H,Kaddy ,Njai,29/04/2001,Sandeng,Seen,Complete
+31-001-047Z,EDN0487-C,Saffiatou,Saidy,16/05/2003,Sankandi,Seen,Complete
+31-001-025D,EDN0488-A,Kaddijatou,Saidy,20/09/2002,Sandeng,Seen,Complete
+31-003-019V,EDN0489-F,Kaddijatou,Touray,02/12/2001,Sankandi,Seen,Complete
+03-053-010M,EDN0490-H,Hawa,Jallow,02/07/1993,Nioro Jatta,Seen,Complete
+03-046-013J,EDN0491-A,Ngibou,Sowe,02/07/1988,Nioro Jatta,Seen,Complete
+03-074-010E,EDN0492-K,Isata,Jobe,02/07/1995,Nioro Jatta,Seen,Complete
+03-041-017F,EDN0493-C,Mahani,Bah,02/07/1996,Nioro Jatta,Seen,Complete
+47-035-06,EDN0494-B,Fatou,Jarju,01/01/1987,Nema ,Seen,Complete
+03-026-016G,EDN0496-E,Fatou,Bah,15/06/1992,Nioro Jatta,Seen,Complete
+03-019-032Q,EDN0497-J,Adama,Jobe,02/07/1997,Nioro Jatta,Seen,Complete
+47-027-01,EDN0498-G,Isatou,Jawara,05/07/1989,Nema,Seen,Complete
+47-040-01,EDN0500-E,Wontonding,Fadera,01/01/1996,Nema,Seen,Complete
+47-005-10,EDN0504-J,Fatoumatta,Badjie,05/05/2000,Nema,Seen,Complete
+03-061-006A,EDN0505-H,Mariama,Sowe,02/07/1989,Nioro Jatta,Seen,Complete
+00-016-297V,EDN0506-B,Fatoumata ,Gano,02/07/2000,Niorro Jataba,Complete ,Unverified
+03-041-036Y,EDN0507-D,Nyima,Sise,09/11/1993,Nioro Jatta,Seen,Complete
+03-043-010W,EDN0508-F,Jaila,Jallow,02/07/1987,Nioro Jatta,Seen,Complete
+51-014-01,EDN0509-K,Binta,colley,08/06/1992,Nema Kuta,Seen,Complete
+03-081-001B,EDN0510-D,Adama,Jobe,02/07/2000,Nioro Jatta,Seen,Complete
+04-009-122A,EDN0511-G,Fatou ,Touray ,02/07/1997,Jataba,Seen,Complete
+04-016-036U,EDN0512-H,Isatou ,Susso,02/07/1983,Jataba,Complete ,Unverified
+04-015-033J,EDN0514-C,Binta ,Sanneh ,09/05/1994,Jataba,Complete ,Complete
+40-016-04,EDN0518-J,Nyimansatou,Jammeh,17/09/1984,Wurokang,Seen,Complete
+40-015-03,EDN0519-B,Fatou,Touray,03/06/2001,Wurokang,Seen,Complete
+41-039-02,EDN0520-K,Bintou,Sanyang,,Sansankono,seen,Complete
+41-029-02,EDN0522-D,Hawa ,Sanyang,31/08/2003,Kwinala Sansankono,SEN006-K,Complete
+43-027-01,EDN0525-B,HAWA,TOURAY,01/01/1998,TENDABA,SEEN,Complete
+43-028-02,EDN0527-C,KADDY ,DARBOE,01/01/1994,TENDABA,SEEN,Complete
+54-025-02,EDN0530-H,Isatou,Saidy,24/11/1994,Mandina Central,Seen,Complete
+54-016-01,EDN0531-A,KADDY ,SANNEH,29/08/1999,MANDINA CENTRAL,SEEN,Complete
+42-015-01,EDN0534-B,Fansainey,Ceesay,06/10/1989,Kwinella Nia Kunda,Seen,Complete
+47-054-03,EDN0535-F,KADDY,SORRA,24/02/1983,NEMA,SEEN,Complete
+47-054-04,EDN0536-E,KUMBA ,JARJU,09/08/1988,NEMA,SEEN,Complete
+47-027-04,EDN0537-J,OUMIE,FADERA,19/01/2001,NEMA,SEEN,Complete
+47-028-03,EDN0538-G,Kaddy S,Fadera,06/05/1987,Nema,Seen,Complete
+58-010-01,EDN0539-D,Fatou,Sowe,23/02/1991,Tabanani,Seen,Complete
+47-039-03,EDN0540-G,Mariama,Mass,17/07/1985,Nema,Seen,Complete
+47-038-02,EDN0541-B,Amie,Korta,29/12/1999,Nema,Seen,Complete
+40-033-01,EDN0542-C,Habby,Camara,14/06/1988,wurokang,Seen,Complete
+47-009-02,EDN0543-D,Salimatou,Fadera,05/07/1982,Nema,Seen,Complete
+05-047-006Q,EDN0545-E,Mata,Njai,02/07/1992,Jiffarong,Seen,Complete
+05-001-001F,EDN0546-F,Isatou ,Drammeh,31/12/2000,Jiffarong,seen,Complete
+05-002-014E,EDN0547-K,Oumie,Drammeh,14/12/2002,Jiffarong,seen,Complete
+05-041-001R,EDN0548-H,Ida,Kinteh,08/08/2002,Jiffarong,seen,Complete
+05-002-011B,EDN0549-J,Aama,Drammeh,23/07/1999,Jiffarong,seen,Complete
+26-007-016W,EDN0551-H,Adama,Njie,02/07/1989,Jiffarong,seen,Complete
+05-041-007X,EDN0552-F,Fatou,Kinteh,02/07/1991,Jiffarong ,Seen,Complete
+05-060-001L,EDN0553-A,Jainaba,Njie,01/11/1997,Jiffarong,seen,Complete
+05-032-004Q,EDN0554-K,Kaddy,Njie,10/02/1998,Jiffarong,seen,Complete
+05-019-013Z,EDN0555-J,Manding,Barrow,05/10/1986,Jiffarong,seen,Complete
+05-006-014A,EDN0556-D,Jalika,Barrow,21/11/1983,Jiffarong,seen,Complete
+05-003-021X,EDN0557-E,Jainaba ,Barrow ,02/07/1984,Jiffarong ,Seen,Complete
+05-012-023D,EDN0558-C,Mama,Manka,02/07/1984,Jiffarong,seen,Complete
+52-055-02,EDN0559-G,Isatou,Sey,14/10/1998,Madina Angalleh,Seen,Complete
+11-020-071X,EDN0560-F,Hawa,Njie,01/02/1989,Jiffarong,seen,Complete
+05-020-008G,EDN0561-J,Aminata,Barrow,26/06/1992,Jiffarong,seen,Complete
+05-030-027P,EDN0562-G,Fatou,Njie,27/10/1994,Jiffarong,seen,Complete
+05-022-022S,EDN0563-K,Jainaba ,Barrow ,02/07/1989,Jiffarong ,Seen ,Complete
+29-014-028E,EDN0565-C,Jainaba ,Bajo,02/03/1988,Jiffarong ,Seen ,Complete
+05-029-015R,EDN0566-A,Adama,Saidy,20/11/1994,Jiffarong,seen,Complete
+05-076-003X,EDN0567-B,Kaddy,Barrow ,02/07/1990,Jiffarong ,Seen,Complete
+05-033-006E,EDN0568-D,Kaddy ,Taal,30/01/2002,Jifarong ,Seen,Complete
+05-033-001Z,EDN0569-E,Aminata ,Taal,10/07/1998,Jifarong,Seen,Complete
+06-024-008Q,EDN0570-J,Nyominding,Touray ,15/06/1993,Jiffarong ,Seen ,Complete
+05-027-047Z,EDN0571-K,Fatou,Kinteh,21/09/1996,Jifarong,Seen,Unverified
+29-094-013N,EDN0572-E,Alimatou,Bajo,31/10/1988,Jiffarong ,Seen ,Unverified
+05-013-012E,EDN0573-F,Adama J,Barrow ,11/10/1994,Jiffarong ,Seen ,Complete
+05-021-024I,EDN0574-D,Senbory,Barrow,16/07/1989,Jiffarong ,Seen ,Complete
+06-006-018S,EDN0575-G,Saffiatou,Touray,09/02/1991,Jiffarong ,Seen,Complete
+29-005-014M,EDN0578-B,Mama,Sise,02/05/1999,Jiffarong ,Seen ,Complete
+05-020-007F,EDN0579-H,Sanjiba,Barrow ,17/03/1989,Jiffarong ,Seen,Complete
+05-021-049H,EDN0580-C,Nyimansatou ,Colley ,02/07/1993,Jiffarong ,Seen ,Complete
+05-024-001V,EDN0581-F,Mariama ,Njai,09/10/1997,Jiffarong ,Seen ,Unverified
+05-033-025X,EDN0582-J,Jainaba ,Taal,06/07/1992,Jiffarong ,Seen,Complete
+05-037-051T,EDN0583-B,Fatou Kangi,Drammeh,30/12/1983,Jiffarong,Seen,Complete
+05-059-007F,EDN0584-E,Kaddijatou ,Sise,13/01/1987,Jiffarong ,Seen,Unverified
+05-007-030CP,EDN0585-D,Binta ,Barrow ,02/07/1996,Jiffarong ,Seen ,Complete
+05-034-001L,EDN0586-G,Fatou,Njie,24/11/2000,Jiffarong,Seen,Complete
+05-043-008W,EDN0587-H,Fatou,Drammeh ,12/09/1997,Jiffarong ,Seen,Complete
+05-025-014Y,EDN0588-K,Adama,Sanyang,27/02/2002,Jiffarong,Seen,Complete
+05-025-011R,EDN0588-K,Adama,Sanyang,27/02/2002,Jiffarong,Seen,Complete
+05-034-014Y,EDN0589-A,Aminata ,Njie,26/09/1991,Jiffarong,Seen,Complete
+05-034-014Y,EDN0589-A,Aminata ,Njie,26/09/1991,Jiffarong,Seen,Complete
+05-065-040G,EDN0590-A,Mariama ,Barrow ,28/01/1991,Jiffarong ,Seen,Complete
+05-021-022G,EDN0591-D,Natoma,Barrow ,09/06/1986,Jiffarong ,Seen,Complete
+06-023-001X,EDN0592-B,Nyimasatou ,Bajo,14/01/2001,Jifarong,Seen,Complete
+05-067-005V,EDN0594-F,Fatou,Drammeh ,18/01/1995,Jiffarong ,Seen ,Unverified
+17-001-056U,EDN0597-G,Fatou,Camara,28/10/1996,Jouli,Seen,Complete
+17-001-045J,EDN0598-E,Halimatou,Camara,17/05/1999,Jouli,Seen,Unverified
+17-004-024Y,EDN0599-C,Isatou,Camara,12/08/1998,Jouli,Seen,Unverified
+17-010-019N,EDN0600-C,Jarra,Bass,05/07/1995,Jouli,Seen,Complete
+17-013-007L,EDN0601-F,Musukebba,Camara,20/05/2002,JOULI,Seen,Complete
+25-002-013X,EDN0602-J,Nyimansatou,Jarju,10/04/1989,Janneh Kunda,seen,Complete
+27-015-063X,EDN0603-B,Fatoumata,Manneh,02/07/1985,Janneh Kunda,seen,Complete
+18-004-007V,EDN0604-E,Binta,Samateh,30/06/1999,Janneh Kunda,seen,Complete
+05-066-006K,EDN0605-D,Nakebba,Drammeh,02/07/1988,Jiffarong,seen,Complete
+05-021-026K,EDN0606-G,Tomaring,Sanneh,02/07/1984,Jiffarong,Seen,Complete
+05-046-015N,EDN0607-H,Hawa Sey,Njie,03/07/1995,Jiffarong,seen,Complete
+05-052-026S,EDN0608-K,Ramatoulie,Kinteh,11/12/1997,Jiffarong,seen,Complete
+05-052-026S,EDN0608-K,Ramatoulie,Kinteh,11/12/1997,Jiffarong,Seen,Complete
+05-037-095L,EDN0609-A,Aja ,Touray,01/10/1990,Jiffarong,seen,Complete
+05-053-012Q,EDN0610-G,Amie,Taal,28/12/1994,Jiffarong ,Seen,Unverified
+06-015-018W,EDN0612-C,Nyimanding,Bajo,02/07/1985,Bajana,Seen,Complete
+06-026-007N,EDN0613-D,Bintou,Colley,19/11/2000,Bajana,Seen,Complete
+06-006-014O,EDN0614-A,Nyimansatou,Touray,02/07/2003,Bajana,Seen,Complete
+06-009-039X,EDN0615-E,Nyimansatou,Marong,07/01/1986,Bajana,Seen,Complete
+05-057-017R,EDN0616-F,Jainaba,Barrow,02/02/1995,Bajana,Seen,Complete
+06-029-064C,EDN0617-K,Anna,Touray,02/07/1987,Bajana,Seen,Complete
+06-017-004G,EDN0618-H,Fatou,Bajo,14/07/1994,Bajana,Seen,Complete
+06-013-019Z,EDN0619-J,Saffiatou,Bajo,06/06/1987,Bajana,Seen,Complete
+06-015-039R,EDN0620-B,Fatou,Njai,02/07/1992,Bajana,Seen,Complete
+06-025-013H,EDN0621-H,Fatou,Barrow,19/11/2003,Bajana,Seen,Complete
+06-006-010K,EDN0622-F,Kachikala,Touray,02/07/1986,Bajana,Seen,Complete
+06-025-012G,EDN0623-A,Fatou,Drammeh,05/05/1987,Bajana,Seen,Complete
+06-015-016U,EDN0624-K,"Nadinding	",Touray,12/07/1994,Bajana,Seen,Complete
+06-015-051D,EDN0625-J,Isatou,Bajo,24/12/1999,Bajana,Seen,Complete
+05-040-021Z,EDN0626-D,Aja,Kinteh,02/07/1987,Bajana,Seen,Complete
+17-001-033X,EDN0627-E,Kaddy,Marri,12/11/1984,JOULI,Seen,Complete
+17-008-011H,EDN0628-C,Jainaba,Marri,18/10/1991,JOULI,seen),Complete
+17-017-000I,EDN0629-G,Tida,Jobarteh,19/09/1983,Jouli,Seen,Complete
+17-009-016Y,EDN0630-K,Nyimanding,Drammeh,02/07/1985,Jouli,Seen,Complete
+17-013-006K,EDN0631-E,Sutering,Manneh,11/09/1987,JOULI,Seen,Complete
+17-001-060Y,EDN0632-D,Isatou,Camara,27/09/1992,Jouli,Seen,Complete
+17-006-004C,EDN0633-J,Aminata,Marri,31/01/1987,Jouli,Seen,Complete
+17-001-017M,EDN0634-G,Binta,Camara,29/08/1994,Jouli,Seen,Complete
+27-020-020O,EDN0635-B,Isatou,Gaye,10/05/1988,Janneh Kunda,seen,Complete
+13-045-031Z,EDN0636-H,Jariatou,Janneh,02/07/1992,Janneh Kunda,seen,Complete
+27-005-006C,EDN0637-C,Sutering,Kanteh,16/02/1996,Janneh Kunda,seen,Complete
+27-018-001X,EDN0638-A,Mai,Janneh,12/03/2001,Janneh Kunda,seen,Complete
+26-001-063X,EDN0639-F,Fansainey,Bajinka,02/07/1989,Janneh Kunda,Seen,Complete
+27-021-013T,EDN0641-J,Aminata,Bajinka,21/11/1991,Janneh Kunda,seen,Complete
+27-032-002K,EDN0642-G,Jainaba,Janneh,25/01/2000,Janneh Kunda,Seen,Unverified
+27-037-026Q,EDN0643-K,Kaddy,Manjang,02/07/1984,Janneh Kunda,Seen,Complete
+27-034-033N,EDN0644-H,Alimatou,Kanteh,07/01/1991,Janneh Kunda,Seen,Complete
+27-005-020Q,EDN0645-C,Mariatou,Kanteh,21/04/1998,Janneh Kunda,Seen,Complete
+27-019-002K,EDN0646-A,Kaddy,Manjang,16/10/2001,Janneh Kunda,Seen,Complete
+21-018-003Z,EDN0647-B,Kaddy,Janneh,14/08/1996,Janneh Kunda,Seen,Complete
+27-005-028Y,EDN0648-D,Buteh,Janneh,02/07/1986,Janneh Kunda,Seen,Unverified
+27-032-035R,EDN0649-E,Jainaba,Marong,07/07/1985,Janneh Kunda,Seen,Complete
+27-015-046G,EDN0650-H,Habbie,Kinteh,02/07/1993,Janneh Kunda,Seen,Complete
+06-026-106I,EDN0651-A,Mariama,Jarra,07/07/1992,Bajana,Seen,Complete
+06-026-085N,EDN0652-K,Mariama,Bajo,04/02/1992,Bajana,Seen,Complete
+06-023-012I,EDN0653-C,Natoma,Bajo,02/07/1985,Bajana,Seen,Complete
+05-030-052O,EDN0654-B,MARIAMA,NJAI,02/07/1992,BAJANA,SEEN,Complete
+06-015-012Q,EDN0655-F,Naa chaku,Bajo,02/07/1991,Bajana,Seen,Complete
+17-009-008Q,EDN0656-E,Ajaratou,Marri,02/07/1984,Jouli,Seen,Complete
+29-004-011X,EDN0657-J,Jarriatou,Sise,23/08/1988,Jouli,SEN1817-D,Complete
+17-002-038O,EDN0658-G,Isatou,Kuyateh,15/12/1993,Jouli,Seen,Complete
+28-009-004K,EDN0659-D,Fatou,Manjang,02/07/1984,Kemoto,seen,Complete
+28-032-016M,EDN0660-J,Alima,Janneh,02/07/1986,kemoto,Seen,Complete
+28-031-012W,EDN0661-K,Binta,Kinteh,02/07/1982,Kemoto,Seen,Complete
+06-001-001T,EDN0662-E,Nyimansatou,Bajo,04/12/2000,Kemoto,Seen,Complete
+28-014-029R,EDN0663-F,Arabiatou,Janneh,28/09/1988,Kemoto,Seen,Complete
+28-017-005D,EDN0664-D,HAWA,JARJU,17/11/2002,KEMOTO,SEEN,Unverified
+28-003-020G,EDN0665-G,Ida,Jarjou,02/07/1994,Kemoto,seen,Unverified
+27-006-029L,EDN0666-C,Aja,Demba,23/11/1997,Kemoto,Seen,Complete
+28-002-003D,EDN0667-A,FATOU,JAWO,10/10/1997,KEMOTO,SEEN,Unverified
+27-015-048I,EDN0668-B,Kaddy,Bajinka,02/07/1995,Kemoto,seen,Complete
+27-006-044A,EDN0669-H,Binta,Manjang,03/07/1995,Kemoto,Seen,Unverified
+28-015-009J,EDN0670-E,Nyimanding,Demba,20/09/1992,Kemoto,Seen,Unverified
+28-037-007L,EDN0671-C,Kaddy,Janneh,02/07/1987,Kemoto,seen,Complete
+28-014-021J,EDN0672-A,Jankani,Janneh,03/05/1983,Kemoto,Seen,Complete
+28-085-004K,EDN0673-G,KADDY,TOURAY,02/07/1983,KEMOTO,SEEN,Complete
+27-024-003T,EDN0674-J,Isatou,Demba,25/03/2003,Janneh Kunda,Seen,Complete
+27-019-004M,EDN0675-H,Fatou,Manjang,02/11/1998,Janneh Kunda,Seen,Complete
+27-004-003Z,EDN0676-B,Aminata,Kanteh,04/07/2022,Janneh Kunda,Seen,Complete
+27-008-004K,EDN0677-D,Binta,Kanteh,02/07/1983,Janneh Kunda,Seen,Complete
+27-043-001L,EDN0678-F,Jainaba,Manjang,05/12/2001,Janneh Kunda,Seen,Complete
+27-015-030Q,EDN0679-K,Isatou,Bajinka,29/07/1994,Janneh Kunda,Seen,Complete
+27-009-042I,EDN0680-A,Fatou,Kambi,30/10/1992,Janneh Kunda,Seen,Complete
+27-017-009T,EDN0681-D,Kaddy,Janneh,21/08/2003,Janneh Kunda,Seen,Complete
+27-033-014I,EDN0682-B,Mariama,Sise,10/12/1991,Janneh Kunda,Seen,Complete
+27-034-030K,EDN0683-H,Bintou,Kanteh,02/07/1987,Janneh Kunda,Seen,Complete
+27-024-020K,EDN0684-F,Mai,Demba,02/07/1992,Janneh Kunda,Seen,Complete
+27-005-021R,EDN0685-K,Sunkary,Manjang,02/07/1984,Janneh Kunda,Seen,Complete
+27-004-010U,EDN0686-J,Sarita,Barrow,27/03/1991,Janneh Kunda,Seen,Complete
+27-042-020S,EDN0687-G,Jarra,Kanteh,02/07/1985,Janneh Kunda,Seen,Complete
+27-032-046C,EDN0688-E,Fatou,Janneh,13/09/1993,Janneh Kunda,Seen,Complete
+27-032-086Q,EDN0689-C,Nyimanding,Janneh,29/07/1991,Janneh Kunda,seen,Complete
+27-035-011D,EDN0690-D,Nyimanding,Janneh,13/02/1994,Janneh Kunda,Seen,Complete
+25-014-006E,EDN0691-G,Oumie,Kambi,02/02/1998,Karantaba,2008A,Complete
+28-014-018G,EDN0692-H,Naffie,Manjang,17/02/1998,Karantaba,Seen,Complete
+25-012-305T,EDN0693-E,Oumie,Camara,11/03/1990,Karantaba,Seen,Complete
+25-011-045H,EDN0694-C,Binta,Jarju,02/07/1982,Karantaba,Seen,Complete
+25-007-084Y,EDN0695-A,Fatoumata,Bajinka,12/07/2022,Karantaba,Seen,Complete
+25-009-013D,EDN0696-K,Aminata,Fofana,30/09/2002,Karantaba,Seen,Complete
+25-012-097T,EDN0697-F,Isatou,Minteh,10/07/1985,Karantaba,Seen,Complete
+26-008-016I,EDN0698-J,Fatou,Marri,17/11/1997,Karantaba,Seen,Complete
+26-001-042C,EDN0699-B,Binta,Gibba,03/07/1989,Karantaba,Seen,Complete
+27-027-010K,EDN0700-D,Jainaba,Njai,12/03/1995,Karantaba,Seen,Unverified
+07-010-002M,EDN0701-G,Alimatou,Njai,14/03/1999,Kuli kunda,Seen,Complete
+07-002-009B,EDN0702-H,Fatou,Njie,01/09/2002,Kuli kunda,Seen,Complete
+07-005-039P,EDN0703-E,Salimatou,Njai,02/07/1993,Kuli kunda,Seen,Complete
+07-035-011j,EDN0704-C,Masireh,Njai,06/06/1999,Kuli kunda,Seen,Complete
+07-045-014C,EDN0705-A,Jainaba,Sise,01/07/1993,Kuli kunda,Seen,Complete
+07-034-014A,EDN0706-K,Nyimasatou,Jallow,06/03/1997,Kuli kunda,Seen,Complete
+06-030-0120,EDN0707-F,Mariama,Sise,02/07/1984,Kuli kunda,Seen,Complete
+07-005-061L,EDN0708-J,Fatou,Sanneh,02/07/1991,Kuli kunda,Seen,Complete
+07-005-002E,EDN0709-B,Kaddijatou,Njai,31/03/2001,Kuli Kunda,Seen,Complete
+07-036-001L,EDN0710-K,Binta,Njai,27/03/2002,Kuli kunda,Seen,Complete
+29-018-020S,EDN0711-E,Mamanding,Darboe,07/10/1996,Kuli  kunda,Seen,Complete
+07-030-030u,EDN0712-D,Isatou,Njai,18/03/2002,Kuli kunda,Seen,Complete
+07-039-002W,EDN0713-J,Fatou,Njai,01/07/2000,Kuli kunda,Seen,Complete
+07-031-018U,EDN0714-G,Hulay,Sowe,01/01/1991,Kuli Kunda,Seen,Complete
+07-024-0121,EDN0715-B,Fatou,Njai,02/07/1989,Kuli kunda,Seen,Complete
+07-009-014m,EDN0716-H,Kaddy,Sise,24/04/1996,Kuli kunda,Seen,Complete
+05-003-007V,EDN0717-C,Nyimansatou,Njai,06/03/1997,Kuli Kunda,Seen,Complete
+30-019-014M,EDN0718-A,Kaddy,Sise,02/07/1988,Kuli kunda,Seen,Complete
+07-036-002m,EDN0719-F,Mariama,Njai,03/06/2002,Kuli kunda,Seen,Complete
+07-031-033J,EDN0720-F,Ramata,Bah,02/07/1998,Kuli Kunda,Seen,Complete
+07-015-008A,EDN0721-J,Nyimasatou,Njai,16/02/1992,Kuli kunda,Seen,Unverified
+07-002-046m,EDN0722-G,Nyimansatou,Njai,07/12/1991,Kuli kunda,Seen,Unverified
+07-002-029V,EDN0723-K,Hawa,Minteh,21/09/1991,Kuli kunda,Seen,Complete
+10-009-023L,EDN0724-H,Fatou,Sise,31/12/1990,Kuli kunda,Seen,Unverified
+07-040-009p,EDN0725-C,Binta,Njai,19/02/1992,Kuli kunda,Seen,Unverified
+10-021-003f,EDN0726-A,Binta fatou,Dibba,23/11/1983,Kuli kunda,Seen,Unverified
+07-023-029N,EDN0727-B,Kaddy,Njai,11/11/1987,Kuli kunda,Seen,Unverified
+10-008-003f,EDN0728-D,Fatoumata,Sise,28/03/1988,Kuli kunda,Seen,Complete
+07-008-073H,EDN0729-E,Fatou,Manneh,02/07/2000,Kuli kunda,Seen,Complete
+007-008-019F,EDN0730-C,Nyima,Njai,02/07/1986,Kuli Kunda,Seen,Unverified
+07-031-012O,EDN0731-F,Fatou,Jallow,16/07/1998,Kuli Kunda,Seen,Complete
+07-006-031T,EDN0732-J,Sonna,Njai,02/07/1996,Kuli Kunda,Seen,Complete
+13-001-013-Z,EDN0733-B,Jaciatou,Sanyang,12/06/1984,Jamaru,Seen,Complete
+07-056-007X,EDN0734-E,Oulimatou,Sarr,12/06/1992,Kuli kunda,Seen,Complete
+07-033-037L,EDN0735-D,Sirra,Jallow,02/07/1994,Kuli Kunda,Seen,Complete
+07-045-012A,EDN0736-G,Isatou,Darboe,02/07/2003,Kuli Kunda,Seen,Complete
+07-004-044I,EDN0737-H,Isatou,Njai,21/11/2003,Kuli kunda,Seen,Complete
+07-004-003T,EDN0738-K,Fatou,Njai,01/01/2002,Kuli,Seen,Complete
+07-007-040O,EDN0739-A,Binta,Bajo,22/04/1984,Kuli kunda,Seen,Complete
+29-068-017R,EDN0740-J,Nyimansatou,Sise,12/05/1994,Kuli Kunda,Seen,Complete
+07-038-004M,EDN0741-K,Binta,Njai,05/03/2003,Kuli kunda,Seen,Complete
+08-003-005X,EDN0742-E,Kaddijatou,Njai,02/07/1987,Jamaru,Seen,Complete
+08-001-049R,EDN0743-F,Jainaba,Njai,12/06/1984,Jamaru,Seen,Complete
+07-005-003F,EDN0744-D,Fatou,Njai,09/03/2000,Jamaru,Seen,Unverified
+08-007-016E,EDN0745-G,Mariama,Manga,10/06/1996,Jamaru,Seen,Complete
+08-005-013D,EDN0746-C,Abisatou,Jallow,16/05/2004,Jamaru,Seen,Complete
+08-002-031L,EDN0747-A,Aminata,Jallow,02/07/2001,Jamaru,Seen,Complete
+09-002-067J,EDN0748-B,Tuti,Gomez,05/05/1989,Brikamanding,Seen,Complete
+09-018-001F,EDN0749-H,Zikiline,Mendy,09/04/1984,Brikamading,Seen,Complete
+10-010-007H,EDN0750-E,Sonna,Sise,23/11/1992,Kantong kunda,Seen,Complete
+01-044-051V,EDN0751-C,Aminata,Samateh,12/11/1996,Kantong kunda,Seen,Complete
+10-008-025B,EDN0752-A,Mariama,Sise,16/06/1991,Kantong kunda,Seen,Complete
+02-010-029V,EDN0753-G,Sarjo,Darboe,02/07/1985,Kantong kunda,Seen,Complete
+10-006-015T,EDN0754-J,Nyara,Sise,15/03/1984,Kantong kunda,Seen,Complete
+10-001-020Q,EDN0755-H,Musukebba,Sise,01/01/1983,Kantong kunda,Seen,Complete
+06-023-004A,EDN0756-B,Isatou,Drammeh,18/11/1999,Kantong kunda,Seen,Complete
+17-001-027R,EDN0757-D,Kaddy,Camara,03/10/1996,Kantong kunda,Seen,Complete
+10-003-113D,EDN0758-F,Fatou,Sise,02/07/2000,Kantong kunda,Seen,Complete
+10-001-205T,EDN0759-K,Fatou,Sise,22/03/2003,Kantong kunda,Seen,Complete
+10-003-031Z,EDN0760-A,Isatou,Sise,07/02/1984,Kantong kunda,Seen,Complete
+25-010-033J,EDN0761-D,Jainaba,Jarju,05/04/1991,Kantong kunda,Seen,Complete
+10-004-114Q,EDN0762-B,Isatou,Sora,22/06/1991,Kantong kunda,Seen,Complete
+10-010-003D,EDN0763-H,Mariama,Sise,28/12/1987,Kantong kunda,Seen,Complete
+29-004-044E,EDN0764-F,Salimata,Sise,02/05/1991,Kantong kunda,Seen,Complete
+10-021-006J,EDN0765-K,Binta,Ceesay,31/03/1992,Kantong kunda,Seen,Complete
+25-007-092G,EDN0766-J,Nyimanding,Fatty,22/04/1994,Karantaba,Seen,Complete
+25-011-207N,EDN0767-G,Fatoumata,Kambi,02/03/2001,Karantaba,seen,Complete
+26-025-019F,EDN0768-E,Kaddy,Daffeh,17/09/1992,Mandina,Seen,Complete
+14-001-038M,EDN0769-C,Mariama J,Sanyang,01/12/1991,Bankuling,Seen,Complete
+26-001-02,EDN0770-H,Mai,Gibba,17/09/2002,Mandina,seen,Complete
+26-008-01,EDN0771-A,Bakoto,Jawo,01/06/2003,Mandina,seen,Complete
+27-042-01,EDN0772-K,Mariatou,Kanteh,02/11/1997,Mandina,seen,Unverified
+27-005-009F,EDN0773-C,Mariama,Kanteh,22/04/1992,Mandina,seen,Complete
+17-002-018U,EDN0774-B,Fatoumata,Kuyateh,19/11/1992,Mandina,Seen,Complete
+26-001-052M,EDN0775-F,Nyima,Bajinka,02/07/1984,Mandina,Seen,Complete
+26-001-052M,EDN0775-F,Nyima,Bajinka,21/07/1984,Mandina,Seen,Complete
+27-024-02,EDN0776-E,Binta,Demba,23/12/1990,Mandina,seen,Complete
+25-013-003D,EDN0777-J,Mama,Kanyi,02/07/1983,Mandina,seen,Complete
+26-004-005B,EDN0778-G,Binta,Bojang,02/07/1984,Mandina,Seen,Complete
+25-011-01,EDN0779-D,Fatou,Saidy,01/07/1985,Mandina,seen,Complete
+24-009-004G,EDN0780-B,Mariama,Daffeh,02/07/1987,Mandina,Seen,Complete
+25-010-062W,EDN0781-H,Binta,Kanyi,05/10/1982,Mandina,seen,Complete
+47-005-07,EDN0782-F,isatou,fadera,21/03/1994,nema,seen,Complete
+47-005-28,EDN0782-F,Isatou,Fadera,21/03/1994,Nema,Seen,Complete
+10-010-013N,EDN0787-E,Ida,Sise,10/10/1992,Kantong kunda,Seen,Complete
+10-002-033P,EDN0788-C,Mariatou,Sawo,07/07/1989,Kantong kunda,Seen,Complete
+11-012-018E,EDN0789-G,Aja,Drammeh,26/07/1989,Jali,Seen,Complete
+11-021-016G,EDN0790-G,Nakebba,Drammeh,15/07/1996,Jali,Seen,Complete
+10-009-015D,EDN0791-B,Majeh,Sise,18/10/1985,Jali,Seen,Complete
+11-033-003H,EDN0792-C,Famatanding,Camara,02/07/1983,Jali,Seen,Complete
+11-042-015X,EDN0793-D,Wonto,Drammeh,20/04/1990,Jali,Seen,Complete
+11-007-024C,EDN0794-A,MBA Sirey,Dibba,19/03/1993,Jali,Seen,Complete
+08-006-004G,EDN0795-E,Sainabou,Touray,06/08/2000,Jali,Seen,Complete
+11-006-071L,EDN0796-F,Mama,Dibba,15/01/1994,Jali,Seen,Complete
+11-042-019B,EDN0797-K,Binta,Drammeh,10/03/1996,Jali,Seen,Complete
+11-008-095H,EDN0798-H,Fatou,Drammeh,04/07/1998,Jali,Seen,Complete
+29-004-159P,EDN0799-J,Myimansatou,Sanyang,22/11/1990,Jali,Seen,Complete
+11-025-108Q,EDN0800-F,Kaddy,Dibba,13/07/2022,Jali,Seen,Complete
+11-008-020K,EDN0801-J,Sirreh,Darboe,20/04/1998,Jali,Seen,Complete
+11-054-007D,EDN0802-G,Kaddy,Darboe,23/11/1994,Jali,Seen,Complete
+11-023-005T,EDN0803-K,Kaddy,Drammeh,26/06/1984,Jali,Seen,Complete
+11-003-041X,EDN0804-H,Kaddijatou,Samateh,24/01/2001,Jali,Seen,Complete
+11-052-008G,EDN0805-C,Musukebba,Drammeh,05/06/1996,Jali,Seen,Complete
+11-038-006S,EDN0806-A,Jainaba,Samateh,31/08/1998,Jali,Seen,Complete
+11-047-002S,EDN0807-B,Aramata,Njai,02/07/1984,Jali,Seen,Complete
+11-008-014E,EDN0808-D,Fatou,Darboe,01/10/1992,Jali,Seen,Complete
+11-024-003D,EDN0809-E,Sariba,Samateh,10/07/1984,Jali,Seen,Complete
+11-007-011P,EDN0810-H,Jainaba,Dibba,02/07/1985,Jali,Seen,Complete
+11-047-019J,EDN0811-A,Kaddy,Jeng,02/07/1983,Jali,Seen,Complete
+11-034-126M,EDN0812-K,Mariama ,Bah,30/01/1998,Jali,Seen,Complete
+11-034-071J,EDN0813-C,Mariama,Jatta,02/07/1985,Jali,Seen,Complete
+27-018-007D,EDN0814-B,Fatou,Janneh,04/07/1986,Jali,Seen,Complete
+11-013-087H,EDN0815-F,Fatou,Sowe,20/06/1986,Jali,Seen,Complete
+11-029-058O,EDN0816-E,Fatoumata,Samateh,11/12/1991,Jali,Seen,Complete
+11-026-049V,EDN0817-J,Jainaba,Kanteh,31/07/1988,Jali,Seen,Complete
+10-006-049B,EDN0818-G,Fatoumata,Touray,28/10/1985,Jali,Seen,Complete
+11-045-008A,EDN0819-D,Yai,Samateh,01/02/1983,Jali,Seen,Complete
+11-038-014A,EDN0820-E,Mariama,Samateh,02/07/1986,Jali,Seen,Complete
+11-029-066W,EDN0821-C,Zainabou,Drammeh,02/02/1989,Jali,Seen,Complete
+11-041-003Z,EDN0822-A,Fatoumata,Dibba,26/05/1987,Jali,Seen,Complete
+11-029-112Q,EDN0823-G,Ndey,Sise,21/08/2000,Jali,Seen,Complete
+11-054-003Z,EDN0824-J,Mami,Darboe,02/07/1984,Jali,Seen,Complete
+24-025-027N,EDN0825-H,Musukebba,Darboe,13/07/1984,Jula Kunda,seen,Unverified
+24-021-042G,EDN0826-B,Mai,Darboe,06/09/1993,JULA KUNDA,Seen,Complete
+24-021-042G,EDN0826B,Mai,Darboe,06/09/1993,JULA KUNDA,1947-A,Complete
+24-008-032W,EDN0827-D,Nyimanding,Sanyang,27/07/1983,Jula Kunda,Seen,Complete
+24-024-004E,EDN0828-F,Fatou,Daffeh,31/12/1992,Jula Kunda,1939-A,Complete
+23-013-036U,EDN0829-K,Binta,Jallow,02/07/2001,Burong,SEN1905-A,Complete
+28-013-010M,EDN0830-B,Salimata,Barrow,11/06/1998,Burong,Seen,Complete
+23-001-167H,EDN0831-H,Binta,Sawaneh,15/06/2000,Burong,Seen,Complete
+24-008-017H,EDN0832-F,Lisa,Darboe,02/06/1994,Burong,SEN1990-D,Complete
+17-011-013T,EDN0833-A,Salimatou,Drammeh,01/01/1999,Burong,Seen,Complete
+23-006-002G,EDN0834-K,Isatou,Sise,11/02/2001,Burong,Seen,Complete
+22-008-006U,EDN0835-J,Hawa,Jadama,02/07/1993,Burong,SEN11896-G,Complete
+23-001-085D,EDN0836-D,Jamie,Colley,18/10/1995,Burong,seen,Complete
+22-006-004O,EDN0837-E,Mai,Sanyang,17/05/1992,Missira,Seen,Complete
+21-001-028W,EDN0838-C,Isatou,Jawo,02/07/2000,Missira,Seen,Complete
+24-024-016Q,EDN0839-G,Bintou,Darboe,22/04/2001,Seen,Seen,Complete
+21-003-009B,EDN0840-A,Amie,Jallow,02/07/1995,Mesira,Seen,Complete
+27-026-010Y,EDN0841-D,Sarjo,Bojang,19/03/2003,Taborangkoto,SEEN,Complete
+18-005-043-R,EDN0842-B,Kadijatou,Baldeh,02/07/1994,Taborangkoto,SEEN,Complete
+22-003-12-I,EDN0843-H,Sarjo,Sanyang,02/07/1982,Taborangkoto,Seen,Complete
+22-011-004C,EDN0844-F,BUYA,JAWO,02/07/1995,Taborangkoto,Seen,Complete
+24-010-035X,EDN0845-K,Nadinding,Darboe,02/07/1994,Jula kunda,Seen,Complete
+23-004-022C,EDN0846-J,Kaddy,Darboe,16/12/1989,Taborangkoto,Seen,Complete
+23-004-022C,EDN0846-J,KADDY,DARBOE,03/07/1995,TABORANGKOTO,Seen,Complete
+23-001-166G,EDN0847-G,Fatou O,Sise1,14/10/1997,Burong,Seen,Complete
+16-027-017T,EDN0848-E,Mariama,Manjang,02/07/1982,Tankular,Seen,Unverified
+16-002-001-P,EDN0849-C,Lolly,Janneh,11/06/1998,Tankular,Seen,Complete
+16-006-060-S,EDN0850-G,Fatou,Sise,02/07/1982,Tankular,Seen,Complete
+16-015-005T,EDN0851-B,Binta,Drammeh,20/10/2001,Tankular,Seen,Complete
+16-014-010M,EDN0852-C,Binta,Drammeh,02/07/1988,Tankular,Seen,Complete
+17-001-071J,EDN0853-D,AMINATA,CAMARA,24/12/1984,TANKULARR,Seen,Complete
+16-030-024K,EDN0854-A,Tida,Taal,25/08/1997,Tankular,Seen,Complete
+16-027-017T,EDN0855-E,Fatou,Bah,02/07/1987,Tankular,Seen,Complete
+11-020-061N,EDN0856-F,Nakebba,Drammeh,20/10/1984,Jali,Seen,Complete
+11-053-034S,EDN0857-K,Amie,Faal,20/09/1988,Jali,Seen,Complete
+11-015-021R,EDN0858-H,Sireh,Samateh,17/09/1984,Jali,Seen,Complete
+16-024-040G,EDN0859-J,Jankey,Manka,17/11/2001,Tannkular,Seen,Complete
+16-024-040G,EDN0859J,Jankey,Manka,17/11/2001,Tannkular,Seen,Complete
+23-017-026G,EDN0860-D,Isatou,CAMARA,25/05/1999,TANKULARR,SEEN,Complete
+23-017-026G,EDN0860-J,Isatou,Camara,25/05/1999,TANKULARR,SEEN,Complete
+16-005-060S,EDN0861-G,Fatou,Njai,02/07/1986,Tankular,Seen,Complete
+16-005-060S,EDN0861G,Fatou,Njai,02/07/1986,Tankular,Seen,Complete
+16-001-030G,EDN0862-H,Fatou,Sise,23/04/1984,Tankular,Seen,Complete
+16-030-044E,EDN0863-E,Nyima,Njai,01/07/1984,Tankular,Seen,Complete
+16-031-047T,EDN0864-C,Mama,Sise,06/04/1985,Tankular,Seen,Complete
+16-013-019J,EDN0865-A,JOMMA,Drammeh,15/11/1982,TANKULARR,Seen,Complete
+16-001-034K,EDN0866-K,Sainabou,Sise,25/05/1999,Tankular,Seen,Complete
+16-032-004O,EDN0867-F,Fatou,Njai janneh,14/08/1982,Tankukar,Seen,Complete
+16-016-020U,EDN0868-J,Ansata,Sowe,02/07/1994,Tankular,Seen,Complete
+18-008-005P,EDN0869-B,Sheriffo,Camara,29/10/1992,Manduar,Seen,Complete
+13-012-066C,EDN0870-C,Awa,Jammeh,05/01/1994,Manduar,Seen,Complete
+13-034-010C,EDN0871-F,Jonsaba,Susso,16/08/1994,Manduar,Seen,Complete
+13-037-009L,EDN0872-J,Kaddy,Sanyang,23/05/1985,Manduar,Seen,Complete
+13-012-171D,EDN0873-B,Aminata,Saidy,13/01/1995,Manduar,Seen,Complete
+13-001-014A,EDN0874-B,Jainaba,Sanyang,05/03/1988,Manduar,Seen,Complete
+13-012-062Y,EDN0875-D,Fatou,Darboe,05/11/1995,Manduar,Seen,Unverified
+13-029-007R,EDN0876-G,Fatou,Jammeh,03/11/1990,Manduar,Seen,Complete
+13-040-020G,EDN0877-H,Nanding,Sanyang,02/06/1986,Manduar,Seen,Unverified
+27-042-017P,EDN0878-K,Salimatou,Janneh,02/07/1984,Manduar,Seen,Unverified
+10-016-004O,EDN0879-A,Mariama,Kanteh,17/01/1988,Manduar,Seen,Complete
+13-040-003P,EDN0880-J,Jainaba,Sanyang,20/07/2022,Manduar,Seen,Complete
+13-003-011V,EDN0881-K,Darbonding,Darboe,12/08/1986,Manduar,Seen,Complete
+27-001-001B,EDN0883-F,Bintou,Manjang,10/12/1999,Manduar,Seen,Complete
+18-008-011V,EDN0885-G,Ndey,Bah,25/08/2003,Manduar,Seen,Complete
+13-010-034Y,EDN0886-C,Awa,Sanyang,06/10/1985,Manduar,Seen,Unverified
+13-033-035P,EDN0888-B,Fatou,Cham,02/07/1991,Manduar,Seen,Complete
+13-037-029F,EDN0890-K,Maimuna,Sise,02/03/1998,Manduar,Seen,Complete
+13-012-008W,EDN0891-E,Jainaba,Darboe,27/10/1995,Manduar,Seen,Unverified
+13-001-026M,EDN0893-J,Kaddy,Sanyang,01/02/1984,Manduar,Seen,Complete
+27-012-005H,EDN0894-G,Kaddy,Samateh,24/08/1996,Manduar,Seen,Unverified
+07-038-007P,EDN0895-B,Nurse,Njai,02/07/1985,Tankular,Seen,Complete
+23-022-027P,EDN0896-H,Marang ,Camara ,01/01/1989,Kuyang,Seen,Complete
+18-004-005T,EDN0897-C,Binta,Demba,18/11/1984,Kuyang,Seen,Complete
+18-004-005T,EDN0897C,Binta,Demba,18/11/1984,Kuyang,Seen,Complete
+18-002-017H,EDN0898-A,Jainaba,Darboe,02/07/1986,Kuyang,Seen,Complete
+18-002-023N,EDN0899-F,Kaddy,Sanyang ,18/07/1986,Kuyang,Seen,Complete
+18-002-023N,EDN0899F,Kaddy,Sanyang ,18/07/1986,Kuyang,Seen,Unverified
+17-010-030Y,EDN0900-G,Fatoumata,Bass,02/07/1996,Keneba,Seen,Complete
+29-009-013H,EDN0901-B,Isatou ,Sise,01/12/1988,Keneba,Seen,Complete
+29-001-027D,EDN0902-C,Tida,Manneh,09/09/1993,Keneba,Seen,Complete
+20-077-009N,EDN0903-D,Binta,Minteh,12/11/1983,Keneba,Seen,Complete
+29-022-018M,EDN0904-A,Jainaba,Minteh,15/11/1994,Keneba,Seen,Complete
+29-031-011J,EDN0905-E,Maimuna,Sise,02/07/1998,Keneba,Seen,Complete
+29-110-008S,EDN0906-F,Isatou,Sise,04/11/1999,Keneba,Seen,Complete
+29-005-020S,EDN0908-H,Fatoumata,Sise,08/04/1996,Keneba,Seen,Complete
+17-002-037N,EDN0909-J,Jalika,Kuyateh ,02/07/1996,Keneba ,Seen ,Complete
+29-028-006U,EDN0910-E,Binta ,Ceesay ,17/07/1990,Keneba ,Seen,Unverified
+47-009-01,EDN0913-G,BINTA,SAIDY,05/05/1988,NEMA,SEEN,Complete
+47-009-03,EDN0913-G,Binta ,Saidy,04/09/1988,Nema,Seen,Complete
+29-042-009-J,EDN0914-J,BINTOU,SISE,09/01/1997,KENEBA,SEEN,Unverified
+29-076-040G,EDN0915-H,Nyima,Sanyang ,09/02/1982,Keneba,Seen,Unverified
+13-012-020I,EDN0916-B,Sireh,Samateh,06/07/1996,Mandure,Seen,Complete
+13-010-003T,EDN0917-D,Kaddy,Jammeh,20/01/1990,Manduar,Seen,Complete
+15-005-007R,EDN0918-F,Fatou ,Jobe ,15/02/1997,Jissey,Seen,Complete
+01-014-015P,EDN0919-K,Mai,Jallow,02/07/1992,Gissay,Seen,Complete
+15-006-023-T,EDN0920-A,Maimuna ,Jallow ,02/07/1990,Jissey,Seen,Complete
+15-010-003V,EDN0921--D,Kaddy,Jallow,02/07/1986,Gissay,Seen,Complete
+15-010-003V,EDN0921-D,Kaddy,Jallow,02/07/1986,Gissay,Seen,Complete
+01-014-009J,EDN0922-B,Fatou ,Bah ,26/07/1999,Jissey ,Seen ,Unverified
+15-008-004Y,EDN0923-H,Ndey,Sonko,02/07/1992,Gissay,Seen,Complete
+15-004-028A,EDN0924-F,Jully,Bah,10/07/1988,Gissey ,Seen,Complete
+15-004-058E,EDN0925-K,Mariama ,Bojang ,02/07/1985,Gissey ,Seen,Complete
+29-033-011H,EDN0926-J,Nyima,Minteh,17/11/1984,KENEBA,Seen,Complete
+29-059-021R,EDN0927-G,Sainabou,Danso,12/09/1997,KENEBA,Seen,Complete
+10-005-009B,EDN0928-E,Nyimasatou,Sise,22/05/1997,KENEBA,Seen,Complete
+29-025-017V,EDN0929-C,Mariama,Sise,12/09/1994,Keneba,Seen,Complete
+29-038-077D,EDN0930-F,Fatou ,Touray ,02/07/1997,KENEBA ,2324-F,Complete
+29-068-018S,EDN0931-J,Jainaba ,Sise ,24/01/1997,KENEBA ,Seen ,Complete
+07-030-002S,EDN0932-G,Kaddijatou,Njai,09/06/2001,Keneba,Seen,Unverified
+29-035-015J,EDN0933-K,Sarita,Sise,12/08/2002,KENEBA,Seen,Complete
+29-037-091F,EDN0934-H,Alimatou,Sise,22/08/1990,Keneba,Seen,Unverified
+10-006-021z,EDN0935-C,Fatou,Sise,26/05/1988,Keneba,Seen,Complete
+20-017-002O,EDN0936-A,Fatoumata,Samateh,15/04/1983,KENEBA,Seen,Complete
+29-025-037P,EDN0937-B,Binta,Sise,18/04/1991,Keneba,Seen,Complete
+29-032-021F,EDN0938-D,Aminata,Sise,13/11/1990,Keneba,Seen,Complete
+29-077-008M,EDN0939-E,Aminata,Bajo,26/09/2000,Keneba,Seen,Complete
+29-001-010M,EDN0940-K,Isatou,Sise,04/02/1986,Keneba,Seen,Complete
+29-013-016G,EDN0941-E,Hafisatou,Sanyang ,04/01/2001,KENEBA ,Seen ,Complete
+29-050-009B,EDN0942-D,Bintou ,Barrow ,26/06/1996,KENEBA ,Seen ,Complete
+29-005-031D,EDN0943-J,Isatou,Sise,30/08/1993,Keneba,Seen,Complete
+01-033-017L,EDN0944-G,Fatou,Colley,02/07/1987,KENEBA,Seen,Complete
+29-080-013B,EDN0945-B,Fatou,Sise,28/01/2000,Keneba,Seen,Complete
+29-044-030C,EDN0946-H,Fatou,Camara,08/11/1997,KENEBA,Seen,Complete
+29-025-039R,EDN0947-C,Bintou,Sise,31/08/2000,Keneba,Seen,Complete
+11-029-059P,EDN0948-A,Kaddijatou,Samateh,02/10/1994,Keneba,Seen,Complete
+29-035-010E,EDN0949-F,Mariatou,Sise,04/08/1996,KENEBA,Seen,Complete
+29-047-003L,EDN0950-J,Isatou,Sise,13/07/1986,Keneba,Seen,Complete
+10-009-037Z,EDN0951-K,Binta,Sise,17/07/1990,Keneba,Seen,Complete
+29-004-207L,EDN0952-E,Kaddy,Jammeh,02/07/1989,Keneba,Seen,Complete
+29-048-004Y,EDN0953-F,Mariama,Sise,13/01/1988,Keneba,Seen,Complete
+02-026-002E,EDN0954-D,Binta,Minteh,29/09/1998,Keneba ,Seen,Complete
+29-033-081Z,EDN0956-C,Maimuna,Sise,26/03/2003,Keneba,Seen,Complete
+29-032-030O,EDN0957-A,Mariama,Sise,12/12/2002,Keneba,Seen,Complete
+29-010-020A,EDN0958-B,Isatou,Bajo,06/03/1991,Keneba,Seen,Complete
+29-020-011-H,EDN0959-H,Mabinta,Sanyang,12/02/1986,Keneba,Seen,Complete
+29-061-011F,EDN0960-H,Haminata,Minteh,07/09/1983,Keneba,Seen,Complete
+25-006-196U,EDN0961-A,Nyimanding,Fatty,02/07/2002,Karantaba,Seen,Complete
+29-005-003B,EDN0962-K,Mariama,Sise,13/11/1997,Keneba,Seen,Complete
+29-014-0640,EDN0963-C,Banna,Sise,01/11/1984,Keneba,Seen,Complete
+16-030-005R,EDN0964-B,Binta ,Sise,07/09/2022,Tankular,Seen,Complete
+16-030-005R,EDN0964B,Binta ,Sise,07/09/2022,Tankular,Seen,Complete
+27-036-022A,EDN0965-F,Isatou,Samateh,30/09/2000,Karantaba,Seen,Complete
+25-006-005L,EDN0966-E,Fatou,Kambi,27/09/1997,Karantaba,Seen,Complete
+25-012-050Y,EDN0967-J,Isatou,Conteh,02/07/1985,Karantaba,Seen,Complete
+25-012-441Z,EDN0968-G,Mariama,Jarju,14/01/2000,Karanta,Seen,Complete
+25-006-083L,EDN0969-D,Isatou,Kambi,05/05/1996,Karantaba,Seen,Complete
+25-004-014W,EDN0970-B,Fatou,Chorr,11/11/1983,Karantaba,Seen,Complete
+25-011-031T,EDN0971-H,Musukuta,Marong,02/07/1986,Karantaba,Seen,Complete
+25-008-051D,EDN0972-F,Kaddy,Kanyi,02/07/1991,Karantaba,Seen,Complete
+25-012-219L,EDN0973-A,Fatoumata,Jaiteh,03/07/1984,Karantaba,Seen,Complete
+25-012-053B,EDN0974-K,Wuday,Conteh,02/07/1988,Karantaba,Seen,Complete
+25-008-009N,EDN0975-J,Fatou,Jarju,02/07/1999,Karantaba,Seen,Complete
+25-012-228U,EDN0976-D,Aja,Minteh,02/07/1993,Karantaba,Seen,Complete
+52-018-04,EDN0977-E,Ramatoulie,Sowe,19/04/1983,Madina Angalleh,Seen,Complete
+52-013-01,EDN0978-C,Mariama ,Jallow ,04/01/1994,Mandina Angalleh,Seen ,Complete
+52-051-01,EDN0979-G,Kaddijatou ,Bah ,24/04/1998,Madina Angalleh,Seen ,Complete
+03-041-036Y,EDN0988-J,Nyima,Sise,09/11/1993,Niorro jataba,Complete,Complete
+03-041-033V,EDN0989-B,Sallah,Jallow,02/07/1996,Niorro jataba,Complete,Unverified
+03-041-026O,EDN0990-C,Isata,Jallow,02/07/1992,Niorro jataba,Complete,Complete
+03-048-044M,EDN0991-F,Haminata,Jobe,02/07/1992,Niorro jataba,Complete,Complete
+03-047-033P,EDN0992-J,Adama,Gano,02/07/2002,Niorro jataba,Complete,Unverified
+03-046-038I,EDN0993-B,Mariama,Jobe,02/07/1984,Niorro jataba,Complete,Complete
+03-048-046O,EDN0994-E,Jonsaba,Sonko,02/07/1998,Niorro jataba,Complete,Unverified
+03-091-005V,EDN0995-D,Sohna,Ndow,02/07/1998,Niorro jataba,Complete,Complete
+03-048-040I,EDN0996-G,Fatoumata,Sey,02/07/1992,Niorro jataba,Complete,Unverified
+47-004-01,EDN0997-H,Fatou,Korta,02/06/1998,Nema,Seen,Complete
+47-043-03,EDN0998-K,NYIMANSATOU ,FADERA,22/07/1994,NEMA,SEEN,Complete
+47-018-12,EDN0999-A,Masireh,Samateh,09/05/1999,Nema,Seen,Complete
+26-001-05,EdN775-F,Nyima,Bajinka,02/07/1984,Mandina,Seen,Complete
+29-010-020A,EDN958-B,Isatou,Bajo,06/03/1991,Keneba,Seen,Complete
+47-043-02,EDN1000-J,ISATOU,JAWARA,22/12/1994,NEMA,SEEN,Complete
+47-043-03,EDN1000-J,Isatou,Jawara,04/12/1994,Nema,Seen,Complete
+54-014-001,EDN1001-A,Fatou ,Sarr,03/02/1985,Mandina,Seen,Complete
+54-023-001,EDN1002-B,Jainaba,Barrow,11/07/1989,Mandina,Seen,Complete
+50-002-004,EDN1003-C,Adama wuri,Jallow,10/02/2003,Nemakuta,Seen,Complete
+42-032-001,EDN1004-D,Fatou,Darboe,03/02/1987,Kwinalla Nya Kunda,Seen,Complete
+41-041-001,EDN1005-E,Alimatou,Jallow,03/06/1985,Kwinella Sansangkono,Seen,Complete
+54-024-002,EDN1006-F,Lisa,Touray,31/12/1994,Mandina Central,Seen,Complete
+54-024-002,EDN1006-F,Lisa,Touray,31/12/1994,Mandina Central,Seen,Complete
+54-011-002,EDN1007-G,Aja,Suso,29/01/1995,Mandina Central,Seen,Complete
+54-011-002,EDN1007-G,Aja,Suso,29/01/1995,Mandina Central,Seen,Complete
+50-008-005,EDN1008-H,Need  Fatou,Gibba,03/06/1994,Nema Kuta,Seen,Complete
+30-008-005,EDN1008-H,Ndey Fatou,Gibba,03/06/1994,Nema kuta,Seen,Complete
+54-025-001,EDN1010-G,Sainey,Jallow,30/03/1986,Madina central,Seen,Complete
+54-025-001,EDN1010-G,Sainey,Jallow,30/03/1987,Madina Central,Seen,Complete
+50-031-002,EDN1011-K,Fatou ,Bah,15/06/1990,Nema kuta,Seen,Complete
+50-031-002,EDN1011-K,Fatou ,Bah,15/06/1990,Nema Kuta,Seen,Complete
+41-013-003,EDN1012-L,Adama,Saidy  Sowe,15/06/1989,Kwinella sansankono,Seen,Complete
+41-029-003,EDN1012-L,Adama,Saidy Sowe,01/11/1997,Kwinella Sansankono,Seen,Complete
+41-028-004,EDN1013-M,Nyima,Sanneh,10/06/1997,Kwinella Sansangkono,Seen,Complete
+05-032-051l,EDN1014-N,Ndey,Bajinka,02/10/1982,Jiffarong,Seen,Complete
+05-017-006u,EDN1015-O,Aramata ,Barrow,07/01/1990,Jifarong,Seen,Complete
+05-064-010q,EDN1016-P,Aminata,Barrow,26/03/1986,Jifarong,Seen,Complete
+05-013-014G,EDN1017-G,Yassin,Njai,05/09/1985,Jiffarong,Seen,Complete
+05-014-029H,EDN1018-R,MUSUKEBBA  ,DRAMMEH,02/07/1986,JIFFARONG ,SEEN,Complete
+41-017-003,EDN1020-T,Nana,Konteh,30/06/1989,Kwinella ,Seen,Unverified
+05-039-003V,EDN1021-U,KUMBA,JAITEH,02/07/1983,Jifarong,SEEN,Complete
+05-002-106S,EDN1022-V,Natoma,Drammeh,02/07/1985,Jiffarong,Seen,Complete
+40-008-002,EDN1023-W,Binta,Sidibeh,16/07/1992,Wurokang ,SATISFACTORY ,Complete
+40-022-001,EDN1024-X,FATOU ,CAMARA ,15/06/1992,WUROKANG,COMPLETE ,Complete
+05-023-008Q,EDN1026-Z,Menata,Barrow ,02/07/1986,Jiffarong,Seen,Complete
+05-058-01Y,EDN1027-B,Maimuna ,Bah,19/01/1994,Jiffarong,Seen,Complete
+10-005-030W,EDN1030-E,Bintou ,Manka,05/01/1988,Kantong kunda ,Seen,Complete
+23-017-030K,EDN1035-G,Nyimanding,Jadama,02/07/1982,Burong,Seen,Complete
+24-024-016Q,EDN1036-K,Bintou,Darboe,22/04/2001,Burong,Seen,Complete
+23-014-011H,EDN1037-L,BINTOU ,SISE,02/07/1994,BURONG,SEEN ,Complete
+22-003-004K,EDN1038-M,Mariama,Jammeh,17/01/1998,Burong,Seen,Complete
+24-025-013Z,EDN1039-N,Jainaba,Daffeh,16/01/1996,Jula Kunda,Seen,Complete
+16-031-002A,EDN1040-O,FANTA,CAMARA ,28/10/1987,TANKULAR,SEEN ,Complete
+16-006-025J ,EDN1041-P,SARIBA,KASSAMA,02/07/1985,TANKULAR,SEEN ,Complete
+Unknown DSS #,EDN1042-G,ISATOU ,BAJO,13/05/1998,TANKULAR ,SEEN ,Complete
+Unknown DSS#,EDN1043-R,NYIMANDING ,SANYANG ,24/06/2003,TANKULAR ,SEEN ,Complete
+17-010-007B,EDN1044-S,NYARA,BASS,31/08/1988,Tankular,Seen,Complete
+17-004-024Y,EDN1045-T,Isatou ,Camara,13/08/1998,Tankular,Seen,Complete
+Unknown DSS#,EDN1046-U,MARIAMA ,DRAMMEH ,09/01/1986,TANKULAR ,SEEN ,Complete
+29-045-049H,EDN1051-Z,Mariatou,Sanneh,06/10/1985,Keneba,Seen,Complete
+Unknown DSS#,EDN1052-B,Yamundow,Jobarteh,18/01/1980,Kemoto,Seen,Complete
+28-028-008I,EDN1053-C,Fatou,Kanteh,03/08/1999,Kemoto ,Seen ,Complete
+27-011-004U,EDN1054-D,Kaddy ,Jorbateh,06/11/1996,Janneh-kunda ,Seen ,Complete
+28-021-005Z,EDN1055-E,Fatou,Keita,02/07/2000,Janneh Kunda,Seen,Complete
+27-036-014S,EDN1056-F,Jainaba ,Jorbateh ,02/07/1984,Janneh-kunda ,Seen ,Complete
+29-078-009Z,EDN1057-G,Wuday ,Sise,04/04/1990,Janneh Kunda,Seen,Complete
+25-012-116M,EDN1058-H,Isatou ,Sawaneh ,02/07/1994,Janneh-kunda ,Seen ,Complete
+25-010-041R,EDN1059-I,Kaddijatou ,Fofana ,29/12/1986,Karantaba ,Seen ,Complete
+09-005-017V,EDN1060-G,Mariama,Barrow,29/08/1996,Karantaba,Seen,Complete
+25-011-144C,EDN1061-K,Fatou,Kambie,25/03/2002,Karantaba,Seen,Complete
+28-015-013N,EDN1062-L,Maimuna ,Demba ,29/10/1995,Karantaba ,Seen ,Complete
+25-011-225F,EDN1064-N,Oumie ,Kambi ,30/03/1997,Karantaba ,Seen ,Complete
+25-011-293V,EDN1067-G,Jainaba ,Kambi ,19/09/1992,Karantaba ,Seen ,Complete
+25-011-0117L,EDN1068-R,Matty,Kambie,30/01/2001,Karantaba,Seen,Complete
+25-006-093V,EDN1069-S,Nyimanding ,Marong ,02/07/1991,Karantaba ,Seen ,Complete
+27-006-018A,EDN1070-T,Alima ,Janneh,19/08/1989,Manduar,Seen ,Complete
+25-007-021N,EDN1071-U,Nyimanding ,Sise,02/07/1984,Karantaba,Seen,Complete
+11-003-039V,EDN1072-V,Mariama,Samateh,01/01/1994,Karantaba,Seen,Complete
+Unknown DSS#,EDN1073-W,Jasiatou,Marrie,15/07/1987,Joli,Seen,Complete
+17-008-011H,EDN1075-Y,Jainaba,Marrie,18/10/1991,Joli,Seen,Complete
+29-103-002G,EDN1077-B,Nakebba ,Minteh,07/07/1983,Keneba,Seen ,Complete
+29-131-014Q,EDN1078-C,Fatou ,Sise,02/07/1998,Keneba,Seen,Complete
+29-013-043H,EDN1079-D,Nakebba,Sanyang,20/08/1991,Keneba,Seen,Complete
+29-028-006U,EDN1080-E,Binta ,Ceesay,01/07/1988,KENEBA ,Seen ,Complete
+29-001-035L,EDN1081-F,Alimatou ,Sise ,02/07/1996,KENEBA ,Seen ,Complete
+29-013-013D,EDN1082-G,AROKEY,SANYANG ,18/06/1993,KENEBA ,SEEN ,Complete
+10-001-038I,EDN1083-H,Isatou ,Sise ,18/09/2003,KENEBA ,Seen ,Complete
+29-056-030Q,EDN1084-I,ISATOU ,JAMMEH ,02/02/1985,KENEBA ,SEEN ,Complete
+13-024-006I,EDN1085-G,Kaddy,Jammeh,12/04/1991,Manduar,Seen,Complete
+13-015-009H,EDN1086-K,Kaddy ,Camara ,11/01/1988,Manduar ,Seen ,Complete
+29-017-017D,EDN1087-L,Isatou,Kanteh,02/07/1989,Manduar,Seen,Complete
+47-027-05,EDN1101-Z,Aminata,Sabally,15/07/1997,Nema,Seen,Complete
+30-018-02,EDN1102-B,Binta,Bojang,14/07/1987,Batelling,Complete ,Incomplete
+30-018-02,EDN1102-B,Binta ,Bojang,07/07/1987,Batelling,Complete ,Complete
+30-001-068G,EDN1103-C,Kaddy ,Mambureh,01/01/1987,Batelling ,Seen,Complete
+06-015-006K,EDN1104-D,Aja,Drammeh ,15/05/1997,Bajana,Complete ,Complete
+06-017,EDN1105-E,MAI ,CEESAY,28/02/1988,BAJANA,COMPLETE ,Complete
+13-036-004U,EDN1106-F,Kuta,Darboe ,02/01/1996,Bajana,Complete ,Complete
+06-023-012I,EDN1107-G,NATOMA ,BAJO,02/07/1985,BAJANA,COMPLETE ,Complete
+04-005,EDN1108-H,Mama,Keita,15/07/1988,Jattaba,Seen,Complete
+31-001-028G,EDN1109-I,Aja ,Sanneh ,14/02/1995,Jattaba ,Seen ,Complete
+04-007-059R,EDN1110-G,Binta,Sanneh,15/07/1999,Jattaba,Seen,Complete
+43-003-03,EDN1111-K,Fatou,Badjie,11/12/1995,Tendaba,Seen,Complete
+04-037-012S,EDN1112-L,Kaddy ,Njai,02/07/1987,Jattaba ,Seen ,Complete
+14-001-040O,XXXX69,Mariama,Sanneh,02/07/1998,Bankuling,Seen,Complete

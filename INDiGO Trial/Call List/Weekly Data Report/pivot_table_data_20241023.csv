@@ -1,0 +1,21 @@
+redcap_event_name,Blood,Urine,Stool,Milk,Cord Blood
+Delivery,0,0,0,0,161
+Infant (Month 10),0,0,22,0,0
+Infant (Month 11),0,0,13,0,0
+month_12_arm_1,7,7,0,7,0
+Infant (Month 12),7,0,6,0,0
+Maternal (Month 1),140,137,0,139,0
+Infant (Month 1),116,0,103,0,0
+Infant (Month 2),0,0,89,0,0
+Maternal (Month 3),0,0,0,58,0
+Infant (Month 3),0,0,94,0,0
+Infant (Month 4),0,0,79,0,0
+Infant (Month 5),0,0,67,0,0
+Maternal (Month 6),81,78,0,81,0
+Infant (Month 6),75,0,70,0,0
+Infant (Month 7),0,0,55,0,0
+Infant (Month 8),0,0,47,0,0
+Infant (Month 9),0,0,32,0,0
+Week 20,368,364,0,0,0
+Week 28,285,281,0,0,0
+Week 36,208,208,0,0,0

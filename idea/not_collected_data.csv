@@ -1,0 +1,15 @@
+cons_recordid_q1,redcap_event_name_x,redcap_repeat_instrument_x,redcap_repeat_instance_x,pres_vdate_q1,a_was_participant_seen,q1b_if_no_give_reason,q1c_was_hb_obtained,q2a_if_no_give_reason,pres_hemoglobin_q2,prescreening_complete,redcap_event_name_y,redcap_repeat_instrument_y,redcap_repeat_instance_y,bld_datecoll_q1,bld_samplecoll_q3,bld_bdtimecoll_q2,bld_ifnorea_q4,bld_edta_q5,bld_serum_q6,if_the_actual_amount_of_bl,bld_compstaffid_q7,bloodsamplecollection_complete,_merge
+IDeA30113F,v1_arm_1,prescreening,1,2023-05-26,1,,1,,8.8,2,,,,,,,,,,,,,left_only
+IDeA30137G,v1_arm_1,prescreening,1,2023-04-17,1,,1,,10.5,2,,,,,,,,,,,,,left_only
+IDeA30205G,v1_arm_1,prescreening,1,2023-04-17,1,,1,,10.6,2,,,,,,,,,,,,,left_only
+IDeA30225D,v1_arm_1,prescreening,1,2023-07-13,1,,1,,10.5,2,,,,,,,,,,,,,left_only
+IDeA30252H,v1_arm_1,prescreening,1,2023-04-26,1,,1,,10.5,2,,,,,,,,,,,,,left_only
+IDeA30281J,v1_arm_1,prescreening,1,2023-04-26,1,,1,,10.1,2,,,,,,,,,,,,,left_only
+IDeA30310C,v1_arm_1,prescreening,1,2023-04-25,1,,1,,10.3,2,,,,,,,,,,,,,left_only
+IDeA30341H,v1_arm_1,prescreening,1,2023-05-31,1,,1,,9.9,2,,,,,,,,,,,,,left_only
+IDeA30451D,v1_arm_1,prescreening,1,2023-07-05,1,,1,,10.4,2,,,,,,,,,,,,,left_only
+IDeA30502A,v1_arm_1,prescreening,1,2023-08-25,1,,1,,10.7,2,,,,,,,,,,,,,left_only
+IDeA30516K,v1_arm_1,prescreening,1,2023-09-01,1,,1,,8.2,2,,,,,,,,,,,,,left_only
+IDeA30537J,v1_arm_1,prescreening,1,2023-10-29,1,,1,,9.2,2,,,,,,,,,,,,,left_only
+IDeA30548H,v1_arm_1,prescreening,1,2023-09-15,1,,1,,10.4,2,,,,,,,,,,,,,left_only
+IDeA30590A,v1_arm_1,prescreening,1,2023-10-13,1,,1,,9.5,2,,,,,,,,,,,,,left_only

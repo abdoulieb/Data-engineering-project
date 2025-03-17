@@ -1,0 +1,1 @@
+exec [sp_INDiGO_fbc] @date1='2024-10-20',@date2='2024-10-25';

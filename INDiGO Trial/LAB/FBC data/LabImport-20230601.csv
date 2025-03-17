@@ -1,0 +1,3 @@
+con_participantid_q1,redcap_event_name,cwbc,crbc,chgb,chtc,cmcv,cmch,mchc,plt,rwd_sd,rwd_cv,pdw,mpv,p_lcr,pct,neut,lymph,mono,eo,baso,neut_percent,lymph_percent,mono_percent,eo_percent,baso_percent,ig,ig_percent,micror,macror,ret,ret_percent,irf,lfr,mfr,hfr,ret_he,nrbc,nrbc_percent,validated_by,date_form_completed_41,verified_by_q42,sysmex_results_complete
+IN-M-012B,week_20_arm_1,9.58,3.45,10.2,30.6,88.7,29.6,33.3,350,45.5,14.2,9.5,9.4,19,0.33,5.9,2.34,1.06,0.21,0.07,61.6,24.4,11.1,2.2,0.7,0.03,0.3,2.8,3.1,,,,,,,,0,0,alcolley,01/06/2023,45,2
+IN-M-028G,week_20_arm_1,9.81,3.22,10.5,30.4,94.4,32.6,34.5,274,46.5,13.6,10.3,9.8,22.9,0.27,6.4,2.34,0.82,0.23,0.02,65.2,23.9,8.4,2.3,0.2,0.09,0.9,1,3.7,,,,,,,,0,0,alcolley,01/06/2023,45,2

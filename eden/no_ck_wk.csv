@@ -1,0 +1,19 @@
+wk_ckno,sen_outcome,compoundno,redcap_repeat_instance,enu_village,enu_comp,enu_date,enu_name,enu_dob,enu_mname,enu_fname,enu_age,enu_dob_estimated,enu_dobsource,enu_sensitisation,sen_date,sen_visitstatus,sen_comment,sen_ppregnant,sen_explained,sen_icd_given,sen_contact1,sen_contact2,sen_contact3,sen_contact4,sen_staffid,enumeration_and_sensitisation_complete
+,,07-021,6,KULI KUNDA,021,,,,,,,,,,,,,,,,,,,,tdrammeh,0
+,,07-021,7,KULI KUNDA,029,,,,,,,,,,,,,,,,,,,,tdrammeh,0
+,,07-021,8,KULI KUNDA,021,,,,,,,,,,,,,,,,,,,,tdrammeh,0
+,,07-021,9,KULI KUNDA,021,,,,,,,,,,,,,,,,,,,,tdrammeh,0
+,,07-040,3,KULI KUNDA,040,,,,,,,,,,,,,,,,,,,,mdanjo,0
+,,07-063,10,KULI KUNDA,063,,,,,,,,,,,,,,,,,,,,tdrammeh,0
+,,07-063,15,KULI KUNDA,063,,,,,,,,,,,,,,,,,,,,tdrammeh,0
+,1,44-001,5,BUMARR,001,2024-04-16,Kaddy fatty ,2001-02-16,Awa cham,Masanneh fatty,23.16,0,2,1,2024-04-16,1,,0,1,1,3439494,5287420,,,kaceesay,2
+,1,44-004,11,BUMARR,004,2024-04-18,Sarjo Demba,2000-04-12,Mattindingo yarbo,Solo demba,24.02,1,4,1,2024-04-18,1,,0,1,0,5861090,,,,kaceesay,2
+,,47-035,7,NEMA,035,,,,,,,,,,,,,,,,,,,,sadarboe,0
+,,47-045,6,NEMA,045,,Kaddy  Demba,,,,,,,1,,2,,,,,,,,,otbah,0
+,1,48-005,7,KUNDANG NUMU KUNDA,005,2024-03-07,Mariama Saidykhan ,2002-04-30,Fatoumatta fofana,Lamin Saidykhan ,21.85,0,1,1,2024-03-07,1,,0,1,0,3057243,,,,kaceesay,2
+,1,70-014,2,KOLIOR,014,2024-04-24,Fatoumata Fatty,1992-09-11,Kaddijatou Mass,Ousman Fatty,,0,1,1,2024-04-24,1,,1,1,1,7378290,3298470,,,aymbah,2
+,1,70-014,1,KOLIOR,014,2024-04-24,Kaddy Camara,1986-07-02,Jarju Fatty,Kebba Camara,,1,4,1,2024-04-24,1,,0,1,1,7149400,,,,aymbah,2
+,1,76-029,3,MASEMBEH,029,2024-03-20,MABINTOU JARJUE,2003-04-28,BINTA JANNEH ,MOMODOU JARJUE,20.9,0,1,1,2024-03-20,1,,0,1,0,2288706,,,,modnjie,2
+,2,76-045,3,MASEMBEH,045,2024-03-20,FATOU JABBIE ,1990-10-01,SONA DIBBA,ALMAMO JABBIE,33.47,0,1,1,2024-03-20,1,,0,1,0,2375402,,,,modnjie,2
+,1,79-107,5,MADINA KAIAF,107,2024-02-28,ROHEY CEESAY ,1996-05-01,AMIE  CEESAY ,ALHAGIE  MODOU  CEESAY ,27.83,0,1,1,2024-02-28,1,,0,1,1,7165345,,,,ssibi,2
+,1,84-004,4,SAREH PATEH,004,2024-04-24,Fatoumata Ceesay,1993-05-05,Jarra Njado,Yerro Ceesay,30.97,0,4,1,2024-04-24,1,,0,1,1,5365487,,,,aymbah,2

@@ -1,0 +1,583 @@
+field_name,form_name,section_header,field_type,field_label,select_choices_or_calculations,field_note,text_validation_type_or_show_slider_number,text_validation_min,text_validation_max,identifier,branching_logic,required_field,custom_alignment,question_number,matrix_group_name,matrix_ranking,field_annotation
+cons_recordid_q1,consent,,text,Q1) Study ID,,,,,,,,,,,,,
+cons_visitdate_q2,consent,,text,2)Visit date,,,date_dmy,,,,,y,,,,,@TODAY
+cons_illitpart_impertial_witness_q3,consent,,yesno,3) Has the participant been explained the study and had the chance to ask questions,,Please ensure illiterate participants have everything explained in the presence of an impartial witness,,,,,,y,,,,,
+cons_obtained_q4,consent,,yesno,4) Was consent obtained,,,,,,,,y,,,,,
+a_did_the_participant_refu,consent,,yesno,4a. Did the participant refuse consent ,,,,,,,[cons_obtained_q4]='0',,,,,,
+msgstop,consent,,descriptive,"<center><font size=""3"" color=""red"">This participant is  not eligible. Do not  proceed with the paper based consenting!  </center>",,,,,,,[cons_illitpart_impertial_witness_q3]='0' or [cons_obtained_q4]='0',,,,,,
+cons_dob_q5,consent,,text,5) Date of birth,,,date_dmy,,,,[cons_obtained_q4]='1',y,,,,,
+dob,consent,,calc,"<center><font size=""3"" color=""green"">Age in Months:  </center>","round(datediff([cons_visitdate_q2],[cons_dob_q5],""M"",""dmy""),1)",,,,,,[cons_obtained_q4]='1',,,,,,
+msg_agerange,consent,,descriptive,"<div class=""rich-text-field-label""><h2 style=""text-align: center;""><span style=""color: #e03e2d;"">The child cannot be enrolled; the age range is 6 to 12  months!</span></h2></div>",,,,,,,[dob]< 6 or [dob]> 12,,,,,,
+cons_provided_infconsent_q7,consent,,dropdown,7) Who provided written informed consent?,"1, Mother | 2, Father | 3, Guardian",,,,,,[cons_obtained_q4]='1',y,,,,,
+cons_participant_sign_q8,consent,,yesno,"8) If consented, has the participant signed / thumb-printed the form (with an impartial witness signature if necessary)? ",,,,,,,[cons_obtained_q4]='1',y,,,,,
+cons_partsign_q9,consent,,descriptive,Q9) Make sure participant signs,,,,,,,[cons_obtained_q4]='1',,,,,,
+cons_lang_cobtained_q10,consent,,dropdown,Q10) What language was the consent obtained in ,"1, Mandinka | 2, Wolof | 3, Fula | 5, Other",,,,,,[cons_obtained_q4]='1',y,,,,,
+cons_agree_infantsamples_q11,consent,,yesno,Q11) Did the parent/guardian agree for their infant's samples to be shipped out of the Gambia,,,,,,,[cons_obtained_q4]='1',y,,,,,
+cons_agree_subject_to_further_genetic_testing_q12,consent,,yesno,Q12) Did the parent/guardian agree for their infant's samples to be subject to further genetic testing ,,,,,,,[cons_obtained_q4]='1',y,,,,,
+cons_scompletedid_q13,consent,,text,Q13) Staff completing form(ID),,,,,,,,y,,,,,@APPUSERNAME-APP
+ass2,assessment_of_informed_consent_understanding,,text,Date of Assessment,,,date_dmy,,,,,y,,,,,@TODAY
+q1,assessment_of_informed_consent_understanding,,radio,Q1) This study will examine iron supplements,"1, True | 0, False",,,,,,,y,,,,,
+m1,assessment_of_informed_consent_understanding,,text,m1,,,number,0,1,,"if([q1] =1, [q1], 0)",,,,,,@HIDDEN
+q2,assessment_of_informed_consent_understanding,,radio,Q2) This study requires that you come to the clinic for 2 visits,"1, True | 0, False",,,,,,,y,,,,,
+m2,assessment_of_informed_consent_understanding,,text,m2,,,number,0,1,,"if([q2] =1, [q2], 0)",,,,,,@HIDDEN
+q3,assessment_of_informed_consent_understanding,,radio,Q3) Iron will protect your infant from anaemia,"1, True | 0, False",,,,,,,y,,,,,
+m3,assessment_of_informed_consent_understanding,,text,m3,,,number,0,1,,"if([q3] =1, [q3], 0)",,,,,,@HIDDEN
+q4,assessment_of_informed_consent_understanding,,radio,Q4) Your infant participating in this study will receive daily iron or sugar drops,"1, True | 0, False",,,,,,,y,,,,,
+m4,assessment_of_informed_consent_understanding,,text,m4,,,number,0,1,,"if([q4] =1, [q4], 0)",,,,,,@HIDDEN
+q5,assessment_of_informed_consent_understanding,,radio,Q5) We will collect 3 teaspoons of blood from your infant twice  in four months,"1, True | 0, False",,,,,,,y,,,,,
+m5,assessment_of_informed_consent_understanding,,text,m5,,,number,0,1,,"if([q5] =1, [q5], 0)",,,,,,@HIDDEN
+q6,assessment_of_informed_consent_understanding,,radio,Q6) A fieldworker will visit your infant at home every day for four months,"1, True | 0, False",,,,,,,y,,,,,
+m6,assessment_of_informed_consent_understanding,,text,m6,,,number,0,1,,"if([q6] =1, [q6], 0)",,,,,,@HIDDEN
+q7,assessment_of_informed_consent_understanding,,radio,Q7) You will  not be paid for participating in this study,"1, True | 0, False",,,,,,,y,,,,,
+m7,assessment_of_informed_consent_understanding,,text,m7,,,number,0,1,,"if([q7] =0, [q7], 1)",,,,,,@HIDDEN
+q8,assessment_of_informed_consent_understanding,,radio,8) Study nurses can't tell your friend about your participation in the study,"1, True | 0, False",,,,,,,y,,,,,
+m8,assessment_of_informed_consent_understanding,,text,m8,,,number,0,1,,"if([q8] =0,[q8], 1)",,,,,,@HIDDEN
+q9,assessment_of_informed_consent_understanding,,radio,9) You are free to withdraw from the study at any time,"1, True | 0, False",,,,,,,y,,,,,
+m9,assessment_of_informed_consent_understanding,,text,m9,,,number,0,1,,"if([q9] =1, 1, 0)",,,,,,@HIDDEN
+q10,assessment_of_informed_consent_understanding,,radio,10) During this study you can receive your usual medical care ,"1, True | 0, False",,,,,,,y,,,,,
+m10,assessment_of_informed_consent_understanding,,text,m10,,,number,0,1,,"if([q10] =1, 1, 0)",,,,,,@HIDDEN
+results,assessment_of_informed_consent_understanding,,calc,Final scores:,"sum([q1],[q2],[q3],[q4],[q5],[q6],[q7],[q8],[q9],[q10])",,,,,,,,,,,,@HIDDEN
+show_score,assessment_of_informed_consent_understanding,,radio,,"1, Show final score",,,,,,,,,,,,
+display_results,assessment_of_informed_consent_understanding,,descriptive,"<center><font size=""3"" color=""green"">Results of attempt: Volunteer answered :  [results] /  10 </center>
+ ",,,,,,,[show_score] = '1',,,,,,
+attempt_2_msg,assessment_of_informed_consent_understanding,,descriptive,"<center><font size=""2"" color=""red"">
+repeat the inform consent and ensure Parent or Guardian understand
+the informed consent and repeat the assessment of inform consent understanding on another instance If the participant has less 9/10 second time ""DO NOT ENROLED""
+ </center>
+
+
+",,,,,,,[show_score] = '1' and [results]=8,,,,,,
+inform_consent_assement_msg3,assessment_of_informed_consent_understanding,,descriptive,"<center><font size=""3"" color=""Green"">
+<strong>Have Pass the Assessment of inform consent understanding you can enrol the participant</strong>",,,,,,,[show_score] = '1' and [results]=10,,,,,,
+inform_consent_assement_msg4,assessment_of_informed_consent_understanding,,descriptive,"<center><font size=""3"" color=""Green"">
+<strong>Review and ensure that the missed or incorrect question properly explain and understood.</strong>",,,,,,,[show_score] = '1' and [results]=9,,,,,,
+sdoc_sourcedocu_q1,sourcedocument,,file,Q1) Upload the source document,,,,,,,,y,,,,,@SYNC-APP
+sdoc_typesdocument_q2,sourcedocument,,radio,Q2) Types of Source documents,"1, Infant welfare card | 2, Hospital/Clinic Record",,,,,,,y,LV,,,,
+pres_vdate_q1,prescreening,,text,1. Date of Visit,,,date_dmy,,,,,y,,,,,@TODAY
+a_was_participant_seen,prescreening,,radio,1a) was participant seen ?,"1, yes | 2, no",,,,,,,,,,,,
+q1b_if_no_give_reason,prescreening,,dropdown,Q1b) If no give reason?,"1, participant could not be located | 2, participant travel",,,,,,[a_was_participant_seen] = '2',y,,,,,
+q1c_was_hb_obtained,prescreening,,radio,Q1c Was Hb obtained?,"1, yes | 2, no",,,,,,[a_was_participant_seen] = '1',y,,,,,
+q2a_if_no_give_reason,prescreening,,dropdown,Q2a) if no give reason,"1, parent/guardian declined",,,,,,[q1c_was_hb_obtained] = '2',y,,,,,
+pres_hemoglobin_q2,prescreening,,text,2.Hemoglobin (g/dL),,,number_1dp,7.0,18.0,,,y,,,,,
+alart_messg,prescreening,,descriptive,<h1 style='color:red'> Advise parent/ guardian to seek care in the nearest hospital </h1>,,,,,,,[pres_hemoglobin_q2]<7.0 or [pres_hemoglobin_q2] > 11,y,,,,,
+anth_datecoll_q1,anthrops,,text,Q1) Date collected,,,date_dmy,,,,,y,,,,,@TODAY
+a_was_the_birth_weight_ava,anthrops,,radio,1a) Was the birth weight available in the infant welfare card ?,"1, yes | 2, no",,,,,,,y,,,,,
+anth_birthweight_q2,anthrops,,text,Q2) Birth weight (From infant welfare card),,,number_2dp,0.00,,,[a_was_the_birth_weight_ava]='1',y,,,,,
+anth_weight_q3,anthrops,,text,Q3) Weight (kg),,2 decimal (eg 4.25 ),number_2dp,0.00,,,,y,,,,,
+anth_height_q4,anthrops,,text,Q4) Height (cm),,2 decimal eg 4.10 ,number_2dp,0.00,,,,y,,,,,
+z_score_q5,anthrops,,text,5) Z-score ,,2 decimal eg 4.10 ,number_2dp,-4.00,5.00,,,y,,,,,
+anth_staffid_q6,anthrops,,text,Q6) Staff completing form(ID),,,,,,,,y,,,,,@APPUSERNAME-APP
+demo_date_q1,demograhics,,text,Q1) Visit Date,,,date_dmy,,,,,y,,,,,@TODAY
+demo_age_q2,demograhics,"<center><font size=""4"" color=""green"">Parent/Guardian </center>",text,Q2) Age,,,integer,0,,,,y,,,,,
+demo_gender_q3,demograhics,,radio,Q3) Gender,"1, Male | 2, Female",,,,,,,y,RH,,,,
+demo_ethinicity_q4,demograhics,,dropdown,Q4) Ethnicity,"1, Mandinka | 2, Fulla | 3, Wollof | 4, Jola | 5, Sere | 6, Bainunka | 7, Balanta | 8, Serahule",,,,,,,y,RH,,,,
+demo_marital_q5,demograhics,,dropdown,Q5) Marital status,"1, Single | 2, Married | 3, Widowed/Widower",,,,,,,y,RH,,,,
+demo_occu_q6,demograhics,,dropdown,Q6) Occupation,"1, Informal employment | 2, Formal employment | 3, Housewife",,,,,,,y,RH,,,,
+demo_edu_q7,demograhics,,dropdown,Q7) Level of education,"1, No education | 2, Primary education | 3, Secondary education | 4, Higher education",,,,,,,y,RH,,,,
+demo_parity_q8,demograhics,,text,Q8) How many children did you have,,,integer,0,,,,y,,,,,
+demo_childage_q10,demograhics,"<center><font size=""4"" color=""green"">Child </center>",calc,Q10) Age,[v1_arm_1][dob],,,,,,,y,RH,,,,
+demo_childgender_q11,demograhics,,radio,Q11) Gender,"1, Male | 2, Female",,,,,,,y,RH,,,,
+demo_childethinnicity_q12,demograhics,,dropdown,Q12) Ethinicity,"1, Mandinka | 2, Fulla | 3, Wollof | 4, Jola | 5, Sere | 6, Bainunka | 7, Balanta",,,,,,,y,RH,,,,
+demo_staff_q13,demograhics,,text,Q13) Staff completing form(ID),,,,,,,,y,,,,,@APPUSERNAME-APP
+vsig_visitdate_q1,vitalsign,,text,Q1) Visit date,,,date_dmy,,,,,y,,,,,@TODAY
+vsig_visittime_q2,vitalsign,,text,Q2) Visit time,,,time,,,,,y,,,,,
+vsig_heartrate_q3,vitalsign,,text,Q3) Heart rate/min,,Between 100 to 155 inclusive,integer,0,,,,y,,,,,
+vsig_rr_q3a,vitalsign,,text,3a) Respiratory rate/min(RR),,,integer,23,53,,,y,,,,,
+msg_outrange,vitalsign,,descriptive,"<center><font size=""4"" color=""green"">Out of this range consult the clinician  </center>",,,,,,,[vsig_heartrate_q3]<100 or [vsig_heartrate_q3]>150,,,,,,
+vsig_axiltemp_q4,vitalsign,,text,Q4) Axillary Temperature (°C),,between 35.5 to 37.5 inclusive,number_1dp,35.5,37.5,,,y,,,,,
+vsig_crefilltime_q5,vitalsign,,dropdown,Q5) Capillary refill time ,"1, >3secs | 2, < 3 secs",,,,,,,y,,,,,
+msg_repeat,vitalsign,,descriptive,"<center><font size=""4"" color=""green"">Repeat test if out of the normal range and consult research clinician   </center>",,,,,,,[vsig_crefilltime_q5]='1',,,,,,
+vsig_activity_q6,vitalsign,,checkbox,Q6) Activity,"1, Responds normally to social cues | 2, Weak | 3, Content/ smiles, | 4, Stays awake/ awakens quickly | 5, Strong normal cry | 6, Not crying | 7, Not responding normally to social cues | 8, No smile | 9, Wakes only with prolonged stimulation | 10, Decreased activity | 11, No response to social cues | 12, Appears ill to a healthcare professional | 13, Does not wake or if roused does not stay awake | 14, High pitched or continuous cry",,,,,,,y,,,,,@HIDDEN
+vsig_compstaffid_q7,vitalsign,,text,Q7) Staff completing form(ID),,,,,,,,,,,,,@APPUSERNAME-APP
+scre_date_q1,screening,,text,1) Date of Screening,,,date_dmy,,,,,y,,,,,@TODAY
+scre_studyarea_q2,screening,"<center><font size=""4"" color=""green"">Inclusion criteria </center>",yesno,2) Is the parent/guardian with participant currently residing in the study area and are willing to stay for the entire study duration?,,,,,,,,y,RH,,,,
+scre_padhprotocolvisit_q3,screening,,yesno,3) Is the participant willing  to comply with all study procedures and adhere to the study protocol?,,,,,,,[scre_studyarea_q2]='1',y,RH,,,,
+scre_agebetween_q4,screening,,yesno,4) Is the participant's age between  6-12 Months at the time of enrolment​?,,,,,,,[scre_padhprotocolvisit_q3]='1',y,RH,,,,
+agehint,screening,,calc,Tips: Age in Months at enrolment:  ,[dob],,,,,,,,,,,,
+scre_partanaemic_q5,screening,,yesno,5)  Is the participant anaemic with Hb < 11.0 g/dl and >=7.0 g/dl.,,,,,,,[scre_agebetween_q4]='1',y,RH,,,,
+screenfailmsg_2,screening,,descriptive,"<center><font size=""5"" color=""red"">This participant has failed the inclusion criteria. Stop here and save the form !</center>
+
+
+
+
+",,,,,,,([scre_studyarea_q2]='0' or [scre_padhprotocolvisit_q3]='0' or 	[scre_agebetween_q4]='0' or [scre_partanaemic_q5]='0'),,,,,,
+exclusion_caption,screening,,descriptive,"<center><font size=""3"" color=""green"">Exclusion criteria </center>",,,,,,,[scre_partanaemic_q5]='1',y,,,,,
+scre_acuteillness_q6,screening,,yesno,6) Was the participant born premature or very low birth weight (< 1500g)? ,,,,,,,[scre_partanaemic_q5]='1',y,RH,,,,
+scre_partwhz_q7,screening,,yesno,7)  Is the participant WHZ < -4 SD ,,,,,,,,y,RH,,,,@HIDDEN
+hint,screening,,calc,Z-score Hint ,[z_score_q5],,,,,,,,,,,,@HIDDEN
+scree_childill_q8,screening,,yesno,8)Is the child currently ill?,,,,,,,[scre_acuteillness_q6]='0',y,,,,,
+screenfailmsg_4,screening,,descriptive,"<center><font size=""5"" color=""green"">To be further assessed by research clinician or nurses !</center>
+
+
+
+
+",,,,,,,([scree_childill_q8]='1'),,,,,,
+scre_partrecentlyhosp_q9,screening,,yesno,9) Is there any history of hospital admission in the past two weeks?,,,,,,,[scree_childill_q8]='1' or [scree_childill_q8]='0',y,RH,,,,
+reason_for_hospitalization,screening,,notes,reason for hospitalization ,,,,,,,([scre_partrecentlyhosp_q9]='1'),,,,,,
+screenfailmsg_6,screening,,descriptive,"<center><font size=""5"" color=""green"">To be further assessed by research clinician or nurses!</center>
+
+
+
+
+",,,,,,,([scre_partrecentlyhosp_q9]='1'),,,,,,
+scre_hepcinf_q10,screening,,yesno,"10) Is there any history of HIV, chronic hepatitis B or chronic hepatitis C infection?",,,,,,,[scre_partrecentlyhosp_q9]='0' or [scre_partrecentlyhosp_q9]='1',y,RH,,,,
+scre_adprotocolpro_q11,screening,,yesno,11) Is there any condition that in the opinion of the investigator might compromise the safety or well being of the subject or compromise adherence to protocol procedures?,,,,,,,[scre_hepcinf_q10]='0',y,RH,,,,
+scre_formula_q12,screening,,yesno,12)  Are infants formula fed or their mothers planning to use commercially available infant formula during the study period (12 weeks),,,,,,,[scre_adprotocolpro_q11]='0',y,RH,,,,
+scre_30daysprioiniadmin_q13,screening,,yesno,13) Has infant been given iron supplement in the past 30 days prior to study initiation or plan administration during the study period?,,,,,,,[scre_formula_q12]='0',y,RH,,,,
+scre_hmeningitisneudisorders_q14,screening,,yesno,"14) Is there any History of meningitis, seizures, Guillain-Barré syndrome, or other neurological disorders? ",,,,,,,[scre_30daysprioiniadmin_q13]='0',y,RH,,,,
+screenfailmsg_5,screening,,descriptive,"<center><font size=""5"" color=""green"">To be further assessed by research clinician or nurses!</center>
+
+
+
+
+",,,,,,,([scre_hmeningitisneudisorders_q14]='1'),,,,,,
+screenfailmsg_3,screening,,descriptive,"<center><font size=""5"" color=""red"">This participant has failed the exclusion criteria. Stop here and save the form !</center>
+
+
+
+
+",,,,,,,([scre_acuteillness_q6]='1' or [scre_partwhz_q7]='1' or [scre_hepcinf_q10]='1' or [scre_adprotocolpro_q11]='1' or [scre_formula_q12]='1' or [scre_30daysprioiniadmin_q13]='1'),,,,,,
+scre_compstaffid_q15,screening,,text,15) Staff completing form(ID),,,,,,,,y,RH,,,,@APPUSERNAME-APP
+bld_datecoll_q1,bloodsamplecollection,,text,Q1)Date collected,,,date_dmy,,,,,y,,,,,@TODAY
+bld_samplecoll_q3,bloodsamplecollection,,yesno,Q3) Was a blood sample collected,,,,,,,,y,RH,,,,
+bld_bdtimecoll_q2,bloodsamplecollection,,text,Q2) Time blood was collected,,,time,,,,[bld_samplecoll_q3]='1',y,,,,,
+bld_ifnorea_q4,bloodsamplecollection,,dropdown,Q4) If no - what was the reason,"2, Parent refusal | 3, Unable to obtain sample | 4, Travel",,,,,,[bld_samplecoll_q3]='0',,,,,,
+msg_ineligible,bloodsamplecollection,,descriptive,"<center><font size=""4"" color=""red"">The participant should be withdrawn, proceed to the withdrawal CRF </center>",,,,,,,[bld_ifnorea_q4] = '2',,,,,,
+bld_edta_q5,bloodsamplecollection,Blood ,text,Q5) EDTA  (mL) 0.5ml,,,number_1dp,,,,[bld_samplecoll_q3]='1',y,,,,,
+bld_serum_q6,bloodsamplecollection,,text,Q6) Serum gel  (mL) 3.0 ml,,,number_1dp,,,,[bld_samplecoll_q3]='1',,,,,,
+if_the_actual_amount_of_bl,bloodsamplecollection,,dropdown,If the actual amount of blood is not collected give reason ,"1, difficult to bleed | 2, mother refused",,,,,,[bld_samplecoll_q3]='1',,,,,,
+bld_compstaffid_q7,bloodsamplecollection,,text,Q7) Staff completing form(ID),,,,,,,,y,,,,,@APPUSERNAME-APP
+stol_visitdate_q1,stoolsamplecollection,,text,1. Visit date,,,date_dmy,,,,,y,,,,,@TODAY
+stol_visittime_q2,stoolsamplecollection,,text,2. Visit time,,,time,,,,,y,,,,,
+stol_stlobtained_q3,stoolsamplecollection,,yesno,3. Was a stool obtained,,,,,,,,y,RH,,,,
+stol_ifnoreas_q5,stoolsamplecollection,,notes,4. If no - what was the reason,,,,,,,[stol_stlobtained_q3]='0',,,,,,
+stol_collectedby_q4,stoolsamplecollection,,text,5. Collected by,,,,,,,[stol_stlobtained_q3]='1',y,,,,,@APPUSERNAME-APP
+stool_nostool_q5a,stoolsamplecollection,,descriptive,"<div class=""rich-text-field-label""><h2 style=""text-align: left;""><span style=""background-color: #169179;"">5a) If the participant does not produce stool in the clinic, stool sample should be collected at home.</span></h2></div>",,,,,,,[stol_stlobtained_q3]='0',,,,,,
+rand_date_q1,randomization,,text,Q1) Randomization date ,,,date_dmy,,,,,y,,,,,@TODAY
+rand_time_q2,randomization,,text,Q2) Randomization time ,,,time,,,,,y,,,,,
+rand_treatgroup_q3,randomization,,radio,Q3) Treatment  group,"1, 1 | 2, 2 | 3, 3 | 4, 4 | 5, 5 | 6, 6",,,,,,,y,,,,,
+iron_patcontactdate_q1,ironsupplement,,text,Q1) Date of patient contact,,,date_dmy,,,,,y,,,,,@TODAY
+iron_visitstatus_q1a,ironsupplement,,yesno,Q1a) Was the participant seen,,,,,,,,y,,,,,
+have_you_checked_that_id_i,ironsupplement,,descriptive,"<div class=""rich-text-field-label""><h2><span style=""color: #e03e2d;"">Have you checked that  the ID on the infant welfare card matches the ID in the zip lock bag</span></h2></div>",,,,,,,[iron_visitstatus_q1a]='1',,,,,,
+iron_visitreason_q1b,ironsupplement,,dropdown,Q1b. Reason ,"1, Participant travel | 2, Could not be located | 3, Hospitalized and iron withheld",,,,,,[iron_visitstatus_q1a]='0',,,,,,
+iron_supferrouspri_q2,ironsupplement,,yesno,Q2) Was the oral supplement administered,,,,,,,[iron_visitstatus_q1a] = '1',y,RH,,,,
+iron_suppwithheld_q2a,ironsupplement,,yesno,Q2a) Was iron supplement withheld,,,,,,,[iron_supferrouspri_q2]='0',,,,,,
+iron_suppwithheldreason_q2b,ironsupplement,,checkbox,Q2b) Give reason,"1, was it due to confirmed fever (axillary temperature >37.5°C) not associated with teething or vaccination | 2, was it due to visually confirmed bloody diarrhoea | 3, was it due to hospitalisation for somatic illness | 4, Was it due to treatment with antibiotics for any confirmed or suspected somatic infection | 5, was it due to confirmed fever plus dipstick-test confirmed parasitaemia",,,,,,[iron_suppwithheld_q2a] = '1',,LV,,,,
+iron_suppamount_q3,ironsupplement,,yesno,Q3) Amount received (10 mg),,,,,,,[iron_supferrouspri_q2]='1',y,RH,,,,
+iron_suppreceive10mlgreas_q4,ironsupplement,,dropdown,Q4) If the child did not receive 10 mg- give reason ,"1, Vomit | 2, Spit out | 3, Refuse",,,,,,[iron_suppamount_q3]='0',,,,,,
+iron_supptime_q5,ironsupplement,,text,Q5) Time,,,time,,,,[iron_suppamount_q3]='1',y,,,,,
+ip_administer,ironsupplement,,yesno,"5a) If the child did not receive 10.0mg, was the IP re-administered?",,,,,,,[iron_suppamount_q3]='0',,,,,,
+iron_suppgreason_q6,ironsupplement,,checkbox,Q6) Give reason,"1, Was it due to parent refusal | 2, Other","Note: In case of 48-hour history of fever as reported by the mother (or guardian) that is not confirmed axillary temperature ≤37.5°C), ask the mother/guardian to bring the child after 6 hours, and repeat measurement",,,,,[iron_suppwithheld_q2a]='0',,LV,,,,
+iron_suppotherspec_q7,ironsupplement,,notes,Q7) Specify,,,,,,,[iron_suppgreason_q6(2)] = '1',,,,,,
+msg_complete_ae,ironsupplement,,descriptive,"<center><font size=""4"" color=""green"">Complete AE eCRF</center>",,,,,,,[iron_suppwithheldreason_q2b(1)] = '1' or [iron_suppwithheldreason_q2b(2)] = '1' or [iron_suppwithheldreason_q2b(3)] = '1' or [iron_suppwithheldreason_q2b(4)] = '1' or [iron_suppwithheldreason_q2b(5)] = '1',,,,,,
+iron_suppstaffid_q8,ironsupplement,,text,Q8) Staff completing form(ID),,,,,,,,y,,,,,@APPUSERNAME-APP
+feed_vdate_q1,feedingquestionaire,,text,2) Visit date,,,date_dmy,,,,,y,,,,,@TODAY
+feed_participantseen_q2,feedingquestionaire,,yesno,2b. Was the participant seen today,,,,,,,,y,,,,,
+feed_participantnoseen_q3,feedingquestionaire,,dropdown,2c. Give reason,"1, Participant travelled | 2, Participant could not be located | 3, Participant hospitalised and iron withheld | 4, Other",,,,,,[feed_participantseen_q2]='0',,,,,,
+feed_vtime_q4,feedingquestionaire,,text,3) Visit time,,,time,,,,,y,,,,,
+feed_past7daysotherfood,feedingquestionaire,,descriptive,"<div class=""rich-text-field-label""><h2 style=""text-align: center;"">How many times have you given each of the other foods in the past 7 days?</h2></div>",,,,,,,,,,,,,
+feed_cowmilkfrequency_q4,feedingquestionaire,,dropdown,4. How many times have you given cow milk to your child in the past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,[feed_participantseen_q2]='1',y,,,,,
+feed_pow_milk_freque_q5,feedingquestionaire,,dropdown,5. How many times have you given powdered milk to your child in the past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feed_cowmilkfrequency_q4]='0' or 	[feed_cowmilkfrequency_q4]='1' or 	[feed_cowmilkfrequency_q4]='2' or 	[feed_cowmilkfrequency_q4]='3' or 	[feed_cowmilkfrequency_q4]='4'),y,,,,,
+feed_teamilkfrequency_q6,feedingquestionaire,,dropdown,6. How many times have you given tea with milk to your child in the past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feed_pow_milk_freque_q5]='0' or [feed_pow_milk_freque_q5]='1' or [feed_pow_milk_freque_q5]='2' or [feed_pow_milk_freque_q5]='3' or [feed_pow_milk_freque_q5]='4'),y,,,,,
+feed_spcify_other_q7,feedingquestionaire,,dropdown,7. How many times have you given commercial infant formular (lactogen) to your child in the past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feed_teamilkfrequency_q6]='0' or [feed_teamilkfrequency_q6]='1' or [feed_teamilkfrequency_q6]='2' or [feed_teamilkfrequency_q6]='3' or [feed_teamilkfrequency_q6]='4'),y,,,,,
+feed_commercial_q8,feedingquestionaire,,dropdown,8. How many times have you given nutrilac  to your child in the past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feed_spcify_other_q7]='0' or [feed_spcify_other_q7]='1' or [feed_spcify_other_q7]='2' or [feed_spcify_other_q7]='3' or [feed_spcify_other_q7]='4'),y,,,,,
+feed_lactogenfrequency_q9,feedingquestionaire,,dropdown,9. How many times have you given nutribom to your child in the  past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feed_commercial_q8]='0' or [feed_commercial_q8]='1' or [feed_commercial_q8]='2' or [feed_commercial_q8]='3' or [feed_commercial_q8]='4'),y,,,,,
+feed_ceralac_frequency_q10,feedingquestionaire,,dropdown,10. How many times have you given cerelac to your child in the past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feed_lactogenfrequency_q9]='0' or [feed_lactogenfrequency_q9]='1' or 	[feed_lactogenfrequency_q9]='2' or 	[feed_lactogenfrequency_q9]='3' or 	[feed_lactogenfrequency_q9]='4'),y,,,,,
+feed_potato_frequency_q11,feedingquestionaire,,dropdown,11. How many times have you given powdered potato  to your child in the past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feed_ceralac_frequency_q10]='0' or [feed_ceralac_frequency_q10]='1' or [feed_ceralac_frequency_q10]='2' or [feed_ceralac_frequency_q10]='3' or [feed_ceralac_frequency_q10]='4'),y,,,,,
+feed_cook_q12,feedingquestionaire,,dropdown,12. How many times have you given cooked green leaves to your child in the past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feed_potato_frequency_q11]='0' or 	[feed_potato_frequency_q11]='1' or 	[feed_potato_frequency_q11]='2' or 	[feed_potato_frequency_q11]='3' or 	[feed_potato_frequency_q11]='4'),y,,,,,
+feed_vege_q13,feedingquestionaire,,dropdown,13. How many times have you given vegetables to your child in the past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feed_cook_q12]='0' or [feed_cook_q12]='1' or [feed_cook_q12]='2' or [feed_cook_q12]='3' or [feed_cook_q12]='4'),y,,,,,
+feedq_cooked_rice_14,feedingquestionaire,,dropdown,14. How many times have you given cooked rice to your child in the past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feedq_tiakere_churo_q23]='0' or [feedq_tiakere_churo_q23]='1' or [feedq_tiakere_churo_q23]='2' or [feedq_tiakere_churo_q23]='3' or [feedq_tiakere_churo_q23]='4'),y,,,,,
+feed_eggfrequency_q15,feedingquestionaire,,dropdown,15. How many times have you given eggs to your child in the past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feedq_cooked_rice_14]='0' or [feedq_cooked_rice_14]='1' or [feedq_cooked_rice_14]='2' or [feedq_cooked_rice_14]='3' or [feedq_cooked_rice_14]='4'),y,,,,,
+feedchickenfrequency_q16,feedingquestionaire,,dropdown,16. How many times have you given chicken to your child in the past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feed_eggfrequency_q15]='0' or [feed_eggfrequency_q15]='1' or [feed_eggfrequency_q15]='2' or [feed_eggfrequency_q15]='3' or [feed_eggfrequency_q15]='4'),y,,,,,
+feedmeat_goatfreq_q17,feedingquestionaire,,dropdown,17. How many times have you given meat to your child in the past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feedchickenfrequency_q16]='0' or [feedchickenfrequency_q16]='1' or [feedchickenfrequency_q16]='2' or [feedchickenfrequency_q16]='3' or [feedchickenfrequency_q16]='4'),y,,,,,
+feed_fishfrequency_q18,feedingquestionaire,,dropdown,18. How many times have you given fish to your child in the past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feedmeat_goatfreq_q17]='0' or [feedmeat_goatfreq_q17]='1' or [feedmeat_goatfreq_q17]='2' or [feedmeat_goatfreq_q17]='3' or [feedmeat_goatfreq_q17]='4'),y,,,,,
+feed_shrims_frequency_q19,feedingquestionaire,,dropdown,19. How many times have you given shrimps to your child in the past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feed_fishfrequency_q18]='0' or [feed_fishfrequency_q18]='1' or [feed_fishfrequency_q18]='2' or [feed_fishfrequency_q18]='3' or [feed_fishfrequency_q18]='4'),y,,,,,
+feed_oyster_frequency_q20,feedingquestionaire,,dropdown,20. How many times have you given Oyster to your child in the past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feed_shrims_frequency_q19]='0' or 	[feed_shrims_frequency_q19]='1' or 	[feed_shrims_frequency_q19]='2' or 	[feed_shrims_frequency_q19]='3' or 	[feed_shrims_frequency_q19]='4'),y,,,,,
+feedq_mono_q21,feedingquestionaire,,dropdown,21. How many times have you given mono/jidiyo to your child in  the past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feed_oyster_frequency_q20]='0' or [feed_oyster_frequency_q20]='1' or [feed_oyster_frequency_q20]='2' or [feed_oyster_frequency_q20]='3' or [feed_oyster_frequency_q20]='4'),y,,,,,
+feedq_sanyoa_q22,feedingquestionaire,,dropdown,22. How many times have you given sanyoa/mani/tubanyo/dukala to your child in the  past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feedq_mono_q21]='0' or [feedq_mono_q21]='1' or [feedq_mono_q21]='2' or [feedq_mono_q21]='3' or [feedq_mono_q21]='4'),y,,,,,
+feedq_tiakere_churo_q23,feedingquestionaire,,dropdown,23. How many times have you given tiakere churo to your child in the past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feedq_sanyoa_q22]='0' or [feedq_sanyoa_q22]='1' or [feedq_sanyoa_q22]='2' or [feedq_sanyoa_q22]='3' or [feedq_sanyoa_q22]='4'),y,,,,,
+feed_manago_frequency_q24,feedingquestionaire,,dropdown,24. How many times have you given mangoes to your child in the past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feedq_tiakere_churo_q23]='0' or [feedq_tiakere_churo_q23]='1' or [feedq_tiakere_churo_q23]='2' or [feedq_tiakere_churo_q23]='3' or [feedq_tiakere_churo_q23]='4'),y,,,,,
+feed_orange_frequency_q25,feedingquestionaire,,dropdown,25. How many times have you given oranges to your child in the past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feed_manago_frequency_q24]='0' or [feed_manago_frequency_q24]='1' or [feed_manago_frequency_q24]='2' or [feed_manago_frequency_q24]='3' or [feed_manago_frequency_q24]='4'),y,,,,,
+feed_watermelon_frequ_q26,feedingquestionaire,,dropdown,26. How many times have you given watermelon to your child in the past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feed_orange_frequency_q25]='0' or [feed_orange_frequency_q25]='1' or [feed_orange_frequency_q25]='2' or [feed_orange_frequency_q25]='3' or [feed_orange_frequency_q25]='4'),y,,,,,
+feed_pawpaw_frequency_q27,feedingquestionaire,,dropdown,27. How many times have you given pawpaw to your child in the  past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feed_watermelon_frequ_q26]='0' or [feed_watermelon_frequ_q26]='1' or [feed_watermelon_frequ_q26]='2' or [feed_watermelon_frequ_q26]='3' or [feed_watermelon_frequ_q26]='4'),y,,,,,
+feed_banana_frequency_q28,feedingquestionaire,,dropdown,28. How many times have you given banana to your child in the past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feed_pawpaw_frequency_q27]='0' or [feed_pawpaw_frequency_q27]='1' or [feed_pawpaw_frequency_q27]='2' or [feed_pawpaw_frequency_q27]='3' or [feed_pawpaw_frequency_q27]='4'),y,,,,,
+feed_apple_frequency_q29,feedingquestionaire,,dropdown,29. How many times have you given apple to your child in the past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feed_banana_frequency_q28]='0' or [feed_banana_frequency_q28]='1' or [feed_banana_frequency_q28]='2' or [feed_banana_frequency_q28]='3' or [feed_banana_frequency_q28]='4'),y,,,,,
+feed_juice_frequency_q30,feedingquestionaire,,dropdown,"30. How many times have you given local juice( e.g baobab, wonjo, dittah) to your child in the past 7 days?","0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feed_apple_frequency_q29]='0' or [feed_apple_frequency_q29]='1' or [feed_apple_frequency_q29]='2' or [feed_apple_frequency_q29]='3' or [feed_apple_frequency_q29]='4'),y,,,,,
+feed_juice_frequency_q31,feedingquestionaire,,dropdown,31. How many times have you given commercial fruit juice (liquid or powdered juice) to your child in the past 7 days?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,([feed_juice_frequency_q30]='0' or [feed_juice_frequency_q30]='1' or [feed_juice_frequency_q30]='2' or [feed_juice_frequency_q30]='3' or [feed_juice_frequency_q30]='4'),y,,,,,
+feed_staff_q32,feedingquestionaire,,text,32)  Staff completing form(ID),,,,,,,,,,,,,@APPUSERNAME-APP
+appt_multivitamin_q1,appetite,,yesno,Q1) Was your child taking multivitamin over the last two weeks? (Yes/No),,,,,,,,y,,,,,
+appt_appetite_last2week_q2,appetite,,checkbox,"Q2) How would you describe the appetite of your child over the last 2 weeks
+","1, Eats well | 2, Accepts | 3, Difficult to get to eat. | 4, Refuses | 5, Other",,,,,,,y,,,,,
+appt_specifyother_q2a,appetite,,notes,2a.Specify other,,,,,,,[appt_appetite_last2week_q2(5)] = '1',,,,,,
+appt_childsick_q3,appetite,,yesno,Q3) Was your child sick during this period? ,,,,,,,,y,,,,,
+appt_callnurse_q4,appetite,,descriptive,"<div class=""rich-text-field-label""><h2 style=""text-align: center;""><span style=""color: #2dc26b;"">Please contact the study Nurse</span></h2></div>",,,,,,,[appt_childsick_q3]='1',,,,,,
+adve_q1,ae,,checkbox,1.  Please  select the Adverse Event symptom/signs-(drop down box),"17, Fever | 18, Vomiting | 19, diarrhoea | 20, jaundice | 67, Anorexia, | 21, Abdominal pain | 22, Abdominal distension | 23, Cough | 24, Difficulty in breathing | 25, wheezing | 26, Nasal flaring | 27, stridor | 28, lower chest indrawing | 29, Cyanosis | 30, bloating | 31, bulging fontanelle | 32, lethargy | 33, restlessness | 34, irritability | 35, coma | 36, Seizure | 37, joint pain | 38, boil | 39, insect bite | 40, palor | 41, Pedal edema | 42, musculoskeletal swelling | 43, Musculoskeletal tenderness | 44, sore throat | 45, Ear pain | 46, pus in the ear | 47, Redness of the eye/s | 48, Eczema | 49, Ringworm | 50, scabies | 51, cellulitis | 52, petechiae | 53, itching of throat | 54, allergic skin reaction | 55, hand swelling | 56, foot swelling | 57, Abscess | 58, skin-flaky paint appearance | 59, jaw swelling | 69, lymphadenopathy | 60, Nasal discharge | 61, running nose | 62, persistent diarrhoea | 63, wasting | 64, urinary frequency | 65, shock | 66, Abnormal hair, | 68, Others",,,,,,,y,,,,,
+adve_otherdisgn_q1b,ae,,notes,1b.Other ,,,,,,,[adve_q1(68)] = '1',,,,,,
+adve_dignosis_q1c,ae,,radio,1c. Adverse Event Diagnosis,"1, Malaria | 2, Acute watery diarrhoea | 3, Abscess | 4, Bronchiolitis | 5, Severe Anemia | 6, Gastroenteritis | 7, Persistent diarrheoea | 8, Tinea pedis | 9, Tinea corporis | 10, Tinea capitis | 11, Pneumonia | 12, Acute upper respiratory tract infection | 13, Tonsilitis | 14, Mumps | 15, Malnutrition | 16, mastoiditis | 17, sinusitis | 18, Otitis media | 19, otitis externa | 20, sickle cell anemia | 21, common cold | 22, Baciliary dysentry | 23, Anemic Heart failure | 24, Foreign body ingestion | 25, conjunctivitis | 26, allergy | 27, hypersensitivity reaction | 28, osteomyelitis | 29, scabies | 30, urticaria | 31, arthralgia | 32, cellulitis | 33, lower respiratory tract infection | 34, febrile convulsion | 35, non febrile seizure | 36, measles | 37, sepsis | 38, meningitis | 39, Anaphylaxis | 40, viral exanthem | 41, hypovolemic shock | 42, skin infection | 43, intestinal obstruction | 44, other",,,,,,,y,,,,,
+adve_specother_q1d,ae,,notes,1d.Specify other,,,,,,,[adve_dignosis_q1c] = '44',,,,,,
+adve_startdate_q2,ae,,text,2. Start Date ,,,datetime_dmy,,,,,y,,,,,
+adve_aenumber_q2a,ae,,calc,2a.AE Number,"concat(left([adve_startdate_q2],2),right([adve_startdate_q2],2))",,,,,,,y,,,,,@HIDDEN
+adve_ongoing,ae,,yesno,3. Ongoing,,,,,,,,y,,,,,
+adve_stopdate_q4,ae,,text,4. Stop Date,,,date_dmy,,,,[adve_ongoing]='0',,,,,,
+day_bt_ae,ae,,calc,How long is the AE,"round((datediff([adve_startdate_q2],""now"",""d"")),1)",,,,,,,,,,,,@HIDDEN
+adve_intensity_q6d,ae,,radio,4a. Intensity,"1, Mild (Grade 1) | 2, Moderate (Grade 2) | 3, Severe (Grade 3)",,,,,,,y,,,,,
+adve_outcome_q5,ae,,dropdown,5.Outcome,"1, Recovered/Resolved | 2, Recovering/Resolving | 3, Not Recovered/Not recovering | 4, Resolved with sequelae | 5, Death | 6, Not recovered within follow-up period",,,,,,[adve_ongoing]='1',y,,,,,
+ae_ongong_msg,ae,,descriptive,"<div class=""rich-text-field-label""><h2>The outcome cannot be <span style=""color: #e67e23;"">RECOVERED/ RESOLVED</span> because the AE is ongoing</h2></div>",,,,,,,[adve_ongoing] = '1' and [adve_outcome_q5] = '1',,,,,,
+ae_ongong_msg_2,ae,,descriptive,"<div class=""rich-text-field-label""><h2>The outcome cannot be <span style=""color: #e67e23;"">Resolved with sequelae</span> because the AE is ongoing</h2></div>",,,,,,,[adve_ongoing] = '1' and [adve_outcome_q5] = '4',,,,,,
+ae_ongong_msg_3,ae,,descriptive,"<div class=""rich-text-field-label""><h2>The outcome cannot be <span style=""color: #e67e23;"">death</span> because the AE is ongoing</h2></div>",,,,,,,[adve_ongoing] = '1' and [adve_outcome_q5] = '5',,,,,,
+a_outcome,ae,,dropdown,5a.Outcome,"1, Recovered/Resolved | 2, Recovering/Resolving | 3, Not Recovered/Not recovering | 4, Resolved with sequelae | 5, Death | 6, Not recovered within follow-up period",,,,,,[adve_ongoing]='0',y,,,,,
+ae_ongong_msg_5,ae,,descriptive,"<div class=""rich-text-field-label""><h2>The outcome cannot be not <span style=""color: #e67e23;"">RECOVERED/ not Recovering</span> because the AE is not ongoing</h2></div>",,,,,,,[adve_ongoing] = '0' and [a_outcome] = '3',,,,,,
+ae_ongong_msg_8,ae,,descriptive,"<div class=""rich-text-field-label""><h2>The outcome cannot be <span style=""color: #e67e23;"">Recovering/ Resolving</span> because the AE is not ongoing</h2></div>",,,,,,,[adve_ongoing] = '0' and [a_outcome] = '2',,,,,,
+ae_ongong_msg_6,ae,,descriptive,"<div class=""rich-text-field-label""><h2>The outcome cannot be not recovered within the fellow-up period because the AE is not ongoing</h2></div>",,,,,,,[adve_ongoing] = '0' and [a_outcome] = '6',,,,,,
+ae_ongong_msg_7,ae,,descriptive,"<div class=""rich-text-field-label""><h2>Notify PI and sponsors within 24 hour and fill the SAE form</h2></div>",,,,,,,[adve_ongoing] = '0' and [a_outcome] = '5',,,,,,
+adve_serious_q6,ae,,yesno,6.  Is the event serious? ,,,,,,,,y,,,,,
+adve_sae_date_q6a,ae,,text, 6a. SAE start date,,,date_dmy,,,,[adve_serious_q6]='1',y,,,,,
+adve_sae_q6b,ae,,checkbox,6b..Select all that apply ,"1, Death | 2, Life-threatening | 3, Persistent/Significant Disability/ Incapacity | 4, Result in Congenital Anomaly/Birth Defect | 5, Hospitalisation | 6, Prolongation of Hospitalisation | 7, Other (please specify)",,,,,,[adve_serious_q6]='1',y,,,,,
+adve_specother_q6c,ae,,notes,6c.Specify other,,,,,,,[adve_sae_q6b(7)] = '1',,,,,,
+adve_deathdate_6b1,ae,,text,6b1.Date of death ,,,date_dmy,,,,[adve_sae_q6b(1)] = '1',,,,,,
+adve_hospitalizedate_q6b2,ae,,text,6b2.Date of hospitalization,,,date_dmy,,,,[adve_sae_q6b(5)] = '1',,,,,,
+adve_prolongstartdate_q6b3,ae,,text,6b3.Start date of prolongation,,,date_dmy,,,,[adve_sae_q6b(6)] = '1',,,,,,
+adve_outcome_q6e,ae,,radio,6e.Outcome of Event ,"1, Ongoing | 2, Fully recovered | 3, Recovered with sequelae | 4, Death | 5, Unknown",,,,,,[adve_serious_q6]='1',,,,,,
+adve_dischargedate_6e1,ae,,text,"6e1.When hospitalised, date of discharge",,,date_dmy,,,,[adve_outcome_q6e(2)] = '1',,,,,,
+adve_investiaction_q6f,ae,,checkbox,6f. Action taken by investigator,"1, None | 2, Investigational product discontinuation | 3, Medication | 4, Hospitalisation | 5, Participant withdrawn | Other, Specify",,,,,,[adve_serious_q6]='1',,,,,,
+adve_specactionpi_q6g,ae,,notes,6g.Specify action taken,,,,,,,[adve_investiaction_q6f(Other)] = '1',,,,,,
+adve_ipinformatin_q6h,ae,,checkbox,6h.Investigational Product (IP) Information,"1, Blinded | 2, IP name | 3, Route | 4, Daily IP Dose/Unit | 5, Start date | 6, Stop date",,,,,,[adve_serious_q6]='1',y,,,,,@HIDDEN
+adve_saerelate_ip_q6i,ae,,radio,"6i. Is SAE Related to IP 
+","1, Definite | 2, Probable | 3, Possible | 4, Unrelated",,,,,,[adve_serious_q6]='1',y,,,,,
+adve_relate_trialproc_q6j,ae,,yesno,6j. Is SAE Related to trial procedure ,,,,,,,[adve_serious_q6]='1',y,,,,,
+adve_trial_procedure_q6k,ae,,notes,6k. Specify,,,,,,,[adve_relate_trialproc_q6j]='1',,,,,,
+adve_finalsae_q6l,ae,,checkbox,6l.Final SAE Diagnosis,"14, Abscess | 15, Bronchiolitis | 16, Anemic Heart Failure | 17, Rheumatic Heart Disease | 18, Sickle cell crisis | 19, severe malaria | 20, Pneumonia | 21, persistent diarrhea | 22, Gastroenteritis | 23, Tonsilitis | 24, Otitis media(L) | 25, Otitis media(R) | 26, Otitis media(R,L) | 27, Severe diarrhea | 28, Severe Anemia | 29, Baciliary dysentary | 30, Urinary Tract infection | 31, Intestinal Obstruction | 32, Sepsis Meningitis | 33, Foreign body ingestion | 34, Hypersensitivity reactions | 35, Acute abdomen | 36, Chronic osteomyelitis | 37, Lower respiratory tract infection | 38, Acute upper respiratory tract infection | 39, severe malnutrition | 40, Febrile seizure | 41, Viral encephalopathy | 42, Nephrotic syndrome | 43, Acute glomerulonephritis | 44, Renal failure | 45, Non febrile seizure | 46, Anaphylactic reaction | 47, Hypovolemic shock | 48, viral exanthem | 49, Measles infection | 50, Others",,,,,,[adve_serious_q6]='1',,,,,,
+adve_dignosisother_q6l1,ae,,notes,6l1)Specify other,,,,,,,,,,,,,
+adve_saestopdate_q6m,ae,,text,6m. SAE Stop date,,,date_dmy,,,,[adve_serious_q6]='1',,,,,,
+adve_drugclass_q7,ae,,checkbox,7.Please select the drug class,"1, Antipyretics | 2, Anti-histamin(oral) | 3, oral rehydration therapy | 4, intravenous fluid | 5, Topical eyes, | 6, steroids | 7, Analgesics | 8, Antibiotics | 9, Antimalarial | 10, Antifungal | 11, antihelmithic(oral) | 12, Anticonvulsants | 13, supplements | 14, topical-skin | 15, others",,,,,,,y,,,,,
+other_spacify,ae,,notes,other spacify,,,,,,,[adve_drugclass_q7]='15',,,,,,
+adve_genericdrugname_q7a,ae,,checkbox,7a.Please Select drug generic name,"16, ibruprofen | 17, paracetamol | 18, amoxicillin | 19, ampicillin | 81, Gentamicin | 20, azithromycin | 21, cloxacillin | 22, Co-Amoxiclav | 23, chloramphenicol | 24, cefixime | 25, cefuroxime | 26, cefalexin | 27, ceftriaxone | 28, co-trimoxazole | 29, Doxycycline | 30, Erythromycin | 31, flucloxacillin | 32, cefotaxime | 33, metronidazole | 34, Nalidixic Acid | 35, penicillin | 36, selexid/pivmecillinam | 37, Benzathine benzyl penicillin | 38, Artemeter | 39, Artemether/Lumenfantrine | 40, Artesunate | 41, quinine | 82, Gentamicin | 42, Fluconazole(oral) | 43, Griseofulvin(Fulcin)-oral | 44, Nystatin Oral suspension | 45, Albendazole | 46, Mebendazole | 47, chlorpheniramine | 48, loratidin | 49, cetrizine | 50, Oral Rehydration therapy | 51, Hydrocortisone | 52, prednisolone | 53, D/S 4.3% | 54, Ringer's lactate | 55, Dextrose water 5% | 56, Normal saline 0.9% | 57, Diazepam | 58, phenobarbitone | 59, phenytoin | 60, carbamazepine | 61, Ferrous sulphate | 62, folic acid | 63, multivitamin supplements | 64, VitA | 65, VitB complex | 66, Zinc | 67, Zinc + multivitamins | 68, Aqueous cream | 69, benzyl benzoate | 70, calamine notion | 71, Hydrocortisone cream | 72, clotrimazole | 73, fluconazole | 74, Nystatin cream | 75, triple action cream | 76, Flamazinecream | 77, Hibitane | 78, whitfield ointment | 79, zinc oxide castor oil | 80, permethrin cream | 84, Gentamicin | 83, Others",,,,,,,y,,,,,
+adve_drugnameother_q7c,ae,,notes,7cSpecify other,,,,,,,[adve_genericdrugname_q7a(83)] = '1',,,,,,
+adve_conmed_startdate_q8,ae,Concomitant Medication Dates,text,8.Start dates,,,date_dmy,,,,,y,,,,,
+adve_continuing_q8a,ae,,yesno, 8a. Continuing,,,,,,,,y,,,,,
+adve_conmed_enddate_q8b,ae,,text,8b. End dates,,,date_dmy,,,,[adve_continuing_q8a]='0',,,,,,
+adve_conmed_dose_q8c,ae,,text,8c. Dose,,,,,,,,,,,,,
+adve_conmed_unit_q8d,ae,,dropdown,8d.Unit,"1, mL | 2, appl | 3, caps | 4, gtts | 5, I/U | 6, inj | 7, meq | 8, mg | 9, mg/kg | 10, ng | 11, puff | 12, ounce | 13, tabs | 14, units | 15, spray | 16, mmol/L | 17, µg | 18, gy | 19, grams | 20, ng | 21, drops",,,,,,,,,,,,
+adve_route_q8e,ae,,dropdown,8e.Route,"1, po | 2, ear | 3, eye | 4, ia | 5, id | 6, im | 7, inh | 8, ip | 9, iv | 10, nas | 11, neb | 12, perc | 13, pr | 14, pv | 15, sc | 16, sl | 17, top",,,,,,,y,,,,,
+adve_regimen_q8f,ae,,dropdown,8f. Regimen,"1, BID | 2, PRN | 3, QID | 4, QD | 5, STAT | 6, TID",,,,,,,y,,,,,
+another_prescription,ae,,radio,another prescription,"1, yes | 2, no",,,,,,,,,,,,
+adve_conmed_startdate_q9,ae,,text,8.Start dates,,,date_dmy,,,,[another_prescription]='1',y,,,,,
+adve_continuing_q8a_2,ae,,yesno, 8a. Continuing,,,,,,,[another_prescription]='1',y,,,,,
+adve_conmed_enddate_q8b_2,ae,,text,8b. End dates,,,date_dmy,,,,[adve_continuing_q8a]='0' and [another_prescription]='1',,,,,,
+adve_conmed_dose_q8c_2,ae,,text,8c. Dose,,,,,,,[another_prescription]='1',,,,,,
+adve_conmed_unit_q8d_2,ae,,dropdown,8d.Unit,"1, mL | 2, appl | 3, caps | 4, gtts | 5, I/U | 6, inj | 7, meq | 8, mg | 9, mg/kg | 10, ng | 11, puff | 12, ounce | 13, tabs | 14, units | 15, spray | 16, mmol/L | 17, µg | 18, gy | 19, grams | 20, ng | 21, drops",,,,,,[another_prescription]='1',,,,,,
+adve_route_q8e_2,ae,,dropdown,8e.Route,"1, po | 2, ear | 3, eye | 4, ia | 5, id | 6, im | 7, inh | 8, ip | 9, iv | 10, nas | 11, neb | 12, perc | 13, pr | 14, pv | 15, sc | 16, sl | 17, top",,,,,,[another_prescription]='1',y,,,,,
+adve_regimen_q8f_2,ae,,dropdown,8f. Regimen,"1, BID | 2, PRN | 3, QID | 4, QD | 5, STAT | 6, TID",,,,,,[another_prescription]='1',y,,,,,
+another_prescription_2,ae,,radio,another prescription,"1, yes | 2, no",,,,,,[another_prescription]='1',,,,,,
+adve_conmed_startdate_q10,ae,,text,8.Start dates,,,date_dmy,,,,[another_prescription_2]='1',y,,,,,
+adve_continuing_q8a_3,ae,,yesno, 8a. Continuing,,,,,,,[another_prescription_2]='1',y,,,,,
+adve_conmed_enddate_q8b_3,ae,,text,8b. End dates,,,date_dmy,,,,[adve_continuing_q8a_3]='0' and [another_prescription_2]='1',,,,,,
+adve_conmed_dose_q8c_3,ae,,text,8c. Dose,,,,,,,[another_prescription_2]='1',,,,,,
+adve_conmed_unit_q8d_3,ae,,dropdown,8d.Unit,"1, mL | 2, appl | 3, caps | 4, gtts | 5, I/U | 6, inj | 7, meq | 8, mg | 9, mg/kg | 10, ng | 11, puff | 12, ounce | 13, tabs | 14, units | 15, spray | 16, mmol/L | 17, µg | 18, gy | 19, grams | 20, ng | 21, drops",,,,,,[another_prescription_2]='1',,,,,,
+adve_route_q8e_3,ae,,dropdown,8e.Route,"1, po | 2, ear | 3, eye | 4, ia | 5, id | 6, im | 7, inh | 8, ip | 9, iv | 10, nas | 11, neb | 12, perc | 13, pr | 14, pv | 15, sc | 16, sl | 17, top",,,,,,[another_prescription_2]='1',y,,,,,
+adve_regimen_q8f_3,ae,,dropdown,8f. Regimen,"1, BID | 2, PRN | 3, QID | 4, QD | 5, STAT | 6, TID",,,,,,[another_prescription_2]='1',y,,,,,
+another_prescription_3,ae,,radio,another prescription,"1, yes | 2, no",,,,,,[another_prescription_2]='1',,,,,,
+adve_conmed_startdate_q11,ae,,text,8.Start dates,,,date_dmy,,,,[another_prescription_3]='1',y,,,,,
+adve_continuing_q8a_4,ae,,yesno, 8a. Continuing,,,,,,,[another_prescription_3]='1',y,,,,,
+adve_conmed_enddate_q8b_4,ae,,text,8b. End dates,,,date_dmy,,,,[adve_continuing_q8a_4]='0' and [another_prescription_3]='1',,,,,,
+adve_conmed_dose_q8c_4,ae,,text,8c. Dose,,,,,,,[another_prescription_3]='1',,,,,,
+adve_conmed_unit_q8d_4,ae,,dropdown,8d.Unit,"1, mL | 2, appl | 3, caps | 4, gtts | 5, I/U | 6, inj | 7, meq | 8, mg | 9, mg/kg | 10, ng | 11, puff | 12, ounce | 13, tabs | 14, units | 15, spray | 16, mmol/L | 17, µg | 18, gy | 19, grams | 20, ng | 21, drops",,,,,,[another_prescription_3]='1',,,,,,
+adve_route_q8e_4,ae,,dropdown,8e.Route,"1, po | 2, ear | 3, eye | 4, ia | 5, id | 6, im | 7, inh | 8, ip | 9, iv | 10, nas | 11, neb | 12, perc | 13, pr | 14, pv | 15, sc | 16, sl | 17, top",,,,,,[another_prescription_3]='1',y,,,,,
+adve_regimen_q8f_4,ae,,dropdown,8f. Regimen,"1, BID | 2, PRN | 3, QID | 4, QD | 5, STAT | 6, TID",,,,,,[another_prescription_3]='1',y,,,,,
+another_prescription_4,ae,,radio,another prescription,"1, yes | 2, no",,,,,,[another_prescription_3]='1',,,,,,
+adve_conmed_startdate_q12,ae,,text,8.Start dates,,,date_dmy,,,,[another_prescription_4]='1',y,,,,,
+adve_continuing_q8a_5,ae,,yesno, 8a. Continuing,,,,,,,[another_prescription_4]='1',y,,,,,
+adve_conmed_enddate_q8b_5,ae,,text,8b. End dates,,,date_dmy,,,,[adve_continuing_q8a_5]='0' and [another_prescription_4]='1',,,,,,
+adve_conmed_dose_q8c_5,ae,,text,8c. Dose,,,,,,,[another_prescription_4]='1',,,,,,
+adve_conmed_unit_q8d_5,ae,,dropdown,8d.Unit,"1, mL | 2, appl | 3, caps | 4, gtts | 5, I/U | 6, inj | 7, meq | 8, mg | 9, mg/kg | 10, ng | 11, puff | 12, ounce | 13, tabs | 14, units | 15, spray | 16, mmol/L | 17, µg | 18, gy | 19, grams | 20, ng | 21, drops",,,,,,[another_prescription_4]='1',,,,,,
+adve_route_q8e_5,ae,,dropdown,8e.Route,"1, po | 2, ear | 3, eye | 4, ia | 5, id | 6, im | 7, inh | 8, ip | 9, iv | 10, nas | 11, neb | 12, perc | 13, pr | 14, pv | 15, sc | 16, sl | 17, top",,,,,,[another_prescription_4]='1',y,,,,,
+adve_regimen_q8f_5,ae,,dropdown,8f. Regimen,"1, BID | 2, PRN | 3, QID | 4, QD | 5, STAT | 6, TID",,,,,,[another_prescription_4]='1',y,,,,,
+another_prescription_5,ae,,radio,another prescription,"1, yes | 2, no",,,,,,[another_prescription_4]='1',,,,,,
+adve_conmed_startdate_q13,ae,,text,8.Start dates,,,date_dmy,,,,[another_prescription_5]='1',y,,,,,
+adve_continuing_q8a_6,ae,,yesno, 8a. Continuing,,,,,,,[another_prescription_5]='1',y,,,,,
+adve_conmed_enddate_q8b_6,ae,,text,8b. End dates,,,date_dmy,,,,[adve_continuing_q8a_6]='0' and [another_prescription_5]='1',,,,,,
+adve_conmed_dose_q8c_6,ae,,text,8c. Dose,,,,,,,[another_prescription_5]='1',,,,,,
+adve_conmed_unit_q8d_6,ae,,dropdown,8d.Unit,"1, mL | 2, appl | 3, caps | 4, gtts | 5, I/U | 6, inj | 7, meq | 8, mg | 9, mg/kg | 10, ng | 11, puff | 12, ounce | 13, tabs | 14, units | 15, spray | 16, mmol/L | 17, µg | 18, gy | 19, grams | 20, ng | 21, drops",,,,,,[another_prescription_5]='1',,,,,,
+adve_route_q8e_6,ae,,dropdown,8e.Route,"1, po | 2, ear | 3, eye | 4, ia | 5, id | 6, im | 7, inh | 8, ip | 9, iv | 10, nas | 11, neb | 12, perc | 13, pr | 14, pv | 15, sc | 16, sl | 17, top",,,,,,[another_prescription_5]='1',y,,,,,
+adve_regimen_q8f_6,ae,,dropdown,8f. Regimen,"1, BID | 2, PRN | 3, QID | 4, QD | 5, STAT | 6, TID",,,,,,[another_prescription_5]='1',y,,,,,
+adve_completeby_q9,ae,,text,9.Form completed by,,,,,,,,,,,,,@APPUSERNAME-APP
+prot_abbrtitile_q1,noncompliance_form,,text,1.Abbreviated title or Acronym,,,,,,,,y,,,,,
+prot_number_q2,noncompliance_form,,dropdown,2. Protocol number,,,,,,,,y,,,,,
+prot_investigator_q3,noncompliance_form,,text,3.Principal Investigator,,,,,,,,y,,,,,
+prot_compl_date_q4,noncompliance_form,,text,4. Date form completed,,,date_dmy,,,,,y,,,,,
+prot_datenoncompl_q5,noncompliance_form,,text,5.Date of noncompliance,,,date_dmy,,,,,y,,,,,
+prot_devpartainsto_q6,noncompliance_form,,yesno,6.Deviation pertains to participant(s): ,,,,,,,,y,,,,,
+prot_oncrf_q7,noncompliance_form,,yesno,7.Is the deviation indicated on the CRF(s) or equivalent,,,,,,,,y,,,,,
+prot_devresult_adverse_q8,noncompliance_form,,yesno,8. Did the deviation result in an adverse event,,,,,,,,y,,,,,
+prot_majornoncompl_q9,noncompliance_form,,yesno,9. Was this a major noncompliance,,,,,,,,y,,,,,
+prot_reportethics_q9a,noncompliance_form,,yesno,9a. Was it / will it be reported to Ethics Committee,,,,,,,[prot_majornoncompl_q9]='1',,,,,,
+prot_noncompl_partians_q10,noncompliance_form,,checkbox,"10. Noncompliance 
+pertains to
+","1, Protocol | 2, GCP | 3, Unit policy | 4, Process | 5, SOP | 6, Regulatory requirements | 7, Other",,,,,,,y,,,,,
+prot_desc_compl_q11,noncompliance_form,,notes,11.Description of noncompliance,,,,,,,,y,,,,,
+prot_noncomplreason_q12,noncompliance_form,,notes,12.Reason for noncompliance,,,,,,,,y,,,,,
+prot_stepstaken_q13,noncompliance_form,,notes,13. Steps taken to correct this noncompliance and to prevent from reoccurrence,,,,,,,,y,,,,,
+prot_dateofcorrection_q14,noncompliance_form,,text,14.Due date of correction,,,date_dmy,,,,,y,,,,,
+prot_personresponsible_q15,noncompliance_form,,dropdown,15. Responsible Person,,,,,,,,y,,,,,
+prot_datereport_q16,noncompliance_form,,text,16. Date reported to sponsor,,,date_dmy,,,,,y,,,,,
+prot_datereportec_q17,noncompliance_form,,text,17. Date reported to EC ,,,date_dmy,,,,,y,,,,,
+prot_completeby_q19,noncompliance_form,,dropdown,19 . Form completed by ,"1, BC | 2, KB | 3, LS | 4, NC | 5, MB",,,,,,,y,,,,,
+iron_patcontactdate_q1_v2,ironsupplement_unplanned,,text,Q1) Date of patient contact,,,date_dmy,,,,,y,,,,,
+iron_supferrouspri_q2_v2,ironsupplement_unplanned,,yesno,Q2) Was the oral supplement administered,,,,,,,[iron_patcontactdate_q1_v2] <> '',y,RH,,,,
+iron_suppwithheld_q2a_v2,ironsupplement_unplanned,,yesno,Q2a) Was iron supplement withheld,,,,,,,[iron_supferrouspri_q2_v2]='0',,,,,,
+iron_suppwithheldreason_q2b_v2,ironsupplement_unplanned,,checkbox,Q2b) Give reason,"1, was it due to confirmed fever (axillary temperature >37.5°C) not associated with teething or vaccination | 2, was it due to visually confirmed bloody diarrhoea | 3, was it due to hospitalisation for somatic illness | 4, Was it due to treatment with antibiotics for any confirmed or suspected somatic infection | 5, was it due to confirmed fever plus dipstick-test confirmed parasitaemia",,,,,,[iron_suppwithheld_q2a_v2] = '1',,LV,,,,
+iron_suppamount_q3_v2,ironsupplement_unplanned,,yesno,Q3) Amount received (10 mg),,,,,,,[iron_supferrouspri_q2_v2]='1',y,RH,,,,
+iron_suppreceive10mlgreas_q4_v2,ironsupplement_unplanned,,dropdown,Q4) If the child did not receive 10 mg- give reason ,"1, Vomit | 2, Spit out | 3, Refuse",,,,,,[iron_suppamount_q3_v2]='0',,,,,,
+iron_supptime_q5_v2,ironsupplement_unplanned,,text,Q5) Time,,,time,,,,[iron_suppamount_q3_v2]='1',y,,,,,
+iron_suppgreason_q6_v2,ironsupplement_unplanned,,checkbox,Q6) Give reason,"1, was it due to parent refusal | 2, was it because the child could not be located | 3, other (specify)","Note: In case of 48-hour history of fever as reported by the mother (or guardian) that is not confirmed axillary temperature ≤37.5°C), ask the mother/guardian to bring the child after 6 hours, and repeat measurement",,,,,[iron_suppwithheld_q2a_v2]='0',,LV,,,,
+ip_administer_v2,ironsupplement_unplanned,,yesno,"If the child did not receive 10.0mg, was the IP re-administered?",,,,,,,[iron_suppamount_q3_v2]='0',,,,,,
+msg_complete_ae_v2,ironsupplement_unplanned,,descriptive,"<center><font size=""4"" color=""green"">Complete AE eCRF</center>",,,,,,,[iron_suppwithheldreason_q2b_v2(1)] = '1' or [iron_suppwithheldreason_q2b_v2(2)] = '1' or [iron_suppwithheldreason_q2b_v2(3)] = '1' or [iron_suppwithheldreason_q2b_v2(4)] = '1' or [iron_suppwithheldreason_q2b_v2(5)] = '1',,,,,,
+iron_suppotherspec_q7_v2,ironsupplement_unplanned,,notes,Q7) Specify,,,,,,,[iron_suppgreason_q6_v2(3)] = '1',,,,,,
+iron_suppstaffid_q8_v2,ironsupplement_unplanned,,text,Q8) Staff completing form(ID),,,,,,,,y,,,,,@APPUSERNAME-APP
+iron_suppverifyby_q9_v2,ironsupplement_unplanned,,dropdown,Q9) Verify by,"1, KB | 2, LS | 3, MB | 4, CC",,,,,,,y,,,,,
+wdra_date_q1,withdrawal,,text,Q1) Date of withdrawal,,,date_dmy,,,,,y,,,,,@TODAY
+wdra_staff_q2,withdrawal,,text,Q2) Staff completing form(ID),,,,,,,,y,,,,,@APPUSERNAME-APP
+wdra_reason_q3,withdrawal,,checkbox,Q3) Reason for withdrawal ,"1, Moved away | 2, Parent/Guardian withdrew consent | 3, PI/SI initiated withdrawal | 4, Severe adverse event | 5, Other medical reason | 6, Died | 7, Other specify",,,,,,,y,,,,,
+a_if_other_specify,withdrawal,,text,3a) If other specify?,,,,,,,[wdra_reason_q3(7)] = '1',,,,,,
+wdra_comment_q4,withdrawal,,notes,Q5) Additional comments ,,,,,,,,,,,,,
+dhth_vdate_q1,dailyhealth,,text,Q1) Visit date,,,date_dmy,,,,,y,,,,,@TODAY
+dhth_seentoday_q2,dailyhealth,,yesno,Q2) Was the participant seen today,,,,,,,,y,,,,,
+dhth_noreasonvisit_q2a,dailyhealth,,notes,Q2a) Give reason,,,,,,,[dhth_feeltoday_q4] = '0',,,,,,
+dhth_vtime_q3,dailyhealth,,text,Q3) Visit time,,,time,,,,[dhth_seentoday_q2] = '1',,,,,,
+dhth_feeltoday_q4,dailyhealth,,yesno,"Q4) Does you child feel well today 
+",,,,,,,,y,,,,,
+stopmsg,dailyhealth,,descriptive,"
+<center><font size=""5"" color=""red"">
+STOP HERE  </center>
+",,,,,,,[dhth_feeltoday_q4]='1',,,,,,
+stopmsg_2,dailyhealth,,descriptive,"
+<center><font size=""4"" color=""green"">
+Continue to question 5  </center>
+",,,,,,,[dhth_feeltoday_q4] = '0',,,,,,
+dhth_cvomite_q5,dailyhealth,,yesno,Q5) Was your child vomiting,,,,,,,[dhth_feeltoday_q4] = '0',y,,,,,
+dhth_ccough_q6,dailyhealth,,yesno,Q6) Was your child coughing,,,,,,,[dhth_feeltoday_q4] = '0',y,,,,,
+dhth_nasaldischage_q7,dailyhealth,,yesno,Q7) Was your child experiencing nasal discharge,,,,,,,[dhth_feeltoday_q4] = '0',y,,,,,
+dhth_cfever_q8,dailyhealth,,yesno,Q8) Was your child having fever,,,,,,,[dhth_feeltoday_q4] = '0',y,,,,,
+stopmsg_3,dailyhealth,,descriptive,"
+<center><font size=""4"" color=""green"">
+Call the Nurse  </center>
+",,,,,,,[dhth_cfever_q8]='1',,,,,,
+dhth_cinfection_q9,dailyhealth,,yesno,Q9) Was your child having skin infection,,,,,,,[dhth_feeltoday_q4] = '0',y,,,,,
+dhth_ceye_q10,dailyhealth,,yesno,Q10) Was your child having eye infection,,,,,,,[dhth_feeltoday_q4] = '0',y,,,,,
+dhth_tooths_q11,dailyhealth,,yesno,Q11) Is your child having tooth's appearance,,,,,,,[dhth_feeltoday_q4] = '0',y,,,,,
+dhth_refered_q12,dailyhealth,,yesno,Q12) Was participants referred to another health facility,,,,,,,[dhth_feeltoday_q4] = '0',y,,,,,
+dhth_referal_q13,dailyhealth,,notes,Q13) If yes- Give reason for referal,,,,,,,[dhth_refered_q12] = '1',,,,,,
+dhth_referaltime_q14,dailyhealth,,text,Q14) Time of referal,,,time,,,,[dhth_refered_q12] = '1',,,,,,
+dhth_comments_q15,dailyhealth,,notes,Q15) Additional comments,,,,,,,,,,,,,
+dhth_staffid_q16,dailyhealth,,text,Q16) Staff completing form(ID)Staff ID,,,,,,,,y,,,,,@APPUSERNAME-APP
+dhth_verifyby_q17,dailyhealth,,dropdown,Q17) Verify by,"1, KB | 2, LS | 3, MB | 4, CC",,,,,,,y,,,,,
+ddrr_vdate_q1,daily_diarrhoea_questionaire,,text,Q1) Visit date,,,date_dmy,,,,,y,,,,,@TODAY
+ddrr_seentodaydailydiar_q1a,daily_diarrhoea_questionaire,,yesno,Q1a) Was the participant seen today,,,,,,,,y,,,,,
+ddrr_novisitdiar_q1b,daily_diarrhoea_questionaire,,notes,Q1b) Give reason,,,,,,,[ddrr_seentodaydailydiar_q1a]='0',,,,,,
+ddrr_vtime_q2,daily_diarrhoea_questionaire,,text,Q2) Visit time,,,time,,,,[ddrr_seentodaydailydiar_q1a]='1',y,,,,,
+ddrr_stole24hrs_q3,daily_diarrhoea_questionaire,,dropdown,Q3) How many stools did your baby have in the past 24 hours?,"0, 0 | 1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,,y,,,,,
+ddrr_storecount_q3a,daily_diarrhoea_questionaire,,dropdown,Q3a) Give the count(24 hours)  ,"1, 1 | 2, 2 | 3, 3 | 4, 4 or more",,,,,,,,,,,,
+ddrr_stoolcolor_q4,daily_diarrhoea_questionaire,,yesno,Q4) Did you notice anything about the colour of the stools of your baby in the past 24hrs ,,,,,,,,y,,,,,
+ddrr_stool_color_yn_q4a,daily_diarrhoea_questionaire,,radio,Q4a)  Was it ,"1, Dark | 2, Light | 3, Same | 4, Other (specify)",,,,,,[ddrr_stoolcolor_q4]='1',,,,,,
+ddrr_specify_q4b,daily_diarrhoea_questionaire,,text,Q4b) Specify,,,,,,,[ddrr_stool_color_yn_q4a] = '4',,,,,,
+ddrr_bldinstool_q5,daily_diarrhoea_questionaire,,yesno,Q5)  Did you notice any blood in your child stool,,,,,,,,y,,,,,
+msg_studynurse,daily_diarrhoea_questionaire,,descriptive,"<center><font size=""4"" color=""green"">Refer to the study Nurse! </center>",,,,,,,[ddrr_bldinstool_q5]='1',,,,,,
+ddrr_daiqstaff_q6,daily_diarrhoea_questionaire,,text,Q6) Staff completing form(ID),,,,,,,,y,,,,,@APPUSERNAME-APP
+ddrr_verifyby_q7,daily_diarrhoea_questionaire,,dropdown,Q7) Verify by,"1, KB | 2, LS | 3, MB | 4, CC",,,,,,,y,,,,,
+samp_edta_q1,samplereception,"<div style=""width:100%; color:#FFFFFF; background-color:#4B0082; padding:5px; 
+position:relative; top:-5px; left:-5px;""> SECTION 1 : EDTA </font></div>",yesno,Q1) EDTA Received,,,,,,,,y,RH,,,,
+if_sample_is_not_received,samplereception,,dropdown,"If sample is not received, give reason ","1, Stool was not collected | 2, stool was collected and stored in Soma | 3, sample missing | 4, sample spilled, | 5, other specify",,,,,,[samp_edta_q1]='0',,,,,,
+if_other_specify,samplereception,,notes,if other specify,,,,,,,[if_sample_is_not_received] = '5',,,,,,
+samp_edtadate_q1a,samplereception,,text,Q1a) Date of Reception,,,date_dmy,,,,[samp_edta_q1]='1',y,,,,,@TODAY
+samp_edtatime_q1b,samplereception,,text,Q1b) Time of Reception,,,time,,,,[samp_edta_q1]='1',y,,,,,
+samp_edta_temperature_q1c,samplereception,,yesno,Q1c) Temperature in cold box in range,,,,,,,[samp_edta_q1]='1',y,,,,,
+samp_edtacomment_q1d,samplereception,,checkbox,Q1d) Comment,"1, Acceptable standard | 2, Haemolysed | 3, Clotted",,,,,,[samp_edta_q1]='1',y,RH,,,,
+samp_edtaby_q1e,samplereception,,text,Q1e) EDTA Received by,,,,,,,,y,,,,,@APPUSERNAME-APP
+samp_serumreceived_q2,samplereception,"<div style=""width:100%; color:#FFFFFF; background-color:#4B0082; padding:5px; 
+position:relative; top:-5px; left:-5px;""> SECTION 2 : SERUM</font></div>
+
+",yesno,Q2) Serum(SST1) Received,,,,,,,[samp_edta_q1]='1',y,RH,,,,
+samp_serumdate_q2b,samplereception,,text,Q2a) Date of reception,,,date_dmy,,,,[samp_edta_q1]='1',y,,,,,@TODAY
+samp_serumtime_q2b,samplereception,,text,Q2b) Time of reception,,,time,,,,[samp_edta_q1]='1',y,,,,,
+samp_sermtemperature_q2c,samplereception,,yesno,Q2c) Temperature in cold box in range,,,,,,,[samp_edta_q1]='1',y,,,,,
+samp_serumcomment_q2d,samplereception,,checkbox,Q2d) Comment,"1, Sufficient | 2, Insufficient | 3, Haemolysed",,,,,,[samp_edta_q1]='1',y,,,,,
+samp_serumby_q2e,samplereception,,text,Q2e) Received by,,,,,,,,y,,,,,@APPUSERNAME-APP
+samp_urinereceive_q4,samplereception,"<div class=""rich-text-field-label""><div class=""rich-text-field-label""> <div style=""width: 100%; color: #ffffff; background-color: #4b0082; padding: 5px; <br />position: relative; top: -5px; left: -5px;"">Section 3 : Urine</div> </div></div>",yesno,Q4) Urine Received,,,,,,,,,RH,,,,@HIDDEN
+samp_urinedate_q4a,samplereception,,text,Q4a) Date of Reception,,,date_dmy,,,,,y,,,,,@HIDDEN
+samp_urinetime_q4b,samplereception,,text,Q4b) Time of Reception,,,time,,,,,,,,,,@HIDDEN
+samp_urinetemperature_q4c,samplereception,,yesno,Q4c) Temperature in cold box in range,,,,,,,,,,,,,@HIDDEN
+samp_urineby_q4d,samplereception,,dropdown,Q4d) Received by,"1, asaidykhan",,,,,,,y,,,,,@HIDDEN
+samp_generalcomment_q5,samplereception,,notes,Q5) General Comment,,,,,,,,,,,,,@HIDDEN
+samp_formcompleteby_q6,samplereception,"<div style=""width:100%; color:#FFF; background-color:#4B0082; padding:5px;
+position:relative; top:-5px; left:-5px;"">
+FORM COMPLETION AND  <font color= #B7170E>VERIFICATION</font></div>",text,Q6) Form completed by,,,,,,,,y,,,,,@APPUSERNAME-APP
+samp_process_q1,bloodsample_processing,"<div class=""rich-text-field-label""><h1 style=""text-align: center;""><span style=""color: green; font-size: medium;"">SAMPLE PROCESSING</span></h1></div>",checkbox,1.Select samples to be process,"1, EDTA | 2, SERUM",,,,,,,y,,,,,
+edta_caption,bloodsample_processing,,descriptive,"<div class=""rich-text-field-label""><center><span style=""color: green; font-size: small;""><br />SAMPLE TYPE :EDTA<br /></span></center></div>",,,,,,,[samp_process_q1(1)] = '1',,,,,,
+fbc_assy,bloodsample_processing,,descriptive,"<font size=""2"" color=""green"">ASSAY: FULL BLOOD COUNT",,,,,,,[samp_process_q1(1)] = '1',,,,,,
+samp_fbc_q2,bloodsample_processing,,yesno,2. FBC Done,,,,,,,[samp_process_q1(1)] = '1',y,RH,,,,
+samp_fbctime_q2b,bloodsample_processing,,text,2b. Time of fullblood count done,,,time,,,,[samp_process_q1(1)] = '1',y,RH,,,,
+serum_caption,bloodsample_processing,,descriptive,"<div class=""rich-text-field-label""><center><span style=""color: green; font-size: small;""><br />SAMPLE TYPE : SERUM<br /></span></center></div>",,,,,,,[samp_process_q1(2)] = '1',y,,,,,
+samp_serumaliquot_q3,bloodsample_processing,,checkbox,3.List of Aliquots collected,"1, Serum Aliquot 1 | 2, Serum Aliquot 2 | 3, Serum Aliquot 3",,,,,,[samp_process_q1(2)] = '1',y,,,,,
+samp_serumaliquot_q3a,bloodsample_processing,,text,3a) Aliquot 1 volume,,,integer,0,,,[samp_serumaliquot_q3(1)] = '1',,RH,,,,
+samp_serumaliquot_q3b,bloodsample_processing,,text,3b. Aliquot 2 volume,,,integer,0,,,[samp_serumaliquot_q3(2)] = '1',,RH,,,,
+samp_serumaliquot_q3c,bloodsample_processing,,text,3c. Aliquot 3 volume,,,integer,0,,,[samp_serumaliquot_q3(3)] = '1',,RH,,,,
+samp_serumaliquot_q3d,bloodsample_processing,,text,3d. Time of serum sample processing,,,time,,,,[samp_process_q1(2)] = '1',y,RH,,,,
+samp_comment_q4,bloodsample_processing,,notes,4. General Comment,,,,,,,,,,,,,
+tool_receive_q1,stool_processing,"<div class=""rich-text-field-label""><h2 style=""text-align: center;"">Stool Reception</h2></div>",yesno,Q1) Stool Received,,,,,,,,y,,,,,
+date_of_reception_q2,stool_processing,,text,Q2) Date of Reception,,,date_dmy,,,,,,,,,,@TODAY
+time_of_reception_q3,stool_processing,,text,Q3)Time of Reception,,,time,,,,,y,,,,,
+temperature_cold_box_q4,stool_processing,,text,Q4) Temperature in cold box in range,,,,,,,,y,,,,,
+received_by_q5,stool_processing,,dropdown,Q5) Received by,"1, asaidykhan",,,,,,,y,,,,,
+stoo_aliquot_q6,stool_processing,"<div class=""rich-text-field-label""><div class=""rich-text-field-label""><p style=""text-align: center;"">STOOL SAMPLE PROCESSING</p></div></div>",dropdown,6.List of Aliquots collected,"1, Stool Aliquot 1 | 2, Stool Aliquot 2 | 3, Stool Aliquot 3",,,,,,,y,,,,,
+stoo_aliquot_q6a,stool_processing,,text,6a. Aliquot1 volume ,,,,,,,[stoo_aliquot_q6] = '1',,,,,,
+stoo_aliquotvol2_6b,stool_processing,,text,6b. Aliquot2 volume ,,,,,,,[stoo_aliquot_q6] = '2',,,,,,
+stoo_aliquotvol_q6c,stool_processing,,text,6c. Aliquot3 volume ,,,,,,,[stoo_aliquot_q6] = '3',,,,,,
+stoo_aliquotvol_q6d,stool_processing,,text,6d. Time of stool sample processing,,,time,,,,,y,,,,,
+stoo_completedate_q7,stool_processing,,text,7.Date form was completed,,,date_dmy,,,,,y,,,,,@TODAY
+serm_frename_q1,serumstorage,"<center><font size=""3"" color=""green"">Freezer details</center>",radio,Q1) Name of Freezer,"1, Mars | 2, Pluto",,,,,,,y,,,,,
+serm_frezertype_q2,serumstorage,,dropdown,Q2) Select Freezer type,"1, -80 (°C) | 2, -20 (°C)",,,,,,,y,,,,,
+serm_dateofstorage_q3,serumstorage,,text,Q3) Date of Storage,,,date_dmy,,,,,y,,,,,@TODAY
+serm_storagetime_q4,serumstorage,,text,Q4) Time of storage,,,time,,,,,y,,,,,
+serm_sto_biomednumber_q5,serumstorage,,dropdown,"Q5) Biomed Tag number
+","1, F60176",,,,,,,y,,,,,
+serm_compart_q6,serumstorage,,text,Q6) Compartment,,,integer,1,3,,,y,,,,,
+samp_racknumber_q7,serumstorage,,text,"Q7) Rack number
+",,,integer,1,12,,,y,,,,,
+boxdescription_v2,serumstorage,,descriptive,"<center><font size=""3"" color=""green"">Box description</center>",,,,,,,,,,,,,
+samp_bnumber_q8,serumstorage,,text,Q8) Box number ,,,integer,1,100,,,y,,,,,
+serm_samplesposition_q9,serumstorage,,text,Q9) Sample Position in the Box,,,integer,1,100,,,y,,,,,
+ssto_freename_q1,stoolstorage,,radio,Q1) Freezer name,"1, Mars | 2, Pluto",,,,,,,y,,,,,
+ssto_freezertype_q2,stoolstorage,,dropdown,Q2) Freezer type,"1, -80 (°C) | 2, -20 (°C)",,,,,,,y,,,,,
+ssto_storedate_q3,stoolstorage,,text,Q3) Date of Storage,,,date_dmy,,,,,y,,,,,@TODAY
+ssto_storagetime_q3a,stoolstorage,,text,Q3a) Time of storage,,,time,,,,,y,,,,,
+ssto_biomedtagnum_q4,stoolstorage,,dropdown,Q4) Biomed Tag number,"1, F60176",,,,,,,y,,,,,
+ssto_racknumber_q5,stoolstorage,,text,Q5) Rack number,,,,,,,,y,,,,,
+ssto_compartment_q6,stoolstorage,,text,Q6) Compartment,,,,,,,,y,,,,,
+ssto_boxnum_q7,stoolstorage,,text,Q7)  Box Number,,,integer,1,,,,y,,,,,
+ssto_sampposition_q8,stoolstorage,,text,Q8) Sample position in the Box,,,,,,,,y,,,,,
+crfe_date_q1,clinicreferal,,text,Q1) Date of referral,,,date_dmy,,,,,y,,,,,@TODAY
+crfe_location_q2,clinicreferal,,text,Q2) Clinic location,,,,,,,,y,,,,,
+crfe_reason_q3,clinicreferal,,notes,Q3) Reason for referral (specify),,,,,,,,y,,,,,
+crfe_comments_q4,clinicreferal,,notes,Q4) Additional comments ,,,,,,,,,,,,,
+crfe_clinicstaff_q5,clinicreferal,,text,Q5) Staff completing form(ID),,,,,,,,y,,,,,@APPUSERNAME-APP
+phmo_vdate_q1,posthealthmonitoring,,text,Q1) Visit date,,,date_dmy,,,,,y,,,,,@TODAY
+phmo_vtime_q2,posthealthmonitoring,,text,Q2) Visit time,,,time,,,,,,,,,,
+phmo_feeltoday_q3,posthealthmonitoring,,yesno,"Q3) Does you child feel well today 
+",,,,,,,,y,,,,,
+stopmsg_v2,posthealthmonitoring,,descriptive,"
+<center><font size=""5"" color=""red"">
+STOP HERE  </center>
+",,,,,,,[phmo_feeltoday_q3]='1',,,,,,
+stopmsg_2_v2,posthealthmonitoring,,descriptive,"
+<center><font size=""4"" color=""green"">
+Continue to question 4  </center>
+",,,,,,,[phmo_feeltoday_q3]='1',,,,,,
+phmo_vaccinated_q4,posthealthmonitoring,,yesno,Q4) Was your child vaccinated in the past week?,,,,,,,,y,,,,,
+phmo_datevacc_q5,posthealthmonitoring,,text,Q5) Date vaccinated,,,date_dmy,,,,,,,,,,@TODAY
+phmo_vaccname_q6,posthealthmonitoring,,text,Q6) Name of vaccine,,,,,,,,,,,,,
+phmo_cvomite_q7,posthealthmonitoring,,yesno,Q7) Was your child vomiting,,,,,,,,y,,,,,
+phmo_ccough_q8,posthealthmonitoring,,yesno,Q8) Was your child coughing,,,,,,,,y,,,,,
+phmo_nasaldischage_q9,posthealthmonitoring,,yesno,Q9) Was your child experiencing nasal discharge,,,,,,,,y,,,,,
+phmo_cfever_q10,posthealthmonitoring,,yesno,Q10) Was your child having fever,,,,,,,,y,,,,,
+phmo_nursecall_q10a,posthealthmonitoring,,descriptive,Q10a)Call study Nurse,,,,,,,[phmo_cfever_q10]='1',,,,,,
+phmo_stnursecall_q10b,posthealthmonitoring,,descriptive,Q10b) Call study Nurse,,,,,,,[phmo_cfever_q10]='1',,,,,,
+phmo_cinfection_q11,posthealthmonitoring,,yesno,Q11) Was your child having skin infection,,,,,,,,y,,,,,
+phmo_ceyeinfection_q12,posthealthmonitoring,,yesno,Q12) Was your child having eye infection,,,,,,,,y,,,,,
+phmo_toothsapper_q13,posthealthmonitoring,,yesno,Q13) Is your child having tooth's appearance,,,,,,,,y,,,,,
+phmo_partrefered_q14,posthealthmonitoring,,yesno,Q14) Was participants referred to another health facility,,,,,,,,y,,,,,
+phmo_reasreferal_q14a,posthealthmonitoring,,notes,Q14a)  If yes- Give reason for referal,,,,,,,[phmo_partrefered_q14]='1',,,,,,
+phmo_referaltime_q14b,posthealthmonitoring,,text,Q14b) Time of referal,,,time,,,,[phmo_partrefered_q14]='1',,,,,,
+phmo_concernhealth_q15,posthealthmonitoring,,yesno,Q15) Is Mom concern about child 's health and wants to speak to a Nurse?,,,,,,,,y,,,,,
+phmo_refersurse_q16,posthealthmonitoring,,descriptive,Q16) Refer to study Nurse,,,,,,,,,,,,,
+phmo_comments_q17,posthealthmonitoring,,notes,Q17) Additional comments,,,,,,,,,,,,,
+phmo_compstaffid_q18,posthealthmonitoring,,text,18) Staff completing form(ID)Staff ID,,,,,,,,y,,,,,@APPUSERNAME-APP
+sysm_wbc_q1,sysmexresult,,text,Q1) WBC,,,number,,,,,y,,,,,
+sysm_rbc_q2,sysmexresult,,text,Q2) RBC,,,number,,,,,y,,,,,
+sysm_hgb_q3,sysmexresult,,text,Q3) HGB,,,number,,,,,y,,,,,
+sysm_htc_q4,sysmexresult,,text,Q4) HCT,,,number,,,,,y,,,,,
+sysm_mcv_q5,sysmexresult,,text,Q5) MCV,,,number,,,,,y,,,,,
+sysm_mch_q6,sysmexresult,,text,Q6) MCH,,,number,,,,,y,,,,,
+sysm_mchc_q7,sysmexresult,,text,Q7) MCHC,,,number,,,,,y,,,,,
+sysm_plt_q8,sysmexresult,,text,Q8) PLT,,,number,,,,,y,,,,,
+sysm_rwd_sd_q9,sysmexresult,,text,Q9) RWD-SD,,,number,,,,,y,,,,,
+sysm_rwd_cv_q10,sysmexresult,,text,Q10) RWD-CV,,,number,,,,,y,,,,,
+sysm_pdw_q11,sysmexresult,,text,Q11) PDW,,,,,,,,y,,,,,
+sysm_mpv_q12,sysmexresult,,text,Q12) MPV,,,,,,,,y,,,,,
+sysm_p_lcr_q13,sysmexresult,,text,Q13) P-LCR,,,,,,,,y,,,,,
+sysm_pct_q14,sysmexresult,,text,Q14) PCT,,,,,,,,y,,,,,
+sysm_neut_q15,sysmexresult,,text,Q15) NEUT#,,,number,,,,,y,,,,,
+sysm_lymph_q16,sysmexresult,,text,Q16) LYMPH #,,,number,,,,,y,,,,,
+sysm_mono_q17,sysmexresult,,text,Q17) MONO #,,,number,,,,,y,,,,,
+sysm_eo_q18,sysmexresult,,text,Q18) EO # ,,,number,,,,,y,,,,,
+sysm_baso_q19,sysmexresult,,text,Q19) BASO # ,,,number,,,,,y,,,,,
+sysm_neut_percent_q20,sysmexresult,,text,"Q20) NEUT (%)
+",,,number,,,,,y,,,,,
+sysm_lymph_percent_q21,sysmexresult,,text,Q21) LYMPH %,,,number,,,,,y,,,,,
+sysm_mono_percent_q22,sysmexresult,,text,Q22) MONO %,,,number,,,,,y,,,,,
+sysm_eo_percent_q23,sysmexresult,,text,Q23) EO %,,,number,,,,,y,,,,,
+sysm_baso_percent_q24,sysmexresult,,text,Q24) BASO % ,,,number,,,,,y,,,,,
+sysm_ig_q25,sysmexresult,,text,Q25) IG #,,,number,,,,,y,,,,,
+sysm_ig_percent_q26,sysmexresult,,text,Q26) IG %,,,number,,,,,y,,,,,
+sysm_micror_q27,sysmexresult,,text,Q27) MicroR,,,number,,,,,y,,,,,
+sysm_macror_q28,sysmexresult,,text,Q28) MacroR,,,number,,,,,y,,,,,
+sysm_ret_q29,sysmexresult,,text,Q29) RET #,,,number,,,,,y,,,,,
+sysm_ret_percent_q30,sysmexresult,,text,Q30) RET % ,,,,,,,,y,,,,,
+sysm_irf_q31,sysmexresult,,text,Q31) IRF ,,,number,,,,,y,,,,,
+sysm_lfr_q32,sysmexresult,,text,Q32) LFR ,,,,,,,,y,,,,,
+sysm_mfr_q33,sysmexresult,,text,Q33) MFR,,,number,,,,,y,,,,,
+sysm_hfr_q34,sysmexresult,,text,Q34) HFR,,,number,,,,,y,,,,,
+sysm_ret_he_q35,sysmexresult,,text,Q35) RET-He,,,number,,,,,y,,,,,
+sysm_nrbc_q36,sysmexresult,,text,Q36) NRBC #,,,number,,,,,y,,,,,
+sysm_nrbc_percent_q37,sysmexresult,,text,Q37) NRBC %,,,number,,,,,y,,,,,
+sysm_validated_by_q38,sysmexresult,,notes,Q38) Validated by,,,,,,,,,,,,,
+eryt_concentration_q1,erythroferroneresult_2,,text,Q1) Erythroferrone Concentration (ng/mL),,,,,,,,y,,,,,
+eryt_dateproc_q2,erythroferroneresult_2,,text,Q2) Date uploaded.,,,date_dmy,,,,,y,,,,,@TODAY
+hepc_hepconcentration_q1,hepcidineresults,,text,"Q1) Hepcidin Concentration(ng/mL)
+",,,number,,,,,y,,,,,
+hepc_dateproc_q2,hepcidineresults,,text,Q2) Date processed,,,datetime_dmy,,,,,,,,,,@TODAY
+epo_dateproc_q3,erythroferroneresult,,text,Date uploaded.,,,date_dmy,,,,,y,,,,,@TODAY
+epo_erythropoietinconc_q2,erythroferroneresult,,text,Q1) Erythropoietin Concentration (mIU/mL),,,,,,,,y,,,,,
+irop_datetime_q1,ironpanel1,,text,Q1) Date&Time,,,datetime_dmy,,,,,y,,,,,@TODAY
+irop_aagp_q2,ironpanel1,,text,Q2) AAGP2,,,,,,,,,,,,,
+irop_crpl_q3,ironpanel1,,text,Q3) CRPL2,,,number,,,,,,,,,,
+irop_fer2p_q4,ironpanel1,,text,Q4) FER2P,,,number,,,,,,,,,,
+irop_iron2_q5,ironpanel1,,text,Q5) IRON2,,,number,,,,,,,,,,
+irop_stfr_q6,ironpanel1,,text,Q6) STFR,,,number,,,,,,,,,,
+irop_trsf2_q7,ironpanel1,,text,Q7) TRSF2,,,number,,,,,,,,,,
+irop_uibci_q8,ironpanel1,,text,Q8) UIBCI,,,number,,,,,,,,,,
+iron_datetime_q1,ironpanel1_2,,text,Q1) Date&Time,,,datetime_dmy,,,,,y,,,,,@TODAY
+iron_results_q2,ironpanel1_2,,text,Q2) Results,,,number_2dp,,,,,y,,,,,
+inte_treatment_q1,intervention,,dropdown,Q1) Treatment,"A, A | B, B",,,,,,,,,,,,
+medo_date_q1,medonicresult,,text,Q1) Date,,,date_dmy,,,,,y,,,,,@TODAY
+medo_time_q2,medonicresult,,text,Q2) Time,,,time,,,,,y,,,,,
+medo_rbc_q3,medonicresult,,text,Q3) RBC,,,number_2dp,,,,,y,,,,,
+medo_mvc_q4,medonicresult,,text,Q4) MCV,,,number_1dp,,,,,y,,,,,
+medo_rdw_q5,medonicresult,,text,Q5) RDW%,,,number_1dp,,,,,y,,,,,
+medo_rdwa_q6,medonicresult,,text,Q6) RDWa,,,number_1dp,,,,,y,,,,,
+medo_hct_q7,medonicresult,,text,Q7) HCT ,,,number_1dp,,,,,y,,,,,
+medo_plt_q8,medonicresult,,text,Q8) PLT,,,integer,,,,,y,,,,,
+medo_mpv_q9,medonicresult,,text,Q9)  MPV,,,number_1dp,,,,,,,,,,
+medo_pdw_10,medonicresult,,text,Q10) PDW ,,,number_1dp,,,,,y,,,,,
+medo_pct_q11,medonicresult,,text,Q11) PCT ,,,number_2dp,,,,,y,,,,,
+medo_lpcr_q12,medonicresult,,text,Q12) LPCR,,,number_1dp,,,,,y,,,,,
+medo_wbc_q13,medonicresult,,text,Q13) WBC,,,number_1dp,,,,,y,,,,,
+medo_hgb_q14,medonicresult,,text,Q14) HGB,,,number_1dp,,,,,y,,,,,
+medo_mch_q15,medonicresult,,text,Q15)  MCH ,,,number_1dp,,,,,y,,,,,
+medo_mchc_q16,medonicresult,,text,Q16) MCHC,,,number_1dp,,,,,y,,,,,
+medo_lym_q17,medonicresult,,text,Q17) LYM,,,number_1dp,,,,,y,,,,,
+medo_grad_q18,medonicresult,,text,Q18)  GRAD,,,number_1dp,,,,,y,,,,,
+medo_mid_q19,medonicresult,,text,Q19) MID,,,number_1dp,,,,,y,,,,,
+medo_lym_percent_q20,medonicresult,,text,Q20) LYM %,,,number_1dp,,,,,y,,,,,
+medo_gra_q21,medonicresult,,text,Q21) GRA %,,,number_1dp,,,,,y,,,,,
+medo_mid_percent_q22,medonicresult,,text,Q22) MID %,,,number_1dp,,,,,y,,,,,
+medo_comments_q23,medonicresult,,notes,Q23) Comments,,,,,,,,,,,,,
+ip_date_q1,ip_accountability_log,,text,1. Date,,,date_dmy,,,,,y,,,,,@TODAY
+ip_issued,ip_accountability_log,,text,2. Quantity issued,,,integer,84,,,,y,,,,,
+date_g6pdh_done,g6pd_819c16,,text,Date G6PDH done.,,,date_dmy,,,,,y,,,,,@TODAY
+g6pd_done_1,g6pd_819c16,,yesno,1. Was G6PDH done ?,,,,,,,,y,,,,,
+g6pdh_present_2,g6pd_819c16,,dropdown,2. If yes was it?,"1, Normal | 2, Intermediate Deficient | 3, Deficient",,,,,,[g6pd_done_1] = '1',y,,,,,
+date_sickle_cell_was_done,g6pd,,text,Date sickle cell was done.,,,date_dmy,,,,,y,,,,,@TODAY
+sickle_done_1,g6pd,,yesno,1. Was sickle cell done ?,,,,,,,,y,,,,,
+hbas_or_hbss_3,g6pd,,radio,2. If yes was it ?,"1, HbAA | 2, HbAS | 3, HbSS | 4, HbCC | 5, HbSC | 6, HbAC",,,,,,[sickle_done_1] = '1',y,,,,,
+calprotectin_date,calprotectin,,text,Date calprotectin was done,,,date_mdy,,,,,y,,,,,@TODAY
+calp_conc,calprotectin,,text,2. Calprotectin concentration ng/mL.,,,,,,,,y,,,,,

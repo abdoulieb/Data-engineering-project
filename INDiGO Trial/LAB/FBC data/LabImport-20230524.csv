@@ -1,0 +1,4 @@
+con_participantid_q1,redcap_event_name,cwbc,crbc,chgb,chtc,cmcv,cmch,mchc,plt,rwd_sd,rwd_cv,pdw,mpv,p_lcr,pct,neut,lymph,mono,eo,baso,neut_percent,lymph_percent,mono_percent,eo_percent,baso_percent,ig,ig_percent,micror,macror,ret,ret_percent,irf,lfr,mfr,hfr,ret_he,nrbc,nrbc_percent,validated_by,date_form_completed_41,verified_by_q42,sysmex_results_complete
+IN-M-065H,week_20_arm_1,6.56,3.98,11.3,33.3,83.7,28.4,33.9,277,42.3,13.8,9.6,9.3,19.6,0.26,4.18,2.14,0.19,0.03,0.02,63.7,32.6,2.9,0.5,0.3,0.01,0.2,3.9,3.4,,,,,,,,0.00,0.0,bchorr,13/07/2023,5,2
+IN-M-069K,week_20_arm_1,8.77,3.63,11.2,32,88.2,30.9,35,248,43.2,13.3,9.8,9.3,19,0.23,5.23,2.26,1.09,0.17,0.02,59.7,25.8,12.4,1.9,0.2,0.04,0.5,1.4,2.9,,,,,,,,0.00,0.0,bchorr,13/07/2023,5,2
+IN-M-020G,week_28_arm_1,6.63,3.82,11.2,32.7,85.6,29.3,34.3,201,41.4,13.3,11.5,10.8,31.4,0.22,4.5,1.8,0.27,0.05,0.01,67.8,27.1,4.1,0.8,0.2,0.01,0.2,2.3,3.1,,,,,,,,0.00,0.0,bchorr,13/07/2023,5,2

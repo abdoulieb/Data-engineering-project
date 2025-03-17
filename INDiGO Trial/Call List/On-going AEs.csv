@@ -1,0 +1,77 @@
+Participant ID,Arm,AE Visit Date,AE Report Date,AE First Aware,AE Number,Result to SAE,Intensity,Diagnosis,First Diagnosis,Date onset,AE end date,Outcome,Completed by
+IN-M-001E,Infant,11/11/2023,11/10/2023 07:59,10/11/2023,1,No,Mild,Respiratory track infection and skin rashes,,10/11/2023,,Ongoing,mujoof
+IN-M-002H,Infant,28/01/2024,28/01/2024 10:30,28/01/2024,1,Yes,Moderate,"Diarrhea and common cold
+
+30 Jan 2024
+Developed in to pneumonia ",,25/01/2024,,Ongoing,lamceesay
+IN-M-007A,Infant,15/11/2023,15/11/2023 13:29,15/11/2023,1,No,Mild,Common Cold,,14/11/2023,,Ongoing,ojarjou
+IN-M-009K,Maternal,26/09/2023,26/09/2023 11:35,26/09/2023,2,Yes,Severe,Eclampsia,,26/09/2023,,Ongoing,lamceesay
+IN-M-012B,Maternal,04/12/2023,04/12/2023 15:42,04/12/2023,4,No,Mild,Common Cold ,,01/12/2023,,Ongoing,ojarjou
+IN-M-012B,Infant,13/12/2023,13/12/2023 16:52,12/12/2023,1,No,,Patent Foramen Ovale,,,,Ongoing,rsecka
+IN-M-013D,Infant,22/11/2023,22/11/2023 10:54,22/11/2023,1,Yes,Severe,? Congenital Heart Disease with Pathological Jaundice,,15/11/2023,,Ongoing,ojarjou
+IN-M-014D,Infant,27/02/2024,28/02/2024 14:52,27/02/2024,2,No,Mild,Common cold ,Common cold ,27/02/2024,,Ongoing,ysowe
+IN-M-014D,Infant,27/02/2024,28/02/2024 15:03,27/02/2024,3,No,Mild,Common cold ,Common cold ,27/02/2024,,Ongoing,ysowe
+IN-M-018C,Maternal,02/10/2023,02/10/2023 17:30,02/10/2023,1,Yes,Moderate,Post date pregnancy,Delivery via Cesarean Section resulting to an SAE,02/10/2023,06/10/2023,Ongoing,lamceesay
+IN-M-018C,Infant,24/10/2023,24/10/2023 13:08,23/10/2023,1,No,Mild,Well with complaint.,Post CS followup.,23/10/2023,,Ongoing,mujoof
+IN-M-018C,Infant,03/02/2024,03/02/2024 18:27,03/02/2024,2,Yes,Severe,Pneumonia ,,01/02/2024,,Ongoing,amatjoof
+IN-M-018C,Infant,25/04/2024,25/04/2024 15:50,25/04/2024,4,No,Mild,Common Cold,,22/04/2024,,Ongoing,ojarjou
+IN-M-020G,Maternal,16/01/2024,16/01/2024 18:54,15/01/2024,4,No,Moderate,headache and allergy,,13/01/2024,,Ongoing,amatjoof
+IN-M-020G,Infant,16/01/2024,17/01/2024 08:30,15/01/2024,1,No,Moderate,common cold,,14/01/2024,,Ongoing,amatjoof
+IN-M-022E,Infant,13/12/2023,13/12/2023 16:27,12/12/2023,1,No,,Ventricular Septal Defect,,,,Ongoing,rsecka
+IN-M-026F,Infant,13/02/2024,14/02/2024 15:04,13/02/2024,1,No,Moderate,"Fever, cough and Coryza.",Common cold (URTI),13/02/2024,,Ongoing,ysowe
+IN-M-062B,Infant,28/02/2024,29/02/2024 09:41,28/02/2024,1,No,Mild,unspecified rash,,,21/02/2024,Ongoing,amatjoof
+IN-M-062B,Infant,04/03/2024,04/03/2024 12:00,04/03/2024,1,No,Mild,Local infection and subcutaneous tissue. ,,04/03/2024,,Ongoing,mujoof
+IN-M-064D,Maternal,23/11/2023,23/11/2023 16:20,23/11/2023,1,Yes,Severe,queried knee dislocation,,23/11/2023,,Ongoing,amatjoof
+IN-M-065H,Maternal,09/08/2023,10/08/2023 15:28,09/08/2023,1,No,Moderate,? Urinary Tract Infection in pregnancy,,04/08/2023,,Ongoing,lamceesay
+IN-M-065H,Maternal,27/11/2023,27/11/2023 19:45,27/11/2023,2,No,Mild,UTI in pregnancy,,25/11/2023,,Ongoing,amatjoof
+IN-M-069K,Maternal,15/11/2023,15/11/2023 13:36,15/11/2023,1,No,Moderate,toothache,,12/11/2023,,Ongoing,amatjoof
+IN-M-069K,Maternal,02/03/2024,02/03/2024 13:04,02/03/2024,2,No,Moderate,"Back pain
+Headache",,29/02/2024,,Ongoing,lamceesay
+IN-M-070E,Infant,12/02/2024,14/02/2024 10:19,12/02/2024,1,No,Moderate,Local skin infection. ,"Pustules on scalp(""JAATO"").",10/02/2024,,Ongoing,ysowe
+IN-M-071F,Infant,22/02/2024,29/02/2024 10:37,22/02/2024,2,No,,Left Inguino-scrotal hernia,,,,Ongoing,rsecka
+IN-M-073A,Maternal,25/08/2023,25/08/2023 16:46,25/08/2023,1,Yes,Severe,"umbilical hernia, ",Obstructed umbilical herniation in pregnancy at the time of referral,25/08/2023,25/08/2023,Ongoing,amatjoof
+IN-M-075A,Maternal,09/01/2024,09/01/2024 11:59,08/01/2024,1,No,Moderate,Urinary Tract Infection,,08/01/2024,,Ongoing,amatjoof
+IN-M-075A,Maternal,14/02/2024,14/02/2024 20:30,14/02/2024,2,No,Mild,Mild Pregnancy Induced Hypertension,,14/02/2024,,Ongoing,lamceesay
+IN-M-075A,Infant,14/02/2024,14/02/2024 19:00,14/02/2024,1,Yes,Severe,Neonatal Jaundice + Sepsis,,,,Ongoing,lamceesay
+IN-M-076H,Maternal,15/01/2024,16/01/2024 12:11,15/01/2024,1,Yes,Severe,Labour,,15/01/2024,,Ongoing,lamceesay
+IN-M-076H,Infant,26/02/2024,27/02/2024 08:30,26/02/2024,1,No,Moderate,oral Candidiasis,,22/02/2024,,Ongoing,amatjoof
+IN-M-077H,Infant,12/02/2024,12/02/2024 15:30,12/02/2024,1,No,Moderate,unspecified contact dermatitis,,02/02/2024,,Ongoing,amatjoof
+IN-M-079G,Maternal,30/10/2023,31/10/2023 00:31,30/10/2023,2,No,Moderate,Bacterial intestinal infection,,30/10/2023,,Ongoing,amatjoof
+IN-M-081D,Infant,08/02/2024,08/02/2024 13:30,08/02/2024,1,No,Mild,Common Cold.,,06/02/2024,,Ongoing,ojarjou
+IN-M-082E,Maternal,22/01/2024,22/01/2024 15:34,22/01/2024,2,No,Moderate,Urinary tract infection ,,22/01/2024,,Ongoing,amatjoof
+IN-M-082E,Maternal,19/03/2024,19/03/2024 12:08,19/03/2024,3,No,Mild,"Gestational (pregnancy Induced Hypertension, Headache..",,19/03/2024,,Ongoing,mujoof
+IN-M-082E,Maternal,26/03/2024,26/03/2024 12:15,26/03/2024,3,No,Mild,Gestational (Pregnancy Induced Hypertension).,,26/03/2024,,Ongoing,mujoof
+IN-M-083H,Maternal,03/02/2024,03/02/2024 18:51,03/02/2024,1,Yes,Severe,Fetal distress ,,02/02/2024,,Ongoing,amatjoof
+IN-M-084C,Maternal,11/12/2023,11/12/2023 12:18,11/12/2023,1,No,Moderate,Cellulitis ,,09/12/2023,,Ongoing,amatjoof
+IN-M-085H,Maternal,05/02/2024,05/02/2024 14:15,05/02/2024,1,No,Moderate,Ring worm,,04/12/2023,,Ongoing,amatjoof
+IN-M-087F,Maternal,03/01/2024,03/01/2024 10:04,03/01/2024,1,No,Moderate,Pneumonia,,21/12/2023,,Ongoing,lamceesay
+IN-M-089F,Maternal,31/10/2023,31/10/2023 16:17,31/10/2023,2,No,Moderate,"malaise Fatigue
+late pregnancy vomiting",,31/10/2023,,Ongoing,amatjoof
+IN-M-090C,Infant,01/03/2024,01/03/2024 23:00,01/03/2024,1,Yes,Severe,Bacterial Sepsis of newborn,Bacterial Sepsis of newborn,01/03/2024,03/03/2024,Ongoing,lamceesay
+IN-M-093E,Maternal,10/12/2023,10/12/2023 11:38,10/12/2023,3,No,Moderate,Urinary track infection,,09/12/2023,,Ongoing,lamceesay
+IN-M-102H,Maternal,15/02/2024,15/02/2024 07:43,15/02/2024,1,Yes,Severe,"IUFD 
+Severe anemia",,15/02/2024,,Ongoing,lamceesay
+IN-M-105F,Maternal,24/11/2023,24/11/2023 18:50,24/11/2023,2,No,Moderate,"Malaise and fatigue. 
+Abdominal pain","Malaise and fatigue,
+Abdominal pain",05/11/2023,15/11/2023,Ongoing,lamceesay
+IN-M-110C,Infant,20/11/2023,20/11/2023 13:46,18/11/2023,1,No,Mild,Headache ,,20/11/2023,,Ongoing,mujoof
+IN-M-111D,Maternal,08/01/2024,08/01/2024 11:00,08/01/2024,1,No,Moderate,UTI in pregnancy,,08/01/2024,,Ongoing,lamceesay
+IN-M-111D,Infant,27/02/2024,28/02/2024 14:43,27/02/2024,1,No,Moderate,Boils on scalp.,Bacterial skin infection. ,25/02/2024,,Ongoing,ysowe
+IN-M-112D,Infant,26/03/2024,27/03/2024 17:44,26/03/2024,1,No,Moderate,Pustules ,"Bacterial 
+skin infection ",25/03/2024,,Ongoing,ysowe
+IN-M-113G,Maternal,01/02/2024,01/02/2024 12:28,01/02/2024,1,No,Moderate,MALAISE and fatigue ,,25/01/2024,,Ongoing,amatjoof
+IN-M-114H,Maternal,03/01/2024,03/01/2024 10:30,03/01/2024,2,No,Moderate,Malaise and fatigue,,01/01/2024,,Ongoing,lamceesay
+IN-M-116D,Maternal,03/01/2024,03/01/2024 13:34,03/01/2024,2,No,Mild,Chest pain,,01/01/2024,,Ongoing,amatjoof
+IN-M-129E,Maternal,16/04/2024,16/04/2024 14:26,16/04/2024,1,No,Mild,Urinary tract infection ,,16/04/2024,,Ongoing,mujoof
+IN-M-131H,Maternal,18/01/2024,19/01/2024 08:57,18/01/2024,1,No,Moderate,Urinary Tract Infection,,11/01/2024,,Ongoing,amatjoof
+IN-M-133B,Maternal,27/11/2023,27/11/2023 14:45,24/11/2023,1,No,Mild,coughing for 3days and is productive with yellowish septum associated with fever.no vomiting. ,?? Stomatitis and Glossitis.,24/11/2023,,Ongoing,mujoof
+IN-M-134C,Maternal,15/12/2023,16/12/2023 12:14,15/12/2023,1,No,Moderate,Urinary Tract Infection in Pregnancy,,14/12/2023,,Ongoing,amatjoof
+IN-M-134C,Maternal,04/03/2024,04/03/2024 12:26,04/03/2024,2,No,Moderate,Urinary tract infection. ,,04/03/2024,,Ongoing,mujoof
+IN-M-138B,Maternal,18/04/2024,18/04/2024 16:54,18/04/2024,1,No,Mild,Urinary tract infection ,,18/04/2024,,Ongoing,mujoof
+IN-M-145E,Maternal,27/12/2023,27/12/2023 15:21,27/12/2023,1,No,Moderate,Toothache,,24/12/2023,,Ongoing,amatjoof
+IN-M-147K,Maternal,28/11/2023,28/11/2023 10:48,28/11/2023,1,No,Moderate,UTI in preganancy,,24/11/2023,,Ongoing,amatjoof
+IN-M-151B,Maternal,14/12/2023,14/12/2023 13:28,14/12/2023,1,No,Moderate,common cold,,12/12/2023,,Ongoing,amatjoof
+IN-M-151B,Maternal,08/02/2024,08/02/2024 13:10,08/02/2024,2,No,Severe,Mild to moderate pre-eclampsia in booked grant multiracial at 34 weeks GA,,,,Ongoing,amatjoof
+IN-M-161D,Maternal,08/02/2024,08/02/2024 14:38,08/02/2024,1,No,Moderate,Intestinal helmenthiasis,,06/02/2024,,Ongoing,amatjoof
+IN-M-184A,Maternal,17/04/2024,17/04/2024 09:22,17/04/2024,3,No,Mild,Common cold ,,17/04/2024,,Ongoing,mujoof
+IN-M-205D,Maternal,01/02/2024,03/02/2024 17:37,01/02/2024,1,No,Moderate,Common cold,,01/02/2024,,Ongoing,ysowe

@@ -1,0 +1,215 @@
+con_participantid_q1,redcap_event_name,redcap_repeat_instrument,redcap_repeat_instance,symptom_pregnancy,mhc_seizures,mhc_vomit_since_delivery_q,mhc_had_fever_since_delivery,mch_feel_dizzy_q,mhc_had_pain_when_urinating,mhc_had_vaginal_discharge,mhc_heavy_bleeding_q,mhc_given_blood_trans_postde,mhc_have_lochia_q,mhc_currently_on_med,mhc_medications_list,mhc_jaundice_q,mhc_pallor,mhc_pulse,mhc_resp_rate,mhc_oxygen_saturation,mhc_temperature,mhc_systolic_bp,mhc_diastolic_bp,mhc_systolicbp,mhc_diastolicbp,mhcsystolicbp,mhc_diastolicb,mhc_weight,hc_comment,mhc_completeby,mhc_date_complete,verify_bymh,maternal_health_check_complete
+IN-M-001E,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,104,20,98.00,36.5,118,80,114,76,113,78,54.0,,ysowe,2023-11-01,42,2
+IN-M-002H,delivery__postpart_arm_1,,,1,0,1,0,0,0,0,0,0,0,0,,0,0,71,20,100.00,35.9,112,72,107,68,106,69,58.0,,ysowe,2023-10-10,42,2
+IN-M-004F,delivery__postpart_arm_1,,,1,0,0,0,0,1,1,0,0,0,0,,0,0,72,18,100.00,36.8,111,62,102,58,101,60,74.7,,lamceesay,2023-10-17,,2
+IN-M-005J,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,76,18,98.00,36.0,111,71,116,70,112,69,60.3,,lamceesay,2023-11-10,,2
+IN-M-007A,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,79,20,100.00,37.0,120,77,119,78,115,77,58.0,Nil,ysowe,2023-10-18,,2
+IN-M-009K,delivery__postpart_arm_1,,,1,1,0,0,1,0,0,0,0,1,1,"Amoxicillin 500mg TID for 7 days, Metronidazole 500mg TID for 7 days, Ibuprofen 400mg TID for 3 days, Ferrous Sulphate 1 tab daily for 2 weeks.",0,1,79,20,100.00,36.3,139,94,134,88,131,88,65.4,Doctor called to see her at the clinic,lamceesay,2023-09-27,,2
+IN-M-011C,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,92,17,100.00,37.2,128,90,134,84,131,83,73.6,,amatjoof,2023-10-07,42,2
+IN-M-012B,delivery__postpart_arm_1,,,1,0,1,0,0,1,1,0,0,0,0,,0,0,95,18,100.00,37.1,111,68,114,71,109,64,54.2,,mujoof,2023-11-03,42,2
+IN-M-013D,delivery__postpart_arm_1,,,1,0,1,0,0,0,0,0,0,0,0,,0,0,89,18,98.00,35.8,104,62,100,63,98,61,45.5,,ysowe,2023-10-19,42,2
+IN-M-014D,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,78,20,100.00,36.2,110,60,111,62,112,65,58.2,,mujoof,2023-11-08,43,2
+IN-M-016F,delivery__postpart_arm_1,,,1,0,1,0,0,0,0,0,0,0,0,,0,0,86,20,98.00,37.6,140,78,146,88,147,85,73.0,Fever,ysowe,2023-09-21,42,2
+IN-M-018C,delivery__postpart_arm_1,,,1,0,1,0,0,0,0,0,0,0,1,"Iv flagyl 500mg tid , I'm declofenac 75 mg tid, fefa Tabs daily, pcm tabs 1000mg tid, Iv ampicilline 500mg qid",0,1,68,18,99.00,36.2,90,55,91,56,91,54,55.4,,amatjoof,2023-10-08,42,2
+IN-M-020G,delivery__postpart_arm_1,,,1,0,0,0,0,1,1,0,0,0,0,,0,1,87,20,99.00,36.8,118,84,119,71,108,74,71.6,Both the mother and the baby are in good condition.,mujoof,2023-10-12,42,2
+IN-M-022E,delivery__postpart_arm_1,,,1,1,1,0,0,0,0,0,0,0,0,,0,0,124,18,100.00,36.5,97,65,98,62,98,64,53.6,,lamceesay,2023-11-08,,2
+IN-M-023A,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,1,"IV Flagyl, IV  ampicillin, Iv normal Saline, IM diclofenac",0,0,69,20,100.00,36.5,118,75,111,72,111,73,55.6,participant delivered through cesarean section (operation),amatjoof,2023-12-02,42,2
+IN-M-026F,delivery__postpart_arm_1,,,1,0,0,0,1,1,0,0,0,0,0,,0,0,69,18,100.00,36.2,133,89,134,101,134,98,76.2,,amatjoof,2023-11-22,42,2
+IN-M-027E,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,76,18,100.00,35.5,108,78,116,76,110,74,62.0,,ysowe,2023-10-10,42,2
+IN-M-028G,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,77,18,100.00,36.1,99,66,100,67,102,68,53.5,,amatjoof,2023-11-04,42,2
+IN-M-029D,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,84,20,100.00,36.0,119,87,118,85,118,83,55.1,Long standing haemorrhoid.,ysowe,2023-12-16,42,2
+IN-M-030C,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,88,18,100.00,36.7,116,81,116,80,111,75,54.0,,amatjoof,2023-11-29,42,2
+IN-M-031D,delivery__postpart_arm_1,,,1,0,0,0,0,0,1,0,0,0,0,,0,0,98,18,98.00,35.3,122,68,116,62,115,65,71.8,,amatjoof,2023-11-01,42,2
+IN-M-033K,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,1,AMOXICILLIN ,0,0,76,18,96.00,36.9,126,80,112,77,112,70,53.1,,amatjoof,2023-11-15,,2
+IN-M-040F,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,60,16,100.00,36.9,120,80,115,79,116,80,125.7,,amatjoof,2023-12-19,,2
+IN-M-042F,delivery__postpart_arm_1,,,1,0,0,0,0,0,0,0,0,1,1,Caps and Amoxicillin and Paracetamol,0,0,76,18,100.00,36.3,105,76,112,72,111,73,62.3,participant is already on antibiotic (Amoxicillin and PCM) given to her after delivery,amatjoof,2023-12-19,42,2
+IN-M-043H,delivery__postpart_arm_1,,,1,0,0,0,0,1,0,0,0,0,0,,0,0,92,18,100.00,36.7,161,105,154,103,153,107,83.2,Referred to Keneba for Dr's review. ,ysowe,2023-12-20,42,2
+IN-M-046J,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,78,18,100.00,36.2,109,69,104,66,102,67,60.7,,amatjoof,2023-11-01,42,2
+IN-M-047B,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,1,"PARACETAMOL,  AMOXICILLIN,  fefa and multivitamin.  I advice for her to stop the fefa and multivitamin because she is on supplements ",0,0,88,18,100.00,66.4,108,71,110,69,111,67,89.2,,amatjoof,2023-12-17,,2
+IN-M-048E,delivery__postpart_arm_1,,,1,0,1,0,1,0,0,0,0,0,0,,0,0,109,19,100.00,36.8,126,95,122,93,133,92,98.0,,mujoof,2023-11-07,42,2
+IN-M-053K,delivery__postpart_arm_1,,,1,0,0,0,0,0,0,0,0,0,0,,0,0,78,20,100.00,36.8,129,87,125,89,119,86,70.0,,lamceesay,2023-11-23,42,2
+IN-M-056J,delivery__postpart_arm_1,,,1,0,0,0,0,1,0,0,0,0,0,,0,0,116,18,99.00,37.0,126,88,126,88,123,89,62.3,,ysowe,2024-01-17,42,2
+IN-M-058J,delivery__postpart_arm_1,,,1,0,0,1,0,0,0,0,0,0,0,,0,0,79,18,100.00,35.9,110,77,110,74,107,67,57.5,,mujoof,2023-11-14,42,2
+IN-M-059G,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,80,18,99.00,35.5,116,81,108,82,108,82,51.7,,ysowe,2024-01-25,42,2
+IN-M-061B,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,92,20,100.00,36.6,107,68,106,66,109,65,54.7,Nil,lamceesay,2024-01-28,,2
+IN-M-062B,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,86,20,99.00,37.0,122,76,116,68,120,71,72.4,,amatjoof,2024-01-18,,2
+IN-M-064D,delivery__postpart_arm_1,,,1,0,0,1,0,0,0,0,0,0,0,,0,0,86,20,99.00,36.4,92,66,99,68,94,86,45.9,"Generally well looking, not in any form of distress. Nil complains ",lamceesay,2023-12-25,,2
+IN-M-065H,delivery__postpart_arm_1,,,1,1,0,0,0,1,0,0,0,0,0,,0,0,99,18,100.00,36.4,103,76,105,77,106,76,72.6,,amatjoof,2023-11-29,42,2
+IN-M-067H,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,87,230,100.00,36.8,126,87,127,87,125,83,65.5,Nil,lamceesay,2024-01-27,,2
+IN-M-069K,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,85,18,100.00,35.5,101,73,109,73,99,68,55.0,,mujoof,2023-12-05,42,2
+IN-M-070E,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,86,18,100.00,36.6,117,88,111,73,111,73,51.1,,ysowe,2024-02-04,42,2
+IN-M-071F,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,110,16,99.00,37.1,109,77,103,74,104,78,51.0,,ysowe,2024-01-19,42,2
+IN-M-072J,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,98,18,98.00,36.8,149,118,177,128,159,118,76.6,High Blood pressure post delivery. ,ysowe,2024-01-19,42,2
+IN-M-074F,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,77,16,100.00,35.2,111,79,110,72,104,76,53.0,,amatjoof,2024-02-03,,2
+IN-M-075A,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,79,20,100.00,37.9,149,101,145,102,159,107,76.3,Referred to KENEBA clinic for review  due to high blood pressure.,mujoof,2024-02-14,42,2
+IN-M-076H,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,80,20,100.00,36.5,118,74,119,72,113,62,82.0,,ysowe,2024-01-18,42,2
+IN-M-077H,delivery__postpart_arm_1,,,1,0,0,0,0,1,0,0,0,0,0,,0,0,86,18,100.00,35.6,92,69,93,65,96,67,53.7,,lamceesay,2024-01-11,,2
+IN-M-078F,delivery__postpart_arm_1,,,0,0,0,1,0,0,0,0,0,0,0,,0,0,80,18,100.00,36.4,123,81,117,82,114,82,64.6,,lamceesay,2024-01-28,,2
+IN-M-079G,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,99,20,99.00,37.0,114,84,122,84,113,81,97.8,,lamceesay,2024-02-17,,2
+IN-M-081D,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,60,20,99.00,36.5,118,69,123,67,119,66,51.5,,ysowe,2024-01-08,42,2
+IN-M-082E,delivery__postpart_arm_1,,,1,0,0,1,0,0,0,0,0,0,0,,0,0,75,18,99.00,36.3,137,88,136,89,137,90,61.6,,lamceesay,2024-02-18,,2
+IN-M-083H,delivery__postpart_arm_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Thae health check was not done because the participant delivered at EFSTH, got admitted there and subsequently stayed around there for almost a month before she returned.",lamceesay,2024-09-26,,2
+IN-M-084C,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,1,PARACETAMOL ,0,0,97,25,99.00,36.7,127,86,120,88,117,86,49.3,,amatjoof,2024-02-08,,2
+IN-M-085H,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,54,20,100.00,36.0,123,77,110,66,107,66,48.0,,ysowe,2024-01-06,,2
+IN-M-086J,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,62,20,100.00,36.2,105,70,103,65,102,62,59.2,,ysowe,2024-01-06,,2
+IN-M-087F,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,68,18,99.00,36.2,96,72,88,66,89,69,55.6,,ysowe,2024-01-21,,2
+IN-M-088J,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,108,27,100.00,36.3,100,84,97,84,92,79,64.2,No problem. ,mujoof,2024-02-08,42,2
+IN-M-089F,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,75,20,100.00,34.8,98,68,112,65,107,64,54.9,,amatjoof,2024-01-11,,2
+IN-M-090C,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,81,20,98.00,36.5,114,65,107,60,110,60,55.0,,ysowe,2024-03-04,,2
+IN-M-091K,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,82,20,100.00,36.3,115,75,110,70,110,78,66.0,,ysowe,2024-02-13,42,2
+IN-M-093E,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,82,18,100.00,36.7,125,83,116,80,118,78,54.2,,amatjoof,2024-02-24,,2
+IN-M-096C,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,79,16,99.00,36.6,98,69,101,79,114,72,54.6,,amatjoof,2024-02-24,,2
+IN-M-097K,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,96,18,99.00,37.0,156,79,122,73,119,72,54.3,Nil,lamceesay,2024-01-18,,2
+IN-M-098F,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,93,18,100.00,36.4,128,86,126,84,113,83,70.3,Nil,mujoof,2024-02-12,,2
+IN-M-099A,delivery__postpart_arm_1,,,1,0,0,1,0,0,0,0,0,0,0,,0,0,70,18,100.00,36.6,113,76,109,70,111,67,54.8,,lamceesay,2024-01-28,,2
+IN-M-100G,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,95,18,100.00,35.3,115,74,115,77,116,69,48.3,,amatjoof,2024-03-05,,2
+IN-M-101H,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,90,20,100.00,36.8,106,76,107,77,109,70,69.2,Nil,mujoof,2024-04-02,,2
+IN-M-104G,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,1,1,"Cap Amoxacillin 500mg TDS x5days.
+Tab Paracetamol 1gm TDS x3days.
+Seen at Kwinella Health Center and treated with above prescription. ",0,0,105,20,99.00,37.2,124,83,121,83,118,80,68.0,,mujoof,2024-03-09,35,2
+IN-M-105F,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,73,18,98.00,36.8,101,72,104,70,99,68,68.7,,ysowe,2024-01-25,42,2
+IN-M-107A,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,76,16,100.00,36.8,140,99,140,96,141,96,97.9,,amatjoof,2024-02-23,,2
+IN-M-108D,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,79,20,100.00,36.5,107,66,105,68,107,61,53.6,,mujoof,2024-02-14,42,2
+IN-M-110C,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,84,18,100.00,36.6,139,83,129,88,135,87,61.4,,lamceesay,2024-03-02,,2
+IN-M-111D,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,88,18,100.00,36.9,157,82,117,71,111,70,117.4,,ysowe,2024-02-18,,2
+IN-M-112D,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,85,18,100.00,37.0,113,69,112,67,109,71,49.5,Well with nill complaints. ,lamceesay,2024-03-11,,2
+IN-M-113G,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,53,18,100.00,35.7,130,76,122,73,124,70,59.6,Well with nill complaints. No abnormalities detected on examinations. ,lamceesay,2024-03-11,,2
+IN-M-116D,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,9218,20,100.00,37.3,141,92,134,93,131,88,79.6,,ysowe,2024-02-14,42,2
+IN-M-118E,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,100,18,98.00,36.2,111,79,118,76,114,76,48.1,,ysowe,2024-04-01,,2
+IN-M-123A,delivery__postpart_arm_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+IN-M-124E,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,94,20,100.00,36.6,119,85,116,79,113,73,58.8,Nil,mujoof,2024-04-02,,2
+IN-M-125H,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,90,18,100.00,36.9,114,74,112,71,112,71,58.4,,lamceesay,2024-02-17,,2
+IN-M-126J,delivery__postpart_arm_1,,,0,0,0,1,0,0,0,0,0,0,0,,0,0,74,20,100.00,36.6,118,77,117,72,119,61,46.8,She is in stable condition. ,mujoof,2024-03-30,,2
+IN-M-129E,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,88,18,100.00,36.9,114,68,107,69,99,67,61.6,,amatjoof,2024-05-06,,2
+IN-M-130F,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,1,0,0,0,,0,0,112,20,100.00,36.3,94,63,97,62,99,60,49.5,,mujoof,2024-03-28,,2
+IN-M-131H,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,86,20,99.00,36.4,118,68,99,62,110,70,46.0,,ysowe,2024-02-18,,2
+IN-M-132C,delivery__postpart_arm_1,,,1,0,0,0,0,0,0,0,0,1,0,,0,0,97,28,99.00,36.6,118,78,111,86,112,82,44.5,,amatjoof,2024-04-17,,2
+IN-M-133B,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,100,18,98.00,36.1,153,75,150,83,144,78,75.3,,ysowe,2024-03-04,,2
+IN-M-134C,delivery__postpart_arm_1,,,1,0,0,0,0,1,0,0,0,0,1,"Amoxycillin 500mg tid for 5 days, 
+Paracetamol 1g tid for 3 days.",0,0,82,18,99.00,36.7,111,81,117,73,117,74,36.7,She had the painful urination shortly before her delivery and was given treatment as listed above immediate post delivery. This is getting better now according to her.,lamceesay,2024-04-12,,2
+IN-M-136C,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,78,18,100.00,36.6,136,66,130,67,128,59,63.9,,ysowe,2024-03-04,,2
+IN-M-138B,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,80,16,99.00,36.8,146,67,137,63,134,63,67.1,,ysowe,2024-05-23,,2
+IN-M-140D,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,76,18,99.00,36.6,114,74,118,73,117,65,65.0,Well with nill complaints. ,lamceesay,2024-03-17,,2
+IN-M-142H,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,91,16,99.00,36.7,114,76,108,68,110,67,114.3,,ysowe,2024-05-19,,2
+IN-M-145E,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,83,20,100.00,36.4,123,76,120,70,118,70,81.7,,amatjoof,2024-03-27,,2
+IN-M-146H,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,76,18,100.00,35.8,103,76,101,72,96,67,50.2,,ysowe,2024-04-30,,2
+IN-M-147K,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,67,20,100.00,39.9,113,69,114,65,108,64,61.6,,ysowe,2024-03-21,43,2
+IN-M-148E,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,82,16,100.00,35.3,123,91,116,84,120,87,53.8,,amatjoof,2024-04-30,,2
+IN-M-150H,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,77,18,100.00,36.4,126,86,136,84,124,82,51.5,,amatjoof,2024-04-07,,2
+IN-M-151B,delivery__postpart_arm_1,,,0,0,0,1,0,0,0,0,0,0,1,"Caps Ampiclox 500mg qid for 10 days , Tab Metronidazole 500mg tid for 5 days, Tab Labitalol 100mg bd for 7 days.  Paracetamol 1000mg for 3 days. ",0,0,64,18,100.00,36.8,131,93,132,95,135,82,62.7,,lamceesay,2024-02-17,,2
+IN-M-153G,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,93,18,98.00,36.6,150,94,138,85,130,78,62.1,,ysowe,2024-05-23,,2
+IN-M-156B,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,1,0,0,0,,0,0,77,20,100.00,36.5,118,65,119,69,117,69,58.1,Healthy looking and alert. ,mujoof,2024-03-30,,2
+IN-M-159C,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,1,"Amoxicillin 500mg tid for 5 days, 
+Paracetamol 1g tid for 3 days.",0,0,86,20,100.00,36.2,116,83,116,88,111,81,66.6,Nil,lamceesay,2024-04-09,,2
+IN-M-160G,delivery__postpart_arm_1,,,0,0,0,1,0,0,0,0,0,0,0,,0,0,78,18,99.00,37.0,109,76,105,77,99,72,58.6,Nil,lamceesay,2024-04-11,,2
+IN-M-161D,delivery__postpart_arm_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+IN-M-162F,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,89,18,100.00,35.6,135,96,133,91,133,92,73.8,,ysowe,2024-07-12,,2
+IN-M-165G,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,68,16,100.00,36.5,129,87,128,78,115,75,67.2,,ysowe,2024-06-11,,2
+IN-M-166D,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,78,20,99.00,37.1,119,72,116,72,119,71,58.1,Nil problem ,mujoof,2024-06-11,,2
+IN-M-169A,delivery__postpart_arm_1,,,1,0,0,0,1,0,0,0,0,0,1,"Caps Amoxacilline 500mg
+Tabs Paracetamol 500mg",0,0,78,21,100.00,37.0,111,75,110,69,107,69,56.0,"She had diziness the day she delivered, and it subsided that same day. currently no diziness and no abnormality detected.",safjarju,2024-06-27,,2
+IN-M-173D,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,74,16,98.00,36.9,116,59,108,65,108,65,63.7,Nil,ysowe,2024-07-10,,2
+IN-M-174J,delivery__postpart_arm_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+IN-M-177H,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,96,18,100.00,36.9,134,87,139,84,132,85,59.4,,ysowe,2024-06-06,,2
+IN-M-178B,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,67,18,100.00,35.2,99,56,101,71,110,75,54.8,,ysowe,2024-05-17,,2
+IN-M-179J,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,84,21,100.00,36.9,110,75,109,73,112,75,55.9,,safjarju,2024-06-03,,2
+IN-M-180J,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,104,20,100.00,35.6,119,90,115,90,112,90,81.9,,ysowe,2024-07-28,,2
+IN-M-181B,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,60,18,100.00,36.6,112,53,112,64,106,63,70.9,,ysowe,2024-05-01,,2
+IN-M-182K,delivery__postpart_arm_1,,,1,0,0,0,0,1,1,0,0,0,0,,0,0,82,27,100.00,36.9,128,94,127,92,126,88,65.3,She's currently on medication for the above complain.,safjarju,2024-06-13,,2
+IN-M-183H,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,,,,,,"This participant delivered at the Coastb and stayed there for almos 1 month before she returned, as a result, data on the physical examination and vital signs could not be obtained for this time point. Only the upper part of the form which involes history taking was obtaied.",lamceesay,2024-07-10,,2
+IN-M-184A,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,82,18,100.00,35.5,104,70,109,71,98,74,60.6,,amatjoof,2024-05-13,,2
+IN-M-186K,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,90,20,100.00,36.0,138,97,136,94,135,89,110.2,,ysowe,2024-07-05,,2
+IN-M-187B,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,1,"Tab Fefa 200mg daily,  Tabs Paracetamol 100mg tid",0,0,71,20,100.00,35.7,108,81,108,81,105,79,54.2,"During maternal health check,  no abnormality detected. ",safjarju,2024-08-31,,2
+IN-M-188B,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,78,20,100.00,36.7,100,66,101,72,110,70,49.4,nil complain ,mujoof,2024-05-25,,2
+IN-M-189C,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,68,18,100.00,37.2,108,71,108,76,105,66,82.1,,lamceesay,2024-06-16,,2
+IN-M-190C,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,88,24,100.00,36.1,97,70,105,73,105,72,53.1,"During maternal health check, Mother and baby is in good condition. ",safjarju,2024-08-12,,2
+IN-M-191D,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,94,18,95.00,36.4,112,70,114,75,117,76,58.2,,ysowe,2024-06-29,,2
+IN-M-192B,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,79,18,100.00,36.6,132,96,125,63,116,71,54.6,,ysowe,2024-07-05,,2
+IN-M-194D,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,138,20,98.00,36.2,127,59,117,58,109,58,58.1,,ysowe,2024-07-15,,2
+IN-M-195J,delivery__postpart_arm_1,,,,0,0,1,0,1,0,0,0,0,1,"IV Ampicilline 500mg  qds, Fefa 1tab daily, Tabs paracetamol 1gram tds, IV Flagyl 500mg tds respectively. ",0,0,100,25,100.00,36.3,102,80,98,73,97,78,73.1,"At the time of examination,  both mother and baby are in good condition. ",safjarju,2024-07-19,,2
+IN-M-196C,delivery__postpart_arm_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+IN-M-201B,delivery__postpart_arm_1,,,1,0,1,1,0,1,0,0,0,0,0,,0,0,86,20,100.00,36.3,106,85,110,79,105,80,60.4,The above complaints were during the pregnancy but no longer as at now. ,lamceesay,2024-08-30,,2
+IN-M-205D,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,1,"Amoxycillin 500mg tds for 5 days, Paracetamol 1000mg tds for 3 days, Oral rehydration solution to drink freely ",0,0,120,18,98.00,36.2,94,63,95,64,92,68,51.1,,lamceesay,2024-06-18,,2
+IN-M-207C,delivery__postpart_arm_1,,,0,0,0,0,0,0,,0,0,0,0,,0,0,86,18,99.00,35.8,111,65,107,65,105,68,60.1,Nil,lamceesay,2024-07-08,,2
+IN-M-212K,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,99,18,99.00,36.5,110,72,98,78,97,70,64.3,,ysowe,2024-06-15,,2
+IN-M-214F,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,78,20,100.00,36.0,139,84,131,79,136,79,78.2,,ysowe,2024-07-16,,2
+IN-M-215E,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,1,0,0,0,,0,0,90,20,100.00,36.3,114,68,114,88,114,89,61.0,In a stable condition of health. ,mujoof,2024-09-19,,2
+IN-M-221E,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,99,18,100.00,35.8,96,67,92,66,94,66,44.1,,ysowe,2024-07-25,,2
+IN-M-222C,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,60,18,100.00,35.9,111,76,110,75,110,74,59.5,,ysowe,2024-09-30,,2
+IN-M-223J,delivery__postpart_arm_1,,,0,0,0,0,1,0,0,0,0,0,0,,0,0,67,20,99.00,36.8,123,73,115,82,123,85,48.1,,ysowe,2024-08-30,,2
+IN-M-224K,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,94,20,100.00,36.7,115,77,114,76,104,75,51.7,,ysowe,2024-07-24,,2
+IN-M-226E,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,77,20,100.00,35.1,159,101,159,106,156,101,58.8,Was put on treatment from Bwiam General hospital  by one of the doctors. ,ysowe,2024-08-08,,2
+IN-M-227K,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,80,18,100.00,35.6,104,86,110,74,108,80,90.4,,amatjoof,2024-09-28,,2
+IN-M-228E,delivery__postpart_arm_1,,,1,0,1,0,0,0,0,0,0,0,0,,0,0,78,16,100.00,36.0,99,67,101,70,104,66,65.0,,amatjoof,2024-09-28,,2
+IN-M-229F,delivery__postpart_arm_1,,,1,0,0,1,0,0,0,0,0,0,0,,0,0,97,18,100.00,36.9,125,90,119,79,114,74,57.9,The fever was during the course of the pregnancy but currently she is well. ,lamceesay,2024-09-15,,2
+IN-M-232C,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,95,20,98.00,35.8,150,100,150,100,148,100,75.6,,ysowe,2024-07-28,,2
+IN-M-234D,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,1,paracetamol 1g tid for 3 days,0,0,97,18,100.00,36.7,115,84,108,81,113,80,61.4,,lamceesay,2024-09-26,,2
+IN-M-235D,delivery__postpart_arm_1,,,1,0,1,0,0,0,0,0,0,1,0,,0,0,84,23,100.00,36.3,124,77,120,68,109,63,58.8,No abnormality detected during maternal health check ,safjarju,2024-09-12,,2
+IN-M-236J,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,79,20,99.00,37.2,121,81,125,78,120,78,84.5,,lamceesay,2024-08-24,,2
+IN-M-238C,delivery__postpart_arm_1,,,0,0,1,0,0,0,0,0,0,0,0,,0,0,56,18,100.00,35.7,138,88,133,83,140,87,63.7,,ysowe,2024-09-15,,2
+IN-M-240B,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,95,20,100.00,36.5,118,78,118,74,113,75,71.3,No abnormality detected during maternal health check. ,safjarju,,,2
+IN-M-241F,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,75,18,100.00,36.3,121,89,109,77,108,80,49.0,,ysowe,2024-10-10,,2
+IN-M-244E,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,74,19,100.00,36.2,130,83,120,73,115,70,62.2,Both Mother and child are in good condition. ,safjarju,2024-08-08,,2
+IN-M-245J,delivery__postpart_arm_1,,,0,0,0,0,1,0,0,0,0,0,1,"Tabs Paracetamol 1000mg tid, Cap Amoxacilline 500mg tid,  Tabs fefa daily ",0,0,74,16,100.00,35.3,100,70,100,70,99,67,60.7,"During maternal health check,  no abnormality detected ",safjarju,2024-08-31,,2
+IN-M-246G,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,70,20,99.00,37.0,129,86,124,80,127,82,56.2,,ysowe,2024-08-15,,2
+IN-M-247K,delivery__postpart_arm_1,,,1,0,0,0,0,1,0,0,0,0,1,Amoxicillin 500mg tds x 5/7,0,0,76,18,100.00,35.0,123,86,121,81,123,85,45.2,,sbeyai,2024-10-01,,2
+IN-M-249K,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,92,18,100.00,36.4,124,88,127,73,125,67,52.0,,lamceesay,2024-08-26,,2
+IN-M-252B,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,1,0,0,0,,0,0,69,16,100.00,36.8,149,97,155,95,147,96,72.9,slight raised blood pressure. for review by Doctor,amatjoof,2024-10-16,,2
+IN-M-254E,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,81,18,100.00,36.9,138,80,141,89,129,98,54.8,A wrong  lD was initially selected to complete her details. ,lamceesay,2024-09-26,,2
+IN-M-255D,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,100,18,100.00,36.3,140,85,146,94,144,95,63.1,,ysowe,2024-09-24,,2
+IN-M-256K,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,107,20,100.00,37.0,128,94,128,94,126,93,71.1,Nil complain. Stable and alert,mujoof,2024-08-14,,2
+IN-M-257E,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,95,20,100.00,35.8,117,75,128,77,117,74,54.4,,sbeyai,2024-10-03,,2
+IN-M-259H,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,100,18,100.00,37.4,106,82,102,82,108,83,43.9,,lamceesay,2024-08-28,,2
+IN-M-261J,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,90,18,99.00,36.8,127,83,120,80,117,78,54.9,,amatjoof,2024-10-13,,2
+IN-M-262E,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,90,20,100.00,36.3,114,68,114,88,114,89,61.0,satisfactory condition ,mujoof,2024-11-04,,2
+IN-M-263A,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,97,20,98.00,36.6,123,71,116,69,111,67,65.3,,ysowe,2024-08-19,,2
+IN-M-264H,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,80,20,99.00,36.8,111,61,90,57,90,58,53.0,,ysowe,2024-11-05,,2
+IN-M-265E,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,81,23,100.00,36.9,120,80,124,79,117,79,75.3,During maternal health check no abnormality detected. ,safjarju,2024-09-13,,2
+IN-M-266G,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,79,18,100.00,36.2,,,,,,,67.6,BP could not be recorded due to low battery of the BP machine whilst in the field,amatjoof,2024-10-26,,2
+IN-M-267C,delivery__postpart_arm_1,,,1,0,0,1,0,0,0,0,0,0,0,,0,0,87,18,100.00,36.7,124,68,123,74,109,74,58.4,,lamceesay,2024-09-02,,2
+IN-M-268F,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,60,20,99.00,35.5,143,95,146,96,143,96,56.4,satisfactory condition ,mujoof,2024-10-17,,2
+IN-M-271H,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,76,20,99.00,36.6,118,72,117,70,119,71,51.4,,ysowe,2024-10-24,,2
+IN-M-273H,delivery__postpart_arm_1,,,0,0,0,0,0,1,0,0,0,0,0,,0,0,82,19,100.00,35.7,122,82,113,86,113,83,57.8,No abnormality detected during maternal health check. ,safjarju,2024-11-03,,2
+IN-M-274B,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,77,22,100.00,36.7,111,70,109,66,107,63,75.0,No abnormality detected during maternal health check ,safjarju,2024-11-01,,2
+IN-M-276H,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,85,18,100.00,36.9,127,80,125,85,116,90,62.6,,ysowe,2024-10-05,,2
+IN-M-280K,delivery__postpart_arm_1,,,0,0,1,1,1,0,0,0,0,0,0,,0,0,70,20,99.00,36.4,114,76,127,82,114,83,54.8,The participant delivered at EFSTH and returned lately as a result the health checks were delayed,lamceesay,2024-11-14,,2
+IN-M-281C,delivery__postpart_arm_1,,,0,0,0,1,0,0,0,0,0,0,0,,0,0,85,20,100.00,36.7,140,86,137,87,143,90,57.8,The participant travelled the day after her delivery without the notice of the study team which was why the health checks were not done on time. ,lamceesay,2024-09-27,,2
+IN-M-282D,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,95,16,100.00,35.4,,,,,,,52.6,blood pressure was not taken because machine run down and could make any reading,amatjoof,2024-10-26,,2
+IN-M-283F,delivery__postpart_arm_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+IN-M-284K,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,90,20,100.00,36.9,97,60,95,61,101,62,58.0,,ysowe,2024-09-12,,2
+IN-M-285A,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,82,20,99.00,37.0,116,73,116,62,111,60,56.8,,ysowe,2024-10-02,,2
+IN-M-287K,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,83,20,98.00,35.5,109,71,110,70,111,69,46.9,satisfactory condition ,mujoof,2024-11-08,,2
+IN-M-288G,delivery__postpart_arm_1,,,0,0,0,1,0,0,0,0,0,0,0,,0,0,75,18,100.00,36.4,127,89,134,82,138,88,64.6,,lamceesay,2024-09-26,,2
+IN-M-290B,delivery__postpart_arm_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+IN-M-291J,delivery__postpart_arm_1,,,1,0,0,1,0,0,0,0,0,0,0,,0,0,92,18,99.00,36.8,117,79,114,83,120,80,63.5,The fever was not current it was during pregnancy. ,lamceesay,2024-11-05,,2
+IN-M-293C,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,1,1,0,1,Fersolate and folic acid,0,0,77,18,100.00,36.9,129,94,133,98,130,93,70.4,"Had treatment from the discharging hospital, ie FGH.",ysowe,2024-09-26,,2
+IN-M-295F,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,89,16,100.00,37.0,115,74,120,76,117,73,65.2,,amatjoof,2024-10-01,,2
+IN-M-296G,delivery__postpart_arm_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+IN-M-299A,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,105,18,100.00,37.1,109,66,107,65,106,65,55.0,Nil,ysowe,2024-10-31,,2
+IN-M-305B,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,86,18,98.00,36.3,103,77,105,75,101,73,50.3,,ysowe,2024-11-09,,2
+IN-M-306K,delivery__postpart_arm_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+IN-M-307K,delivery__postpart_arm_1,,,0,0,1,0,1,0,0,0,0,0,0,,0,0,88,18,100.00,36.4,90,60,107,68,104,70,55.4,,sbeyai,2024-10-27,,2
+IN-M-310B,delivery__postpart_arm_1,,,0,0,0,1,0,0,0,0,0,0,0,,0,0,90,18,99.00,36.8,115,83,114,81,111,75,73.5,,ysowe,2024-10-22,,2
+IN-M-316H,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,77,19,99.00,36.2,129,83,120,83,130,85,58.6,No abnormality detected during maternal health check ,safjarju,2024-11-13,,2
+IN-M-321D,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,96,16,98.00,36.4,106,73,101,73,102,68,51.0,,amatjoof,2024-10-26,,2
+IN-M-323D,delivery__postpart_arm_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+IN-M-324J,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,62,20,100.00,36.3,163,101,147,101,156,100,49.6,satisfactory condition ,mujoof,2024-11-07,,2
+IN-M-327F,delivery__postpart_arm_1,,,0,0,0,1,0,0,0,0,0,0,0,,0,0,92,20,100.00,36.7,138,88,129,89,136,92,92.0,,lamceesay,2024-09-26,,2
+IN-M-328K,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,88,20,97.00,36.7,102,71,91,70,91,68,45.0,,ysowe,2024-10-10,,2
+IN-M-329D,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,98,18,100.00,36.7,111,64,108,71,111,64,56.2,,sbeyai,2024-10-26,,2
+IN-M-339K,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,83,20,100.00,36.4,133,84,130,86,135,100,64.7,,ysowe,2024-09-26,,2
+IN-M-341A,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,85,18,100.00,36.7,113,85,114,83,111,84,66.1,,amatjoof,2024-10-26,,2
+IN-M-346A,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,1,Tabs Fefa 1 fab daily ,0,0,80,24,100.00,35.8,118,117,173,118,165,118,60.0,"BP reading is confirmed correct,  mother was told that her Blood pressure was high after delivery. Today during maternal health check,  it's found to be high too.  Mother referred to keneba clinic for further review and management. ",safjarju,2024-11-13,,2
+IN-M-348F,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,75,18,98.00,37.0,125,70,123,67,120,70,56.0,,lamceesay,2024-11-08,,2
+IN-M-351B,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,1,"IV Ampicilline  500mg 
+IV Flagyl 500mg
+IM Diclofenac 75mg
+IV Dextrose 5% 500mls
+IV Normal saline 0.9% 500mls 
+",0,0,84,23,100.00,36.3,110,76,109,68,109,70,54.4,"During maternal health check,  no abnormality detected ",safjarju,2024-11-01,,2
+IN-M-354C,delivery__postpart_arm_1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
+IN-M-356C,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,95,16,100.00,36.7,102,72,115,72,106,69,53.2,,ysowe,2024-10-31,,2
+IN-M-365J,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,82,20,100.00,36.7,123,79,122,82,118,81,60.0,In a stable condition. ,mujoof,2024-11-05,,2
+IN-M-374J,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,78,20,100.00,36.3,114,77,110,77,112,78,59.9,Stable condition of health. ,mujoof,2024-09-26,,2
+IN-M-375H,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,76,20,100.00,35.4,116,79,112,74,113,76,58.4,satisfactory condition ,mujoof,2024-11-08,,2
+IN-M-405C,delivery__postpart_arm_1,,,0,0,0,0,0,0,0,0,0,0,0,,0,0,66,18,100.00,36.9,,,,,,,,BP could not be taken due low battery of the BP machine whilst in the field,amatjoof,2024-10-26,,2

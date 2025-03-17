@@ -1,0 +1,9 @@
+Record,Event,Field,User Assigned,Days Open,First Update,Time Raised
+IN-M-002H,Recruitment (Arm 1: Maternal),con_dob_q4 (4. Participant date of birth),otbah,8,"yuceesay (04/04/2023 10:25am): ""This does not match date of birth on EDEN sensitization long for the said EDEN number.
+please verify.""",04/04/2023 10:25
+IN-M-007A,Recruitment (Arm 1: Maternal),con_participant_eden_num_q11 (11. Provide Participant number for EDEN Study),otbah,0,"yuceesay (12/04/2023 11:33am): ""Please provide an appropriate EDEN number.""",12/04/2023 11:33
+IN-M-009K,Recruitment (Arm 1: Maternal),"con_source_document_q11a (11a. Source document (e.g. ID card, ANC card and other source))",kyceesay,1.1,"mdanjo (11/04/2023 7:46am): ""Upload the source document""",11/04/2023 07:46
+IN-M-013D,Recruitment (Arm 1: Maternal),completedby (25. Completed by),mujoof,0.3,"mdanjo (12/04/2023 4:17am): ""Kindly complete all the rest of the fills""",12/04/2023 04:17
+IN-M-014D,Recruitment (Arm 1: Maternal),upload_uss_report (19. Upload USS report),mujoof,0,"yuceesay (12/04/2023 10:53am): ""Please upload USS report.""",12/04/2023 10:53
+IN-M-016F,Recruitment (Arm 1: Maternal),upload_uss_report (19. Upload USS report),mujoof,0.3,"mdanjo (12/04/2023 4:44am): ""No USS Scan uploaded""",12/04/2023 04:44
+IN-M-016F,Recruitment (Arm 1: Maternal),uss_report_verified_by (20.  Form verified by),mujoof,0.3,"mdanjo (12/04/2023 4:45am): ""Do not complete a form and verify""",12/04/2023 04:45

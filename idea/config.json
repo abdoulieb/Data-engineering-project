@@ -1,0 +1,8 @@
+{
+    "username": "your_abliebah",
+    "password": "Mango@123",
+    "server": "KB-DATA",
+    "database":"KenebaClinic",
+    "driver": "{SQL Server}"
+    
+  }

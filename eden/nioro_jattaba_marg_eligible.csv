@@ -1,0 +1,400 @@
+ck_wkno,enu_name,enu_comp,enu_mname,enu_fname,sen_contact1,sen_contact2,sen_contact3,village_name,cluster_mapping,staff,participant_id,cconsent,redcap_repeat_instance,consent_form_date_q10
+00-016-297V,Fatoumata Gano,,Jarra Jobe,Omar Gano,,,,,Unknown,,EDN0506-B,1,1,2022-05-17
+01-007-007B,Fatou Darboe,007,Mogie Colley,Momodou Darboe,,,,DUMBUTO,Dumbuto,Ousman Kambi,EDN0315-D,1,1,2022-04-11
+01-029-032E,Alimatou Kinteh,029,Mariama Sanyang,Yaya Kinteh,,,,DUMBUTO,Dumbuto,Ousman Kambi,EDN0320-G,1,1,2022-04-11
+01-030-053L,Alima Trawally,030,Naba Touray,Momodou Trawally,,,,DUMBUTO,Dumbuto,Ousman Kambi,EDN0313-B,1,1,2022-04-11
+04-001-001R,Kaddy Sanneh,032,Musukuta Sanneh,Momodou Sanneh,,,,DUMBUTO,Dumbuto,Ousman Kambi,EDN0362-A,1,1,2022-04-26
+01-035-013F,Hawa Fadera,035,Nyomo Korta,Fabakary Fadera,,,,DUMBUTO,Dumbuto,Ousman Kambi,EDN0318-K,1,1,2022-04-11
+16-020-002Y,Kaddy Jassey,035,Warra Barrow,Tumbulu Jassey,,,,DUMBUTO,Dumbuto,Ousman Kambi,EDN0323-D,1,1,2022-04-11
+01-039-022K,Ramatoulie Darboe,039,Ester Godwin John,Godwin John,,,,DUMBUTO,Dumbuto,Ousman Kambi,EDN0368-F,1,1,2022-04-13
+02-005-011V,Fatoumata Sise,005,Sona Darboe,Lamin Sise,,,,SANKANDI,Dumbuto,Ousman Kambi,EDN0355-C,1,1,2022-04-12
+02-008-008C,Isatou Manjang,008,Aminata Darboe,Pateh Manjang,,,,SANKANDI,Dumbuto,Ousman Kambi,EDN0339-B,1,1,2022-04-12
+02-015-078A,Awa Dibba,015,Sarjo Darboe,Demba Dibba,,,,SANKANDI,Dumbuto,Ousman Kambi,EDN0338-J,1,1,2022-04-12
+02-015-005F,Adama Darboe,015,Sireh Samateh,Lamin Darboe,,,,SANKANDI,Dumbuto,Ousman Kambi,EDN0346-D,1,1,2022-04-12
+02-006-022S,Fatoumata Drammeh,017,Mama Sise,Sunkary Drammeh,,,,SANKANDI,Dumbuto,Ousman Kambi,EDN0361-C,1,1,2022-04-13
+02-042-008U,Jarra Manjang,042,Fatou Barrow,Baba Manjang,,,,SANKANDI,Dumbuto,Ousman Kambi,EDN0359-E,1,1,2022-04-13
+02-048-015V,Kaddy Sabally,048,Dado Sey,Samba Sabally,,,,SANKANDI,Dumbuto,Ousman Kambi,EDN0345-J,1,1,2022-04-12
+02-048-012S,Fatou Sowe,048,Wurry Bah,Alieu Sowe,,,,SANKANDI,Dumbuto,Ousman Kambi,EDN0348-C,1,1,2022-04-12
+02-048-007N,Kumba Mballow,048,Penda Bah,Ganyadou Mballow,,,,SANKANDI,Dumbuto,Ousman Kambi,EDN0337-F,1,1,2022-04-12
+03-002-059V,Jaila Jallow,002,Mahani Bah,Ousman Jallow,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,EDN0421-K,1,1,2022-04-25
+03-020-021R,Dellam Touray,020,Jarra Bah,Omar Touray,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,EDN0423-F,1,1,2022-04-26
+03-020-016M,Amie Jallow,020,Isatou Leigh,Chanadou Jallow,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,EDN0424-D,1,1,2022-04-26
+03-023-097Z,Jarra Colley,023,Ngibou Jobe,Alagie Colley,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,EDN0458-E,1,1,2022-04-26
+03-026-016G,Fatou Bah,026,Mariama Baldeh,Saidou Bah,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,EDN0496-E,1,1,2022-04-27
+03-052-021L,Mariama Jobe,034,Hawa Bah,Musa Jobe,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,EDN0456-J,1,1,2022-04-27
+03-043-010W,Jaila Jallow,043,Mahani Bah,Ousman Jallow,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,EDN0508-F,1,1,2022-05-17
+03-048-040I,Fatoumata Sey,048,Hulay Jobe,Samba Sey,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,EDN0996-G,1,1,2022-08-25
+03-048-044M,Haminata Jobe,048,Dellam Sey,Samba Jobe,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,EDN0991-F,1,1,2022-08-25
+03-052-027R,Kumba Jallow,052,Isatou Sowe,Sulayman Jallow,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,EDN0451-D,1,1,2022-04-27
+03-053-010M,Hawa Jallow,053,Sarlujang Jallow,Lamarana Jallow,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,EDN0490-H,1,1,2022-04-27
+07-019-003R,Fatoumata Barry,053,Mariama Njai,Ebrima Barry,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,EDN0454-F,1,1,2022-04-27
+03-066-018U,Hawa Jobe,066,Isata Jobe,Ebrima Jobe,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,EDN0460-C,1,1,2022-04-26
+03-002-004S,Kaddijatou Bah,067,Hawa Sowe,Momodou Touray Bah,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,EDN0431-B,1,1,2022-04-25
+03-067-017F,Jainaba Jallow,067,Hulay Bah,Kebba Jallow,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,EDN0390-J,1,1,2022-04-25
+03-066-007J,Adama Bah,071,Hawa Ndow,Demba Bah,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,EDN0449-K,1,1,2022-04-26
+05-033-024W,Nyimanding Taal,075,Sutering Kinteh,Demba Taal,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,EDN0388-G,1,1,2022-04-25
+03-081-001B,Adama Jobe,081,Adama Jobe,Ousman Jobe,5165881,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,EDN0510-D,1,1,2022-05-18
+02-007-015X,Fatou Jawara,005,Faye Janneh,Madi Jawara,2349796,,,JATTABA,Dumbuto,Ousman Kambi,EDN0513-E,1,1,2022-06-09
+04-007-062U,Fatou Sise,007,Jainaba Darboe,Baba Sise,,,,JATTABA,Dumbuto,Ousman Kambi,EDN0468-K,1,1,2022-04-26
+04-007-059R,Binta Sanneh,007,Arabiatou Touray,Demba Sanneh,,,,JATTABA,Dumbuto,Ousman Kambi,EDN1110-G,1,1,2023-01-10
+04-009-122A,Fatou Touray,009,Kala Darboe,Fakebba Touray,,,,JATTABA,Dumbuto,Ousman Kambi,EDN0511-G,1,1,2022-06-08
+04-012-064E,Binta Camara,011,Sunkary Dibba,Momodou Camara,,,,JATTABA,Dumbuto,Ousman Kambi,EDN0440-E,1,1,2022-04-25
+27-004-002M,Tida Jarra,024,Musukebba Kinteh,Ebrima Jarra,,,,JATTABA,Dumbuto,Ousman Kambi,EDN0439-J,1,1,2022-04-25
+04-027-002S,Hawa Touray,024,Arokey Drammeh,Kanti Touray,,,,JATTABA,Dumbuto,Ousman Kambi,EDN0435-E,1,1,2022-04-25
+04-012-023P,Fatou S. Camara,036,Sama Marong,Simbon Camara,,,,JATTABA,Dumbuto,Ousman Kambi,EDN0445-H,1,1,2022-04-25
+04-021-006C,Fatou Jarju,037,Fatou Touray,Manding Jarju,,,,JATTABA,Dumbuto,Ousman Kambi,EDN0400-B,1,1,2022-04-25
+04-035-007P,Malado Kanteh,049,Fatoumata Bah,Sununu Kanteh,,,,JATTABA,Dumbuto,Ousman Kambi,EDN0469-A,1,1,2022-04-26
+11-028-033D,Jankeh Mariama Samateh,051,Sireh Nanding Samateh,Jamanty Samateh,,,,JATTABA,Dumbuto,Ousman Kambi,EDN0466-G,1,1,2022-04-26
+05-041-007X,Fatou Kinteh,002,Binta Barrow,Sarjo Kinteh,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN0552-F,1,1,2022-06-09
+05-003-021X,Jainaba Barrow,003,Nmaa Njai,Demba Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN0557-E,1,1,2022-06-09
+05-006-014A,Jalika Barrow,006,Nyominding Njai,Jatta Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN0556-D,1,1,2022-06-09
+05-007-030C,Bintou Barrow,007,Adama Jobarteh,Demba Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN0585-D,1,1,2022-06-15
+26-007-016W,Adama Njai,008,Fatou Barrow,Landing Njai,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN0551-H,1,1,2022-06-09
+05-019-013Z,Manding Barrow,010,Jarra Njai,Jalamang Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN0555-J,1,1,2022-06-09
+05-012-023D,Mama Manka,012,Jai Barrow,Nambung Manka,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN0558-C,1,1,2022-06-09
+05-020-008G,Aminata Barrow,015,Sarjonding Bajo,Dodou Kutu Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN0561-J,1,1,2022-06-14
+05-017-006U,Aramata Barrow,020,Suntukung Kinteh,Lamin Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN1015-O,1,1,2023-01-05
+05-021-049H,Nyimansatou Colley,021,Moneh Sanneh,Baba Colley,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN0580-C,1,1,2022-06-15
+05-021-026K,Tomaring Sanneh,021,Nyima Sanneh,Duno Sanneh,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN0606-G,1,1,2022-06-15
+05-021-022G,Natoma Barrow,021,Manding Kinteh,Saikounding Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN0591-D,1,1,2022-06-15
+06-006-018S,Saffiatou Touray,025,Terema Sise,Molipha Touray,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN0575-G,1,1,2022-06-14
+11-020-071X,Hawa Njai,026,Fatou Barrow,Landing Njai,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN0560-F,1,1,2022-06-14
+05-076-003X,Kaddy Barrow,032,Mama Drammeh,Amadou Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN0567-B,1,1,2022-06-14
+06-023-001X,Nyimansatou Bajo,037,Musukebba Daffeh,Karafanding Bajo,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN0592-B,1,1,2022-06-15
+05-043-008W,Fatou Drammeh,047,Jarra Barrow,Suwaro Drammeh,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN0587-H,1,1,2022-06-15
+05-034-014Y,Haminata Njai,052,Natoma Barrow,Abdou Njai,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN0589-A,1,1,2022-06-15
+05-059-007F,Kaddijatou Sise,059,Aramata Sise,Fanding Sise,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN0584-E,1,1,2022-06-15
+05-060-001L,Jainaba Njai,060,Sanjiba Barrow,Saidy Njai,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN0553-A,1,1,2022-06-09
+05-023-008Q,Menata Barrow,064,Adama Kinteh,Junkung Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN1026-Z,1,1,2023-01-16
+05-065-040G,Mariama Barrow,065,Sunkary Njai,Babanding Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN0590-A,1,1,2022-06-15
+29-005-014M,Mama Sise,065,Natoma Sanyang,Masanneh Sise,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN0578-B,1,1,2022-06-15
+05-066-006K,Nakebba Drammeh,071,Banna Njai,Bunja Drammeh,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN0605-D,1,1,2022-06-15
+05-033-025X,Jainaba Taal,082,Sutering Kinteh,Demba Taal,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN0582-J,1,1,2022-06-15
+05-037-095L,Aja Touray,083,Isatou Darboe,Sadibou Touray,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN0609-A,1,1,2022-06-15
+05-013-014G,Yassin Njai,087,Mariama Barrow,Soli Njai,,,,JIFFARONG,Jiffarong,Lamin Jatta,EDN1017-G,1,1,2023-01-05
+06-015-012Q,Naa Chaku Bajo,004,Fatounding Sise,Momodou Bajo,,,,BAJANA,Jiffarong,Lamin Jatta,EDN0655-F,1,1,2022-06-27
+05-057-017R,Jainaba Barrow,008,Aminata Barrow,Alimameh Barrow,,,,BAJANA,Jiffarong,Lamin Jatta,EDN0616-F,1,1,2022-06-16
+05-030-052O,Mariama Njai,012,Jainaba Drammeh,Afang Munya Njai,,,,BAJANA,Jiffarong,Lamin Jatta,EDN0654-B,1,1,2022-06-27
+06-013-019Z,Saffiatou Bajo,014,Musukebba Kinteh,Karamo Bajo,,,,BAJANA,Jiffarong,Lamin Jatta,EDN0619-J,1,1,2022-06-16
+06-015-018W,Nyimanding Bajo,015,Sally Njai,Bunja Bajo,,,,BAJANA,Jiffarong,Lamin Jatta,EDN0612-C,1,1,2022-06-16
+06-015-039R,Fatou Njai,015,Jankey Kinteh,Tumbul Njai,,,,BAJANA,Jiffarong,Lamin Jatta,EDN0620-B,1,1,2022-06-16
+06-015-016U,Nadinding Touray,017,Fatou Bajo,Lamin Touray,,,,BAJANA,Jiffarong,Lamin Jatta,EDN0624-K,1,1,2022-06-16
+06-017-004G,Fatou Bajo,017,Sireh Colley,Bakary Bajo,,,,BAJANA,Jiffarong,Lamin Jatta,EDN0618-H,1,1,2022-06-16
+06-026-085N,Mariama Bajo,026,Penda Bajo,Karafanding Bajo,,,,BAJANA,Jiffarong,Lamin Jatta,EDN0652-K,1,1,2022-06-27
+06-026-007N,Bintou Colley,026,Aminata Barrow,Fansu Colley,,,,BAJANA,Jiffarong,Lamin Jatta,EDN0613-D,1,1,2022-06-16
+07-005-061L,Fatou Sanneh,005,Matty Sanyang,Lamin Sanneh,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,EDN0708-J,1,1,2022-06-28
+07-007-040O,Binta Bajo,007,Jarra Njai,Jaiteh Bajo,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,EDN0739-A,1,1,2022-07-04
+07-008-073H,Fatou Manneh,008,Meta Sise,Lamin Manneh,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,EDN0729-E,1,1,2022-06-29
+07-002-046M,Nyimansatou Njai,015,Tourending Njai,Jabang Masanneh Njai,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,EDN0722-G,1,1,2022-06-28
+06-001-001T,Nyimansatou Bajo,026,Fatou Bajo,Foday Bajo,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,EDN0662-E,1,1,2022-06-28
+07-039-002W,Fatou Njai,030,Kaddy Njai,Buwa Njai,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,EDN0713-J,1,1,2022-06-28
+07-031-018U,Hulay Sowe,031,Isatou Sowe,Mamadou Sowe,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,EDN0714-G,1,1,2022-06-28
+07-034-014A,Nyimansatou Jallow,034,Jatou Jallow,Mamadou Fajo Jallow,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,EDN0706-K,1,1,2022-06-28
+07-008-012Y,Masireh Njai,035,Alimatou Samateh,Basiru Njai,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,EDN0704-C,1,1,2022-06-28
+06-030-012O,Mariama Sise,038,Sirreh Bajo,Babanding Sise,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,EDN0707-F,1,1,2022-06-28
+30-019-014M,Kaddy Sise,049,Mama Sanneh Manneh,Baba Sise,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,EDN0718-A,1,1,2022-06-28
+07-023-029N,Kaddy Njai,054,Isatou Sise,Sulayman Njai,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,EDN0727-B,1,1,2022-06-29
+07-006-031T,Sonna Njai,056,Banna Njai,Foday Njai,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,EDN0732-J,1,1,2022-07-04
+07-056-007X,Oulimatou Sarr,056,Fadi Secka,Ousman Sarr,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,EDN0734-E,1,1,2022-07-04
+07-033-037L,Sirra Jallow,057,Jarra Camara,Jang Korrka Jallow,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,EDN0735-D,1,1,2022-07-04
+08-003-005X,Kaddijatou Njai,003,Boma Njai,Masanneh Njai,,,,JAMARU,Jiffarong,Lamin Jatta,EDN0742-E,1,1,2022-07-05
+08-007-016E,Mariama Manga,007,Kaddy Sambou,manding Manga,,,,JAMARU,Jiffarong,Lamin Jatta,EDN0745-G,1,1,2022-07-05
+13-001-013Z,Jaciatou Sanyang,007,Sarjonding Darboe,Alhagie Burama Sanyang,,,,JAMARU,Jiffarong,Lamin Jatta,EDN0733-B,1,1,2022-07-05
+07-005-003F,Fatou Njai,008,Fatou Njai,Jerreh Njai,,,,JAMARU,Jiffarong,Lamin Jatta,EDN0744-D,1,1,2022-07-05
+08-001-049R,Jainaba Njai,013,Nyimansatou Njai,Yaya Njai,,,,JAMARU,Jiffarong,Lamin Jatta,EDN0743-F,1,1,2022-07-05
+09-002-067J,Tuti Gomez,013,Zenith Gomez,Paul Gomez,,,,BRIKAMANDING,Jiffarong,Lamin Jatta,EDN0748-B,1,1,2022-07-05
+09-018-001F,Zikiline Mendy,018,Pauleta Lopez,France Wa Mendy,,,,BRIKAMANDING,Jiffarong,Lamin Jatta,EDN0749-H,1,1,2022-07-05
+10-005-030W,Bintou Manka,001,Binta Sise,Suntukung Manka,,,,KANTONG KUNDA,Kuli Kunda, Tumbulu Drammeh,EDN1030-E,1,1,2023-01-11
+10-004-114Q,Isatou Sorra,004,Natoma Cham,Konyagi Fabakary Sorra,,,,KANTONG KUNDA,Kuli Kunda, Tumbulu Drammeh,EDN0762-B,1,1,2022-07-06
+10-008-025B,Mariama Sise,023,Mbassy Sise,Yaya Sise,,,,KANTONG KUNDA,Kuli Kunda, Tumbulu Drammeh,EDN0752-A,1,1,2022-07-06
+11-007-024C,Mba Siray Dibba,001,Ida Daffeh,Baba Dibba,,,,JALI,Kuli Kunda, Tumbulu Drammeh,EDN0794-A,1,1,2022-07-13
+11-052-008G,Musukebba Drammeh,003,Faye Drammeh,Kebba Drammeh,,,,JALI,Kuli Kunda, Tumbulu Drammeh,EDN0805-C,1,1,2022-07-14
+11-041-003Z,Fatoumata Dibba,003,Mama Samateh,Sambujang Dibba,,,,JALI,Kuli Kunda, Tumbulu Drammeh,EDN0822-A,1,1,2022-07-14
+10-009-015D,Majeh Sise,006,Funtu Sise,Njundu Sise,,,,JALI,Kuli Kunda, Tumbulu Drammeh,EDN0791-B,1,1,2022-07-13
+11-003-041X,Kaddijatou Samateh,021,Mai Drammeh,Sambou Samateh,,,,JALI,Kuli Kunda, Tumbulu Drammeh,EDN0804-H,1,1,2022-07-13
+08-006-004G,Sainabou Touray,024,Isatou Jah,Ebrima Touray,,,,JALI,Kuli Kunda, Tumbulu Drammeh,EDN0795-E,1,1,2022-07-13
+11-026-049V,Jainaba Kanteh,026,Jonfolo Barrow,Bakary Kanteh,,,,JALI,Kuli Kunda, Tumbulu Drammeh,EDN0817-J,1,1,2022-07-14
+10-006-049B,Fatoumata Touray,028,Hajaratou Sise,Momodou Touray,,,,JALI,Kuli Kunda, Tumbulu Drammeh,EDN0818-G,1,1,2022-07-14
+11-029-112Q,Ndey Sise,029,Korika Bah,Samba Sise,,,,JALI,Kuli Kunda, Tumbulu Drammeh,EDN0823-G,1,1,2022-07-14
+11-038-006S,Jainaba Samateh,034,Suwadu Drammeh,Bunja Samateh,,,,JALI,Kuli Kunda, Tumbulu Drammeh,EDN0806-A,1,1,2022-07-14
+11-034-071J,Mariama Jatta,034,Jainaba Camara,Omar Jatta,,,,JALI,Kuli Kunda, Tumbulu Drammeh,EDN0813-C,1,1,2022-07-14
+11-042-015X,Wonto Drammeh,041,Terema Samateh,Jaiteh Drammeh,,,,JALI,Kuli Kunda, Tumbulu Drammeh,EDN0793-D,1,1,2022-07-13
+05-053-012Q,Haminata Taal,043,Mama Barrow,Senajo Taal,,,,JALI,Kuli Kunda, Tumbulu Drammeh,EDN0610-G,1,1,2022-06-15
+11-045-008A,Yai Samateh,045,Jainaba Drammeh,Buramanding Samateh,,,,JALI,Kuli Kunda, Tumbulu Drammeh,EDN0819-D,1,1,2022-07-14
+11-047-019J,Kaddy Jeng,047,Nato Marong,Babucarr Jeng,,,,JALI,Kuli Kunda, Tumbulu Drammeh,EDN0811-A,1,1,2022-07-14
+11-020-061N,Nakebba Drammeh,062,Saribanding Samateh,Afang Lamin Drammeh,,,,JALI,Kuli Kunda, Tumbulu Drammeh,EDN0856-F,1,1,2022-07-18
+11-013-087H,Fatou Sowe,066,Amie Sowe,Sarjo Sowe,,,,JALI,Kuli Kunda, Tumbulu Drammeh,EDN0815-F,1,1,2022-07-14
+29-017-017D,Isatou Kanteh,001,Halimatou Jallow,Sailou Kanteh,,,,MANDUAR,Manduar, Abdoulie Jallow,EDN1087-L,1,1,2023-01-12
+13-012-171D,Aminata Saidy,006,Isatou Jaiteh,Kebba Saidy,,,,MANDUAR,Manduar, Abdoulie Jallow,EDN0873-B,1,1,2022-07-20
+18-008-011V,Ndey Bah,006,Kamaranding Camara,Saraba Bah,,,,MANDUAR,Manduar, Abdoulie Jallow,EDN0885-G,1,1,2022-07-20
+13-001-026M,Kaddy Sanyang,009,Kaddy Fabureh,Sanna Sanyang,,,,MANDUAR,Manduar, Abdoulie Jallow,EDN0893-J,1,1,2022-07-21
+27-006-018A,Alima Janneh,010,Neneh Susso,Karamo Janneh,,,,MANDUAR,Manduar, Abdoulie Jallow,EDN1070-T,1,1,2023-01-12
+13-012-062Y,Fatou Darboe,015,Nyimanding Sanyang,Sarjo Darboe,,,,MANDUAR,Manduar, Abdoulie Jallow,EDN0875-D,1,1,2022-07-20
+13-012-008W,Jainaba Darboe,015,Jalika Sanyang,Yafilly Darboe,,,,MANDUAR,Manduar, Abdoulie Jallow,EDN0891-E,1,1,2022-07-21
+13-037-009L,Kaddy Sanyang,037,Fatoumata Darboe,Yaya Sanyang,,,,MANDUAR,Manduar, Abdoulie Jallow,EDN0872-J,1,1,2022-07-20
+14-001-038M,Mariama Sanyang,001,Jainaba Badjie,Sulayman Sanyang,,,,BANG KULING,Manduar, Abdoulie Jallow,EDN0769-C,1,1,2022-09-06
+15-004-058E,Mariama Bojang,004,Amie Badjie,Momodou Bayo Bojang,,,,GISSAY,Manduar, Abdoulie Jallow,EDN0925-K,1,1,2022-07-25
+01-014-009J,Fatou Bah,006,Oumie Jawo,Abdou Bah,,,,GISSAY,Manduar, Abdoulie Jallow,EDN0922-B,1,1,2022-07-25
+15-008-004Y,Ndey Sonko,008,Sophie Sanyang,Kawsu Sonko,,,,GISSAY,Manduar, Abdoulie Jallow,EDN0923-H,1,1,2022-07-25
+15-010-003V,Kaddy Jallow,010,Fatou Jallow,Ebrima Jallow,,,,GISSAY,Manduar, Abdoulie Jallow,EDN0921-D,1,1,2022-07-25
+16-015-005T,Binta F. Drammeh,015,Fatou Njai,Buwa Drammeh,,,,TANKULAR,Manduar, Abdoulie Jallow,EDN0851-B,1,1,2022-07-21
+16-030-005R,Binta Sise,018,Tumbulu Drammeh,Balla Sise,,,,TANKULAR,Manduar, Abdoulie Jallow,EDN0964-B,1,1,2022-09-07
+07-038-007P,Nurse Njai,019,Fatoumata Njai,Momodou Njai,,,,TANKULAR,Manduar, Abdoulie Jallow,EDN0895-B,1,1,2022-07-25
+16-027-017T,Mariama Manjang,027,Fatou Sise,Sambou Manjang,,,,TANKULAR,Manduar, Abdoulie Jallow,EDN0848-E,1,1,2022-07-21
+16-030-044E,Nyima Njai,030,Mama Janneh,Yaya Njai,,,,TANKULAR,Manduar, Abdoulie Jallow,EDN0863-E,1,1,2022-07-21
+16-030-024K,Tida Taal,030,Musukebba Barrow,Sambou Taal,,,,TANKULAR,Manduar, Abdoulie Jallow,EDN0854-A,1,1,2022-07-21
+16-031-047T,Mama Sise,031,Fatou Fatty,Baluta Sise,,,,TANKULAR,Manduar, Abdoulie Jallow,EDN0864-C,1,1,2022-07-21
+16-032-004O,Fatou Njai Janneh,032,Kafeley Sise,Saikouba Janneh,,,,TANKULAR,Manduar, Abdoulie Jallow,EDN0867-F,1,1,2022-07-21
+16-001-030G,Fatou Sise,049,Kaddy Janneh,Fabakary Sise,,,,TANKULAR,Manduar, Abdoulie Jallow,EDN0862-H,1,1,2022-07-21
+17-001-033X,Kaddy Marri,001,Fatoumata Marri,Bekai Marri,,,,JOLI,Kemoto,Amadou Jatta,EDN0627-E,1,1,2022-06-27
+17-001-060Y,Isatou Camara,005,Mariama Marri,Seedy Camara,,,,JOLI,Kemoto,Amadou Jatta,EDN0632-D,1,1,2022-06-27
+17-008-011H,Jainaba Marri,005,Fatoumata Camara,Luntang Marri,,,,JOLI,Kemoto,Amadou Jatta,EDN0628-C,1,1,2022-06-27
+17-009-016Y,Nyimanding Drammeh,009,Safura Manneh,Fa-Alimame Drammeh,,,,JOLI,Kemoto,Amadou Jatta,EDN0630-K,1,1,2022-06-27
+17-013-007L,Musukebba Camara,013,Sutering Manneh,Lamin Camara,,,,JOLI,Kemoto,Amadou Jatta,EDN0601-F,1,1,2022-06-27
+17-017-008I,Tida Jobarteh,017,Jainaba Jobarteh,Sulayman Jobarteh,3199753,,,JOLI,Kemoto,Amadou Jatta,EDN0629-G,1,1,2022-06-27
+29-004-011X,Jarriatou Sise,023,Mama Sise,Malang Sise,,,,JOLI,Kemoto,Amadou Jatta,EDN0657-J,1,1,2022-06-28
+17-002-038O,Isatou Kuyateh,025,Alimatou Camara,Bakary Kuyateh,,,,JOLI,Kemoto,Amadou Jatta,EDN0658-G,1,1,2022-06-28
+17-001-056U,Fatou Camara,026,Kaddy Sanyang,Omar Camara,,,,JOLI,Kemoto,Amadou Jatta,EDN0597-G,1,1,2022-06-27
+23-022-027P,Marang Camara,003,Jalika Sanyang,Matarr Camara,,,,KUYANG,Karantaba,Demba Jallow,EDN0896-H,1,1,2022-07-26
+18-004-007V,Binta Samateh,020,Mariatou Janneh ,Filial Samateh,3159960,,,KARANTABA,Karantaba,Demba Jallow,EDN0604-E,1,1,2022-07-04
+18-004-007V,Binta Samateh,020,Mariatou Janneh,Fllijay Samateh,,,,KARANTABA,Karantaba,Demba Jallow,EDN0604-E,1,1,2022-07-04
+21-001-028W,Isatou Jawo,001,Binta Marri,Jerreh Jawo,,,,MISSIRA,Karantaba,Demba Jallow,EDN0838-C,1,1,2022-07-19
+23-001-167H,Binta Sawaneh,001,Nyara Kassama,Ousman Sawaneh,,,,BURONG,Karantaba,Demba Jallow,EDN0831-H,1,1,2022-07-18
+23-001-085D,Jamie Colley,001,Fatou Jadama,Yaya Colley,,,,BURONG,Karantaba,Demba Jallow,EDN0836-D,1,1,2022-07-18
+22-008-006U,Hawa Jadama,006,Nyimanding Sanyang,Alfusaine Jadama,,,,BURONG,Karantaba,Demba Jallow,EDN0835-J,1,1,2022-07-18
+23-006-002G,Isatou Sise,006,Fatou Darboe,Fakebba Sise,,,,BURONG,Karantaba,Demba Jallow,EDN0834-K,1,1,2022-07-18
+23-012-143L,Mariama Sise,012,Fatou Jammeh,Buya Sise,,,,BURONG,Karantaba,Demba Jallow,EDN1489-N,1,1,1999-02-15
+24-008-017H,Lisa Darboe,012,Tombong Colley,Sanuwa Darboe,,,,BURONG,Karantaba,Demba Jallow,EDN0832-F,1,1,2022-07-18
+17-011-013T,Salimata Drammeh,013,Kaddy Camara,Sulayman Drammeh,,,,BURONG,Karantaba,Demba Jallow,EDN0833-A,1,1,2022-07-18
+23-013-036U,Binta Jallow,013,Mariama Korika Bah,Musa Jallow,,,,BURONG,Karantaba,Demba Jallow,EDN0829-K,1,1,2022-07-18
+23-017-030K,Nyimanding Jadama,017,Majula Colley,Abdoulie Jadama,,,,BURONG,Karantaba,Demba Jallow,EDN1035-G,1,1,2023-01-11
+23-001-166G,Fatou O. Sise,027,Nurse Sise,Omar Sise,,,,BURONG,Karantaba,Demba Jallow,EDN0847-G,1,1,2022-07-20
+24-008-032W,Nyimanding Sanyang,008,Sarjo Darboe,Kambakary,,,,JULA KUNDA,Karantaba,Demba Jallow,EDN0827-D,1,1,2022-07-18
+24-010-035X,Nadinding Darboe,010,Mariatou Gibba,Momodou Darboe,,,,JULA KUNDA,Karantaba,Demba Jallow,EDN0845-K,1,1,2022-07-20
+24-024-004E,Fatou Daffeh,011,Kaddy Darboe,Kemo Daffeh,,,,JULA KUNDA,Karantaba,Demba Jallow,EDN0828-F,1,1,2022-07-18
+24-021-042G,Mai Darboe,021,Kaddy Jarju,Kebba Ansu Darboe,,,,JULA KUNDA,Karantaba,Demba Jallow,EDN0826-B,1,1,2022-07-18
+24-025-013Z,Jainaba Daffeh,022,Hawa Marri,Buba Daffeh,,,,JULA KUNDA,Karantaba,Demba Jallow,EDN1039-N,1,1,2023-01-11
+24-025-027N,Musukebba Darboe,025,Nyori Jadama,Demba Darboe,,,,JULA KUNDA,Karantaba,Demba Jallow,EDN0825-H,1,1,2022-07-18
+25-011-225F,Oumie Kambi,006,Jainaba Kanyi,Yaya Kambi,,,,KARANTABA,Karantaba,Demba Jallow,EDN1064-N,1,1,2022-12-29
+27-036-022A,Isatou Samateh,007,Isatou Manjang,Momodou Samateh,,,,KARANTABA,Karantaba,Demba Jallow,EDN0965-F,1,1,2022-08-24
+25-007-084Y,Fatoumata Bajinka,007,Tida Janneh,Nfamara Bajinka,,,,KARANTABA,Karantaba,Demba Jallow,EDN0695-A,1,1,2022-07-12
+25-006-196U,Nyimanding Fatty,008,Mariama Samateh,Borry Fatty,,,,KARANTABA,Karantaba,Demba Jallow,EDN0961-A,1,1,2022-08-24
+26-008-016I,Fatou Marri,008,Fatou Jawo,Mamadou Marri,,,,KARANTABA,Karantaba,Demba Jallow,EDN0698-J,1,1,2022-07-12
+25-008-051D,Kaddy Jarjou,008,Nyimanding Marri,Fakebba Jarju,,,,KARANTABA,Karantaba,Demba Jallow,EDN0972-F,1,1,2022-08-25
+25-007-021N,Nyimanding Sise,008,Jalla Janneh,Ebrima Sise,,,,KARANTABA,Karantaba,Demba Jallow,EDN1071-U,1,1,2022-12-29
+28-014-018G,Naffie Manjang,010,Musukuta Touray,Afang Lamin Manjang,,,,KARANTABA,Karantaba,Demba Jallow,EDN0692-H,1,1,2022-07-12
+25-014-006E,Oumie Kambi,011,Nyimansatou Sise,Kebba Kambi,,,,KARANTABA,Karantaba,Demba Jallow,EDN0691-G,1,1,2022-07-12
+25-011-207N,Fatou Kambi,011,Fatou Kambi,Lamin Kambi,,,,KARANTABA,Karantaba,Demba Jallow,EDN0767-G,1,1,2022-07-13
+25-011-045H,Binta Jarju,011,Adama Marri,Dembo K. Jarju,,,,KARANTABA,Karantaba,Demba Jallow,EDN0694-C,1,1,2022-07-12
+25-011-031T,Musukuta Marong,011,Mama Jarju,Alh. Ansumana Marong,,,,KARANTABA,Karantaba,Demba Jallow,EDN0971-H,1,1,2022-08-24
+25-011-011Z,Matty Kambi,011,Fatou Camara,Sulayman Kambi,,,,KARANTABA,Karantaba,Demba Jallow,EDN1068-R,1,1,2022-12-29
+25-012-305T,Oumie Camara,012,Maimuna Minteh,Sambujang Camara,,,,KARANTABA,Karantaba,Demba Jallow,EDN0693-E,1,1,2022-07-12
+25-012-228U,Aja Minteh,012,Bintou Conteh,Sadibou Minteh,,,,KARANTABA,Karantaba,Demba Jallow,EDN0976-D,1,1,2022-08-25
+25-012-219L,Fatoumata Jaiteh,012,Mama Conteh,Bubacarr Jaiteh,,,,KARANTABA,Karantaba,Demba Jallow,EDN0973-A,1,1,2022-08-25
+25-012-053B,Wuday Conteh,012,Hawa Minteh,Lallo Conteh,,,,KARANTABA,Karantaba,Demba Jallow,EDN0974-K,1,1,2022-08-25
+25-011-293V,Jainaba Kambi,012,Babung Nyimanding Jammeh,Dembo Kambi,,,,KARANTABA,Karantaba,Demba Jallow,EDN1067-G,1,1,2022-12-29
+25-010-041R,Kaddijatou Fofana,012,Fulo Kambi,Jerro Fofana Kanyi,,,,KARANTABA,Karantaba,Demba Jallow,EDN1059-I,1,1,2022-12-28
+11-003-039V,Mariama Samateh,020,Mai Drammeh,Sambou Samateh,,,,KARANTABA,Karantaba,Demba Jallow,EDN1072-V,1,1,2022-12-29
+25-008-009N,Fatou Jarju,020,Nyimanding Kanyi,Dembo Jarju,,,,KARANTABA,Karantaba,Demba Jallow,EDN0975-J,1,1,2022-08-25
+25-006-005L,Fatou Kambi,020,Awa Kambi,Dembo Kambi,,,,KARANTABA,Karantaba,Demba Jallow,EDN0966-E,1,1,2022-08-24
+09-005-017V,Mariama Barrow,030,Matida Fofana,Karamo Barrow,3256064,,,KARANTABA,Karantaba,Demba Jallow,EDN1060-G,1,1,2022-12-29
+24-025-019F,Kaddy Daffeh,001,Fatou Mama Darboe,Buba Daffeh,,,,MANDINA,Karantaba,Demba Jallow,EDN0768-E,1,1,2022-07-14
+26-001-028O,Mai Gibba,001,Natoma Marri,Omar Gibba,,,,MANDINA,Karantaba,Demba Jallow,EDN0770-H,1,1,2022-07-14
+24-009-004G,Mariama Daffeh,007,Fatounding Gibba,All Kawsu Daffeh,3663669,,,MANDINA,Karantaba,Demba Jallow,EDN0780-B,1,1,2022-07-14
+24-009-004G,Mariama Daffeh,014,Fatounding Gibba,Alhagie Kawsu Daffeh,,,,MANDINA,Karantaba,Demba Jallow,EDN0780-B,1,1,2022-07-14
+26-008-012E,Bakoto Jawo,008,Kaddy Demba,Momodou Jawo,,,,MANDINA,Karantaba,Demba Jallow,EDN0771-A,1,1,2022-07-14
+27-042-016O,Mariatou Kanteh,009,Lalla Bajinka,Firiya Kanteh,,,,MANDINA,Karantaba,Demba Jallow,EDN0772-K,1,1,2022-07-14
+27-005-009F,Mariama Kanteh,010,Jonfolo Janneh,Nfamara Mondo Kanteh,,,,MANDINA,Karantaba,Demba Jallow,EDN0773-C,1,1,2022-07-14
+27-032-086Q,Nyimanding Janneh,003,Lalia Manjang,Momodou Janneh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0689-C,1,1,2022-07-06
+27-024-020K,Mai Demba,004,Fatou Bojang,Jali Mamudou Demba,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0684-F,1,1,2022-07-06
+27-004-010U,Sarita Janneh,004,Sutering Manjang,Masanneh Janneh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0686-J,1,1,2022-07-06
+27-032-002K,Jainaba Janneh,005,Alima Janneh,Sulayman Janneh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0642-G,1,1,2022-07-05
+27-018-003Z,Kaddy Janneh,008,Nyimanding Darboe,Momodou Janneh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0647-B,1,1,2022-07-05
+27-005-020Q,Mariatou Kanteh,009,Jonfolo Janneh,Nfamara Mondo Kanteh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0645-C,1,1,2022-07-05
+28-021-005Z,Fatou Keita,009,Yamundaw Jobarteh,Jabbi Keita,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN1055-E,1,1,2022-12-28
+27-015-030Q,Isatou Bajinka,009,Isatou Janneh,Ansumana Bajinka,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0679-K,1,1,2022-07-05
+27-011-004U,Kaddy Jobarteh,011,Mama Marong,Jerreh Jobarteh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN1054-D,1,1,2022-12-28
+27-021-013T,Aminata Bajinka,011,Free Janneh,Mbemba Bajinka,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0641-J,1,1,2022-07-04
+27-015-046G,Habie Kinteh,015,Naffie Sanyang,Afang Boto Kinteh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0650-H,1,1,2022-07-04
+27-017-009T,Kaddy Janneh,017,Mariatou Manjang,Nyakass Janneh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0681-D,1,1,2022-07-05
+27-042-020S,Jarra Kanteh,018,Lalla Bajinka,Firiya Kanteh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0687-G,1,1,2022-07-06
+27-019-002K,Kaddy Manjang,019,Mamanding Janneh,Lamin Manjang,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0646-A,1,1,2022-07-05
+27-034-030K,Bintou Kanteh,019,Isatou Janneh,Alhagie Kanteh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0683-H,1,1,2022-07-06
+27-020-020O,Isatou Gaye,020,Maram Colley,Demba Gaye,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0635-B,1,1,2022-07-04
+25-002-013X,Nyimansatou Jarju,024,Kaddy Sise,Alieu Jarju,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0602-J,1,1,2022-07-04
+27-024-003T,Isatou Demba,024,Mama Janneh,Malang Demba,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0674-J,1,1,2022-07-04
+27-044-003Z,Aminata Kanteh,028,Yandeh Janneh,Feria Kanteh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0676-B,1,1,2022-07-04
+27-008-004K,Binta Kanteh,031,Lalla Bajinka,Firiya Kanteh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0677-D,1,1,2022-07-06
+27-035-011D,Nyimanding Janneh,032,Jainaba Janneh,Mustapha Janneh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0690-D,1,1,2022-07-06
+27-032-035R,Jainaba Marong,032,Mama Kadi Kambi,Kebba Lang Marong,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0649-E,1,1,2022-07-05
+26-001-063X,Fansainey Bajinka,032,Binta Chaku Gibba,Mafoday Bajinka,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0639-F,1,1,2022-07-05
+27-036-014S,Jainaba Jobarteh,036,Mariama Manjang,Omar Jobarteh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN1056-F,1,1,2022-12-28
+29-078-009Z,Wuday Sise,037,Mama Bajo,Suntu Sise,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN1057-G,1,1,2022-12-28
+27-032-046C,Fatou Janneh,039,Kaddy Sise,Bakary Janneh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0688-E,1,1,2022-07-06
+13-045-031Z,Jariatou Janneh,043,Nanding Manjang,Sanna Janneh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0636-H,1,1,2022-07-04
+27-043-001L,Jainaba Manjang,043,Jainaba Janneh,Nyakassi Manjang,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0678-F,1,1,2022-07-04
+27-005-006C,Sutering Kanteh,044,Jonfolo Janneh,Nfamara Mondo Kanteh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0637-C,1,1,2022-07-04
+27-005-021R,Sunkary Manjang,045,Musukoi Janneh,Araba Manjang,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,EDN0685-K,1,1,2022-07-06
+28-002-003D,Hawa Fatou Jawo,013,Mai Janneh,Samba Jawo,,,,KEMOTO,Kemoto,Amadou Jatta,EDN0667-A,1,1,2022-06-29
+28-014-021J,Jankani Janneh,014,Aret Touray,Bakary Janneh,,,,KEMOTO,Kemoto,Amadou Jatta,EDN0672-A,1,1,2022-06-29
+28-014-029R,Arabiatou Janneh,014,Natoma Sise,Sarjonding Janneh,,,,KEMOTO,Kemoto,Amadou Jatta,EDN0663-F,1,1,2022-06-28
+28-017-005D,Hawa Jarju,015,Nyimanding Kambi,Bakary Jarju,,,,KEMOTO,Kemoto,Amadou Jatta,EDN0664-D,1,1,2022-06-29
+28-021-006A,Yamundaw Jobarteh,021,Muta Janneh,Alhagie Ine Jobarteh,,,,KEMOTO,Kemoto,Amadou Jatta,EDN1052-B,1,1,2022-12-28
+27-006-044A,Binta Manjang,023,Boto Njai,Karamo Manjang,3217514,,,KEMOTO,Kemoto,Amadou Jatta,EDN0669-H,1,1,2022-06-29
+28-028-008I,Fatou Kanteh,028,Adama Gibba,Masaneh Kanteh,,,,KEMOTO,Kemoto,Amadou Jatta,EDN1053-C,1,1,2023-01-11
+28-015-009J,Nyimanding Demba,030,Tida Janneh,Bakary Demba,,,,KEMOTO,Kemoto,Amadou Jatta,EDN0670-E,1,1,2022-06-29
+28-037-007L,Kaddy Janneh,037,Mabinta Majang,Jerreh Janneh,,,,KEMOTO,Kemoto,Amadou Jatta,EDN0671-C,1,1,2022-06-29
+28-009-004K,Kaddy Jobe,043,Fansaine Janneh,Dawda Jobe,,,,KEMOTO,Kemoto,Amadou Jatta,EDN0659-D,1,1,2022-06-28
+28-031-012W,Binta Kinteh,046,Mai Sanyang,Kabiru Kinteh,,,,KEMOTO,Kemoto,Amadou Jatta,EDN0661-K,1,1,2022-06-28
+28-003-020G,Ida Jarjou,047,Mama Minteh,Lamin Jarjou,,,,KEMOTO,Kemoto,Amadou Jatta,EDN0665-G,1,1,2022-06-29
+29-025-039R,Bintou Sise,025,Saribanding Bajo,Bekai Manifa Sise,,,,KENEBA,keneba,Lamin LK Jawla,EDN0947-C,1,1,2022-08-02
+29-032-030O,Mariama Sise,032,Jariatou Sise,Yaya Sise,,,,KENEBA,keneba,Lamin LK Jawla,EDN0957-A,1,1,2022-08-04
+29-033-011H,Nyima Minteh,033,Kaddy Buteh Sise,Momodou Minteh,,,,KENEBA,keneba,Lamin LK Jawla,EDN0926-J,1,1,2022-08-01
+29-035-015J,Sarita Sise,035,Bajo Sise,Sunkary Sise,,,,KENEBA,keneba,Lamin LK Jawla,EDN0933-K,1,1,2022-08-01
+10-005-009B,Nyimansatou Sise,046,Fatoumata Sise,Lamin Sise,,,,KENEBA,keneba,Lamin LK Jawla,EDN0928-E,1,1,2022-08-01
+29-048-004Y,Mariama Sise,048,Kaddy Minteh,Mamadou Sise,,,,KENEBA,keneba,Lamin LK Jawla,EDN0953-F,1,1,2022-08-03
+29-110-008S,Isatou Sise,110,Natoma Njai,Lamin Sise,,,,KENEBA,keneba,Lamin LK Jawla,EDN0906-F,1,1,2022-08-01
+29-001-027D,Tida Manneh,146,Tumbulu Samateh,Sheriff Manneh,,,,KENEBA,keneba,Lamin LK Jawla,EDN0902-C,1,1,2022-08-01
+31-004-007V,Isatou Njai,004,Famatanding Sanneh,Masireh Njai,,,,SANDENG,Niorro Jattaba,Modou Bah,EDN0482-D,1,1,2022-04-27
+04-001-016G,Kaddy Sanneh,007,Mbaka Marong,Demba Sanneh,,,,SANDENG,Niorro Jattaba,Modou Bah,EDN0477-F,1,1,2022-04-27
+04-009-075F,Fatou Njai,007,Sutaring Marong,Massi Njai,,,,SANDENG,Niorro Jattaba,Modou Bah,EDN0478-J,1,1,2022-04-27
+04-009-076G,Mariama Touray,010,Kaddy Kuta Darboe,Edally Touray,,,,SANDENG,Niorro Jattaba,Modou Bah,EDN0480-K,1,1,2022-04-27
+31-001-025D,Kaddijatou Saidy,013,Satounding Darboe,Harri Kebba Saidy,,,,SANDENG,Niorro Jattaba,Modou Bah,EDN0488-A,1,1,2022-04-27
+31-013-015H,Nyako Manjang,013,Luntang Sanneh,Sheriffo Manjang,,,,SANDENG,Niorro Jattaba,Modou Bah,EDN0485-B,1,1,2022-04-27
+31-001-047Z,Fatoumata Saidy,014,Fatou Darboe,Lamin Saidy,,,,SANDENG,Niorro Jattaba,Modou Bah,EDN0487-C,1,1,2022-04-27
+31-015-002S,Isatou Jobe,015,Terema Njai,Bunja Jobe,,,,SANDENG,Niorro Jattaba,Modou Bah,EDN0479-B,1,1,2022-04-27
+31-013-008A,Halimatou Jobe,018,Terema Njai,Bunjaring Jobe,,,,SANDENG,Niorro Jattaba,Modou Bah,EDN0483-J,1,1,2022-04-27
+11-003-088S,Mariama Sise,014,Mari Jallow,Kebba Sise,,,,WUDEBA,Dumbuto,Ousman Kambi,EDN0329-J,1,1,2022-04-12
+03-059-039J,Tabara Jobe,027,Nderu Bah,Sainey Jobe,,,,WUDEBA,Dumbuto,Ousman Kambi,EDN0394-D,1,1,2022-04-25
+40-008-02,Binta Sidibeh,008,Isatou kanteh,Sabou Sidibeh,7280673,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,EDN1023-W,1,1,2023-01-11
+40-016-04,Nyimansatou Jammeh,016,Binta Sanneh,Lamin Jammeh,5301927,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,EDN0518-J,1,1,2022-06-01
+40-022-02,Fatou Camara,022,Fatou Camara,Masaneh Camara,,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,EDN1024-X,1,1,2023-01-11
+40-033-02,Sarjo Darboe,033,Fatoumata Demba,Alieu Darboe,3547911,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,EDN0147-H,1,1,2022-02-14
+40-034-08,Kaddy  Sanyang,034,Isatou darboe,ALHAGIE momodou sanyang,3578180,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,EDN0028-G,1,1,2022-02-01
+40-037-02,fatou darboe,037,Fatou jarjue,bakary darboe,2718283,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,EDN0137-G,1,1,2022-02-14
+40-039-01,Hawa Sanneh,039,Mariama Demba,Sulayman Sanneh,2795931,3436886,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,EDN0138-E,1,1,2022-02-14
+41-010-01,Habisa Manneh,010,Fatoumatta Keita,Buna Manneh,5934132,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai,EDN0021-A,1,1,2022-02-01
+41-013-03,Adama Saidy sowe,013,sira kebbeh,Ebrima Saidy sowe,3439442,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai,EDN1012-L,1,1,2023-01-03
+41-017-01,Binta sanyang,017,sarata darboe,kebba sanyang,3312596,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai,EDN0018-C,1,1,2022-02-01
+41-028-04,Nyima Sanneh,028,Matindingo Sanyang,Landing Sanyang,3268281,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai,EDN1013-M,1,1,2023-01-03
+41-035-02,Kaddy Manneh,035,Musukebba Darboe,Mamadou Manneh,5959475,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai,EDN0017-E,1,1,2022-02-01
+42-015-01,FANSAINEY CEESAY,015,MBENKINDING SAMATEH,MASANNEH CEESAY,2190475,2166235,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,EDN0534-B,1,1,2022-06-16
+42-028-01,Isatou sarr,028,Binta marong,lang sarr,2740112,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,EDN0066-H,1,1,2022-02-07
+42-032-01,Fatou Darboe,032,Natoma kanteh,Bakary Darboe,7480516,5074917,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,EDN1004-D,1,1,2022-12-29
+42-043-01,FATOU DARBOE,043,SAFFIATOU KEITA,BAKARY DARBOE,7778467,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,EDN0023-C,1,1,2022-02-03
+42-044-01,NYIMA DIBBA,044,MAMA KOLLEY,MOMODOU DIBBA,7467022,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,EDN0025-F,1,1,2022-02-03
+42-071-02,Isatou Jarjue,071,Mariama Ceesay,Alanso Jarjue,3960097,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,EDN0034-D,1,1,2022-02-01
+42-079-01,Natoma Drammeh,079,Nanding Njie,Manding Drammeh,3551990,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,EDN0031-K,1,1,2022-02-01
+43-020-01,Nyimasata colley,020,Amie kutu njie,lang colley,5342294,,,TENDABA,Kwinella Sansankono,Modou Lamin Njai,EDN0063-J,1,1,2022-02-03
+43-022-01,adama bangura,022,maimuna keita,bailo banguraa,3570711,,,TENDABA,Kwinella Sansankono,Modou Lamin Njai,EDN0104-B,1,1,2022-02-08
+43-026-01,OUMIE JAMMEH,026,KUTANDING SANYANG,KONKO JAMMEH,3288807,,,TENDABA,Kwinella Sansankono,Modou Lamin Njai,EDN0053-B,1,1,2022-02-03
+44-004-02,sarjo  demba,004,mattinding yarboe,alhagie  demba,5808694,,,BUMARR,Kwinella Sansankono,Modou Lamin Njai,EDN0111-K,1,1,2022-02-10
+44-014-01,nyima Demba,014,lunta sanneh,Lamin Demba,7650439,,,BUMARR,Kwinella Sansankono,Modou Lamin Njai,EDN0101-A,1,1,2022-02-08
+45-014-02,Nyima sanyang,014,Jai manjang,Managing sanyang,2416442,,,BAMBAKO,Nema, Lamin Njai,EDN0079-E,1,1,2022-02-08
+45-016-01,Fatou drammeh,016,nyimasatou jarra,Sanna drammeh,5043607,,,BAMBAKO,Nema, Lamin Njai,EDN0078-D,1,1,2022-02-08
+47-001-01,Fatoumata korta,001,Aminata Fadera,Abdou korta,7192125,,,NEMA,Nema, Lamin Njai,EDN0192-G,1,1,2022-02-09
+47-006-02,Isatou Bah,006,Hawa Bah,Adama Bah,7045270,,,NEMA,Nema, Lamin Njai,EDN0171-B,1,1,2022-02-09
+47-007-02,eggeh jallow,007,fatoumata bah,bubacarr jallow,7105335,,,NEMA,Nema, Lamin Njai,EDN0123-E,1,1,2022-02-22
+47-008-02,kaddijatou fadera,008,yafaye fadera,omar fadera,2047904,,,NEMA,Nema, Lamin Njai,EDN0235-H,1,1,2022-02-14
+47-013-02,Mundow cham,013,Bintou danjo,Fabakary cham,7674728,,,NEMA,Nema, Lamin Njai,EDN0158-A,1,1,2022-02-09
+47-021-01,Fatou jallow,021,Dado sowe,Daddy jallow,7423372,,,NEMA,Nema, Lamin Njai,EDN0224-E,1,1,2022-02-10
+47-021-02,kaddy bah,021,sarjo bah,demba bah,,,,NEMA,Nema, Lamin Njai,EDN0223-B,1,1,2022-02-10
+47-023-01,Fatou kanyi,023,musukebba saidy,Almameh kanyi,7261609,9,,NEMA,Nema, Lamin Njai,EDN0211-D,1,1,2022-02-10
+47-024-01,Fatou fadera,024,Nyimanding seckan,Mamdou Fadera,7719901,,,NEMA,Nema, Lamin Njai,EDN0198-D,1,1,2022-02-10
+47-027-01,Isatou jawara,027,mama Fadera,Bakary jawara,7595634,2351535,,NEMA,Nema, Lamin Njai,EDN0193-K,1,1,2022-02-09
+47-027-02,Tida korta,027,Musuding fadera,yusupha korta,7595634,,,NEMA,Nema, Lamin Njai,EDN0265-E,1,1,2022-02-21
+47-028-02,Aminata fadera,028,Nyomo jawara,chenba fadera,3609408,,,NEMA,Nema, Lamin Njai,EDN0164-K,1,1,2022-02-09
+47-028-03,KADDY S FADERA,028,SUTAYRING FADERA,ANSUMANA FADERA,7018108,,,NEMA,Nema, Lamin Njai,EDN0538-G,1,1,2022-06-01
+47-033-01,Kaddy Fadera,033,Mariama Fadera,Bunja Fadera,2582931,,,NEMA,Nema, Lamin Njai,EDN0207-A,1,1,2022-02-10
+47-034-01,Aja Korita,034,Fatou Jawo,Dembo Korita,7845324,3616928,,NEMA,Nema, Lamin Njai,EDN0130-A,1,1,2022-02-08
+47-035-01,Hawa Fadera,035,Mbsally fadera,Alagie Ansumana Fadera,7297790,,,NEMA,Nema, Lamin Njai,EDN0220-C,1,1,2022-02-10
+47-035-03,Nyimasatou  m fadera,035,Aria fadera,Masanneh,3595080,,,NEMA,Nema, Lamin Njai,EDN0199-E,1,1,2022-02-10
+47-038-01,Nyimanding sora,038,Faye  fadera,Sunkarr sora,2743127,,,NEMA,Nema, Lamin Njai,EDN0191-J,1,1,2022-02-09
+47-038-02,Amie korta,038,Kaddijatou fadera,Hatab korta,7340925,,,NEMA,Nema, Lamin Njai,EDN0541-B,1,1,2022-06-02
+47-043-03,NYIMANSATOU FADERA,043,BORI FADERA,JALANG FADERA,3457930,,,NEMA,Nema, Lamin Njai,EDN0206-C,1,1,2022-02-10
+47-045-01,Binta Drammeh,045,Sarjo ceesay,Solo gitteh,2534214,,,NEMA,Nema, Lamin Njai,EDN0213-H,1,1,2022-02-10
+47-045-04,Mama Drammeh,045,Binkinding Drammeh,Omar Drammeh,7033925,,,NEMA,Nema, Lamin Njai,EDN0215-K,1,1,2022-02-10
+48-001-02,Fatou Suso,001,Jankeh,Bakary Suso,2416966,3733695,3733695,KUNDANG NUMU KUNDA,Nema Kuta,Mamadou Jarjusey,EDN0266-F,1,1,2022-02-21
+48-002-04,Nyma Yarbou,002,Jalang Manjang,Demba Yarbou,3609952,,,KUNDANG NUMU KUNDA,Nema Kuta,Mamadou Jarjusey,EDN1034-I,1,1,2023-05-06
+48-004-01,Kumba konta,004,Tida Sanneh,Kebba konta,2750916,,,KUNDANG NUMU KUNDA,Nema Kuta,Mamadou Jarjusey,EDN0165-J,1,1,2022-02-09
+48-007-01,fatou seckan,007,fatou seckan,kajally seckan,2200225,,,KUNDANG NUMU KUNDA,Nema Kuta,Mamadou Jarjusey,EDN0259-B,1,1,2022-02-21
+48-007-02,nyima cham,007,nyaranding camara,jerreh cham,3567122,,,KUNDANG NUMU KUNDA,Nema Kuta,Mamadou Jarjusey,EDN0264-A,1,1,2022-02-21
+48-012-01,kaddy jammeh,012,binta camara,Ba musa jammeh,2872799,,,KUNDANG NUMU KUNDA,Nema Kuta,Mamadou Jarjusey,EDN0142-J,1,1,2022-02-14
+48-012-02,Sireh Mambureh,012,binta sanneh,fillijeh mambureh,3693459,,,KUNDANG NUMU KUNDA,Nema Kuta,Mamadou Jarjusey,EDN0260-G,1,1,2022-02-21
+48-012-03,Fatou Saidy,012,Wuday Njie,Borri Saidy,,,,KUNDANG NUMU KUNDA,Nema Kuta,Mamadou Jarjusey,EDN0267-K,1,1,2022-02-21
+48-013-03,kaddy bah,013,Ndungu jawo,samba bah,2453220,,,KUNDANG NUMU KUNDA,Nema Kuta,Mamadou Jarjusey,EDN0263-D,1,1,2022-02-21
+50-002-04,Adama Wurry Jallow,002,Sirra Camara,Basirou Jallow,2531779,,,NEMA KUTA,Nema Kuta,Mamadou Jarjusey,EDN1003-C,1,1,2022-12-28
+50-008-02,Penda Gibba,008,Mental sowe,demba Gibba,2756953,,,NEMA KUTA,Nema Kuta,Mamadou Jarjusey,EDN0132-B,1,1,2022-02-09
+51-001-01,Kaddy bah,001,Nurse jallow,Manyo bah,2438678,,,JIRROFF,Nema Kuta,Mamadou Jarjusey,EDN0270-K,1,1,2022-02-21
+51-009-01,Penda bah,009,buntung jawo,musa bah,3978331,,,JIRROFF,Nema Kuta,Mamadou Jarjusey,EDN0102-K,1,1,2022-02-24
+51-012-01,Hawa Bah,012,Maimuna Sabally,Jifarong Bah,7675314,,,JIRROFF,Nema Kuta,Mamadou Jarjusey,EDN0121-G,1,1,2022-06-09
+51-014-01,Binta colley,014,Monneh Sanneh,Baba Colley,2900305,,,JIRROFF,Nema Kuta,Mamadou Jarjusey,EDN0271-E,1,1,2022-02-21
+51-022-01,Oumie Drammeh,022,Satou saho,yaya Drammeh,5235173,,,JIRROFF,Nema Kuta,Mamadou Jarjusey,EDN0273-J,1,1,2022-02-21
+51-028-01,Lisa Ceesay,028,mariatou Barrow,samboujan ceesay,6644867,3281170,,JIRROFF,Nema Kuta,Mamadou Jarjusey,EDN0308-A,1,1,2022-03-30
+51-028-02,Rabiyatou Manka,028,Fatoumata Demba,Abubacarr Manka,2025969,6644867,,JIRROFF,Nema Kuta,Mamadou Jarjusey,EDN0410-F,1,1,2022-04-26
+51-028-03,Fatou Janneh,028,Binta Sanyang,Bakary Janeh,3599438,,,JIRROFF,Nema Kuta,Mamadou Jarjusey,EDN0411-J,1,1,2022-04-26
+51-040-03,Aminata Bah,040,Mariama Sowe,Ali Hawa Bah,3734615,,,JIRROFF,Nema Kuta,Mamadou Jarjusey,EDN0272-D,1,1,2022-02-21
+52-004-01,Fatoumata Bah,004,Isatou Bah,Foday Bah,2108523,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0291-H,1,1,2022-02-23
+52-005-01,Fatoumata  Bah,005,Jewo Bah,musa bah,2087812,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0258-J,1,1,2022-02-17
+52-006-01,Aja kolley,006,Hulay Bah,Ebrima Kolley,7072139,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0287-B,1,1,2022-02-23
+52-008-01,Jainaba colley,008,Jarrah Jallow,Kebba colley,2530833,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0279-F,1,1,2022-02-22
+52-008-02,Halimatou Jallow,008,Isatou colley,samba jallow,2021954,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0292-F,1,1,2022-02-23
+52-009-01,sonna Camara,009,musu camara,ebrima camara,2076832,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0280-F,1,1,2022-02-22
+52-010-01,Boye Sowe,010,Awa sowe,Demba sowe,7404662,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0296-D,1,1,2022-02-23
+52-011-01,Kumba sowe,011,sira sowe,Keita sowe,7035986,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0278-A,1,1,2022-02-22
+52-013-01,Mariama jallow,013,fatou jallow,essa jallow,2030890,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0978-C,1,1,2022-10-19
+52-013-02,fatou ndow,013,aminata sey,alieu ndow,2153675,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0281-J,1,1,2022-02-22
+52-013-04,MARIAMA JALLOW,013,FATOU JALLOW,ESSA JALLOW,2559724,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0504-J,0,1,2022-05-06
+52-018-04,ramatoulie sowe,018,hawa barry,selba sowe,7580504,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0977-E,1,1,2022-10-19
+52-035-01,BINTA SOWE,035,SIRA KEBBEH,KEITA SOWE,2526552,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0509-K,1,1,2022-05-18
+52-049-01,ISATA BAH,049,hawa dem,hammed bah,7704956,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0286-A,1,1,2022-02-23
+52-051-01,kaddijatou bah,051,fatoumata jallow,sulayman bah,2552972,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0979-G,1,1,2022-10-19
+52-052-02,Adama colley,052,Marie jobe,Bakary colley,2033521,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0293-A,1,1,2022-02-23
+52-054-01,Faddy ceesay,054,KUMBA BARRY,KEBBA CEESAY,2075166,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0309-F,1,1,2022-04-07
+52-055-02,ISATOU SEY,055,JAINABA Jobe,BUBACARR SEY,7886001,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0307-C,1,1,2022-04-07
+52-056-01,Haja jallow,056,Adama colley,juka jallow,7561675,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0294-K,1,1,2022-02-23
+52-056-02,isatou Ann,056,Meram sey,Musa Ann,7327745,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0295-J,1,1,2022-02-23
+52-057-01,Gabudeh bah,057,fatou sey,Foday bah,2008923,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0310-C,1,1,2022-04-07
+52-062-01,Binta Jarju,062,Hawa Gaye,momodou Jarju,7966616,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0256-K,1,1,2022-02-17
+52-062-02,Hawa Bah,062,Hawa  jallow,Hamadi bah,2332609,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0257-F,1,1,2022-02-17
+52-063-01,isatou colley,063,adama sallah,ousman colley,2008018,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0277-C,1,1,2022-02-22
+52-063-02,Fatoumata sey,063,Awa jobe,Saidou sey,7501127,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0290-B,1,1,2022-02-23
+52-063-03,Isata Dem,063,Mariam ceesay,Hamadi Dem,2227210,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0289-E,1,1,2022-02-23
+52-065-04,Isatou Bah,065,Fatoumata Jallow,Sulayman Bah,,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0275-B,1,1,2022-02-22
+52-066-01,Hawa Sey,066,Dallan sallah,modou kah sey,2045590,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0288-D,1,1,2022-02-23
+52-066-02,Adama Jobe,066,Adam Jobe,Sainey jobe,,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0276-H,1,1,2022-02-22
+52-069-01,Zenet V. Bass,069,Yama Bass,Vansang Bass,2382621,3246530,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0283-K,1,1,2022-02-23
+52-069-02,Fatou Mendy,069,Anna Mendy,Alasan Mendy,7143094,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0282-G,1,1,2022-02-23
+52-069-04,Fatoumata Sanneh,069,Sunkarr Jabbie,Ensa Sanneh,2276594,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0284-H,1,1,2022-02-23
+52-069-06,Kani M Trawally,069,Ansata Manneh,Abdou Trawally,7291840,3246530,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey,EDN0285-C,1,1,2022-02-23
+53-004-01,Hulay jawo,004,Adama jallow,Ganya jawo,7644658,,,JATTA KUNDA,Nema Kuta,Mamadou Jarjusey,EDN0240-H,1,1,2022-02-22
+54-007-01,mariama dalang jallow,007,lamarana jallow,amadou boye jallow,2485622,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,EDN0177-K,1,1,2022-02-09
+54-007-02,tida fadera,007,kaken sorra,fabakary fadera,2485622,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,EDN0176-F,1,1,2022-02-09
+54-008-01,arokey jarju,008,nirranding jarju,mamadou jarju,3268546,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,EDN0173-D,1,1,2022-02-09
+54-009-05,Isatou Yarboe,009,Nyima Sanneh,Sunkary Yarboe,,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,EDN0097-D,1,1,2022-02-08
+54-011-01,Sali Sanneh,011,naffie sanneh,landing sanneh,3791809,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,EDN0185-H,1,1,2022-02-09
+54-011-02,aja susso,011,jankey sanneh,kemo sanneh,3791809,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,EDN1007-G,1,1,2022-12-28
+54-012-01,Belikisamanka,012,sunkary demba,babanding manka,7822762,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,EDN0182-A,1,1,2022-02-09
+54-014-02,mama fatty,014,sarjo fatty,malang fatty,7330906,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,EDN0175-E,1,1,2022-02-09
+54-018-02,Nyima Sanneh,018,Satouding Darbo,Both Darbo,5325665,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,EDN0174-A,1,1,2022-02-09
+54-019-02,Fatoumata Sama,019,Meta Sanneh,Kaba Sama,3492667,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,EDN0186-B,1,1,2022-02-09
+54-019-03,Fatou Fanneh,019,Mariama Darbo,Bakary Fanneh,3020040,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,EDN0180-E,1,1,2022-02-09
+54-024-02,Jainaba Bah,024,Tomaring Jadama,Ali Bah,,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,EDN1006-F,1,1,2022-12-28
+54-025-02,Isatou Saidy,025,Vintage Saidy,Sherriffo saidy,7602929,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,EDN0530-H,1,1,2022-06-07
+56-078-01,Oumie  BAH,078,PENDA JAWO,SARA BAH,7341365,,,SIBETO,Unknown,,EDN0243-C,1,1,2022-02-28
+56-080-01,KADIJATOU SALLAH,080,NDUNGUYA JALLOW,MAMADOU SALLAH,3084231,,,SIBETO,Unknown,,EDN0244-B,1,1,2022-02-28
+58-001-01,penda sanyang,001,kumba bah,almami sanyang,2216571,,,TABANANI,Unknown,,EDN0115-G,1,1,2022-02-16
+58-003-01,Fatoumata bah,003,Demu jallow,Gallo bah,7455890,,,TABANANI,Unknown,,EDN0120-D,1,1,2022-02-16
+58-003-02,Hawa Jallow,003,Sakugi bah,Hamadi Bah,7284312,,,TABANANI,Unknown,,EDN0119-H,1,1,2022-02-16
+58-006-03,sunkary jallow,006,gibeh jawo,gidom jallow,7083578,,,TABANANI,Unknown,,EDN0117-A,1,1,2022-02-16
+58-010-01,fatou sowe,010,kaddy gibba,Gedda sowe,3084166,,,TABANANI,Unknown,,EDN0116-C,1,1,2022-02-16
+60-003-01,Ramatoulie Jallow,003,Sarjo Jobe,Juka Jallow,7424179,,,WILLINGARA,Kwinella Sansankono,Modou Lamin Njai,EDN0255-A,1,1,2022-02-16
+60-007-02,kumba njie,007,Metta Bah,dawda njie,2990380,,,WILLINGARA,Kwinella Sansankono,Modou Lamin Njai,EDN0254-C,1,1,2022-02-16
+61-001-04,Naffie Jallow,001,Fatou Bah,Mamadou Jallow,,,,SARE MAMUDU,Nema Kuta,Mamadou Jarjusey,EDN0302-D,1,1,2022-02-24
+61-003-01,Jaila chune,003,Dicko Ndow,Samba Chune,2029508,,,SARE MAMUDU,Nema Kuta,Mamadou Jarjusey,EDN0412-G,1,1,2022-04-26
+61-003-02,Sally bah,003,penda bah,hamadi bah,7934610,,,SARE MAMUDU,Nema Kuta,Mamadou Jarjusey,EDN0300-K,1,1,2022-02-24
+61-003-03,adama jallow,003,chumbeh bah,mamadou duto jallow,7934610,,,SARE MAMUDU,Nema Kuta,Mamadou Jarjusey,EDN0406-D,1,1,2022-04-26
+61-003-04,Jaila Colley,003,Fatouma Ceesay,Musa Colley,,,,SARE MAMUDU,Nema Kuta,Mamadou Jarjusey,EDN0299-G,1,1,2022-02-24
+61-005-01,Ramatoulie ceesay,005,salla chune,ablie ceesay,7437716,,,SARE MAMUDU,Nema Kuta,Mamadou Jarjusey,EDN0297-E,1,1,2022-02-24
+61-005-02,isatou bah,005,jaila bah,saidou bah,7437716,,,SARE MAMUDU,Nema Kuta,Mamadou Jarjusey,EDN0301-E,1,1,2022-02-24
+61-007-01,Fatim Jallow,007,Bintou jobe,Amadou Jallow,2275498,,,SARE MAMUDU,Nema Kuta,Mamadou Jarjusey,EDN0304-G,1,1,2022-02-28

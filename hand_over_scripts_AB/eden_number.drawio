@@ -1,0 +1,287 @@
+<mxfile host="65bd71144e">
+    <diagram id="LbKYN5ysmY_FSi0wR-la" name="Page-3">
+        <mxGraphModel dx="774" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-1" value="Sensitized:&lt;br&gt;&amp;nbsp;4699 | 00&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="190" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-2" value="screen:&lt;br&gt;&amp;nbsp;2496 | &lt;font color=&quot;#ec0909&quot;&gt;00&lt;/font&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="270" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-3" value="Interested:2875 | &lt;font color=&quot;#f10909&quot;&gt;00&lt;/font&gt;&lt;br&gt;&lt;br&gt;Not intrested: 331 | &lt;font color=&quot;#e60a0a&quot;&gt;00&lt;/font&gt;&lt;br&gt;&lt;br&gt;Undecided:549 | &lt;font color=&quot;#e90707&quot;&gt;00&lt;/font&gt;&lt;br&gt;&lt;br&gt;Other:991 | &lt;font color=&quot;#ea0606&quot;&gt;00&lt;/font&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="190" width="140" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-4" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="ATEsdOY_5iFPWKpsOl4x-2" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="380" y="230" as="sourcePoint"/>
+                        <mxPoint x="430" y="180" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-5" value="consent V4:&lt;br&gt;&amp;nbsp;1410 | &lt;font color=&quot;#e60505&quot;&gt;00&lt;/font&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="350" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-6" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.317;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ATEsdOY_5iFPWKpsOl4x-2" target="ATEsdOY_5iFPWKpsOl4x-5" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="400" y="530" as="sourcePoint"/>
+                        <mxPoint x="450" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-7" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ATEsdOY_5iFPWKpsOl4x-2" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="400" y="530" as="sourcePoint"/>
+                        <mxPoint x="510" y="350" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-8" value="decline consent:&lt;br&gt;&amp;nbsp;666 | &lt;font color=&quot;#ec0941&quot;&gt;00&lt;/font&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="350" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-9" value="under surveillance: &lt;br&gt;894 | &lt;font color=&quot;#f20202&quot;&gt;00&lt;/font&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="430" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-10" value="" style="endArrow=classic;html=1;exitX=0.433;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.433;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ATEsdOY_5iFPWKpsOl4x-5" target="ATEsdOY_5iFPWKpsOl4x-9" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="400" y="530" as="sourcePoint"/>
+                        <mxPoint x="312" y="420" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-138" value="" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" parent="1" source="ATEsdOY_5iFPWKpsOl4x-12" target="ATEsdOY_5iFPWKpsOl4x-134" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-12" value="HCG+:&lt;br&gt;&amp;nbsp;527 | &lt;font color=&quot;#f10909&quot;&gt;05&lt;/font&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="510" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-13" value="blood:&lt;br&gt;&amp;nbsp;505 | &lt;font color=&quot;#f60909&quot;&gt;04&lt;/font&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="450" y="430" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-14" value="Urine:&lt;br&gt;&amp;nbsp;515| &lt;font color=&quot;#ec0909&quot;&gt;05&lt;/font&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="510" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-15" value="stool:&lt;br&gt;&amp;nbsp;494 | &lt;font color=&quot;#f00a0a&quot;&gt;05&lt;/font&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="461" y="590" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-16" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ATEsdOY_5iFPWKpsOl4x-12" target="ATEsdOY_5iFPWKpsOl4x-14" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="400" y="530" as="sourcePoint"/>
+                        <mxPoint x="450" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-17" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" target="ATEsdOY_5iFPWKpsOl4x-13" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="400" y="530" as="sourcePoint"/>
+                        <mxPoint x="450" y="480" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="420" y="530"/>
+                            <mxPoint x="420" y="440"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-18" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="ATEsdOY_5iFPWKpsOl4x-15" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="420" y="530" as="sourcePoint"/>
+                        <mxPoint x="410" y="640" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="420" y="610"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-20" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="320" y="990" as="sourcePoint"/>
+                        <mxPoint x="320" y="1050" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-56" value="&lt;h1 style=&quot;font-size: 22px;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 22px; background-color: rgb(255, 255, 255);&quot;&gt;Date: 09 December 2024 Time: 09:28&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 22px;&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;Eden Weekly statistic report&amp;nbsp;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#005700;fillColor=#008a00;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#ffffff;fontSize=22;" parent="1" vertex="1">
+                    <mxGeometry y="30" width="400" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-57" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Sensitized:&lt;br&gt;&amp;nbsp;4746 | 03&lt;/font&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="190" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-60" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="380" y="250" as="sourcePoint"/>
+                        <mxPoint x="520" y="250" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-61" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="380" y="230" as="sourcePoint"/>
+                        <mxPoint x="380" y="270" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-63" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.317;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="380" y="310" as="sourcePoint"/>
+                        <mxPoint x="298.03999999999996" y="348" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-64" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="440" y="290" as="sourcePoint"/>
+                        <mxPoint x="510" y="350" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-67" value="" style="endArrow=classic;html=1;exitX=0.433;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.433;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="311.96000000000004" y="390" as="sourcePoint"/>
+                        <mxPoint x="311.96000000000004" y="430" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-73" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="380" y="530" as="sourcePoint"/>
+                        <mxPoint x="460" y="530" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-74" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="400" y="530" as="sourcePoint"/>
+                        <mxPoint x="450" y="440" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="420" y="530"/>
+                            <mxPoint x="420" y="440"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-75" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="420" y="530" as="sourcePoint"/>
+                        <mxPoint x="460" y="610" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="420" y="610"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-78" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;follow_up_preg_bk:&lt;br&gt;&amp;nbsp;&lt;b&gt;375 |&lt;/b&gt;&amp;nbsp;&lt;font color=&quot;#f40b23&quot;&gt;01&lt;/font&gt;&lt;/font&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="640" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-91" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;LMP: cycle 37&lt;br&gt;&lt;b&gt;517&lt;/b&gt; | &lt;font color=&quot;#f00a0a&quot;&gt;169&lt;/font&gt;&lt;/font&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="360" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-93" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="320" y="871" as="sourcePoint"/>
+                        <mxPoint x="320" y="950" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-108" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="260" y="450" as="sourcePoint"/>
+                        <mxPoint x="200" y="450" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="200" y="450"/>
+                            <mxPoint x="210" y="450"/>
+                            <mxPoint x="220" y="450"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-109" value="" style="endArrow=classic;html=1;exitX=0.453;exitY=1.029;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="314.3599999999999" y="471.15999999999997" as="sourcePoint"/>
+                        <mxPoint x="314" y="510" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-130" value="" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" parent="1" source="ATEsdOY_5iFPWKpsOl4x-110" target="ATEsdOY_5iFPWKpsOl4x-111" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-110" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;week 20&lt;br&gt;T=340&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="730" width="80" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-127" value="" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" parent="1" source="ATEsdOY_5iFPWKpsOl4x-111" target="ATEsdOY_5iFPWKpsOl4x-112" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-142" value="" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" parent="1" source="ATEsdOY_5iFPWKpsOl4x-111" target="ATEsdOY_5iFPWKpsOl4x-123" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-111" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;week 28&lt;br&gt;T=289&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="800" width="80" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-128" value="" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" parent="1" source="ATEsdOY_5iFPWKpsOl4x-112" target="ATEsdOY_5iFPWKpsOl4x-125" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-112" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;week 36&lt;br&gt;T=240&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="871" width="80" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-115" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ATEsdOY_5iFPWKpsOl4x-110" target="ATEsdOY_5iFPWKpsOl4x-118" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="368" y="716" as="sourcePoint"/>
+                        <mxPoint x="412.5" y="715.5" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-118" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;follow_up_week 20:&lt;br&gt;&amp;nbsp;&lt;b&gt;283&lt;/b&gt;&amp;nbsp;| &lt;font color=&quot;#f40b23&quot;&gt;03&lt;/font&gt;&lt;/font&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="735" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-123" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;follow_up_&lt;/span&gt;week 28:&lt;br&gt;&amp;nbsp;246 | &lt;font color=&quot;#f40606&quot;&gt;04&lt;/font&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="805" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-125" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;follow_up_&lt;/span&gt;week 36:&lt;br&gt;&amp;nbsp;206 | &lt;font color=&quot;#f70808&quot;&gt;12&lt;/font&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="876" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-135" value="" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" parent="1" source="ATEsdOY_5iFPWKpsOl4x-134" target="ATEsdOY_5iFPWKpsOl4x-110" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-140" value="" style="edgeStyle=none;html=1;fontColor=#FFFFFF;" parent="1" source="ATEsdOY_5iFPWKpsOl4x-134" target="ATEsdOY_5iFPWKpsOl4x-78" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ATEsdOY_5iFPWKpsOl4x-134" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;booking&lt;br&gt;T=531&lt;br&gt;w=135&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="635" width="80" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZO31OsQvFqbwii7kNzT--1" value="coded" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry y="630" width="140" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZO31OsQvFqbwii7kNzT--3" value="T= Totals" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" parent="ZO31OsQvFqbwii7kNzT--1" vertex="1">
+                    <mxGeometry y="30" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZO31OsQvFqbwii7kNzT--4" value="W= Withdrawal" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" parent="ZO31OsQvFqbwii7kNzT--1" vertex="1">
+                    <mxGeometry y="60" width="140" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="ZO31OsQvFqbwii7kNzT--58" style="edgeStyle=none;html=1;fontColor=#000000;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="190" y="970" as="targetPoint"/>
+                        <mxPoint x="250" y="970" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ZO31OsQvFqbwii7kNzT--61" value="" style="endArrow=classic;startArrow=classic;html=1;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="150" y="1020" as="sourcePoint"/>
+                        <mxPoint x="150" y="936" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="190" y="1020"/>
+                            <mxPoint x="190" y="936"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;seasonal blood&lt;/span&gt;:&lt;br&gt;&amp;nbsp;112 | &lt;font color=&quot;#f40b0b&quot;&gt;00&lt;/font&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="1050" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;cordblood&lt;/span&gt;:&lt;br&gt;&amp;nbsp;198 | &lt;font color=&quot;#f40b0b&quot;&gt;06&lt;/font&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="1000" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;placenta&lt;/span&gt;:&lt;br&gt;&amp;nbsp;186 | &lt;font color=&quot;#f40b0b&quot;&gt;09&lt;/font&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="921" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;deliveries&lt;/span&gt;:&lt;br&gt;&amp;nbsp;230 | &lt;font color=&quot;#f40b0b&quot;&gt;08&lt;/font&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=44;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="950" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;temporal exclusion: &lt;br&gt;&lt;b&gt;497&lt;/b&gt;| &lt;font color=&quot;#f00a0a&quot;&gt;00&lt;/font&gt;&lt;/font&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="510" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="7" target="ATEsdOY_5iFPWKpsOl4x-91" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="320" y="530" as="sourcePoint"/>
+                        <mxPoint x="370" y="480" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="200" y="530"/>
+                            <mxPoint x="200" y="510"/>
+                            <mxPoint x="200" y="450"/>
+                            <mxPoint x="200" y="380"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

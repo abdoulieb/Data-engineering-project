@@ -1,0 +1,156 @@
+participant_id,con_participantid_q1,ck_wkno,enu_name,enu_village,enu_mname,enu_fname,enu_comp,sen_contact1,sen_contact2,sen_contact3,village_name,del_outcome_q9,del_ddate_q7,sbc_date,sbc_available,sbc_season
+EDN0079-E,IN-M-001E,45-014-02,Nyima sanyang,45,Jai manjang,Managing sanyang,14,2416442,,,BAMBAKO,live Birth,31/10/2023,,,
+EDN0313-B,IN-M-002H,01-030-053L,Alima Trawally,1,Naba Touray,Momodou Trawally,30,,,,DUMBUTO,live Birth,09/10/2023,,,
+EDN0765-K,IN-M-004F,10-011-042C,Binta Sise,10,Gunjur Sise,Sankung Sise,21,,,,KANTONG KUNDA,live Birth,17/10/2023,,,
+EDN0556-D,IN-M-005J,05-006-014A,Jalika Barrow,5,Nyominding Njai,Jatta Barrow,6,,,,JIFFARONG,live Birth,07/11/2023,,,
+EDN0421-K,IN-M-007A,03-002-059V,Jaila Jallow,3,Mahani Bah,Ousman Jallow,2,,,,NIORO JATTABA,live Birth,15/10/2023,,,
+EDN0688-E,IN-M-011C,27-032-046C,Fatou Janneh,27,Kaddy Sise,Bakary Janneh,39,,,,JANNEH KUNDA,live Birth,07/10/2023,,,
+EDN0635-B,IN-M-012B,27-020-020O,Isatou Gaye,27,Maram Colley,Demba Gaye,20,,,,JANNEH KUNDA,live Birth,03/11/2023,,,
+EDN0202-E,IN-M-013D,47-058-02,Isatou Fadera,47,Fatou Camara,Manding Fadera,58,2900468,,,NEMA,live Birth,19/10/2023,,,
+EDN0240-H,IN-M-014D,53-004-01,Hulay jawo,53,Adama jallow,Ganya jawo,4,7644658,,,JATTA KUNDA,live Birth,05/11/2023,,,
+EDN0628-C,IN-M-018C,17-008-011H,Jainaba Marri,17,Fatoumata Camara,Luntang Marri,5,,,,JOLI,live Birth,06/10/2023,,,
+EDN0693-E,IN-M-020G,25-012-305T,Oumie Camara,25,Maimuna Minteh,Sambujang Camara,12,,,,KARANTABA,live Birth,11/10/2023,,,
+EDN0646-A,IN-M-022E,27-019-002K,Kaddy Manjang,27,Mamanding Janneh,Lamin Manjang,19,,,,JANNEH KUNDA,live Birth,07/11/2023,,,
+EDN1007-G,IN-M-023A,54-011-02,aja susso,54,jankey sanneh,kemo sanneh,11,3791809,,,MANDINA CENTRAL,live Birth,30/11/2023,,,
+EDN1024-X,IN-M-026F,40-022-02,Fatou Camara,42,Fatou Camara,Masaneh Camara,22,,,,KWINELLA NIA KUNDA,live Birth,21/11/2023,,,
+EDN0034-D,IN-M-028G,42-071-02,Isatou Jarjue,42,Mariama Ceesay,Alanso Jarjue,71,3960097,,,KWINELLA NIA KUNDA,live Birth,03/11/2023,,,
+EDN1023-W,IN-M-029D,40-008-02,Binta Sidibeh,40,Isatou kanteh,Sabou Sidibeh,8,7280673,,,WUROKANG,live Birth,15/12/2023,,,
+EDN0394-D,IN-M-030C,03-059-039J,Tabara Jobe,32,Nderu Bah,Sainey Jobe,27,,,,WUDEBA,live Birth,29/11/2023,,,
+EDN0964-B,IN-M-031D,16-030-005R,Binta Sise,16,Tumbulu Drammeh,Balla Sise,18,,,,TANKULAR,live Birth,01/11/2023,,,
+EDN0957-A,IN-M-033K,29-032-030O,Mariama Sise,29,Jariatou Sise,Yaya Sise,32,,,,KENEBA,live Birth,12/11/2023,,,
+EDN0909-J,IN-M-040F,17-002-037N,Jalika Kuyateh,29,Alimatou Camara,Bakary Kuyateh,95,,,,KENEBA,live Birth,17/12/2023,,,
+EDN0597-G,IN-M-042F,17-001-056U,Fatou Camara,17,Kaddy Sanyang,Omar Camara,26,,,,JOLI,live Birth,17/12/2023,,,
+EDN0359-E,IN-M-043H,02-042-008U,Jarra Manjang,2,Fatou Barrow,Baba Manjang,42,,,,SANKANDI,live Birth,16/12/2023,,,
+EDN1015-O,IN-M-046J,05-017-006U,Aramata Barrow,5,Suntukung Kinteh,Lamin Barrow,20,,,,JIFFARONG,live Birth,31/10/2023,,,
+EDN0066-H,IN-M-048E,42-028-01,Isatou sarr,42,Binta marong,lang sarr,28,2740112,,,KWINELLA NIA KUNDA,live Birth,05/11/2023,,,
+EDN1017-G,IN-M-053K,05-013-014G,Yassin Njai,5,Mariama Barrow,Soli Njai,87,,,,JIFFARONG,live Birth,20/11/2023,,,
+EDN1051-Z,IN-M-061B,29-045-049H,Mariatou Sanneh,29,Ida Sanyang,Lanjay Sanneh,35,,,,KENEBA,live Birth,25/01/2024,,,
+EDN0539-D,IN-M-064D,47-052-01,Manifa Fadera,47,Nyimanding Jawara,sanna Fadera,52,2559091,,,NEMA,live Birth,23/12/2023,,,
+EDN0206-C,IN-M-067H,47-043-03,NYIMANSATOU FADERA,47,BORI FADERA,JALANG FADERA,43,3457930,,,NEMA,live Birth,25/01/2024,,,
+EDN0199-E,IN-M-071F,47-035-03,Nyimasatou  m fadera,47,Aria fadera,Masanneh,35,3595080,,,NEMA,live Birth,19/01/2024,,,
+EDN1034-I,IN-M-072J,48-002-04,Nyma Yarbou,48,Jalang Manjang,Demba Yarbou,2,3609952,,,KUNDANG NUMU KUNDA,live Birth,18/01/2024,,,
+EDN0691-G,IN-M-074F,25-014-006E,Oumie Kambi,25,Nyimansatou Sise,Kebba Kambi,11,,,,KARANTABA,live Birth,01/02/2024,,,
+EDN0641-J,IN-M-075A,27-021-013T,Aminata Bajinka,27,Free Janneh,Mbemba Bajinka,11,,,,JANNEH KUNDA,live Birth,13/02/2024,,,
+EDN0751-C,IN-M-076H,01-044-051V,Aminata Samateh,10,Binta Sawo,Buramanding Samateh,17,,,,KANTONG KUNDA,live Birth,16/01/2024,,,
+EDN0761-D,IN-M-077H,25-010-033J,Jainaba Jarju,10,Mami Kanyi,Jerro Jarju,7,,,,KANTONG KUNDA,live Birth,10/01/2024,,,
+EDN0756-B,IN-M-078F,06-023-004A,Isatou Drammeh,10,Nakebba Bajo,Yaya Drammeh,2,,,,KANTONG KUNDA,live Birth,27/01/2024,,,
+EDN0788-C,IN-M-079G,10-002-033P,Mariatou Sawo,10,Mariama Sise,Burafing Sawo,5,,,,KANTONG KUNDA,live Birth,16/02/2024,,,
+EDN0078-D,IN-M-081D,45-016-01,Fatou drammeh,45,nyimasatou jarra,Sanna drammeh,16,5043607,,,BAMBAKO,live Birth,08/01/2024,,,
+EDN1079-D,IN-M-083H,29-013-043H,Nakebba Sanyang,29,Momanku Sise,Mamadou Sanyang,115,,,,KENEBA,live Birth,03/02/2024,,,
+EDN0617-K,IN-M-084C,06-029-064C,Anna Touray,6,Yadekoni Sonko,Jerreh Touray,29,,,,BAJANA,live Birth,08/02/2024,,,
+EDN0449-K,IN-M-085H,03-066-007J,Adama Bah,3,Hawa Ndow,Demba Bah,71,,,,NIORO JATTABA,live Birth,02/01/2024,,,
+EDN0485-B,IN-M-087F,31-013-015H,Nyako Manjang,31,Luntang Sanneh,Sheriffo Manjang,13,,,,SANDENG,live Birth,20/01/2024,,,
+EDN0895-B,IN-M-088J,07-038-007P,Nurse Njai,16,Fatoumata Njai,Momodou Njai,19,,,,TANKULAR,live Birth,07/02/2024,,,
+EDN0743-F,IN-M-089F,08-001-049R,Jainaba Njai,8,Nyimansatou Njai,Yaya Njai,13,,,,JAMARU,live Birth,09/01/2024,,,
+EDN0356-A,IN-M-091K,02-034-009D,Rokiatou Touray,2,Fatoumata Sise,Kebbaring Touray,34,,,,SANKANDI,2,06/02/2024,,,
+EDN0551-H,IN-M-096C,26-007-016W,Adama Njai,5,Fatou Barrow,Landing Njai,8,,,,JIFFARONG,live Birth,22/02/2024,,,
+EDN0754-J,IN-M-098F,10-006-015T,Nyara Sise,10,Mbinkinding Sise,Mustapha Sise,6,,,,KANTONG KUNDA,live Birth,11/02/2024,,,
+EDN0647-B,IN-M-099A,27-018-003Z,Kaddy Janneh,27,Nyimanding Darboe,Momodou Janneh,8,,,,JANNEH KUNDA,live Birth,24/01/2024,,,
+EDN0833-A,IN-M-100G,17-011-013T,Salimata Drammeh,23,Kaddy Camara,Sulayman Drammeh,13,,,,BURONG,live Birth,02/03/2024,,,
+EDN1081-F,IN-M-101H,29-001-035L,Alimatou Sise,29,Binta Manneh,Jalamang Sise,110,,,,KENEBA,live Birth,01/04/2024,,,
+EDN1026-Z,IN-M-107A,05-023-008Q,Menata Barrow,5,Adama Kinteh,Junkung Barrow,64,,,,JIFFARONG,live Birth,20/02/2024,,,
+EDN0561-J,IN-M-108D,05-020-008G,Aminata Barrow,5,Sarjonding Bajo,Dodou Kutu Barrow,15,,,,JIFFARONG,live Birth,13/02/2024,,,
+EDN0772-K,IN-M-124E,27-042-016O,Mariatou Kanteh,26,Lalla Bajinka,Firiya Kanteh,9,,,,MANDINA,live Birth,01/04/2024,,,
+EDN0862-H,IN-M-140D,16-001-030G,Fatou Sise,16,Kaddy Janneh,Fabakary Sise,49,,,,TANKULAR,live Birth,15/03/2024,,,
+EDN0063-J,IN-M-142H,43-020-01,Nyimasata colley,43,Amie kutu njie,lang colley,20,5342294,,,TENDABA,live Birth,16/05/2024,,,
+EDN0466-G,IN-M-146H,11-028-033D,Jankeh Mariama Samateh,4,Sireh Nanding Samateh,Jamanty Samateh,51,,,,JATTABA,live Birth,21/04/2024,,,
+EDN1104-D,IN-M-148E,06-015-006K,Aja Drammeh,6,Nakebba Bajo,Yaya Drammeh,37,,,,BAJANA,live Birth,28/04/2024,,,
+EDN0575-G,IN-M-150H,06-006-018S,Saffiatou Touray,5,Terema Sise,Molipha Touray,25,,,,JIFFARONG,live Birth,07/04/2024,,,
+EDN0649-E,IN-M-151B,27-032-035R,Jainaba Marong,27,Mama Kadi Kambi,Kebba Lang Marong,32,,,,JANNEH KUNDA,live Birth,11/02/2024,,,
+EDN1013-M,IN-M-153G,41-028-04,Nyima Sanneh,41,Matindingo Sanyang,Landing Sanyang,28,3268281,,,KWINELLA SANSANKONO,live Birth,21/05/2024,,,
+EDN0746-C,IN-M-159C,08-005-013D,Habsatou Jallow,8,Binta Jallow,Momodou Salieu Jallow,5,,,,JAMARU,live Birth,07/04/2024,,,
+EDN0456-J,IN-M-162F,03-052-021L,Mariama Jobe,3,Hawa Bah,Musa Jobe,34,,,,NIORO JATTABA,live Birth,04/07/2024,,,
+EDN0937-B,IN-M-169A,29-025-037P,Binta Sise,29,Saribanding Bajo,Bekai Manifa Sise,53,,,,KENEBA,live Birth,25/06/2024,,,
+EDN0235-H,IN-M-177H,47-008-02,kaddijatou fadera,47,yafaye fadera,omar fadera,8,2047904,,,NEMA,live Birth,04/06/2024,,,
+EDN0198-D,IN-M-178B,47-024-01,Fatou fadera,47,Nyimanding seckan,Mamdou Fadera,24,7719901,,,NEMA,live Birth,10/05/2024,,,
+EDN0555-J,IN-M-184A,05-019-013Z,Manding Barrow,5,Jarra Njai,Jalamang Barrow,10,,,,JIFFARONG,live Birth,10/05/2024,,,
+EDN0822-A,IN-M-189C,11-041-003Z,Fatoumata Dibba,11,Mama Samateh,Sambujang Dibba,3,,,,JALI,live Birth,13/06/2024,,,
+EDN1209-I,IN-M-194D,02-015-012M,Sarjo Drammeh,2,Manding Barrow,Kalilu Drammeh,15,,,,SANKANDI,live Birth,14/07/2024,,,
+EDN0064-G,IN-M-201B,42-080-01,Nyara Manjang,42,Satou Demba,Jatta Manjang,80,3347586,,,KWINELLA NIA KUNDA,live Birth,29/08/2024,,,
+EDN0505-H,IN-M-224K,03-061-006A,Mariama Sowe,3,Kumba Sey,Sheriff Sowe,5,,,,NIORO JATTABA,live Birth,20/07/2024,,,
+EDN0011-H,IN-M-226E,40-006-01,Nymasata Sonko,40,Fatou Camara,Bakary Sonko,6,3329934,,,WUROKANG,live Birth,05/08/2024,,,
+EDN1646-K,IN-M-232C,41-021-01,Jainaba jarju,41,Fatou Touray,Manding Jarju,21,3058047,,,KWINELLA SANSANKONO,live Birth,23/07/2024,,,
+EDN0966-E,IN-M-236J,25-006-005L,Fatou Kambi,25,Awa Kambi,Dembo Kambi,20,,,,KARANTABA,live Birth,21/08/2024,,,
+EDN1488-M,IN-M-244E,21-006-013P,Kaddy Camara,23,Kaddy Sawaneh,Yusupha Camara,12,7220376,,,BURONG,live Birth,07/08/2024,,,
+EDN1429-D,IN-M-245J,05-003-033J,Nadinding Njai,11,Jai Barrow,Masanneh Njai,21,,,,JALI,live Birth,30/08/2024,,,
+EDN1585-E,IN-M-249K,29-024-032Y,Binta Sise,29,Aminata Sise,Ebrima Sise,94,2823392,,,KENEBA,live Birth,23/08/2024,,,
+EDN1089-N,IN-M-263A,06-015-015T,Fatou Bajo,31,Sally Njai,Bunja Bajo,4,,,,SANDENG,live Birth,18/08/2024,,,
+EDN0824-J,IN-M-267C,11-054-003Z,Mami Darboe,11,Fatoumata Drammeh,Bunja Darboe,54,,,,JALI,live Birth,31/08/2024,,,
+EDN0005-K,,40-008-01,Satou Jammeh,40,Binta camara,Lamin Jammeh,8,3741305,,,WUROKANG,live Birth,13/12/2022,04/04/2024,yes,Dry Season
+EDN0017-E,,41-035-02,Kaddy Manneh,41,Musukebba Darboe,Mamadou Manneh,35,5959475,,,KWINELLA SANSANKONO,live Birth,21/12/2022,25/04/2024,yes,Dry Season
+EDN0023-C,,42-043-01,FATOU DARBOE,42,SAFFIATOU KEITA,BAKARY DARBOE,43,7778467,,,KWINELLA NIA KUNDA,live Birth,15/07/2023,25/04/2024,yes,Dry Season
+EDN0101-A,,44-014-01,nyima Demba,44,lunta sanneh,Lamin Demba,14,7650439,,,BUMARR,live Birth,21/02/2023,25/04/2024,yes,Dry Season
+EDN0132-B,,50-008-02,Penda Gibba,50,Mental sowe,demba Gibba,8,2756953,,,NEMA KUTA,live Birth,02/11/2023,,,
+EDN0137-G,,40-037-02,fatou darboe,40,Fatou jarjue,bakary darboe,37,2718283,,,WUROKANG,live Birth,22/02/2023,04/04/2024,yes,Dry Season
+EDN0164-K,,47-028-02,Aminata fadera,47,Nyomo jawara,chenba fadera,28,3609408,,,NEMA,live Birth,20/01/2023,17/04/2024,yes,Dry Season
+EDN0175-E,,54-014-02,mama fatty,54,sarjo fatty,malang fatty,14,7330906,,,MANDINA CENTRAL,live Birth,09/01/2023,25/04/2024,yes,Dry Season
+EDN0192-G,,47-001-01,Fatoumata korta,47,Aminata Fadera,Abdou korta,1,7192125,,,NEMA,live Birth,16/06/2023,17/04/2024,yes,Dry Season
+EDN0193-K,,47-027-01,Isatou jawara,47,mama Fadera,Bakary jawara,27,7595634,2351535,,NEMA,live Birth,13/04/2023,17/04/2024,yes,Dry Season
+EDN0194-H,,47-028-01,Aminata Fadera,47,Fatou Cham,ousman Fadera,28,2319630,,,NEMA,live Birth,24/01/2023,17/04/2024,yes,Dry Season
+EDN0216-J,,47-008-01,isatou fadera,47,saffiatou fadera,lamin fadera,8,2541913,,,NEMA,live Birth,13/12/2022,17/04/2024,yes,Dry Season
+EDN0220-C,,47-035-01,Hawa Fadera,47,Mbsally fadera,Alagie Ansumana Fadera,35,7297790,,,NEMA,live Birth,06/01/2024,,,
+EDN0224-E,,47-021-01,Fatou jallow,47,Dado sowe,Daddy jallow,21,7423372,,,NEMA,live Birth,20/11/2023,,,
+EDN0265-E,,47-027-02,Tida korta,47,Musuding fadera,yusupha korta,27,7595634,,,NEMA,live Birth,28/06/2023,17/04/2024,yes,Dry Season
+EDN0266-F,,48-001-02,Fatou Suso,48,Jankeh,Bakary Suso,1,2416966,3733695,3733695,KUNDANG NUMU KUNDA,live Birth,27/01/2023,25/04/2024,yes,Dry Season
+EDN0285-C,,52-069-06,Kani M Trawally,52,Ansata Manneh,Abdou Trawally,69,7291840,3246530,,MADINA ANGALLEH,live Birth,30/12/2022,25/04/2024,no,Dry Season
+EDN0290-B,,52-063-02,Fatoumata sey,52,Awa jobe,Saidou sey,63,7501127,,,MADINA ANGALLEH,live Birth,26/01/2024,,,
+EDN0307-C,,52-055-02,ISATOU SEY,52,JAINABA Jobe,BUBACARR SEY,55,7886001,,,MADINA ANGALLEH,live Birth,30/12/2022,25/04/2024,yes,Dry Season
+EDN0310-C,,52-057-01,Gabudeh bah,52,fatou sey,Foday bah,57,2008923,,,MADINA ANGALLEH,live Birth,29/12/2022,25/04/2024,yes,Dry Season
+EDN0315-D,,01-007-007B,Fatou Darboe,1,Mogie Colley,Momodou Darboe,7,,,,DUMBUTO,live Birth,17/02/2023,16/04/2024,yes,Dry Season
+EDN0318-K,,01-035-013F,Hawa Fadera,1,Nyomo Korta,Fabakary Fadera,35,,,,DUMBUTO,live Birth,09/01/2023,03/04/2024,yes,Dry Season
+EDN0329-J,,11-003-088S,Mariama Sise,32,Mari Jallow,Kebba Sise,14,,,,WUDEBA,live Birth,13/05/2023,25/04/2024,yes,Dry Season
+EDN0337-F,,02-048-007N,Kumba Mballow,2,Penda Bah,Ganyadou Mballow,48,,,,SANKANDI,live Birth,14/03/2024,,,
+EDN0338-J,,02-015-078A,Awa Dibba,2,Sarjo Darboe,Demba Dibba,15,,,,SANKANDI,live Birth,20/01/2023,04/04/2024,yes,Dry Season
+EDN0339-B,,02-008-008C,Isatou Manjang,2,Aminata Darboe,Pateh Manjang,8,,,,SANKANDI,live Birth,30/01/2023,04/04/2024,yes,Dry Season
+EDN0348-C,,02-048-012S,Fatou Sowe,2,Wurry Bah,Alieu Sowe,48,,,,SANKANDI,live Birth,26/01/2023,04/04/2024,yes,Dry Season
+EDN0355-C,,02-005-011V,Fatoumata Sise,2,Sona Darboe,Lamin Sise,5,,,,SANKANDI,live Birth,01/06/2023,04/04/2024,yes,Dry Season
+EDN0388-G,,05-033-024W,Nyimanding Taal,3,Sutering Kinteh,Demba Taal,75,,,,NIORO JATTABA,live Birth,14/07/2023,23/04/2024,yes,Dry Season
+EDN0400-B,,04-021-006C,Fatou Jarju,4,Fatou Touray,Manding Jarju,37,,,,JATTABA,live Birth,07/02/2023,23/04/2024,yes,Dry Season
+EDN0423-F,,03-020-021R,Dellam Touray,3,Jarra Bah,Omar Touray,20,,,,NIORO JATTABA,live Birth,25/11/2023,,,
+EDN0439-J,,27-004-002M,Tida Jarra,4,Musukebba Kinteh,Ebrima Jarra,24,,,,JATTABA,live Birth,15/02/2023,23/04/2024,yes,Dry Season
+EDN0440-E,,04-012-064E,Binta Camara,4,Sunkary Dibba,Momodou Camara,11,,,,JATTABA,live Birth,28/12/2022,23/04/2024,yes,Dry Season
+EDN0460-C,,03-066-018U,Hawa Jobe,3,Isata Jobe,Ebrima Jobe,66,,,,NIORO JATTABA,live Birth,07/04/2024,,,
+EDN0468-K,,04-007-062U,Fatou Sise,4,Jainaba Darboe,Baba Sise,7,,,,JATTABA,live Birth,02/02/2023,23/04/2024,yes,Dry Season
+EDN0478-J,,04-009-075F,Fatou Njai,31,Sutaring Marong,Massi Njai,7,,,,SANDENG,live Birth,07/02/2023,23/04/2024,no,Dry Season
+EDN0490-H,,03-053-010M,Hawa Jallow,3,Sarlujang Jallow,Lamarana Jallow,53,,,,NIORO JATTABA,live Birth,19/11/2023,,,
+EDN0511-G,,04-009-122A,Fatou Touray,4,Kala Darboe,Fakebba Touray,9,,,,JATTABA,live Birth,24/10/2023,,,
+EDN0534-B,,42-015-01,FANSAINEY CEESAY,42,MBENKINDING SAMATEH,MASANNEH CEESAY,15,2190475,2166235,,KWINELLA NIA KUNDA,live Birth,07/10/2023,,,
+EDN0538-G,,47-028-03,KADDY S FADERA,47,SUTAYRING FADERA,ANSUMANA FADERA,28,7018108,,,NEMA,live Birth,21/02/2023,,,
+EDN0552-F,,05-041-007X,Fatou Kinteh,5,Binta Barrow,Sarjo Kinteh,2,,,,JIFFARONG,live Birth,19/05/2023,,,
+EDN0557-E,,05-003-021X,Jainaba Barrow,5,Nmaa Njai,Demba Barrow,3,,,,JIFFARONG,live Birth,29/07/2023,,,
+EDN0558-C,,05-012-023D,Mama Manka,5,Jai Barrow,Nambung Manka,12,,,,JIFFARONG,live Birth,02/03/2023,,,
+EDN0578-B,,29-005-014M,Mama Sise,5,Natoma Sanyang,Masanneh Sise,65,,,,JIFFARONG,live Birth,13/07/2023,03/04/2024,yes,Dry Season
+EDN0580-C,,05-021-049H,Nyimansatou Colley,5,Moneh Sanneh,Baba Colley,21,,,,JIFFARONG,live Birth,07/02/2023,03/04/2024,yes,Dry Season
+EDN0584-E,,05-059-007F,Kaddijatou Sise,5,Aramata Sise,Fanding Sise,59,,,,JIFFARONG,live Birth,29/03/2024,,,
+EDN0592-B,,06-023-001X,Nyimansatou Bajo,5,Musukebba Daffeh,Karafanding Bajo,37,,,,JIFFARONG,live Birth,12/05/2023,30/04/2024,yes,Dry Season
+EDN0609-A,,05-037-095L,Aja Touray,5,Isatou Darboe,Sadibou Touray,83,,,,JIFFARONG,live Birth,10/07/2023,04/04/2024,no,Dry Season
+EDN0637-C,,27-005-006C,Sutering Kanteh,27,Jonfolo Janneh,Nfamara Mondo Kanteh,44,,,,JANNEH KUNDA,live Birth,20/06/2023,30/04/2024,yes,Dry Season
+EDN0652-K,,06-026-085N,Mariama Bajo,6,Penda Bajo,Karafanding Bajo,26,,,,BAJANA,live Birth,05/04/2023,03/04/2024,yes,Dry Season
+EDN0662-E,,06-001-001T,Nyimansatou Bajo,7,Fatou Bajo,Foday Bajo,26,,,,KULI KUNDA,live Birth,15/04/2023,27/03/2024,yes,Dry Season
+EDN0677-D,,27-008-004K,Binta Kanteh,27,Lalla Bajinka,Firiya Kanteh,31,,,,JANNEH KUNDA,live Birth,25/04/2024,,,
+EDN0678-F,,27-043-001L,Jainaba Manjang,27,Jainaba Janneh,Nyakassi Manjang,43,,,,JANNEH KUNDA,live Birth,23/05/2023,,,
+EDN0701-G,,07-010-002M,Alimatou Njai,7,Jomma Njai,Bafoday Njai,10,,,,KULI KUNDA,live Birth,28/06/2023,27/03/2024,yes,Dry Season
+EDN0702-H,,07-002-009B,Fatou Njai,7,Jajeh Sise,Juka Njai,2,,,,KULI KUNDA,live Birth,06/11/2023,,,
+EDN0706-K,,07-034-014A,Nyimansatou Jallow,7,Jatou Jallow,Mamadou Fajo Jallow,34,,,,KULI KUNDA,live Birth,11/02/2023,27/03/2024,yes,Dry Season
+EDN0710-K,,07-036-001L,Binta Njai,7,Isatou Minteh,Manlafi Njai,36,,,,KULI KUNDA,live Birth,28/12/2022,27/03/2024,yes,Dry Season
+EDN0714-G,,07-031-018U,Hulay Sowe,7,Isatou Sowe,Mamadou Sowe,31,,,,KULI KUNDA,live Birth,10/12/2023,,,
+EDN0717-C,,05-030-007V,Nyimansatou Njai,7,Banna Drammeh,Afang Munya Njai,36,,,,KULI KUNDA,live Birth,11/02/2023,27/03/2024,yes,Dry Season
+EDN0732-J,,07-006-031T,Sonna Njai,7,Banna Njai,Foday Njai,56,,,,KULI KUNDA,live Birth,07/02/2023,27/03/2024,yes,Dry Season
+EDN0733-B,,13-001-013Z,Jaciatou Sanyang,8,Sarjonding Darboe,Alhagie Burama Sanyang,7,,,,JAMARU,live Birth,15/04/2023,25/04/2024,yes,Dry Season
+EDN0734-E,,07-056-007X,Oulimatou Sarr,7,Fadi Secka,Ousman Sarr,56,,,,KULI KUNDA,live Birth,25/11/2023,,,
+EDN0742-E,,08-003-005X,Kaddijatou Njai,8,Boma Njai,Masanneh Njai,3,,,,JAMARU,live Birth,16/02/2023,24/04/2024,yes,Dry Season
+EDN0748-B,,09-002-067J,Tuti Gomez,9,Zenith Gomez,Paul Gomez,13,,,,BRIKAMANDING,live Birth,12/07/2023,,,
+EDN0752-A,,10-008-025B,Mariama Sise,10,Mbassy Sise,Yaya Sise,23,,,,KANTONG KUNDA,live Birth,02/01/2023,27/03/2024,yes,Dry Season
+EDN0768-E,,24-025-019F,Kaddy Daffeh,26,Fatou Mama Darboe,Buba Daffeh,1,,,,MANDINA,live Birth,16/04/2023,30/04/2024,yes,Dry Season
+EDN0817-J,,11-026-049V,Jainaba Kanteh,11,Jonfolo Barrow,Bakary Kanteh,26,,,,JALI,live Birth,14/10/2023,,,
+EDN0819-D,,11-045-008A,Yai Samateh,11,Jainaba Drammeh,Buramanding Samateh,45,,,,JALI,live Birth,22/10/2023,,,
+EDN0835-J,,22-008-006U,Hawa Jadama,23,Nyimanding Sanyang,Alfusaine Jadama,6,,,,BURONG,live Birth,17/04/2023,30/04/2024,yes,Dry Season
+EDN0867-F,,16-032-004O,Fatou Njai Janneh,16,Kafeley Sise,Saikouba Janneh,32,,,,TANKULAR,live Birth,28/01/2024,,,
+EDN0873-B,,13-012-171D,Aminata Saidy,13,Isatou Jaiteh,Kebba Saidy,6,,,,MANDUAR,live Birth,14/05/2023,27/03/2024,yes,Dry Season
+EDN0885-G,,18-008-011V,Ndey Bah,13,Kamaranding Camara,Saraba Bah,6,,,,MANDUAR,live Birth,07/05/2023,27/03/2024,no,Dry Season
+EDN0888-B,,13-033-035P,Fatou Cham,13,Kaddy Sanyang,Bubacarr Cham,33,,,,MANDUAR,live Birth,20/04/2023,27/03/2024,no,Dry Season
+EDN0904-A,,29-022-018M,Jainaba Minteh,29,Jarra Bajo,Afang Kemo Minteh,80,,,,KENEBA,live Birth,24/09/2023,,,
+EDN0926-J,,29-033-011H,Nyima Minteh,29,Kaddy Buteh Sise,Momodou Minteh,33,,,,KENEBA,live Birth,08/01/2023,02/05/2024,yes,Dry Season
+EDN0972-F,,25-008-051D,Kaddy Jarjou,25,Nyimanding Marri,Fakebba Jarju,8,,,,KARANTABA,live Birth,26/06/2023,02/05/2024,yes,Dry Season
+EDN1004-D,,42-032-01,Fatou Darboe,42,Natoma kanteh,Bakary Darboe,32,7480516,5074917,,KWINELLA NIA KUNDA,live Birth,14/10/2023,,,
+EDN1072-V,,11-003-039V,Mariama Samateh,25,Mai Drammeh,Sambou Samateh,20,,,,KARANTABA,live Birth,27/11/2023,,,

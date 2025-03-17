@@ -1,0 +1,206 @@
+participant_id,wk_ckno,cconsent,consent_form_date_q10,consent_complete,sen_outcome,compoundno,redcap_repeat_instance,enu_village,enu_comp,enu_date,enu_name,enu_dob,enu_mname,enu_fname,enu_age,enu_dob_estimated,enu_dobsource,enu_sensitisation,sen_date,sen_visitstatus,sen_comment,sen_ppregnant,sen_explained,sen_icd_given,sen_contact1,sen_contact2,sen_contact3,sen_contact4,sen_staffid,enumeration_and_sensitisation_complete
+,02-015-015,,,,1,02-015,15,SANKANDI,015,2024-07-08,Binta Sawo,2003-09-17,Mariama Fofana,Malamin Sawo,20.81,0,2,1,2024-07-08,1,,1,1,1,3256760,,,,kyceesay,2
+,02-020-020C,,,,1,02-020,1,SANKANDI,020,2023-10-02,Ramata Jallow,1998-07-02,Hawa Bah,Amadou Jallow,25.25,1,5,1,2023-10-02,1,Undecided ,0,1,,,,,,okambi,2
+,03-052-018I,,,,1,03-008,2,JATTABA,008,2024-03-21,Tabara Jallow,1999-12-15,Kumba Jallow,Babagalleh Jallow,24.27,0,5,1,2024-03-21,1,,0,1,0,,,,,mymbah,2
+,03-015-008W,,,,1,03-015,1,JATTABA,015,2024-03-21,Hawayel Bah,1985-04-11,Isata Jobe,Momodou Bah,38.94,0,1,1,2024-03-21,1,,0,1,0,5237135,,,,mymbah,2
+,03-021-057N,,,,1,03-021,5,JATTABA,021,2024-03-21,Mariama Jobe,2005-07-02,Sarjo Sowe,Alh Dawda Jobe,18.72,1,5,1,2024-03-21,1,,0,1,0,3084707,,,,mymbah,2
+,03-027-018U,,,,1,03-027,4,JATTABA,027,2024-03-21,Fatoumata Jobe,1987-06-09,Isatou Bah,Ebrima Jobe,36.78,1,5,1,2024-03-21,1,,0,1,0,2154954,,,,mymbah,2
+,03-027-058I,,,,1,03-027,7,JATTABA,027,2024-03-21,Jainaba Sonko,1995-07-02,Yassin Jallow,Yaya Sonko,28.72,1,5,1,2024-03-21,1,,0,1,0,3961621,,,,mymbah,2
+,03-037-025R,,,,1,03-037,2,JATTABA,037,2024-03-21,Mahani Bah,1995-07-02,Jarra Jallow,Alhagie Bocarr Bah,28.72,0,5,1,2024-03-21,1,,0,1,0,5843822,,,,mymbah,2
+,04-017-007H,,,,1,03-055,7,JATTABA,055,2024-03-21,Sirra Kebbeh,1995-07-02,Fatou Sowe,Abdoulie Kebbeh,28.72,1,5,1,2024-03-21,1,,1,1,0,7622711,,,,mymbah,2
+,03-059-010G,,,,1,03-059,3,JATTABA,059,2024-03-21,Dellam Bah,1984-08-09,Jaila Bah,Alh. Ebrima Bah,39.61,0,5,1,2024-03-21,1,,0,1,0,2427909,,,,mymbah,2
+,03-072-019P,,,,1,03-072,2,JATTABA,072,2024-03-21,Kaddijatou Jobe,2000-07-02,Fatoumata Jobe,Omar Jobe,23.72,1,5,1,2024-03-21,1,,0,1,0,5154019,,,,mymbah,2
+,03-042-006G,,,,1,03-080,1,JATTABA,080,2024-03-21,Jarra Sowe,1989-02-17,Musukoi Gano,Juka Sowe,35.09,0,5,1,2024-03-21,1,,0,1,0,3284265,,,,mymbah,2
+,33-003-009N,,,,1,03-080,2,JATTABA,080,2024-03-21,Jarra Bah,1984-07-02,Jaila Sowe,Bokary Bah,39.72,1,5,1,2024-03-21,1,,0,1,0,3284265,,,,mymbah,2
+,03-085-002Y,,,,1,03-085,2,JATTABA,085,2024-04-15,Fatoumata Jobe,1987-09-12,Jaila Bah,Bakary Jobe,36.59,0,2,1,2024-04-15,1,,0,1,0,3788862,,,,mjarjusey,2
+,04-003-031T,,,,1,04-003,5,,003,2024-06-26,Kaddy Marong,1995-03-04,Natoma Manneh,Lanba Marong,29.31,1,5,1,2024-06-26,1,,1,1,0,5084420,,,,kyceesay,2
+,04-014-012C,,,,1,04-014,1,,014,2024-03-18,Aja Njai,1993-04-25,Kaddy Darboe,Kemo Njai,30.9,0,2,1,2024-03-18,1,,0,1,0,5255172,7264819,,,mymbah,2
+,04-021-020Q,,,,1,04-021,1,,021,2024-03-18,Binta Manneh,1988-06-16,Anna Manneh,Gissay Manneh,35.75,0,1,1,2024-03-18,1,,0,1,0,2389777,3382732,,,mymbah,2
+,04-021-029Z,,,,1,04-021,2,,021,2024-03-18,Kaddy Chatty,2002-04-02,Binta Suwareh,Kemo Chatty,21.96,0,1,1,2024-03-18,1,,0,1,0,3532371,,,,mymbah,2
+,04-024-054I,,,,1,04-024,2,,024,2024-03-18,Isatou Sanneh,1991-05-11,Hawa Sise,Lamin Sanneh,32.85,0,5,1,2024-03-18,1,,0,1,0,2692037,,,,mymbah,2
+,04-024-066U,,,,1,04-024,3,,024,2024-03-18,Lalla Keita,1992-02-18,Saiya Touray,Mafugi Keita,32.08,0,1,1,2024-03-18,1,,0,1,0,2238011,,,,mymbah,2
+,04-025-073N,,,,1,04-025,2,,025,2024-03-18,Hawa Sanyang,2003-05-27,Mati Sanyang,Demba Sanyang,20.81,0,2,1,2024-03-18,1,,0,1,0,2417776,,,,mymbah,2
+,06-017-023Z,,,,1,04-031,1,,031,2024-03-18,Jainaba Touray,1988-07-02,Terema Joof,Lang Touray,35.71,1,5,1,2024-03-18,1,,0,1,0,5890502,,,,mymbah,2
+,04-037-05,,,,1,04-037,5,,037,2024-07-09,Bintou Touray,1988-11-03,Terema Joof,Lang Touray,35.68,1,1,1,2024-07-09,1,,1,1,0,,,,,kyceesay,2
+,04-005-037X,,,,1,04-052,1,,052,2024-03-18,Harry Baldeh,1990-03-16,Gibba Kanteh,Mama Suma Baldeh,34.01,0,1,1,2024-03-18,1,,0,1,0,5364360,7856371,,,mymbah,2
+,04-005-044E,,,,1,04-052,2,,052,2024-03-18,Njaimeh Jallow,2004-06-16,Fatoumata Baldeh,Yerro Jallow,19.75,0,2,1,2024-03-18,1,,0,1,0,6273354,,,,mymbah,2
+,04-048-003L,,,,1,04-053,1,,053,2024-03-18,Mariama Jallow,2000-03-15,Mariama Jallow,Muhammed Jallow,24.01,0,1,1,2024-03-18,1,,0,1,0,5923902,,,,mymbah,2
+,04-055-002Q,,,,1,04-055,1,,055,2024-03-18,Jainaba Jallow,1995-07-02,Fatou Sowe,Mamudou Jallow,28.71,1,5,1,2024-03-18,1,,0,1,0,5337365,,,,mymbah,2
+,03-052-037B,,,,1,04-058,1,,058,2024-03-18,Aminata Jallow,1989-04-15,Binta Jallow,Yunusa Jallow,34.92,0,2,1,2024-03-18,1,,0,1,0,3059691,,,,mymbah,2
+,03-052-047L,,,,1,04-058,2,,058,2024-03-18,Fatoumata Binta Jallow,1996-12-31,Adama Wurri Jallow,Alimu Jallow,27.21,0,5,1,2024-03-18,1,,0,1,0,3484040,,,,mymbah,2
+,04-025-080U,,,,1,04-059,1,,059,2024-03-18,Wurry Jallow,1996-07-02,Fatoumata Binta Jallow,Momodou Jang Jallow,27.71,1,5,1,2024-03-18,1,,0,1,0,5923870,,,,mymbah,2
+,04-059-003N,,,,1,04-059,2,,059,2024-03-18,Mariama Jallow,1987-07-02,Isatou Jallow,Ebrima Jallow,36.71,1,5,1,2024-03-18,1,,0,1,0,2356409,,,,mymbah,2
+,05-038-003J,,,,1,05-038,1,JIFFARONG,038,2024-04-24,Hawa Kinteh,1999-04-21,Fatoumata Barrow,Sue Kinteh,25.01,0,5,1,2024-04-24,1,,0,1,1,3135869,7828906,,,ljatta,2
+,10-005-007Z,,,,1,07-011,3,KULI KUNDA,011,2024-03-14,Binta Sise ,1989-06-29,Fatoumata Sise ,Lamin Sise ,34.71,0,5,1,2024-03-14,1,,0,1,1,2768838,,,,tdrammeh,2
+,07-011-006C,,,,1,07-011,1,KULI KUNDA,011,2024-03-18,Mariama Njai,2004-03-03,Kaddy Njai,Alimameh Njai,20.04,0,5,1,2024-03-18,1,,0,1,1,7345405,,,,tdrammeh,2
+,05-040-033L,,,,1,07-013,1,KULI KUNDA,013,2024-03-14,Mariama Jallow,1992-07-02,Fatoumata Jallow,Amadou Jallow,31.7,1,5,1,2024-03-14,1,,0,1,1,7672292,,,,hceesay,2
+,07-015-013F,,,,1,07-015,2,KULI KUNDA,015,2024-03-20,Fatoumata Njai,1988-03-10,Natoma Njai,Karamba Njai,36.03,0,5,1,2024-03-20,1,,0,1,0,,,,,tdrammeh,2
+,10-016-042K,,,,1,07-020,1,KULI KUNDA,020,2023-08-24,Fatoumata Dumbuya,2000-03-17,Isatou Sidibeh,Amadou Wurry,23.44,0,5,1,2024-04-24,1,,0,1,0,,,,,hceesay,2
+,08-001-011F,,,,1,07-021,5,KULI KUNDA,021,2024-03-14,Isatou Manneh,1998-08-08,Kadijatou Sonko,Buya Manneh,25.6,0,5,1,2024-03-14,1,,0,1,1,2865254,,,,tdrammeh,2
+,07-029-042U,,,,1,07-029,4,KULI KUNDA,029,2024-03-14,Binta  Sanyang ,1984-03-20,Amie Sanyang ,Babucarr Sanyang ,39.98,0,5,1,2024-03-14,1,,0,1,1,7248583,5215927,,,tdrammeh,2
+,07-010-013X,,,,1,07-029,1,KULI KUNDA,029,2024-03-14,Jainaba Njai,1994-02-07,Musukebba Njai,Bafoday Njai,30.1,1,5,1,2024-03-14,1,,1,1,1,,,,,hceesay,2
+,07-030-030U,,,,1,07-030,3,KULI KUNDA,030,,Isatou Njai,2002-03-18,Mai Darboe,Yaya Njai,,0,5,1,2022-06-28,1,,0,,1,,,,,,2
+,07-063-002Y,,,,1,07-063,4,KULI KUNDA,063,2024-03-18,Juliana Mendy,1997-12-03,Anslick Loppy,Joseph Mendy,26.29,0,5,1,2024-03-18,1,,0,1,1,3547269,,,,tdrammeh,2
+,07-063-008E,,,,1,07-063,7,KULI KUNDA,063,2024-03-18,Kumba Sise,1994-01-18,Jaria Sallah,Musa Sise,30.16,0,5,1,2024-03-18,1,,0,1,1,3247492,,,,tdrammeh,2
+,11-034-090C,,,,1,11-034,4,JALI,034,2024-03-20,Isatou Drammeh,1993-05-18,Jewunding Samateh,Baba Kadi Drammeh,30.84,0,5,1,2024-03-20,1,,0,1,0,3028887,2019546,,,tdrammeh,2
+,26-011-018U,,,,1,13-001,4,MANDUAR,001,2024-03-20,Jainaba Colley,2002-03-03,Duto Demba,Ismaila Colley,22.05,0,5,1,2024-03-20,1,,0,1,1,3204591,5345026,,,fnjie,2
+,17-001-013D,,,,1,13-002,2,MANDUAR,002,2024-03-20,Nyimansatou Camara,2003-03-08,Borry Drammeh,Masanneh Camara,21.04,0,5,1,2024-03-20,1,,0,1,1,5015146,,,,fnjie,2
+,25-011-319V,,,,1,13-002,3,MANDUAR,002,2024-03-20,Nyimansatou Fofana,1994-07-02,Kaita Kambi,Mafoday Fofana,29.72,0,5,1,2024-03-20,1,,0,1,1,2651087,,,,fnjie,2
+,13-009-003H,,,,1,13-005,4,MANDUAR,005,2024-03-21,Bintou Dampha,1989-06-24,Arokey Jammeh,Yaya Dampha,34.74,0,5,1,2024-03-21,1,,0,1,1,5313010,,,,fnjie,2
+,13-007-038S,,,,1,13-007,1,MANDUAR,007,2024-03-21,Awa Sowe,1990-02-03,Mariama Bah,Yerro Sowe,34.13,0,5,1,2024-03-21,1,,0,1,1,3197949,,,,fnjie,2
+,13-025-003R,,,,1,13-009,2,MANDUAR,009,2024-03-25,Fatou Njai,1999-11-11,Tumbulu Daffeh,Sambujang Njai,24.37,0,5,1,2024-03-25,1,,0,1,1,3590086,,,,fnjie,2
+,13-010-038C,,,,1,13-010,2,MANDUAR,010,2024-03-21,Fansaine Badjie,1988-05-21,Adama Gibba,Bakary Badjie,35.83,0,5,1,2024-03-21,1,,0,1,1,5009822,,,,fnjie,2
+,16-001-103B,,,,1,16-001,5,TANKULAR,001,2024-03-22,Mariama Drammeh,1985-07-02,Binta Sanneh,Jerreh Drammeh,38.72,1,5,1,2024-03-22,1,,0,1,1,No phone,,,,fnjie,2
+,07-007-033H,,,,1,16-004,1,TANKULAR,004,2024-03-22,Binta Sise,1988-07-02,Boto Njai,Babanding Sise,35.72,1,4,1,2024-03-22,1,,0,1,1,5444573,,,,fnjie,2
+,16-004-129L,,,,1,16-004,3,TANKULAR,004,2024-03-22,Nyarra Bass,1988-02-11,Nifie Marri,Mamadou Bass,36.11,0,5,1,2024-03-22,1,,0,1,1,5047399,,,,fnjie,2
+,16-006-052K,,,,1,16-006,2,TANKULAR,006,2024-03-22,Lissa Kassama,2005-02-02,Mariatou Camara,Fabakary Kassama,19.13,0,5,1,2024-03-22,1,,0,1,1,,,,,fnjie,2
+,16-014-021X,,,,1,16-006,4,TANKULAR,006,2024-03-22,Kaddy Drammeh,2005-04-25,Fatou Sise,Dembo Drammeh,18.91,0,5,1,2024-03-22,1,,0,1,1,3657344,,,,fnjie,2
+,16-019-045D,,,,1,16-019,2,TANKULAR,019,2024-03-24,Mai Drammeh,2005-02-16,Binta Jaiteh,Babanding Drammeh,19.1,0,5,1,2024-03-24,1,,1,1,1,9934155,,,,fnjie,2
+,27-034-038S,,,,1,16-030,4,TANKULAR,030,2024-03-24,Binta Sanyang,1997-09-30,Fatou Sanneh,Sulayman Sanyang,26.48,1,5,1,2024-03-24,1,,0,1,1,5929137,,,,fnjie,2
+,29-073-005N,,,,1,16-030,5,TANKULAR,030,2024-04-16,Nyimansatou Sise,1991-09-14,Ida Sise,Sankung Sise,32.59,0,5,1,2024-04-16,1,,0,1,1,3066183,,,,fnjie,2
+,16-040-015R,,,,1,16-040,2,TANKULAR,040,2024-04-23,Isatou Njai,2003-10-02,Fatou Sise,Sulayman Njai,20.56,0,5,1,2024-04-23,1,,0,1,1,3547104,6453389,,,abdjallow,2
+,21-002-033N,,,,1,21-002,2,MISSIRA,002,2023-09-11,Fatou Kanteh,1994-07-02,Isatou Bah,Amadou Kanteh,29.19,1,5,1,2023-09-11,1,,0,0,0,,,,,hassum,2
+,23-013-003N,,,,1,22-001,3,TABORANGKOTO,001,2024-03-26,Aminata Sanyang,2000-12-18,Kaddy Jadama,Ebrima Sanyang,23.27,0,5,1,2024-03-26,1,,1,1,1,,,,,dembaajallow,2
+,22-004-006Y,,,,1,22-001,2,TABORANGKOTO,001,2024-03-26,Jamiatou Gassama,1989-11-03,Alimatou Darboe,Mamadou L. Gassama,34.39,0,5,1,2024-03-26,1,,0,0,0,,,,,dembaajallow,2
+,22-004-012E,,,,1,22-004,1,TABORANGKOTO,004,2024-03-26,Jainaba Darboe,1989-07-02,Nyimanding Bojang,Alieu Darboe,34.73,1,5,1,2024-03-26,1,,0,1,1,,,,,dembaajallow,2
+,21-001-013H,,,,1,22-005,1,TABORANGKOTO,005,2024-03-26,Fatou Njai Camara,1999-09-30,Hawa Gibba,Landing Camara,24.49,0,5,1,2024-03-26,1,,0,1,1,3619426,,,,dembaajallow,2
+,27-026-005T,,,,1,22-007,3,TABORANGKOTO,007,2024-03-26,Isatou Bojang,1989-08-16,Kitim Danso,Saikally Bojang,34.61,0,5,1,2024-03-26,1,,0,1,1,5327710,,,,dembaajallow,2
+,22-009-009J,,,,1,22-009,1,TABORANGKOTO,009,2024-03-26,Binta Sanyang,2000-11-30,Aminata Sise,Famara Sanyang,23.32,0,5,1,2024-03-26,1,,0,1,1,,,,,dembaajallow,2
+,23-003-024S,,,,1,23-001,10,BURONG,001,2024-03-26,Mariama Suwareh,1989-07-02,Metta Bajo,Sarjo Suwareh,34.73,0,5,1,2024-03-26,1,,0,1,1,2156121,,,,dembaajallow,2
+,24-017-013H,,,,1,23-017,5,BURONG,017,2024-03-26,Fatou Sanyang,1996-05-02,Kaddy Sanneh,Junkung Sanyang,27.9,0,5,1,2024-03-26,1,,0,1,1,,,,,dembaajallow,2
+,23-001-066K,,,,1,23-023,2,BURONG,023,2024-03-26,Mariama Colley,1994-10-26,Jalika Kambi,Momodou Colley,29.42,0,5,1,2024-03-26,1,,0,1,1,,,,,dembaajallow,2
+,26-001-091Z,,,,1,26-001,4,MANDINA,001,2024-03-26,Alima Beyia,2002-07-02,Binta Gibba,Mutarr Beyia,21.73,1,5,1,2024-03-26,1,,0,1,1,,,,,dembaajallow,2
+,17-002-018U,,,,1,26-007,1,MANDINA,007,,Fatoumata Kuyateh,1992-11-19,Sutay Camara,Karamo Kuyateh,,0,5,1,2022-07-14,1,,1,,1,,,,,,2
+,27-007-013H,,,,1,27-007,2,JANNEH KUNDA,007,2024-03-20,Alima Janneh,1985-09-02,Haminata Samateh,Momodou Janneh,38.55,0,5,1,2024-03-20,1,,1,1,1,,,,,asejatta,2
+,27-011-030U,,,,1,27-011,2,JANNEH KUNDA,011,2023-09-13,Hawa Jallow,1998-01-22,Sirah Jallow,Mamadou Jallow,25.64,0,5,1,2023-09-13,1,,1,1,1,3732245,,,,hassum,2
+,29-004-299Z,,,,1,29-004,10,KENEBA,004,2024-03-07,Aminata  Sise,2005-08-14,Njonji Maria Bajo,Fabakary Sise,18.56,0,5,1,2024-03-07,1,,0,1,1,,,,,bceesay,2
+,29-018-029B,,,,1,29-004,11,KENEBA,004,2024-03-06,Binta Sise,2005-01-14,Bintou Sise,Seedia Sise,19.14,0,5,1,2024-03-06,1,,0,1,1,2952448,,,,bceesay,2
+,29-008-050G,,,,1,29-008,1,KENEBA,008,2024-03-26,Fatoumata Sise,2000-03-02,Binta Minteh,Sulayman Sise,24.07,0,5,1,2024-03-26,1,,0,1,1,5948212,,,,bceesay,2
+,29-031-027Z,,,,1,29-014,6,KENEBA,014,2024-03-06,Kaddy Sise,1987-07-06,Wandifeng Sise,Sulayman Sise,36.67,0,5,1,2024-03-19,1,,0,1,1,7728925,,,,amjoof,2
+,29-103-004I,,,,1,29-014,12,KENEBA,014,2024-03-06,Jarra Sise,1992-07-15,Fatoumata Sise,Jamanty Sise,31.64,0,5,1,2024-03-06,1,,0,1,1,2935978,,,,amjoof,2
+,29-028-014C,,,,1,29-017,2,KENEBA,017,2024-03-06,Fatoumata Sanyang,1984-07-11,Karafanding Sise,Saidy Sanyang,39.65,0,5,1,2024-03-06,1,,0,1,1,7108014,,,,amjoof,2
+,29-014-175V,,,,1,29-023,1,KENEBA,023,2024-03-07,Jalika  Minteh,1998-07-02,Burending Nyimanding Sise,Dauda Minteh,25.68,1,5,1,2024-03-07,1,,0,1,1,7042461,,,,bceesay,2
+,29-050-012E,,,,1,29-050,1,KENEBA,050,2024-03-06,Fatoumata Barrow,2004-09-26,Isatou Sise,Baba Barrow,19.44,0,5,1,2024-03-06,1,,0,1,1,2128912,,,,bceesay,2
+,29-101-007N,,,,1,29-101,3,KENEBA,101,2024-03-21,Mariama Jallow,2005-04-06,Mariama Sise,Kebba Jallow,18.96,0,5,1,2024-03-21,1,,1,1,1,5243572,,,,bceesay,2
+,29-014-047X,,,,1,29-105,1,KENEBA,105,2024-03-18,Fatoumata Minteh,1989-10-26,Jonfolo Sise,Dodou Minteh,34.39,0,5,1,2024-03-18,1,,0,1,1,3508046,,,,bceesay,2
+,29-015-006U,,,,1,29-105,2,KENEBA,105,2024-03-18,Aminata Sise,1996-05-23,Ouminding Minteh,Mbemba Sise,27.82,0,5,1,2024-03-18,1,,0,1,1,3512002,2537159,,,bceesay,2
+,29-037-079T,,,,1,29-111,2,KENEBA,111,2024-03-20,Penda Kanteh,1992-07-02,Sirra Jallow,Benteh Kanteh,31.72,1,5,1,2024-03-20,1,,0,1,0,7410102,,,,bceesay,2
+,29-018-025X,,,,1,29-113,1,KENEBA,113,2024-03-20,Aminata Sise,1995-04-25,Filijey Bajo,Lamin Sise,28.9,0,5,1,2024-03-20,1,,1,1,0,,,,,bceesay,2
+,29-032-023H,,,,1,29-113,2,KENEBA,113,2024-03-06,Alimatou Sise,1995-05-19,Ara Sise,Yaya Sise,28.8,0,5,1,2024-03-06,1,,0,1,0,2305467,5334478,,,bceesay,2
+,29-113-015J,,,,1,29-113,3,KENEBA,113,2024-03-21,Jariatou Bajo,2005-02-15,Kaddijatou Sise,Abdoulie Bajo,19.09,0,5,1,2024-03-21,1,,1,1,1,2855930,,,,bceesay,2
+,29-013-031V,,,,1,29-122,1,KENEBA,122,2024-03-07,Binta Sanyang,2004-06-06,Sonna Sise,Yahya Sanyang,19.75,0,5,1,2024-03-07,1,,0,1,0,2025477,,,,bceesay,2
+,29-013-075N,,,,1,29-123,1,KENEBA,123,2024-03-22,Adama Jallow,2004-03-07,Habby Sise,Musa Sise,20.04,0,5,1,2024-03-22,1,,0,1,1,3798759,,,,bceesay,2
+,29-031-034G,,,,1,29-126,1,KENEBA,126,2024-03-20,Amie Dampha,2000-03-05,Ndey Sise,Tunko Dampha,24.04,0,5,1,2024-03-20,1,,0,1,0,3737184,,,,bceesay,2
+,29-115-006Y,,,,1,29-132,1,KENEBA,132,2024-03-20,Fatou Minteh,1994-12-10,Naba Sise,Momodou Minteh,29.28,0,5,1,2024-03-20,1,,0,1,0,3130203,,,,bceesay,2
+,13-022-003H,,,,1,29-135,1,KENEBA,135,2024-03-21,Sira Bah,1994-07-02,Fatoumata Jallow,Kasum Bah,29.72,1,5,1,2024-03-21,1,,0,1,1,2212937,7876627,,,bceesay,2
+,13-004-043N,,,,1,29-136,1,KENEBA,136,2024-03-21,Alimatou Darboe,1995-02-21,Kabba Jammeh,Fansu Darboe,29.08,0,5,1,2024-03-21,1,,0,1,1,3895050,7326017,,,bceesay,2
+,30-008-047R,,,,1,30-008,2,BATELLING,008,2024-04-16,Kaddy Barrow,1997-07-02,Oumie Demba,Yaya Barrow,26.79,1,5,1,2024-04-16,1,,0,1,0,5178831,,,,kaceesay,2
+,30-010-027V,,,,1,30-010,2,BATELLING,010,2024-04-16,Isatou Darboe,2001-02-10,Nyimansatou Demba,Bakary Darboe,23.18,0,5,1,2024-04-16,1,,0,1,0,,,,,kaceesay,2
+,30-012-015H,,,,1,30-012,1,BATELLING,012,2024-04-16,Amie Sillah,2001-07-02,Kanja Dibba Sey,Saikou Sillah,22.79,0,5,1,2024-04-16,1,,0,1,0,,,,,kaceesay,2
+,30-023-007B,,,,1,30-023,1,BATELLING,023,2024-04-16,Fatou Camara,1990-03-20,Satou Darboe,Lang Camara,34.08,0,5,1,2024-04-16,1,,0,1,0,3684515,3178091,,,kaceesay,2
+,30-028-002E,,,,1,30-028,2,BATELLING,028,2024-03-27,Maimuna Sowe,2003-04-23,Fatou Bah,Alieu Sowe,20.93,0,5,1,2024-03-27,1,,0,1,0,5104394,,,,kaceesay,2
+,31-009-010G,,,,1,31-009,1,SANDENG,009,2024-03-19,Hawa Sise,2002-08-19,Musukebba Sise,Lamin Sise,21.58,0,5,1,2024-03-19,1,,0,1,0,2770862,,,,mymbah,2
+,31-010-016Y,,,,1,31-010,2,SANDENG,010,2024-03-19,Mariama Bah,2004-07-02,Fatou Bah,Demba Bah,19.71,0,5,1,2024-03-19,1,,0,1,0,7371315,,,,mymbah,2
+,32-010-006C,,,,1,32-022,2,WUDEBA,022,2024-04-17,Fanta Jallow,2004-09-11,Mariama Jallow,Kamisa Jallow,19.6,0,5,1,2024-04-17,1,,1,1,1,3475251,,,,hceesay,2
+,32-009-014Y,,,,1,32-022,1,WUDEBA,022,,Mariatou Jallow,1999-05-07,Kumba Jallow,Bubacarr Jallow,,1,5,1,2024-04-25,1,,1,1,1,3103458,,,,kyceesay,2
+,07-042-007L,,,,1,34-001,1,KENOKOTO,001,2023-09-19,Jainaba Kandeh,1998-04-02,Bonani Baldeh,Bubacarr Kandeh,25.47,0,5,1,2023-09-19,1,,0,1,1,,,,,lcham,2
+,40-007-08,,,,1,40-007,8,WUROKANG,007,2024-03-06,Jarrah Sabally,1975-08-06,Kuta Yarbo,Morrikebba Sabally,48.58,0,2,1,2024-03-06,1,,0,1,1,3082465,,,,lcham,2
+,40-007-06,,,,1,40-007,6,WUROKANG,007,2024-03-06,Musukebba Camara,1974-09-20,Fatoumata Camara,Yoboo Camara,49.46,0,2,1,2024-03-06,1,,0,1,1,3547871,,,,lcham,2
+,40-017-01,,,,1,40-017,1,WUROKANG,017,2024-03-06,Fatou Touray,2001-06-03,Rokey Soley,Bukarr Touray,22.76,0,1,1,2024-03-06,1,,0,1,1,3409629,,,,ncamara,2
+,40-025-11,,,,1,40-025,11,WUROKANG,025,2024-03-06,Kaddy Sonko,2003-03-22,Sonna Touray,Malang Sonko,20.96,0,2,1,2024-03-06,1,,0,1,1,2333156,,,,ncamara,2
+,40-037-03,,,,1,40-037,3,WUROKANG,037,2024-03-06,SAINABOU CEESAY,1993-10-17,MARIAMA JARRA,SAIKOU CEESSY,30.39,0,1,1,2024-03-06,1,,0,1,1,7627278,,,,ncamara,2
+,40-038-02,,,,1,40-038,2,WUROKANG,038,2024-03-06,Fatoumatta  Camara,1970-07-19,Fanta Sunkary Camara,Sanna Camara,53.63,0,1,1,2024-03-06,1,,0,1,1,2525660,,,,lcham,2
+,40-038-03,,,,1,40-038,3,WUROKANG,038,2024-03-06,Mariama  Jallow,1975-07-02,Isatou  Jallow,Ismaila Jallow,48.68,0,1,1,2024-03-06,1,,0,1,1,5843496,7586699,,,lcham,2
+,41-004-07,,,,1,41-004,7,KWINELLA SANSANKONO,004,2024-03-06,Fatou Saidy,1990-08-10,Nato Jammeh,Kebbaring Saidy,33.57,0,1,1,2024-03-06,1,,0,1,1,5395988,,,,kyceesay,2
+,41-004-09,,,,1,41-004,9,KWINELLA SANSANKONO,004,2024-04-29,Fatou Cham,1988-07-16,Manding Kanteh,Lang Cham,35.79,0,2,1,2024-04-29,1,,0,1,0,,,,,sadarboe,2
+,41-005-01,,,,1,41-005,1,KWINELLA SANSANKONO,005,2024-03-07,mama sawaneh,1997-01-26,MARIAMA JASSEY,ABDOU SAWANEH,27.11,0,2,1,2024-03-07,1,,1,1,0,3501104,,,,kyceesay,2
+,41-007-02,,,,1,41-007,1,KWINELLA SANSANKONO,007,2024-03-07,HAWA YARBOE,2005-06-02,MARIAMA FADERA,Abba yarboe,18.76,1,4,1,2024-03-07,1,,0,1,0,3508716,,,,kyceesay,2
+,41-025-01,,,,1,41-025,1,KWINELLA SANSANKONO,025,2024-03-07,Fatou Saidy,1984-05-16,Kaddy Sanyang,Tijan Saidy,39.81,1,4,1,2024-03-07,1,,0,1,0,5802797,,,,ssibi,2
+,41-029-06,,,,1,41-029,6,KWINELLA SANSANKONO,029,2024-04-24,Nyimasatou Jarju,2003-03-12,Fatou Dampha ,Alieu Jarju,21.12,0,2,1,2024-04-24,1,,0,1,1,3774566,,,,sadarboe,2
+,41-032-02,,,,1,41-032,2,KWINELLA SANSANKONO,032,2024-03-07,Alimatou Tabally,1990-10-14,Muskeba Jaiteh,Musa Tabally,33.4,0,1,1,2024-03-07,1,,1,1,1,3772296,,,,ssibi,2
+,41-036-02,,,,1,41-036,2,KWINELLA SANSANKONO,036,2024-03-07,Hulaymatou Sanyang,1984-03-06,Kumba Manjang,Famara Sanyang,40,1,4,1,2024-03-07,1,,0,1,1,3030870,,,,ssibi,2
+,41-042-02,,,,1,41-042,2,KWINELLA SANSANKONO,042,2021-12-02,Isatou Daffeh,2001-06-01,Kaddy Touray,Ebrima Daffeh,20.5,1,4,1,2021-12-22,1,,0,1,1,5447541,,,,lcham,2
+,41-045-02,,,,1,41-045,2,KWINELLA SANSANKONO,045,2024-03-07,Jainaba Dibba,1991-03-10,Famata Sanneh,Lamin Dibba,32.99,0,1,1,2024-03-07,1,,0,1,1,7673364,,,,ssibi,2
+,42-003-04,,,,1,42-003,4,KWINELLA NIA KUNDA,003,2024-03-06,Jainaba bah,1985-03-15,Kumba sowe,Jonbou bah,38.98,0,1,1,2024-03-06,1,,0,1,1,5152709,,,,aymbah,2
+,42-104-02,,,,1,42-004,2,KWINELLA NIA KUNDA,004,2024-04-15,Binta Sanneh,1993-07-03,Sally Camara,Sulayman Sanneh,30.79,0,2,1,2024-04-15,1,,0,1,0,6209594,,,,kaceesay,2
+,42-112-04,,,,1,42-012,4,KWINELLA NIA KUNDA,012,2024-04-15,Sutay sanneh,1996-02-15,musukuta fatty,Janko sanneh,28.16,0,2,1,2024-04-15,1,,0,1,0,5163327,,,,kaceesay,2
+,42-035-03,,,,1,42-035,3,KWINELLA NIA KUNDA,035,2021-12-02,Jarra Fatty,2000-04-10,maro yabo,sarjo Fatty,21.65,0,1,1,2024-03-07,1,,0,1,1,7530835,,,,fosanyang,2
+,42-036-02,,,,1,42-036,2,KWINELLA NIA KUNDA,036,2021-12-02,Binta Camara,1987-04-15,Kumba Camara,Abdoulie Camara,34.63,1,4,1,2024-04-22,1,,0,1,0,,,,,kaceesay,2
+,42-039-02,,,,1,42-039,2,KWINELLA NIA KUNDA,039,2021-12-02,Kaddy sanyang,1985-04-10,Jai manyang,Malafi sanyang,,1,2,1,2024-03-07,1,,0,1,1,6433936,,,,fosanyang,2
+,42-045-02,,,,1,42-045,2,KWINELLA NIA KUNDA,045,2024-03-07,Matty Sanyang,1970-05-10,Mama Sabally,Frina Sanyang,53.83,0,1,1,2024-03-07,1,,0,1,0,3909030,,,,mjarjusey,2
+,42-046-01,,,,1,42-046,1,KWINELLA NIA KUNDA,046,2024-03-07,Sainabou jobe,1999-11-11,fatou jammeh,lamin jobe,24.32,0,1,1,2024-03-07,1,,0,1,1,6921196,5938706,2083124,,mjarjusey,2
+,42-046-02,,,,1,42-046,2,KWINELLA NIA KUNDA,046,2024-03-07,Kaddy jobe,2002-08-09,Fatou jammeh,lamin jobe,21.58,0,2,1,2024-03-07,1,,0,1,1,3142553,,,,ncamara,2
+,42-047-02,,,,1,42-047,2,KWINELLA NIA KUNDA,047,2024-03-06,Tida Manjang,1980-08-01,Ajarta Sanyang,Lamin Manjang,43.6,0,2,1,2024-03-06,1,,0,1,0,6642112,,,,mjarjusey,2
+,42-049-04,,,,1,42-049,4,KWINELLA NIA KUNDA,049,2024-03-06,Fatima Manneh,2000-04-03,Nyima Dibba,Saja Manneh,23.92,0,1,1,2024-03-06,1,,0,1,0,3296805,,,,mjarjusey,2
+,42-052-03,,,,1,42-052,3,KWINELLA NIA KUNDA,052,2024-03-06,Naba Manjang,1966-01-02,Fatou Sanyang,Lamin Manjang,58.18,0,2,1,2024-03-06,1,,0,1,0,3201847,,,,mjarjusey,2
+,42-054-02,,,,1,42-054,2,KWINELLA NIA KUNDA,054,2024-03-06,Tida sanneh,1993-08-15,Jarrah Dibba,Lang Tida,30.56,0,1,1,2024-03-06,1,,0,1,1,5021059,,,,mjarjusey,2
+,42-056-04,,,,1,42-056,4,KWINELLA NIA KUNDA,056,2024-03-06,Karamo manjang,1965-08-19,Mariatou Yabo,Kebba Manjang,58.55,0,2,1,2024-03-06,1,,0,1,1,3928176,,,,mjarjusey,2
+,42-056-06,,,,1,42-056,6,KWINELLA NIA KUNDA,056,2024-03-06,Adama Manneh,2005-02-19,Sibo Manneh,Ebrima Manneh,19.04,0,2,1,2024-03-06,1,,0,1,1,3233340,2244093,,,mjarjusey,2
+,42-056-09,,,,1,42-056,9,KWINELLA NIA KUNDA,056,2024-03-06,Fanta Silameh,1956-03-14,Nyaling Dibba,Ebrima silameh,67.98,0,2,1,2024-03-06,1,,0,1,1,,,,,mjarjusey,2
+,42-060-07,,,,1,42-060,7,KWINELLA NIA KUNDA,060,2024-03-06,Adama Darboe,1998-06-19,Borry  Touray,Lamin Darboe,25.71,0,2,1,2024-03-06,1,,0,1,1,6946338,2788775,,,hceesay,2
+,42-061-03,,,,1,42-061,3,KWINELLA NIA KUNDA,061,2024-03-06,Fatou camara,1991-02-16,Isatou dibba,Ousman camara,33.05,1,2,1,2024-03-06,1,,0,1,1,7294377,7579565,0,0,abdjallow,2
+,42-062-02,,,,1,42-062,2,KWINELLA NIA KUNDA,062,2024-03-06,Mama jobarteh,1967-02-10,Tomaring Darboe,kebba jorbateh,57.07,0,1,1,2024-03-06,1,,0,1,1,3732724,0,0,,abdjallow,2
+,42-071-03,,,,1,42-071,3,KWINELLA NIA KUNDA,071,2021-12-29,Aminata Fatty,2000-05-18,Kaddy Camara,MomodouLamin Fatty,21.62,0,1,1,2024-04-16,1,,0,1,0,3909212,6153263,,,kaceesay,2
+,42-078-02,,,,1,42-078,2,KWINELLA NIA KUNDA,078,2024-03-06,Binta Jallow,1960-08-17,Halimatou  Suwareh,Abdousalam Jallow,63.55,1,1,1,2024-03-06,1,,0,1,0,7235551,,,,abdjallow,2
+,42-079-06,,,,1,42-079,6,KWINELLA NIA KUNDA,079,2024-07-02,Sarata Njie,2000-01-10,Siba Ceesay,Demba Njie,24.48,0,1,1,2024-07-02,1,,1,1,1,,,,,kyceesay,2
+,42-087-03,,,,1,42-087,3,KWINELLA NIA KUNDA,087,2024-03-06,sirra  camara,2000-02-11,kumba camara,Samba camara,24.07,0,1,1,2024-03-06,1,,0,1,1,2621028,0,0,0,abdjallow,2
+,42-094-02,,,,1,42-094,2,KWINELLA NIA KUNDA,094,2024-03-07,Hawa jallow,1982-03-15,Ramatoulie Jallow,Alhajie Jallow,41.98,0,1,1,2024-03-07,1,,0,1,1,3994795,,,,abdjallow,2
+,42-094-03,,,,1,42-094,3,KWINELLA NIA KUNDA,094,2024-03-07,Sarjo Bah,1987-06-01,Rabie Kanteh,Alieu Bah,36.77,1,4,1,2024-03-07,1,,0,1,1,3994795,0,0,0,abdjallow,2
+,44-001-02,,,,1,44-001,2,BUMARR,001,2024-04-15,Oumie manjang,2000-04-13,satounding manga,jatta manjang,24.01,1,2,1,2024-04-15,1,,0,1,1,3566884,,,,laminteh,2
+,44-001-03,,,,1,44-001,3,BUMARR,001,2024-04-15,Satounding Manga,1980-04-15,Jai Barrow,Danbu manga,44,1,4,1,2024-04-16,2,0ver  age,0,1,1,2399345,,,,kaceesay,2
+,44-001-04,,,,1,44-001,4,BUMARR,001,2021-12-06,Nurie Demba,1963-04-18,Tieama Demba,Bakary janka Demba,58.64,1,4,1,2024-04-16,2,0ver age ,0,1,1,7396966,,,,kaceesay,2
+,44-004-09,,,,1,44-004,9,BUMARR,004,2024-04-15,Saraba Demba,2001-12-20,Jonma Darboe,Bakary Demba,22.32,1,1,1,2024-04-15,1,,0,1,1,5380508,,,,laminteh,2
+,44-004-10,,,,1,44-004,10,BUMARR,004,2024-04-15,Mama Barrow,1968-04-15,Mariama Demba,Kaba Barrow,56,1,4,1,2024-04-18,2,Over age ,0,1,1,7820082,3731368,,,kaceesay,2
+,44-005-03,,,,1,44-005,3,BUMARR,005,2024-04-15,Jainaba Barrow,2002-06-08,Kaddy camara,Nurse Barrow,21.85,0,1,1,2024-04-03,1,,0,1,0,7110871,6894277,,,kaceesay,2
+,44-005-04,,,,1,44-005,4,BUMARR,005,2024-04-15,Makutu Touray,1976-04-27,Tumbul Camara,Mamadou Touray,47.97,1,1,1,2024-04-15,1,,0,1,1,7419958,3501890,,,laminteh,2
+,44-005-06,,,,1,44-005,6,BUMARR,005,2024-04-15,Manifa Samateh,2004-01-17,Makutu Touray,Tomu Samateh,20.24,1,2,1,2024-04-15,1,,0,1,1,3989474,,,,laminteh,2
+,44-009-01,,,,1,44-009,1,BUMARR,009,2024-04-15,Tumbul Darboe,1979-05-11,Lisading  Njie,Lamin Darboe,44.93,0,1,1,2024-04-16,2,Over age,0,1,1,5104266,,,,kaceesay,2
+,44-010-05,,,,1,44-010,5,BUMARR,010,2024-04-15,Aja Drammeh,1993-04-30,Binta njie,Karamo Drammeh,30.96,0,1,1,2024-04-16,1,,0,1,0,5091875,3140903,,,kaceesay,2
+,44-015-04,,,,1,44-015,4,BUMARR,015,2021-12-06,Kaddijatou Demba,1984-05-16,Nyima Camara,Fakebba Demba,37.56,,2,1,2024-04-15,1,,0,1,1,5939979,,,,laminteh,2
+,45-012-11,,,,1,45-012,11,BAMBAKO,012,2021-12-06,Isatou Jallow,,Sirra Jallow,Sulayman Jallow,,,,1,2024-04-16,1,,0,1,0,,,,,lkjawla,2
+,45-015-01,,,,1,45-015,1,BAMBAKO,015,2021-12-06,Fatou Njie,1995-03-07,Gungurr Njie,Wandifa Njie,26.75,0,1,1,2024-04-16,1,,0,1,0,2051156,,,,lkjawla,2
+,45-028-02 ,,,,1,45-028,2,BAMBAKO,028,2023-12-25,Hula Sey,,,,,,,1,2023-12-25,1,,,1,1,,,,,sadarboe,2
+,46-002-01,,,,1,46-002,1,KUNDONG MARIAYA,002,2021-12-06,Isha Saidykan,,Banna barrow,Mahammad saidykan,,1,,1,2024-04-25,1,,0,0,0,,,,,kaceesay,2
+,46-002-02,,,,1,46-002,2,KUNDONG MARIAYA,002,2021-12-06,isha fadera,,Yamunduw jabbi,Faba fadera,,,,1,2024-04-25,1,,0,1,0,,,,,kaceesay,2
+,47-001-02,,,,1,47-001,2,NEMA,001,2024-04-16,Lisading Fadera,1973-07-03,Manyima fadera,Madi fedara,50.79,0,1,1,2024-04-16,1,,0,0,0,3268375,,,,mjarjusey,2
+,47-004-04,,,,1,47-004,4,NEMA,004,2024-04-16,BORI KORTA,1987-01-27,FATOUMATA CAMARA,DEMBA KORTA,37.22,0,1,1,2024-04-16,1,,0,0,0,5395319,,,,mjarjusey,2
+,47-004-05,,,,1,47-004,5,NEMA,004,2024-04-16,AROKIYATOU KORTA,1989-04-20,MAI JAWARA,FILIJEH KORTA,34.99,0,1,1,2024-04-16,1,,0,0,0,2123831,,,,mjarjusey,2
+,47-005-12,,,,1,47-005,12,NEMA,005,2024-04-16,kaddy Fadera,1994-07-31,Jawaranding Fadera,Lamin Fadera,29.71,1,4,1,2024-04-16,1,,0,0,0,2366671,,,,mjarjusey,2
+,47-005-19,,,,1,47-005,19,NEMA,005,2024-04-16,Kaddijatou Fadera,1994-01-01,Jonsabanding Cham,Faba Fadera,30.29,0,1,1,2024-04-16,1,,0,0,0,3212521,,,,mjarjusey,2
+,47-005-20,,,,1,47-005,20,NEMA,005,2024-04-16,Borry korta,1978-01-07,Banbali Fadera,Fabakary korta,46.27,0,1,1,2024-04-16,1,,0,0,0,2312369,,,,mjarjusey,2
+,47-005-21,,,,1,47-005,21,NEMA,005,2024-04-16,Sarjo Fadera,2002-07-07,Felejay Jawara,kawsu Fadera,21.78,0,2,1,2024-04-16,1,,0,0,0,2297397,,,,mjarjusey,2
+,47-005-22,,,,1,47-005,22,NEMA,005,2024-04-16,Natoma Fadera,1984-12-01,kaddy Jawara,Abdoulie Fadera,39.37,1,4,1,2024-04-16,1,,0,0,0,5929622,,,,mjarjusey,2
+,47-005-29,,,,1,47-005,29,NEMA,005,2024-04-16,fatou Fadera,1990-08-28,kaddy sewa,Fabakary Fadera,33.64,0,1,1,2024-04-16,1,,0,0,0,7571908,,,,mjarjusey,2
+,47-009-13,,,,1,47-009,13,NEMA,009,2024-04-16,FATOU FADERA,2004-09-10,FATOU KORTA,OMAR FADERA,19.6,0,2,1,2024-04-16,1,,0,1,1,,,,,abdjallow,2
+,47-011-04,,,,1,47-011,4,NEMA,011,2024-04-16,Fatoumata Fadera,2001-03-05,Nyimasata sawo,Kenba Fadera,23.12,0,1,1,2024-04-16,1,,1,1,1,6336909,5843419,,,abdjallow,2
+,47-015-04,,,,1,47-015,4,NEMA,015,2021-12-07,Fatou Jarju,1982-08-06,Bintading Jarju,Amadou Jarju,39.34,0,1,1,2024-04-16,1,,0,1,1,7663329,,,,abdjallow,2
+,47-026-04,,,,1,47-026,4,NEMA,026,2021-12-07,Mariama Kanyi,1990-04-09,Fatou Kinteh,Amang Kanyi,34.67,1,4,1,2024-04-16,1,,0,1,0,7242175,,,,sadarboe,2
+,47-034-09,,,,1,47-034,9,NEMA,034,2021-12-07,KADDYJATOU JAWARA,2004-07-29,AMINATA JABBI,MOMODOU JAWARA,,1,4,1,2024-04-16,1,moved away ,0,1,0,5374410,,,,sadarboe,2
+,47-055-05,,,,1,47-055,5,NEMA,055,2024-03-27,Nyima Yabo,2000-08-08,Nyimasatou Sanneh ,Sunkary Yabo,23.63,0,1,1,2024-03-27,1,,0,1,0,7559012,7309724,,,kyceesay,2
+,48-002-02,,,,1,48-002,2,KUNDANG NUMU KUNDA,002,2024-03-07,Hawa Sarr,1990-01-01,Numie Jarju,Ismaila Sarr,34.18,0,1,1,2024-03-07,1,,0,1,1,3964950,,,,lkjawla,2
+,48-003-01,,,,1,48-003,1,KUNDANG NUMU KUNDA,003,2024-04-25,NYIMASATA CHAM,1986-01-01,YAFAYE CHAM,GIDO CHAM,38.31,0,1,1,2024-04-25,1,,0,1,0,,,,,lkjawla,2
+,48-005-06,,,,1,48-005,6,KUNDANG NUMU KUNDA,005,2021-12-06, Nyimanding (KINNEH) Mass,1993-02-01,Karafa  Jassey,Wuyeh Mass,28.84,0,1,1,2024-03-01,1,,0,1,1,,,,,kaceesay,2
+,49-001-02,,,,1,49-001,2,KUNDANG FULA KUNDA,001,2024-04-25,Ida Jawo,1999-01-22,Jabou Gibba,Suba Jawo,25.26,0,2,1,2024-04-25,1,,0,1,0,7930247,,,,mjarjusey,2
+,49-004-02,,,,1,49-004,2,KUNDANG FULA KUNDA,004,2024-04-25,Jainaba Sowe,1993-04-20,Dado Jallow,Njobo Sowe,31.02,0,2,1,2024-04-25,1,,0,0,0,7867593,,,,mjarjusey,2
+,49-013-05,,,,1,49-013,5,KUNDANG FULA KUNDA,013,2024-04-25,ADAMA SABALLY,1999-03-20,SIRAYEL JALLOW,AMADOU SABALLY,25.1,0,2,1,2024-04-25,1,,0,0,0,4036276,,,,mjarjusey,2
+,50-008-04,,,,1,50-008,4,NEMA KUTA,008,2021-12-07,Isatou Jallow,2000-05-04,Gibbeh Saidybah,Yerro Jallow,21.59,0,2,1,2024-03-01,1,,0,1,1,,,,,kaceesay,2
+,51-039-03,,,,1,51-039,3,JIRROFF,039,2024-04-24,Fatou ceesay,1981-10-08,Binta Drammeh,Mustapha ceesay,42.54,0,1,1,2024-04-24,1,,0,0,0,2958512,,,,mjarjusey,2
+,51-040-02,,,,1,51-040,2,JIRROFF,040,2024-07-16,Sira Sabally,1992-01-01,Mariama Sowe,Kalilu Sabally,32.54,0,1,1,2024-07-16,1,,0,1,0,2119207,,,,lcham,2
+,54-002-02,,,,1,54-002,2,MANDINA CENTRAL,002,2024-07-16,Kaddy Fatty,2001-09-04,Mariama Jafuneh,Saikou Fatty,22.86,0,1,1,2024-07-16,1,,0,1,0,5243251,7540287,5959008,,mjarjusey,2
+,54-010-01,,,,1,54-010,1,MANDINA CENTRAL,010,2021-12-07,Kaddy Sanneh,,Saffiatou Sanneh,Kalilou Sanneh,,,,1,2023-10-23,1,,0,1,0,,,,,lkjawla,2
+,54-015-07,,,,1,54-015,7,MANDINA CENTRAL,015,2024-06-26,Ramatoulie Bah,1999-01-18,Sira Bah,Yerro Bah,25.44,0,1,1,2024-06-26,1,,1,1,0,,,,,kyceesay,2
+,55-001-10,,,,1,55-001,10,SARE SARJO,001,2024-07-03,Hulay Jallow,2002-05-12,Hawa Colley,Edi Jallow,22.14,0,1,1,2024-07-03,1,,1,1,0,3367075,,,,kyceesay,2
+,60-016-01,,,,1,60-016,1,WILLINGARA,016,2024-07-03,kumba bah,1992-02-05,fatim bah,fafa bah,32.41,0,1,1,2024-07-03,1,,0,1,0,7613021,,,,mb,2
+,70-013-02,,,,1,70-013,2,KOLIOR,013,2024-07-02,Adama Jawara,2001-12-12,Neffie Sora,Kebba Jawara,22.55,0,2,1,2024-07-02,1,,1,1,0,,,,,kyceesay,2
+,70-028-01,,,,1,70-028,1,KOLIOR,028,2024-05-30,Jonfolo Fatty,1995-04-22,Wontonding Mass,Bakary Fatty,29.11,0,1,1,2024-05-30,1,,1,1,0,,,,,kyceesay,2
+,71-004-05,,,,1,71-004,5,JOMARR,004,2024-05-30,Mariama Camara,1995-09-19,Oumie Camara,Morro Camara,28.7,0,4,1,2024-05-30,1,,0,1,0,,,,,hceesay,2
+,76-031-07,,,,1,76-031,7,MASEMBEH,031,2024-03-20,Nymasatou jarju,2000-03-13,Jabou jarju,Ansumana jarju,24.02,0,2,1,2024-03-20,1,,0,1,0,7962012,,,,lkjawla,2
+,76-033-09,,,,1,76-033,9,MASEMBEH,033,2024-01-25,Fatou Jobe,1997-06-05,Bajonkie Camara,Nuha Jobe,26.64,1,4,1,2024-01-25,1,,0,1,1,2464307,,,,lcham,2
+,76-033-011,,,,1,76-033,11,MASEMBEH,033,2024-01-25,Fatou Jarju,1996-05-10,Fatoumata Dembajang,Kabiru Jarju,27.71,0,2,1,2024-01-25,1,,0,1,1,3546047,,,,lcham,2
+,76-033-014,,,,1,76-033,14,MASEMBEH,033,2024-03-10,Nyima Sonko,1994-11-16,Fatoumata Camara,Dodou  Sonko,29.31,0,1,1,2024-03-10,1,,0,1,1,2470981,,,,lcham,2
+,76-035-02,,,,1,76-035,2,MASEMBEH,035,2024-03-12,MARIAMA  WANDOU,1992-12-23,ISATOU  KEITA,YAYA  WANDOU,31.22,0,1,1,2024-03-12,1,,0,1,1,3390240,,,,ssibi,2
+,77-019-04,,,,1,77-019,4,GENIERE,019,2024-01-25,Kaddy Sanneh,2000-06-22,NYIMASATOU  DAMPHA ,Demba Sanneh,23.59,0,2,1,2024-01-25,1,,0,1,1,2439637,,,,sadarboe,2
+,77-035-01,,,,1,77-035,1,GENIERE,035,2024-01-30,Fatoumata Jobe,1996-06-05,Mariama Camara ,Nuha Jobe,27.65,0,1,1,2024-01-30,1,,0,1,1,7941125,,,,fosanyang,2
+,78-048-04,,,,1,78-048,4,KAIAF,048,2024-03-12,Jakongbah Jagne,2000-01-12,Fatou  Kanteh ,Tapha Jagne,24.16,0,1,1,2024-03-12,1,,1,1,0,5340439,,,,kyceesay,2
+,79-072-01,,,,1,79-072,1,MADINA KAIAF,072,2024-07-03,Kanni Touray,2000-03-02,Shona Touray,Baboucarr Touray,24.34,0,1,1,2024-07-03,1,,1,1,0,,,,,kyceesay,2
+,79-080-03,,,,1,79-080,3,MADINA KAIAF,080,2024-03-25,Hawa Sallah,2003-03-04,Mam Ceesay,Bamba Sallah,21.06,1,4,1,2024-03-25,1,,0,1,0,7545388,,,,lcham,2

@@ -1,0 +1,471 @@
+participant_id,indigo_ID,redcap_event_name,redcap_repeat_instrument,redcap_repeat_instance,ck_wkno,consent_complete,enu_name,enu_comp,enu_mname,enu_fname,sen_contact1,sen_contact2,sen_contact3,village_name,cluster_mapping,staff
+EDN0005-K,,recruitment_arm_1,consent,1,40-008-01,2,Satou Jammeh,008,Binta camara,Lamin Jammeh,3741305,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo
+EDN0009-C,,recruitment_arm_1,consent,1,40-025-04,2,Mariama Touray,025,Nyima saidy,Madou touray,3118790,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo
+EDN0011-H,IN-M-226E,recruitment_arm_1,consent,1,40-006-01,2,Nymasata Sonko,006,Fatou Camara,Bakary Sonko,3329934,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo
+EDN0017-E,,recruitment_arm_1,consent,1,41-035-02,2,Kaddy Manneh,035,Musukebba Darboe,Mamadou Manneh,5959475,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai
+EDN0018-C,,recruitment_arm_1,consent,1,41-017-01,2,Binta sanyang,017,sarata darboe,kebba sanyang,3312596,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai
+EDN0020-H,IN-M-449F,recruitment_arm_1,consent,1,41-001-01,2,NABA B SANYANG,001,BINTA DAFFEH,DEMBA SANYANG,5130443,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai
+EDN0021-A,,recruitment_arm_1,consent,1,41-010-01,2,Habisa Manneh,010,Fatoumatta Keita,Buna Manneh,5934132,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai
+EDN0023-C,,recruitment_arm_1,consent,1,42-043-01,2,FATOU DARBOE,043,SAFFIATOU KEITA,BAKARY DARBOE,7778467,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo
+EDN0024-B,,recruitment_arm_1,consent,1,42-041-01,2,Mariama Ceesay,041,Sutay Manjang,Alieu Ceesay,3287570,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo
+EDN0025-F,IN-M-027E,recruitment_arm_1,consent,1,42-044-01,2,NYIMA DIBBA,044,MAMA KOLLEY,MOMODOU DIBBA,7467022,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo
+EDN0028-G,IN-M-399C,recruitment_arm_1,consent,1,40-034-08,2,Kaddy  Sanyang,034,Isatou darboe,ALHAGIE momodou sanyang,3578180,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo
+EDN0031-K,,recruitment_arm_1,consent,1,42-079-01,2,Natoma Drammeh,079,Nanding Njie,Manding Drammeh,3551990,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo
+EDN0034-D,IN-M-028G,recruitment_arm_1,consent,1,42-071-02,2,Isatou Jarjue,071,Mariama Ceesay,Alanso Jarjue,3960097,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo
+EDN0063-J,IN-M-142H,recruitment_arm_1,consent,1,43-020-01,2,Nyimasata colley,020,Amie kutu njie,lang colley,5342294,,,TENDABA,Kwinella Sansankono,Modou Lamin Njai
+EDN0064-G,IN-M-201B,recruitment_arm_1,consent,1,42-080-01,2,Nyara Manjang,080,Satou Demba,Jatta Manjang,3347586,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo
+EDN0066-H,IN-M-048E,recruitment_arm_1,consent,1,42-028-01,2,Isatou sarr,028,Binta marong,lang sarr,2740112,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo
+EDN0076-A,IN-M-238C,recruitment_arm_1,consent,1,42-107-01,2,nyima manjang,007,Kaddy sanyang,jerreh manjang,3970029,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo
+EDN0078-D,IN-M-081D,recruitment_arm_1,consent,1,45-016-01,2,Fatou drammeh,016,nyimasatou jarra,Sanna drammeh,5043607,,,BAMBAKO,Nema, Lamin Njai
+EDN0079-E,IN-M-001E,recruitment_arm_1,consent,1,45-014-02,2,Nyima sanyang,014,Jai manjang,Managing sanyang,2416442,,,BAMBAKO,Nema, Lamin Njai
+EDN0080-G,IN-M-255D,recruitment_arm_1,consent,1,45-012-03,2,wuday colley,012,suturing kumba darboe,alieu colley,7013210,,,BAMBAKO,Nema, Lamin Njai
+EDN0101-A,,recruitment_arm_1,consent,1,44-014-01,2,nyima Demba,014,lunta sanneh,Lamin Demba,7650439,,,BUMARR,Kwinella Sansankono,Modou Lamin Njai
+EDN0111-K,,recruitment_arm_1,consent,1,44-004-02,2,sarjo  demba,004,mattinding yarboe,alhagie  demba,5808694,,,BUMARR,Kwinella Sansankono,Modou Lamin Njai
+EDN0125-A,IN-M-275H,recruitment_arm_1,consent,1,53-003-01,2,hawa jobe,003,metta jobe,kebba jobe,7270908,,,JATTA KUNDA,Nema Kuta,Mamadou Jarjusey
+EDN0132-B,IN-M-052C,recruitment_arm_1,consent,1,50-008-02,2,Penda Gibba,008,Mental sowe,demba Gibba,2756953,,,NEMA KUTA,Nema Kuta,Mamadou Jarjusey
+EDN0137-G,,recruitment_arm_1,consent,1,40-037-02,2,fatou darboe,037,Fatou jarjue,bakary darboe,2718283,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo
+EDN0140-C,,recruitment_arm_1,consent,1,40-037-01,2,Fatou Camara,037,mariama Camara,Abdoulie Camara,7406011,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo
+EDN0141-F,,recruitment_arm_1,consent,1,40-014-01,2,Mariama Sanyang,014,Kaddy Touray,Sunkar Sanyang,2220107,3661343,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo
+EDN0147-H,,recruitment_arm_1,consent,1,40-033-02,2,Sarjo Darboe,033,Fatoumata Demba,Alieu Darboe,3547911,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo
+EDN0148-K,,recruitment_arm_1,consent,1,40-034-09,2,jomma Njie,034,Fatoumatta Sanneh,Masey  Njie,3608390,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo
+EDN0155-B,,recruitment_arm_1,consent,1,47-012-01,2,Fatou sanneh,012,satou sanneh,molifa sanneh,7365587,,,NEMA,Nema, Lamin Njai
+EDN0164-K,IN-M-474B,recruitment_arm_1,consent,1,47-028-02,2,Aminata fadera,028,Nyomo jawara,chenba fadera,3609408,,,NEMA,Nema, Lamin Njai
+EDN0165-J,,recruitment_arm_1,consent,1,48-004-01,2,Kumba konta,004,Tida Sanneh,Kebba konta,2750916,,,KUNDANG NUMU KUNDA,Nema Kuta,Mamadou Jarjusey
+EDN0171-B,,recruitment_arm_1,consent,1,47-006-02,2,Isatou Bah,006,Hawa Bah,Adama Bah,7045270,,,NEMA,Nema, Lamin Njai
+EDN0175-E,IN-M-512G,recruitment_arm_1,consent,1,54-014-02,2,mama fatty,014,sarjo fatty,malang fatty,7330906,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey
+EDN0176-F,,recruitment_arm_1,consent,1,54-007-02,2,tida fadera,007,kaken sorra,fabakary fadera,2485622,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey
+EDN0180-E,,recruitment_arm_1,consent,1,54-019-03,2,Fatou Fanneh,019,Mariama Darbo,Bakary Fanneh,3020040,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey
+EDN0182-A,,recruitment_arm_1,consent,1,54-012-01,2,Belikisamanka,012,sunkary demba,babanding manka,7822762,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey
+EDN0191-J,,recruitment_arm_1,consent,1,47-038-01,2,Nyimanding sora,038,Faye  fadera,Sunkarr sora,2743127,,,NEMA,Nema, Lamin Njai
+EDN0192-G,,recruitment_arm_1,consent,1,47-001-01,2,Fatoumata korta,001,Aminata Fadera,Abdou korta,7192125,,,NEMA,Nema, Lamin Njai
+EDN0193-K,,recruitment_arm_1,consent,1,47-027-01,2,Isatou jawara,027,mama Fadera,Bakary jawara,7595634,2351535,,NEMA,Nema, Lamin Njai
+EDN0194-H,,recruitment_arm_1,consent,1,47-028-01,2,Aminata Fadera,028,Fatou Cham,ousman Fadera,2319630,,,NEMA,Nema, Lamin Njai
+EDN0197-B,IN-M-465G,recruitment_arm_1,consent,1,47-054-02,2,isatou jarju,054,dado sillah,mamadou jarju,2782774,,,NEMA,Nema, Lamin Njai
+EDN0198-D,IN-M-178B,recruitment_arm_1,consent,1,47-024-01,2,Fatou fadera,024,Nyimanding seckan,Mamdou Fadera,7719901,,,NEMA,Nema, Lamin Njai
+EDN0199-E,IN-M-071F,recruitment_arm_1,consent,1,47-035-03,2,Nyimasatou  m fadera,035,Aria fadera,Masanneh,3595080,,,NEMA,Nema, Lamin Njai
+EDN0202-E,IN-M-013D,recruitment_arm_1,consent,1,47-058-02,2,Isatou Fadera,058,Fatou Camara,Manding Fadera,2900468,,,NEMA,Nema, Lamin Njai
+EDN0206-C,IN-M-067H,recruitment_arm_1,consent,1,47-043-03,2,NYIMANSATOU FADERA,043,BORI FADERA,JALANG FADERA,3457930,,,NEMA,Nema, Lamin Njai
+EDN0207-A,,recruitment_arm_1,consent,1,47-033-01,2,Kaddy Fadera,033,Mariama Fadera,Bunja Fadera,2582931,,,NEMA,Nema, Lamin Njai
+EDN0210-A,,recruitment_arm_1,consent,1,47-027-03,2,Adama Fadera,027,Fillije jawara,Kawsu Faders,7595634,,,NEMA,Nema, Lamin Njai
+EDN0211-D,,recruitment_arm_1,consent,1,47-023-01,2,Fatou kanyi,023,musukebba saidy,Almameh kanyi,7261609,9,,NEMA,Nema, Lamin Njai
+EDN0213-H,,recruitment_arm_1,consent,1,47-045-01,2,Binta Drammeh,045,Sarjo ceesay,Solo gitteh,2534214,,,NEMA,Nema, Lamin Njai
+EDN0215-K,IN-M-102H,recruitment_arm_1,consent,1,47-045-04,2,Mama Drammeh,045,Binkinding Drammeh,Omar Drammeh,7033925,,,NEMA,Nema, Lamin Njai
+EDN0218-E,,recruitment_arm_1,consent,1,47-059-01,2,Nyimasatou Fatty,059,kaddijatou camara,sainey fatty,2731901,,,NEMA,Nema, Lamin Njai
+EDN0220-C,,recruitment_arm_1,consent,1,47-035-01,2,Hawa Fadera,035,Mbsally fadera,Alagie Ansumana Fadera,7297790,,,NEMA,Nema, Lamin Njai
+EDN0224-E,,recruitment_arm_1,consent,1,47-021-01,2,Fatou jallow,021,Dado sowe,Daddy jallow,7423372,,,NEMA,Nema, Lamin Njai
+EDN0233-G,IN-M-227K,recruitment_arm_1,consent,1,47-005-08,2,Binta Fadera,005,Jontang Fadera,Musa Fadera,3436619,,,NEMA,Nema, Lamin Njai
+EDN0234-J,,recruitment_arm_1,consent,1,47-005-09,2,Mamanding Jobe,005,Aminata Fadera,Karamo Jobe,7899906,,,NEMA,Nema, Lamin Njai
+EDN0235-H,IN-M-177H,recruitment_arm_1,consent,1,47-008-02,2,kaddijatou fadera,008,yafaye fadera,omar fadera,2047904,,,NEMA,Nema, Lamin Njai
+EDN0240-H,IN-M-014D,recruitment_arm_1,consent,1,53-004-01,2,Hulay jawo,004,Adama jallow,Ganya jawo,7644658,,,JATTA KUNDA,Nema Kuta,Mamadou Jarjusey
+EDN0242-K,,recruitment_arm_1,consent,1,30-017-030E,2,Kaddy Jassey,026,Nanding Yabo,Afang Ansu Jassey Bateh,,,,BATELLING,Kwinella Sansankono,Modou Lamin Njai
+EDN0264-A,,recruitment_arm_1,consent,1,48-007-02,2,nyima cham,007,nyaranding camara,jerreh cham,3567122,,,KUNDANG NUMU KUNDA,Nema Kuta,Mamadou Jarjusey
+EDN0265-E,,recruitment_arm_1,consent,1,47-027-02,2,Tida korta,027,Musuding fadera,yusupha korta,7595634,,,NEMA,Nema, Lamin Njai
+EDN0266-F,,recruitment_arm_1,consent,1,48-001-02,2,Fatou Suso,001,Jankeh,Bakary Suso,2416966,3733695,3733695,KUNDANG NUMU KUNDA,Nema Kuta,Mamadou Jarjusey
+EDN0271-E,,recruitment_arm_1,consent,1,51-014-01,2,Binta colley,014,Monneh Sanneh,Baba Colley,2900305,,,JIRROFF,Nema Kuta,Mamadou Jarjusey
+EDN0273-J,,recruitment_arm_1,consent,1,51-022-01,2,Oumie Drammeh,022,Satou saho,yaya Drammeh,5235173,,,JIRROFF,Nema Kuta,Mamadou Jarjusey
+EDN0275-B,,recruitment_arm_1,consent,1,52-065-04,2,Isatou Bah,065,Fatoumata Jallow,Sulayman Bah,,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey
+EDN0285-C,,recruitment_arm_1,consent,1,52-069-06,2,Kani M Trawally,069,Ansata Manneh,Abdou Trawally,7291840,3246530,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey
+EDN0290-B,,recruitment_arm_1,consent,1,52-063-02,2,Fatoumata sey,063,Awa jobe,Saidou sey,7501127,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey
+EDN0298-C,IN-M-426G,recruitment_arm_1,consent,1,61-001-03,2,Sonna Colley,001,Fatoumata Sowe,Samba Colley,7367417,,,SARE MAMUDU,Nema Kuta,Mamadou Jarjusey
+EDN0306-H,,recruitment_arm_1,consent,1,30-002-023Z,2,Fatou Sanneh,008,Naba Jobarteh,Bakary Sanneh,,,,BATELLING,Kwinella Sansankono,Modou Lamin Njai
+EDN0307-C,,recruitment_arm_1,consent,1,52-055-02,2,ISATOU SEY,055,JAINABA Jobe,BUBACARR SEY,7886001,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey
+EDN0309-F,,recruitment_arm_1,consent,1,52-054-01,2,Faddy ceesay,054,KUMBA BARRY,KEBBA CEESAY,2075166,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey
+EDN0310-C,,recruitment_arm_1,consent,1,52-057-01,2,Gabudeh bah,057,fatou sey,Foday bah,2008923,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey
+EDN0313-B,IN-M-002H,recruitment_arm_1,consent,1,01-030-053L,2,Alima Trawally,030,Naba Touray,Momodou Trawally,,,,DUMBUTO,Dumbuto,Ousman Kambi
+EDN0315-D,,recruitment_arm_1,consent,1,01-007-007B,2,Fatou Darboe,007,Mogie Colley,Momodou Darboe,,,,DUMBUTO,Dumbuto,Ousman Kambi
+EDN0318-K,,recruitment_arm_1,consent,1,01-035-013F,2,Hawa Fadera,035,Nyomo Korta,Fabakary Fadera,,,,DUMBUTO,Dumbuto,Ousman Kambi
+EDN0320-G,,recruitment_arm_1,consent,1,01-029-032E,2,Alimatou Kinteh,029,Mariama Sanyang,Yaya Kinteh,,,,DUMBUTO,Dumbuto,Ousman Kambi
+EDN0323-D,IN-M-016F,recruitment_arm_1,consent,1,16-020-002Y,2,Kaddy Jassey,035,Warra Barrow,Tumbulu Jassey,,,,DUMBUTO,Dumbuto,Ousman Kambi
+EDN0329-J,,recruitment_arm_1,consent,1,11-003-088S,2,Mariama Sise,014,Mari Jallow,Kebba Sise,,,,WUDEBA,Dumbuto,Ousman Kambi
+EDN0337-F,IN-M-106H,recruitment_arm_1,consent,1,02-048-007N,2,Kumba Mballow,048,Penda Bah,Ganyadou Mballow,,,,SANKANDI,Dumbuto,Ousman Kambi
+EDN0338-J,,recruitment_arm_1,consent,1,02-015-078A,2,Awa Dibba,015,Sarjo Darboe,Demba Dibba,,,,SANKANDI,Dumbuto,Ousman Kambi
+EDN0339-B,,recruitment_arm_1,consent,1,02-008-008C,2,Isatou Manjang,008,Aminata Darboe,Pateh Manjang,,,,SANKANDI,Dumbuto,Ousman Kambi
+EDN0345-J,,recruitment_arm_1,consent,1,02-048-015V,2,Kaddy Sabally,048,Dado Sey,Samba Sabally,,,,SANKANDI,Dumbuto,Ousman Kambi
+EDN0346-D,,recruitment_arm_1,consent,1,02-015-005F,2,Adama Darboe,015,Sireh Samateh,Lamin Darboe,,,,SANKANDI,Dumbuto,Ousman Kambi
+EDN0348-C,,recruitment_arm_1,consent,1,02-048-012S,2,Fatou Sowe,048,Wurry Bah,Alieu Sowe,,,,SANKANDI,Dumbuto,Ousman Kambi
+EDN0355-C,,recruitment_arm_1,consent,1,02-005-011V,2,Fatoumata Sise,005,Sona Darboe,Lamin Sise,,,,SANKANDI,Dumbuto,Ousman Kambi
+EDN0358-D,IN-M-452K,recruitment_arm_1,consent,1,02-008-073P,2,Kumba Baldeh,008,Sunkary Buwaro,Samba Baldeh,,,,SANKANDI,Dumbuto,Ousman Kambi
+EDN0359-E,IN-M-043H,recruitment_arm_1,consent,1,02-042-008U,2,Jarra Manjang,042,Fatou Barrow,Baba Manjang,,,,SANKANDI,Dumbuto,Ousman Kambi
+EDN0362-A,,recruitment_arm_1,consent,1,04-001-001R,2,Kaddy Sanneh,032,Musukuta Sanneh,Momodou Sanneh,,,,DUMBUTO,Dumbuto,Ousman Kambi
+EDN0366-B,IN-M-470A,recruitment_arm_1,consent,1,01-033-102S,2,Isatou Sise,033,Aminata Sise,Karamo Sise,,,,DUMBUTO,Dumbuto,Ousman Kambi
+EDN0367-D,,recruitment_arm_1,consent,1,07-022-007F,2,Hawa Bajo,042,Manyima Njai,Afang Sanna Bajo,,,,DUMBUTO,Dumbuto,Ousman Kambi
+EDN0376-J,,recruitment_arm_1,consent,1,04-001-021L,2,Fatou Sanneh,012,Fatou Njai,Demba Sanneh,,,,JATTABA,Dumbuto,Ousman Kambi
+EDN0381-A,IN-M-467H,recruitment_arm_1,consent,1,03-041-020I,2,Maimuna Bah,018,Fatou Colley,Juka Bah,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah
+EDN0388-G,,recruitment_arm_1,consent,1,05-033-024W,2,Nyimanding Taal,075,Sutering Kinteh,Demba Taal,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah
+EDN0394-D,IN-M-030C,recruitment_arm_1,consent,1,03-059-039J,2,Tabara Jobe,027,Nderu Bah,Sainey Jobe,,,,WUDEBA,Dumbuto,Ousman Kambi
+EDN0400-B,,recruitment_arm_1,consent,1,04-021-006C,2,Fatou Jarju,037,Fatou Touray,Manding Jarju,,,,JATTABA,Dumbuto,Ousman Kambi
+EDN0410-F,,recruitment_arm_1,consent,1,51-028-02,2,Rabiyatou Manka,028,Fatoumata Demba,Abubacarr Manka,2025969,6644867,,JIRROFF,Nema Kuta,Mamadou Jarjusey
+EDN0421-K,IN-M-007A,recruitment_arm_1,consent,1,03-002-059V,2,Jaila Jallow,002,Mahani Bah,Ousman Jallow,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah
+EDN0423-F,,recruitment_arm_1,consent,1,03-020-021R,2,Dellam Touray,020,Jarra Bah,Omar Touray,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah
+EDN0424-D,,recruitment_arm_1,consent,1,03-020-016M,2,Amie Jallow,020,Isatou Leigh,Chanadou Jallow,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah
+EDN0426-C,IN-M-364B,recruitment_arm_1,consent,1,03-001-004G,2,Adama Bah,009,Adama Kabbu Colley,Alh. Ebrima Bah,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah
+EDN0427-A,IN-M-242G,recruitment_arm_1,consent,1,03-007-007D,2,Isatou Jallow,007,Binta Jallow,Momodou Jallow,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah
+EDN0431-B,,recruitment_arm_1,consent,1,03-002-004S,2,Kaddijatou Bah,067,Hawa Sowe,Momodou Touray Bah,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah
+EDN0435-E,IN-M-056J,recruitment_arm_1,consent,1,04-027-002S,2,Hawa Touray,024,Arokey Drammeh,Kanti Touray,,,,JATTABA,Dumbuto,Ousman Kambi
+EDN0439-J,,recruitment_arm_1,consent,1,27-004-002M,2,Tida Jarra,024,Musukebba Kinteh,Ebrima Jarra,,,,JATTABA,Dumbuto,Ousman Kambi
+EDN0440-E,,recruitment_arm_1,consent,1,04-012-064E,2,Binta Camara,011,Sunkary Dibba,Momodou Camara,,,,JATTABA,Dumbuto,Ousman Kambi
+EDN0444-J,IN-M-302A,recruitment_arm_1,consent,1,04-036-038G,2,Sarjo Sise,036,Fatou Dibba,Lamin Sise,,,,JATTABA,Dumbuto,Ousman Kambi
+EDN0449-K,IN-M-085H,recruitment_arm_1,consent,1,03-066-007J,2,Adama Bah,071,Hawa Ndow,Demba Bah,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah
+EDN0452-B,IN-M-390A,recruitment_arm_1,consent,1,03-062-010Q,2,Isatou Bah,062,Fatoumata Bah,Samba Bah,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah
+EDN0456-J,IN-M-162F,recruitment_arm_1,consent,1,03-052-021L,2,Mariama Jobe,034,Hawa Bah,Musa Jobe,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah
+EDN0466-G,IN-M-146H,recruitment_arm_1,consent,1,11-028-033D,2,Jankeh Mariama Samateh,051,Sireh Nanding Samateh,Jamanty Samateh,,,,JATTABA,Dumbuto,Ousman Kambi
+EDN0468-K,,recruitment_arm_1,consent,1,04-007-062U,2,Fatou Sise,007,Jainaba Darboe,Baba Sise,,,,JATTABA,Dumbuto,Ousman Kambi
+EDN0470-D,,recruitment_arm_1,consent,1,04-033-015Z,2,Salimata Jallow,057,Oumie Bah,Momodou Alieu Jallow,,,,JATTABA,Dumbuto,Ousman Kambi
+EDN0477-F,IN-M-163H,recruitment_arm_1,consent,1,04-001-016G,2,Kaddy Sanneh,007,Mbaka Marong,Demba Sanneh,,,,SANDENG,Niorro Jattaba,Modou Bah
+EDN0478-J,,recruitment_arm_1,consent,1,04-009-075F,2,Fatou Njai,007,Sutaring Marong,Massi Njai,,,,SANDENG,Niorro Jattaba,Modou Bah
+EDN0480-K,,recruitment_arm_1,consent,1,04-009-076G,2,Mariama Touray,010,Kaddy Kuta Darboe,Edally Touray,,,,SANDENG,Niorro Jattaba,Modou Bah
+EDN0485-B,IN-M-087F,recruitment_arm_1,consent,1,31-013-015H,2,Nyako Manjang,013,Luntang Sanneh,Sheriffo Manjang,,,,SANDENG,Niorro Jattaba,Modou Bah
+EDN0488-A,,recruitment_arm_1,consent,1,31-001-025D,2,Kaddijatou Saidy,013,Satounding Darboe,Harri Kebba Saidy,,,,SANDENG,Niorro Jattaba,Modou Bah
+EDN0490-H,,recruitment_arm_1,consent,1,03-053-010M,2,Hawa Jallow,053,Sarlujang Jallow,Lamarana Jallow,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah
+EDN0496-E,,recruitment_arm_1,consent,1,03-026-016G,2,Fatou Bah,026,Mariama Baldeh,Saidou Bah,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah
+EDN0505-H,IN-M-224K,recruitment_arm_1,consent,1,03-061-006A,2,Mariama Sowe,005,Kumba Sey,Sheriff Sowe,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah
+EDN0511-G,IN-M-024D,recruitment_arm_1,consent,1,04-009-122A,2,Fatou Touray,009,Kala Darboe,Fakebba Touray,,,,JATTABA,Dumbuto,Ousman Kambi
+EDN0518-J,,recruitment_arm_1,consent,1,40-016-04,2,Nyimansatou Jammeh,016,Binta Sanneh,Lamin Jammeh,5301927,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo
+EDN0519-B,IN-M-298B,recruitment_arm_1,consent,1,40-015-03,2,Fatou Touray,015,Arokey Soli,Abubacarr Touray,3409629,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo
+EDN0527-C,IN-M-230G,recruitment_arm_1,consent,1,43-028-02,2,KADDY DARBOE,028,NYIMANSATOU JARJU,BUBACARR DARBOE,2597079,,,TENDABA,Kwinella Sansankono,Modou Lamin Njai
+EDN0529-F,IN-M-427G,recruitment_arm_1,consent,1,54-022-01,2,Jatta Ceesay,022,Tako Fanneh,Ebrima Ceesay,7650093,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey
+EDN0530-H,,recruitment_arm_1,consent,1,54-025-02,2,Isatou Saidy,025,Vintage Saidy,Sherriffo saidy,7602929,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey
+EDN0534-B,IN-M-044H,recruitment_arm_1,consent,1,42-015-01,2,FANSAINEY CEESAY,015,MBENKINDING SAMATEH,MASANNEH CEESAY,2190475,2166235,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo
+EDN0538-G,,recruitment_arm_1,consent,1,47-028-03,2,KADDY S FADERA,028,SUTAYRING FADERA,ANSUMANA FADERA,7018108,,,NEMA,Nema, Lamin Njai
+EDN0541-B,,recruitment_arm_1,consent,1,47-038-02,2,Amie korta,038,Kaddijatou fadera,Hatab korta,7340925,,,NEMA,Nema, Lamin Njai
+EDN0545-E,,recruitment_arm_1,consent,1,05-047-006Q,2,Mata Njai,001,Mamanding Njai,Sunkary Njai,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN0551-H,IN-M-096C,recruitment_arm_1,consent,1,26-007-016W,2,Adama Njai,008,Fatou Barrow,Landing Njai,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN0552-F,,recruitment_arm_1,consent,1,05-041-007X,2,Fatou Kinteh,002,Binta Barrow,Sarjo Kinteh,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN0555-J,IN-M-184A,recruitment_arm_1,consent,1,05-019-013Z,2,Manding Barrow,010,Jarra Njai,Jalamang Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN0556-D,IN-M-005J,recruitment_arm_1,consent,1,05-006-014A,2,Jalika Barrow,006,Nyominding Njai,Jatta Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN0557-E,,recruitment_arm_1,consent,1,05-003-021X,2,Jainaba Barrow,003,Nmaa Njai,Demba Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN0558-C,IN-M-252B,recruitment_arm_1,consent,1,05-012-023D,2,Mama Manka,012,Jai Barrow,Nambung Manka,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN0560-F,,recruitment_arm_1,consent,1,11-020-071X,2,Hawa Njai,026,Fatou Barrow,Landing Njai,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN0561-J,IN-M-108D,recruitment_arm_1,consent,1,05-020-008G,2,Aminata Barrow,015,Sarjonding Bajo,Dodou Kutu Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN0568-D,,recruitment_arm_1,consent,1,05-033-006E,2,Kaddy Taal,032,Jarra Njai,Dodou Taal,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN0572-E,IN-M-176A,recruitment_arm_1,consent,1,29-094-013N,2,Alimatou Bajo,018,Fatounding Sise,Malamin Bajo,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN0573-F,,recruitment_arm_1,consent,1,05-013-012E,2,Jainaba Barrow,021,Fatou Sanyang,Kairaba Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN0575-G,IN-M-150H,recruitment_arm_1,consent,1,06-006-018S,2,Saffiatou Touray,025,Terema Sise,Molipha Touray,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN0578-B,,recruitment_arm_1,consent,1,29-005-014M,2,Mama Sise,065,Natoma Sanyang,Masanneh Sise,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN0580-C,,recruitment_arm_1,consent,1,05-021-049H,2,Nyimansatou Colley,021,Moneh Sanneh,Baba Colley,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN0582-J,,recruitment_arm_1,consent,1,05-033-025X,2,Jainaba Taal,082,Sutering Kinteh,Demba Taal,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN0592-B,,recruitment_arm_1,consent,1,06-023-001X,2,Nyimansatou Bajo,037,Musukebba Daffeh,Karafanding Bajo,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN0604-E,IN-M-239D,recruitment_arm_1,consent,1,18-004-007V,2,Binta Samateh,020,Mariatou Janneh ,Filial Samateh,3159960,,,KARANTABA,Karantaba,Demba Jallow
+EDN0604-E,IN-M-239D,recruitment_arm_1,consent,1,18-004-007V,2,Binta Samateh,020,Mariatou Janneh,Fllijay Samateh,,,,KARANTABA,Karantaba,Demba Jallow
+EDN0609-A,,recruitment_arm_1,consent,1,05-037-095L,2,Aja Touray,083,Isatou Darboe,Sadibou Touray,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN0615-E,,recruitment_arm_1,consent,1,06-009-039X,2,Nyimansatou Marong,009,Fatoumata Sanneh,Gibriel Marong,,,,BAJANA,Jiffarong,Lamin Jatta
+EDN0616-F,,recruitment_arm_1,consent,1,05-057-017R,2,Jainaba Barrow,008,Aminata Barrow,Alimameh Barrow,,,,BAJANA,Jiffarong,Lamin Jatta
+EDN0622-F,IN-M-515D,recruitment_arm_1,consent,1,06-006-010K,2,Kachikala Touray,038,Natoma Bajo,Molipha Touray,,,,BAJANA,Jiffarong,Lamin Jatta
+EDN0624-K,,recruitment_arm_1,consent,1,06-015-016U,2,Nadinding Touray,017,Fatou Bajo,Lamin Touray,,,,BAJANA,Jiffarong,Lamin Jatta
+EDN0628-C,IN-M-018C,recruitment_arm_1,consent,1,17-008-011H,2,Jainaba Marri,005,Fatoumata Camara,Luntang Marri,,,,JOLI,Kemoto,Amadou Jatta
+EDN0629-G,,recruitment_arm_1,consent,1,17-017-008I,2,Tida Jobarteh,017,Jainaba Jobarteh,Sulayman Jobarteh,3199753,,,JOLI,Kemoto,Amadou Jatta
+EDN0635-B,IN-M-012B,recruitment_arm_1,consent,1,27-020-020O,2,Isatou Gaye,020,Maram Colley,Demba Gaye,,,,JANNEH KUNDA,Kemoto,Amadou Jatta
+EDN0637-C,,recruitment_arm_1,consent,1,27-005-006C,2,Sutering Kanteh,044,Jonfolo Janneh,Nfamara Mondo Kanteh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta
+EDN0639-F,,recruitment_arm_1,consent,1,26-001-063X,2,Fansainey Bajinka,032,Binta Chaku Gibba,Mafoday Bajinka,,,,JANNEH KUNDA,Kemoto,Amadou Jatta
+EDN0641-J,IN-M-075A,recruitment_arm_1,consent,1,27-021-013T,2,Aminata Bajinka,011,Free Janneh,Mbemba Bajinka,,,,JANNEH KUNDA,Kemoto,Amadou Jatta
+EDN0645-C,,recruitment_arm_1,consent,1,27-005-020Q,2,Mariatou Kanteh,009,Jonfolo Janneh,Nfamara Mondo Kanteh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta
+EDN0646-A,IN-M-022E,recruitment_arm_1,consent,1,27-019-002K,2,Kaddy Manjang,019,Mamanding Janneh,Lamin Manjang,,,,JANNEH KUNDA,Kemoto,Amadou Jatta
+EDN0647-B,IN-M-099A,recruitment_arm_1,consent,1,27-018-003Z,2,Kaddy Janneh,008,Nyimanding Darboe,Momodou Janneh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta
+EDN0649-E,IN-M-151B,recruitment_arm_1,consent,1,27-032-035R,2,Jainaba Marong,032,Mama Kadi Kambi,Kebba Lang Marong,,,,JANNEH KUNDA,Kemoto,Amadou Jatta
+EDN0652-K,,recruitment_arm_1,consent,1,06-026-085N,2,Mariama Bajo,026,Penda Bajo,Karafanding Bajo,,,,BAJANA,Jiffarong,Lamin Jatta
+EDN0657-J,,recruitment_arm_1,consent,1,29-004-011X,2,Jarriatou Sise,023,Mama Sise,Malang Sise,,,,JOLI,Kemoto,Amadou Jatta
+EDN0660-J,IN-M-273H,recruitment_arm_1,consent,1,28-032-016M,2,Alima Janneh,032,Sutering Manjang,Masaneh F. Janneh,,,,KEMOTO,Kemoto,Amadou Jatta
+EDN0662-E,,recruitment_arm_1,consent,1,06-001-001T,2,Nyimansatou Bajo,026,Fatou Bajo,Foday Bajo,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0671-C,,recruitment_arm_1,consent,1,28-037-007L,2,Kaddy Janneh,037,Mabinta Majang,Jerreh Janneh,,,,KEMOTO,Kemoto,Amadou Jatta
+EDN0677-D,,recruitment_arm_1,consent,1,27-008-004K,2,Binta Kanteh,031,Lalla Bajinka,Firiya Kanteh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta
+EDN0678-F,,recruitment_arm_1,consent,1,27-043-001L,2,Jainaba Manjang,043,Jainaba Janneh,Nyakassi Manjang,,,,JANNEH KUNDA,Kemoto,Amadou Jatta
+EDN0679-K,IN-M-143B,recruitment_arm_1,consent,1,27-015-030Q,2,Isatou Bajinka,009,Isatou Janneh,Ansumana Bajinka,,,,JANNEH KUNDA,Kemoto,Amadou Jatta
+EDN0680-A,IN-M-235D,recruitment_arm_1,consent,1,27-009-042I,2,Fatou Kambi,009,Sally Sanyang,Momodou Lamin Kambi,,,,JANNEH KUNDA,Kemoto,Amadou Jatta
+EDN0681-D,IN-M-009K,recruitment_arm_1,consent,1,27-017-009T,2,Kaddy Janneh,017,Mariatou Manjang,Nyakass Janneh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta
+EDN0683-H,,recruitment_arm_1,consent,1,27-034-030K,2,Bintou Kanteh,019,Isatou Janneh,Alhagie Kanteh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta
+EDN0688-E,IN-M-011C,recruitment_arm_1,consent,1,27-032-046C,2,Fatou Janneh,039,Kaddy Sise,Bakary Janneh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta
+EDN0689-C,,recruitment_arm_1,consent,1,27-032-086Q,2,Nyimanding Janneh,003,Lalia Manjang,Momodou Janneh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta
+EDN0691-G,IN-M-074F,recruitment_arm_1,consent,1,25-014-006E,2,Oumie Kambi,011,Nyimansatou Sise,Kebba Kambi,,,,KARANTABA,Karantaba,Demba Jallow
+EDN0692-H,,recruitment_arm_1,consent,1,28-014-018G,2,Naffie Manjang,010,Musukuta Touray,Afang Lamin Manjang,,,,KARANTABA,Karantaba,Demba Jallow
+EDN0693-E,IN-M-020G,recruitment_arm_1,consent,1,25-012-305T,2,Oumie Camara,012,Maimuna Minteh,Sambujang Camara,,,,KARANTABA,Karantaba,Demba Jallow
+EDN0697-F,IN-M-391J,recruitment_arm_1,consent,1,25-012-097T,2,Isatou Minteh,012,Matida Touray,Sambujang Minteh,,,,KARANTABA,Karantaba,Demba Jallow
+EDN0698-J,,recruitment_arm_1,consent,1,26-008-016I,2,Fatou Marri,008,Fatou Jawo,Mamadou Marri,,,,KARANTABA,Karantaba,Demba Jallow
+EDN0702-H,IN-M-006H,recruitment_arm_1,consent,1,07-002-009B,2,Fatou Njai,002,Jajeh Sise,Juka Njai,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0703-E,,recruitment_arm_1,consent,1,07-005-039P,2,Salimata Njai,022,Jomma Njai,Bafoday Njai,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0704-C,,recruitment_arm_1,consent,1,07-008-012Y,2,Masireh Njai,035,Alimatou Samateh,Basiru Njai,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0706-K,,recruitment_arm_1,consent,1,07-034-014A,2,Nyimansatou Jallow,034,Jatou Jallow,Mamadou Fajo Jallow,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0707-F,,recruitment_arm_1,consent,1,06-030-012O,2,Mariama Sise,038,Sirreh Bajo,Babanding Sise,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0708-J,,recruitment_arm_1,consent,1,07-005-061L,2,Fatou Sanneh,005,Matty Sanyang,Lamin Sanneh,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0710-K,,recruitment_arm_1,consent,1,07-036-001L,2,Binta Njai,036,Isatou Minteh,Manlafi Njai,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0714-G,IN-M-057J,recruitment_arm_1,consent,1,07-031-018U,2,Hulay Sowe,031,Isatou Sowe,Mamadou Sowe,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0717-C,,recruitment_arm_1,consent,1,05-030-007V,2,Nyimansatou Njai,036,Banna Drammeh,Afang Munya Njai,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0718-A,,recruitment_arm_1,consent,1,30-019-014M,2,Kaddy Sise,049,Mama Sanneh Manneh,Baba Sise,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0729-E,,recruitment_arm_1,consent,1,07-008-073H,2,Fatou Manneh,008,Meta Sise,Lamin Manneh,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0731-F,IN-M-274B,recruitment_arm_1,consent,1,07-031-012O,2,Fatou Jallow,005,Alamuta Njai,Alasana Jallow,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0732-J,,recruitment_arm_1,consent,1,07-006-031T,2,Sonna Njai,056,Banna Njai,Foday Njai,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0733-B,,recruitment_arm_1,consent,1,13-001-013Z,2,Jaciatou Sanyang,007,Sarjonding Darboe,Alhagie Burama Sanyang,,,,JAMARU,Jiffarong,Lamin Jatta
+EDN0734-E,IN-M-055E,recruitment_arm_1,consent,1,07-056-007X,2,Oulimatou Sarr,056,Fadi Secka,Ousman Sarr,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0735-D,,recruitment_arm_1,consent,1,07-033-037L,2,Sirra Jallow,057,Jarra Camara,Jang Korrka Jallow,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0739-A,,recruitment_arm_1,consent,1,07-007-040O,2,Binta Bajo,007,Jarra Njai,Jaiteh Bajo,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0741-K,,recruitment_arm_1,consent,1,07-038-004M,2,Binta Njai,004,Sutering Njai,Momodou Njai,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0741-K,,recruitment_arm_1,consent,1,07-038-004M,2,Binta Njai,007,,,,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo
+EDN0742-E,,recruitment_arm_1,consent,1,08-003-005X,2,Kaddijatou Njai,003,Boma Njai,Masanneh Njai,,,,JAMARU,Jiffarong,Lamin Jatta
+EDN0743-F,IN-M-089F,recruitment_arm_1,consent,1,08-001-049R,2,Jainaba Njai,013,Nyimansatou Njai,Yaya Njai,,,,JAMARU,Jiffarong,Lamin Jatta
+EDN0746-C,IN-M-159C,recruitment_arm_1,consent,1,08-005-013D,2,Habsatou Jallow,005,Binta Jallow,Momodou Salieu Jallow,,,,JAMARU,Jiffarong,Lamin Jatta
+EDN0747-A,,recruitment_arm_1,consent,1,08-002-031L,2,Aminata Jallow,002,Sallah Bah,Sorie Jallow,,,,JAMARU,Jiffarong,Lamin Jatta
+EDN0748-B,,recruitment_arm_1,consent,1,09-002-067J,2,Tuti Gomez,013,Zenith Gomez,Paul Gomez,,,,BRIKAMANDING,Jiffarong,Lamin Jatta
+EDN0750-E,IN-M-251B,recruitment_arm_1,consent,1,10-010-007H,2,Sonna Sise,022,Sainabou Sise,Libally Sise,,,,KANTONG KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0751-C,IN-M-076H,recruitment_arm_1,consent,1,01-044-051V,2,Aminata Samateh,017,Binta Sawo,Buramanding Samateh,,,,KANTONG KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0752-A,,recruitment_arm_1,consent,1,10-008-025B,2,Mariama Sise,023,Mbassy Sise,Yaya Sise,,,,KANTONG KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0754-J,IN-M-098F,recruitment_arm_1,consent,1,10-006-015T,2,Nyara Sise,006,Mbinkinding Sise,Mustapha Sise,,,,KANTONG KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0756-B,IN-M-078F,recruitment_arm_1,consent,1,06-023-004A,2,Isatou Drammeh,002,Nakebba Bajo,Yaya Drammeh,,,,KANTONG KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0758-F,,recruitment_arm_1,consent,1,10-003-113D,2,Fatou Sise,003,Naba Sise,Terema Sise,,,,KANTONG KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0759-K,IN-M-017E,recruitment_arm_1,consent,1,10-001-205T,2,Fatou Sise,001,Nyima Camara,Ousman Sise,,,,KANTONG KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0761-D,IN-M-077H,recruitment_arm_1,consent,1,25-010-033J,2,Jainaba Jarju,007,Mami Kanyi,Jerro Jarju,,,,KANTONG KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0762-B,IN-M-025G,recruitment_arm_1,consent,1,10-004-114Q,2,Isatou Sorra,004,Natoma Cham,Konyagi Fabakary Sorra,,,,KANTONG KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0763-H,,recruitment_arm_1,consent,1,10-010-003D,2,Mariama Sise,024,Mabinta Sise,Sankung Sise,,,,KANTONG KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0764-F,,recruitment_arm_1,consent,1,29-004-044E,2,Salimata Sise,006,Njonji Sise,Malang Sise,,,,KANTONG KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0765-K,IN-M-004F,recruitment_arm_1,consent,1,10-011-042C,2,Binta Sise,021,Gunjur Sise,Sankung Sise,,,,KANTONG KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0768-E,,recruitment_arm_1,consent,1,24-025-019F,2,Kaddy Daffeh,001,Fatou Mama Darboe,Buba Daffeh,,,,MANDINA,Karantaba,Demba Jallow
+EDN0769-C,IN-M-008D,recruitment_arm_1,consent,1,14-001-038M,2,Mariama Sanyang,001,Jainaba Badjie,Sulayman Sanyang,,,,BANG KULING,Manduar, Abdoulie Jallow
+EDN0777-J,IN-M-234D,recruitment_arm_1,consent,1,26-013-003D,2,Mama Kanyi,013,Fatoumata Saribanding Kambi,Bakary Kanyi,,,,MANDINA,Karantaba,Demba Jallow
+EDN0788-C,IN-M-079G,recruitment_arm_1,consent,1,10-002-033P,2,Mariatou Sawo,005,Mariama Sise,Burafing Sawo,,,,KANTONG KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0794-A,IN-M-051E,recruitment_arm_1,consent,1,11-007-024C,2,Mba Siray Dibba,001,Ida Daffeh,Baba Dibba,,,,JALI,Kuli Kunda, Tumbulu Drammeh
+EDN0806-A,,recruitment_arm_1,consent,1,11-038-006S,2,Jainaba Samateh,034,Suwadu Drammeh,Bunja Samateh,,,,JALI,Kuli Kunda, Tumbulu Drammeh
+EDN0808-D,,recruitment_arm_1,consent,1,11-008-014E,2,Fatou Darboe,036,Dranding Drammeh,Momodou Darboe,,,,JALI,Kuli Kunda, Tumbulu Drammeh
+EDN0811-A,,recruitment_arm_1,consent,1,11-047-019J,2,Kaddy Jeng,047,Nato Marong,Babucarr Jeng,,,,JALI,Kuli Kunda, Tumbulu Drammeh
+EDN0812-K,IN-M-261J,recruitment_arm_1,consent,1,11-034-126M,2,Mariama Bah,034,Kumba Loum,Biran Bah,,,,JALI,Kuli Kunda, Tumbulu Drammeh
+EDN0816-E,IN-M-032D,recruitment_arm_1,consent,1,11-029-058O,2,Fatoumata Samateh,015,Banna Dibba,Mamadi Samateh,,,,JALI,Kuli Kunda, Tumbulu Drammeh
+EDN0817-J,,recruitment_arm_1,consent,1,11-026-049V,2,Jainaba Kanteh,026,Jonfolo Barrow,Bakary Kanteh,,,,JALI,Kuli Kunda, Tumbulu Drammeh
+EDN0818-G,IN-M-047B,recruitment_arm_1,consent,1,10-006-049B,2,Fatoumata Touray,028,Hajaratou Sise,Momodou Touray,,,,JALI,Kuli Kunda, Tumbulu Drammeh
+EDN0819-D,,recruitment_arm_1,consent,1,11-045-008A,2,Yai Samateh,045,Jainaba Drammeh,Buramanding Samateh,,,,JALI,Kuli Kunda, Tumbulu Drammeh
+EDN0822-A,IN-M-189C,recruitment_arm_1,consent,1,11-041-003Z,2,Fatoumata Dibba,003,Mama Samateh,Sambujang Dibba,,,,JALI,Kuli Kunda, Tumbulu Drammeh
+EDN0823-G,,recruitment_arm_1,consent,1,11-029-112Q,2,Ndey Sise,029,Korika Bah,Samba Sise,,,,JALI,Kuli Kunda, Tumbulu Drammeh
+EDN0824-J,IN-M-267C,recruitment_arm_1,consent,1,11-054-003Z,2,Mami Darboe,054,Fatoumata Drammeh,Bunja Darboe,,,,JALI,Kuli Kunda, Tumbulu Drammeh
+EDN0832-F,,recruitment_arm_1,consent,1,24-008-017H,2,Lisa Darboe,012,Tombong Colley,Sanuwa Darboe,,,,BURONG,Karantaba,Demba Jallow
+EDN0833-A,IN-M-100G,recruitment_arm_1,consent,1,17-011-013T,2,Salimata Drammeh,013,Kaddy Camara,Sulayman Drammeh,,,,BURONG,Karantaba,Demba Jallow
+EDN0835-J,,recruitment_arm_1,consent,1,22-008-006U,2,Hawa Jadama,006,Nyimanding Sanyang,Alfusaine Jadama,,,,BURONG,Karantaba,Demba Jallow
+EDN0838-C,IN-M-035J,recruitment_arm_1,consent,1,21-001-028W,2,Isatou Jawo,001,Binta Marri,Jerreh Jawo,,,,MISSIRA,Karantaba,Demba Jallow
+EDN0841-D,IN-M-265E,recruitment_arm_1,consent,1,27-026-010Y,2,Sarjo Bojang,008,Kitim Danso,Saikally Bojang,,,,TABORANGKOTO,Karantaba,Demba Jallow
+EDN0856-F,IN-M-054E,recruitment_arm_1,consent,1,11-020-061N,2,Nakebba Drammeh,062,Saribanding Samateh,Afang Lamin Drammeh,,,,JALI,Kuli Kunda, Tumbulu Drammeh
+EDN0862-H,IN-M-140D,recruitment_arm_1,consent,1,16-001-030G,2,Fatou Sise,049,Kaddy Janneh,Fabakary Sise,,,,TANKULAR,Manduar, Abdoulie Jallow
+EDN0867-F,,recruitment_arm_1,consent,1,16-032-004O,2,Fatou Njai Janneh,032,Kafeley Sise,Saikouba Janneh,,,,TANKULAR,Manduar, Abdoulie Jallow
+EDN0873-B,,recruitment_arm_1,consent,1,13-012-171D,2,Aminata Saidy,006,Isatou Jaiteh,Kebba Saidy,,,,MANDUAR,Manduar, Abdoulie Jallow
+EDN0880-J,IN-M-050K,recruitment_arm_1,consent,1,13-040-003P,2,Jainaba Sanyang,030,Musukebba Njai,Mafoday Sanyang,,,,MANDUAR,Manduar, Abdoulie Jallow
+EDN0883-F,,recruitment_arm_1,consent,1,27-001-001B,2,Bintou Manjang,013,Hawa Janneh,Kijera Manjang,,,,MANDUAR,Manduar, Abdoulie Jallow
+EDN0885-G,,recruitment_arm_1,consent,1,18-008-011V,2,Ndey Bah,006,Kamaranding Camara,Saraba Bah,,,,MANDUAR,Manduar, Abdoulie Jallow
+EDN0893-J,IN-M-185E,recruitment_arm_1,consent,1,13-001-026M,2,Kaddy Sanyang,009,Kaddy Fabureh,Sanna Sanyang,,,,MANDUAR,Manduar, Abdoulie Jallow
+EDN0895-B,IN-M-088J,recruitment_arm_1,consent,1,07-038-007P,2,Nurse Njai,019,Fatoumata Njai,Momodou Njai,,,,TANKULAR,Manduar, Abdoulie Jallow
+EDN0896-H,,recruitment_arm_1,consent,1,23-022-027P,2,Marang Camara,003,Jalika Sanyang,Matarr Camara,,,,KUYANG,Karantaba,Demba Jallow
+EDN0900-G,,recruitment_arm_1,consent,1,17-010-030Y,2,Fatoumata Bass,115,Kaddy Drammeh,Yusupha Bass,,,,KENEBA,keneba,Lamin LK Jawla
+EDN0904-A,IN-M-019C,recruitment_arm_1,consent,1,29-022-018M,2,Jainaba Minteh,080,Jarra Bajo,Afang Kemo Minteh,,,,KENEBA,keneba,Lamin LK Jawla
+EDN0905-E,,recruitment_arm_1,consent,1,29-031-011J,2,Maimuna Sise,025,Binta Njai,Fanding Sise,,,,KENEBA,keneba,Lamin LK Jawla
+EDN0908-H,,recruitment_arm_1,consent,1,29-005-020S,2,Fatoumata Sise,059,Mai Samateh,Alh. Moneh Sise,,,,KENEBA,keneba,Lamin LK Jawla
+EDN0909-J,IN-M-040F,recruitment_arm_1,consent,1,17-002-037N,2,Jalika Kuyateh,095,Alimatou Camara,Bakary Kuyateh,,,,KENEBA,keneba,Lamin LK Jawla
+EDN0920-A,IN-M-021K,recruitment_arm_1,consent,1,15-006-023T,2,Maimuna Jallow,006,Sallah Jallow,Mamadou Jallow,,,,GISSAY,Manduar, Abdoulie Jallow
+EDN0924-F,IN-M-010F,recruitment_arm_1,consent,1,15-004-028A,2,Jully Bah,008,Sira Bah,Yobi Bah,,,,GISSAY,Manduar, Abdoulie Jallow
+EDN0926-J,,recruitment_arm_1,consent,1,29-033-011H,2,Nyima Minteh,033,Kaddy Buteh Sise,Momodou Minteh,,,,KENEBA,keneba,Lamin LK Jawla
+EDN0928-E,,recruitment_arm_1,consent,1,10-005-009B,2,Nyimansatou Sise,046,Fatoumata Sise,Lamin Sise,,,,KENEBA,keneba,Lamin LK Jawla
+EDN0929-C,,recruitment_arm_1,consent,1,29-025-017V,2,Mariama Sise,016,Bakoto Sise,Momodou Sise,,,,KENEBA,keneba,Lamin LK Jawla
+EDN0931-J,,recruitment_arm_1,consent,1,29-068-018S,2,Jainaba Sise,046,Metanding Sise,Sambou Sise,,,,KENEBA,keneba,Lamin LK Jawla
+EDN0933-K,,recruitment_arm_1,consent,1,29-035-015J,2,Sarita Sise,035,Bajo Sise,Sunkary Sise,,,,KENEBA,keneba,Lamin LK Jawla
+EDN0936-A,,recruitment_arm_1,consent,1,29-017-002O,2,Fatoumata Samateh,017,Jonfolo Drammeh,Yafilly Samateh,,,,KENEBA,keneba,Lamin LK Jawla
+EDN0937-B,IN-M-169A,recruitment_arm_1,consent,1,29-025-037P,2,Binta Sise,053,Saribanding Bajo,Bekai Manifa Sise,,,,KENEBA,keneba,Lamin LK Jawla
+EDN0939-E,IN-M-311A,recruitment_arm_1,consent,1,29-077-008M,2,Aminata Bajo,013,Kuru Sise,Fatty Bajo,,,,KENEBA,keneba,Lamin LK Jawla
+EDN0943-J,,recruitment_arm_1,consent,1,29-005-031D,2,Isatou Sise,002,Sireh Barrow,Alh. Moneh Sise,,,,KENEBA,keneba,Lamin LK Jawla
+EDN0946-H,,recruitment_arm_1,consent,1,29-044-030C,2,Fatou Camara,044,Aramata Sise,Junkung Camara,,,,KENEBA,keneba,Lamin LK Jawla
+EDN0949-F,IN-M-240B,recruitment_arm_1,consent,1,29-035-010E,2,Mariatou Sise,020,Banna Sanyang,Ebrima Sise,,,,KENEBA,keneba,Lamin LK Jawla
+EDN0957-A,IN-M-033K,recruitment_arm_1,consent,1,29-032-030O,2,Mariama Sise,032,Jariatou Sise,Yaya Sise,,,,KENEBA,keneba,Lamin LK Jawla
+EDN0960-H,,recruitment_arm_1,consent,1,29-061-011F,2,Haminata Minteh,004,Salinding Barrow,Muhamed Waa Minteh,,,,KENEBA,keneba,Lamin LK Jawla
+EDN0961-A,,recruitment_arm_1,consent,1,25-006-196U,2,Nyimanding Fatty,008,Mariama Samateh,Borry Fatty,,,,KARANTABA,Karantaba,Demba Jallow
+EDN0964-B,IN-M-031D,recruitment_arm_1,consent,1,16-030-005R,2,Binta Sise,018,Tumbulu Drammeh,Balla Sise,,,,TANKULAR,Manduar, Abdoulie Jallow
+EDN0966-E,IN-M-236J,recruitment_arm_1,consent,1,25-006-005L,2,Fatou Kambi,020,Awa Kambi,Dembo Kambi,,,,KARANTABA,Karantaba,Demba Jallow
+EDN0972-F,,recruitment_arm_1,consent,1,25-008-051D,2,Kaddy Jarjou,008,Nyimanding Marri,Fakebba Jarju,,,,KARANTABA,Karantaba,Demba Jallow
+EDN0975-J,,recruitment_arm_1,consent,1,25-008-009N,2,Fatou Jarju,020,Nyimanding Kanyi,Dembo Jarju,,,,KARANTABA,Karantaba,Demba Jallow
+EDN0976-D,,recruitment_arm_1,consent,1,25-012-228U,2,Aja Minteh,012,Bintou Conteh,Sadibou Minteh,,,,KARANTABA,Karantaba,Demba Jallow
+EDN0979-G,IN-M-038A,recruitment_arm_1,consent,1,52-051-01,2,kaddijatou bah,051,fatoumata jallow,sulayman bah,2552972,,,MADINA ANGALLEH,Nema Kuta,Mamadou Jarjusey
+EDN0991-F,IN-M-092F,recruitment_arm_1,consent,1,03-048-044M,2,Haminata Jobe,048,Dellam Sey,Samba Jobe,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah
+EDN0993-B,IN-M-260K,recruitment_arm_1,consent,1,03-046-016M,2,Mariama Jobe,046,Jaila Jobe,Lamin Jobe,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah
+EDN0995-D,IN-M-463G,recruitment_arm_1,consent,1,03-091-005V,2,Sohna Ndaw,091,Adama Colley,Samba Ndaw,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah
+EDN1003-C,,recruitment_arm_1,consent,1,50-002-04,2,Adama Wurry Jallow,002,Sirra Camara,Basirou Jallow,2531779,,,NEMA KUTA,Nema Kuta,Mamadou Jarjusey
+EDN1004-D,IN-M-003A,recruitment_arm_1,consent,1,42-032-01,2,Fatou Darboe,032,Natoma kanteh,Bakary Darboe,7480516,5074917,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo
+EDN1006-F,,recruitment_arm_1,consent,1,54-024-02,2,Jainaba Bah,024,Tomaring Jadama,Ali Bah,,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey
+EDN1007-G,IN-M-023A,recruitment_arm_1,consent,1,54-011-02,2,aja susso,011,jankey sanneh,kemo sanneh,3791809,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey
+EDN1013-M,IN-M-153G,recruitment_arm_1,consent,1,41-028-04,2,Nyima Sanneh,028,Matindingo Sanyang,Landing Sanyang,3268281,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai
+EDN1015-O,IN-M-046J,recruitment_arm_1,consent,1,05-017-006U,2,Aramata Barrow,020,Suntukung Kinteh,Lamin Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN1017-G,IN-M-053K,recruitment_arm_1,consent,1,05-013-014G,2,Yassin Njai,087,Mariama Barrow,Soli Njai,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN1022-V,IN-M-536D,recruitment_arm_1,consent,1,05-002-106S,2,Natoma Drammeh,034,Tumbulu Sise,Fanding Drammeh,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN1023-W,IN-M-029D,recruitment_arm_1,consent,1,40-008-02,2,Binta Sidibeh,008,Isatou kanteh,Sabou Sidibeh,7280673,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo
+EDN1024-X,IN-M-026F,recruitment_arm_1,consent,1,40-022-02,2,Fatou Camara,022,Fatou Camara,Masaneh Camara,,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo
+EDN1026-Z,IN-M-107A,recruitment_arm_1,consent,1,05-023-008Q,2,Menata Barrow,064,Adama Kinteh,Junkung Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN1029-D,IN-M-198J,recruitment_arm_1,consent,1,48-002-03,2,Fatou Sarr,002,Mariama Jarju,Alagife Sarr,3049347,,,KUNDANG NUMU KUNDA,Nema Kuta,Mamadou Jarjusey
+EDN1030-E,IN-M-034A,recruitment_arm_1,consent,1,10-005-030W,2,Bintou Manka,001,Binta Sise,Suntukung Manka,,,,KANTONG KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN1032-G,,recruitment_arm_1,consent,1,54-017-02,2,Jainaba Fadera,017,Sunkary Korta,Landing Fadera,3112765,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey
+EDN1034-I,IN-M-072J,recruitment_arm_1,consent,1,48-002-04,2,Nyma Yarbou,002,Jalang Manjang,Demba Yarbou,3609952,,,KUNDANG NUMU KUNDA,Nema Kuta,Mamadou Jarjusey
+EDN1037-L,IN-M-429A,recruitment_arm_1,consent,1,23-014-011H,2,Bintou Sise,014,Fatoumata Sawaneh,Saikou Alieu Sise,,,,BURONG,Karantaba,Demba Jallow
+EDN1045-T,IN-M-233B,recruitment_arm_1,consent,1,17-004-024Y,2,Isatou Camara,004,Haminata Jammeh,Momodou Camara,,,,JOLI,Kemoto,Amadou Jatta
+EDN1048-W,IN-M-225D,recruitment_arm_1,consent,1,40-015-04,2,Adama Camara,015,Isatou Mansarine,Karafa Camara,3547841,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo
+EDN1051-Z,IN-M-061B,recruitment_arm_1,consent,1,29-045-049H,2,Mariatou Sanneh,035,Ida Sanyang,Lanjay Sanneh,,,,KENEBA,keneba,Lamin LK Jawla
+EDN1062-L,IN-M-472E,recruitment_arm_1,consent,1,28-015-013N,2,Maimuna Demba,011,Tida Janneh,Bakary Demba,,,,KARANTABA,Karantaba,Demba Jallow
+EDN1067-G,IN-M-049G,recruitment_arm_1,consent,1,25-011-293V,2,Jainaba Kambi,012,Babung Nyimanding Jammeh,Dembo Kambi,,,,KARANTABA,Karantaba,Demba Jallow
+EDN1070-T,,recruitment_arm_1,consent,1,27-006-018A,2,Alima Janneh,010,Neneh Susso,Karamo Janneh,,,,MANDUAR,Manduar, Abdoulie Jallow
+EDN1072-V,IN-M-036E,recruitment_arm_1,consent,1,11-003-039V,2,Mariama Samateh,020,Mai Drammeh,Sambou Samateh,,,,KARANTABA,Karantaba,Demba Jallow
+EDN1080-E,IN-M-015H,recruitment_arm_1,consent,1,29-028-006U,2,Binta Sise,094,Natoma Minteh,Nyanbi Sise,,,,KENEBA,keneba,Lamin LK Jawla
+EDN1089-N,IN-M-263A,recruitment_arm_1,consent,1,06-015-015T,2,Fatou Bajo,004,Sally Njai,Bunja Bajo,,,,SANDENG,Niorro Jattaba,Modou Bah
+EDN1092-G,IN-M-414B,recruitment_arm_1,consent,1,01-033-110A,2,Fatou Wonto Camara,033,Alimatou Touray,Saikounding Camara,,,,DUMBUTO,Dumbuto,Ousman Kambi
+EDN1094-S,IN-M-228E,recruitment_arm_1,consent,1,04-021-003Z,2,Binta Jarju,041,Fatou Touray,Manding Jarju,,,,DUMBUTO,Dumbuto,Ousman Kambi
+EDN1095-T,IN-M-266G,recruitment_arm_1,consent,1,01-016-031D,2,Mariama Sonko,033,Fatoumata Njai,Fa- Lang Sonko,,,,DUMBUTO,Dumbuto,Ousman Kambi
+EDN1102-B,IN-M-529C,recruitment_arm_1,consent,1,30-018-010W,2,Binta Bojang,018,Fatoumata Kinteh,Lamin Bojang,,,,BATELLING,Kwinella Sansankono,Modou Lamin Njai
+EDN1104-D,IN-M-148E,recruitment_arm_1,consent,1,06-015-006K,2,Aja Drammeh,037,Nakebba Bajo,Yaya Drammeh,,,,BAJANA,Jiffarong,Lamin Jatta
+EDN1110-G,,recruitment_arm_1,consent,1,04-007-059R,2,Binta Sanneh,007,Arabiatou Touray,Demba Sanneh,,,,JATTABA,Dumbuto,Ousman Kambi
+EDN1163-M,IN-M-432G,recruitment_arm_1,consent,1,16-035-019N,2,Adama Drammeh,016,Jainaba Sanyang,Omar Drammeh,,,,DUMBUTO,Dumbuto,Ousman Kambi
+EDN1168-R,IN-M-497A,recruitment_arm_1,consent,1,01-023-018W,2,Kaddy Jammeh,023,Nadinding Camara,Jero Jammeh,,,,DUMBUTO,Dumbuto,Ousman Kambi
+EDN1216-P,IN-M-468H,recruitment_arm_1,consent,1,24-024-033H,2,Fatoumata Daffeh,027,Nyimanding Camara,Ansumana Daffeh,5175679,,,SANKANDI,Dumbuto,Ousman Kambi
+EDN1227-B,IN-M-496D,recruitment_arm_1,consent,1,03-002-060W,2,Isatou Jobe,002,Adama Jobe,Shriff Jobe,5269409,,,NIORO JATTABA,Niorro Jattaba,Modou Bah
+EDN1250-Y,IN-M-231G,recruitment_arm_1,consent,1,03-028-019H,2,Aminata Sowe,028,Hulay Kebbeh,Pateh Sowe,3575466,,,NIORO JATTABA,Niorro Jattaba,Modou Bah
+EDN1332-G,IN-M-383A,recruitment_arm_1,consent,1,05-014-053F,2,Fatou Barrow,014,Fatou Kinteh,Fabakary Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN1340-O,IN-M-431J,recruitment_arm_1,consent,1,05-002-075N,2,Fatou Drammeh,028,Alamuta Kinteh,Karamo Drammeh,3656361,3571307,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN1342-G,,recruitment_arm_1,consent,1,05-030-044G,2,Jainaba Njai,030,Mutanye Kinteh,Jaiteh Njai,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN1344-S,IN-M-382C,recruitment_arm_1,consent,1,05-032-019F,2,Mariama Barrow,032,Fatou Njai,Njundu Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN1349-X,IN-M-400D,recruitment_arm_1,consent,1,05-037-108Y,2,Fatoumata Njai,037,Mama Kinteh,Baba Njai,3852339,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN1358-H,IN-M-398A,recruitment_arm_1,consent,1,05-051-015V,2,Fatou Bah,051,Sirra Bah,Wallop Bah,2135981,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN1363-M,IN-M-450E,recruitment_arm_1,consent,1,05-008-002M,2,Fatou Barrow,060,Ida Touray,Sarjo Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN1367-G,IN-M-374J,recruitment_arm_1,consent,1,05-042-002E,2,Fatou Kinteh,064,Kaddy Njai,Lamin Kinteh,3985945,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN1386-K,IN-M-516E,recruitment_arm_1,consent,1,07-004-071J,2,Aminata Njai,007,Nakebba Njai,Fakebba Njai,2785230,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN1387-L,IN-M-397D,recruitment_arm_1,consent,1,05-002-152M,2,Fatou Sise,007,Naba Sise,Terema Sise,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN1411-K,,recruitment_arm_1,consent,1,09-005-037P,2,Ndey Jabaye,005,Amie Njai,Amadou Jabaye,3480968,,,BRIKAMANDING,Jiffarong,Lamin Jatta
+EDN1417-G,IN-M-372J,recruitment_arm_1,consent,1,05-035-024U,2,Jalika Njai,006,Kaddy Kinteh,Alasana Njai,,,,KANTONG KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN1419-S,IN-M-531E,recruitment_arm_1,consent,1,29-073-006O,2,Aja Sise,016,Ida Sise,Sankung Sise,3010211,,,KANTONG KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN1423-W,IN-M-447J,recruitment_arm_1,consent,1,11-007-057J,2,Kaddy Samateh,007,Nyara Kanyi,Yafilly Samateh,3821449,,,JALI,Kuli Kunda, Tumbulu Drammeh
+EDN1447-V,IN-M-250J,recruitment_arm_1,consent,1,15-006-032C,2,Mariama Jawo,006,Mariama Bah,Musa Jawo,3347379,,,GISSAY,Manduar, Abdoulie Jallow
+EDN1452-B,IN-M-401A,recruitment_arm_1,consent,1,16-016-026A,2,Adama Bah,016,Jainaba Jallow,Omar Bah,,,,TANKULAR,Manduar, Abdoulie Jallow
+EDN1455-E,IN-M-237F,recruitment_arm_1,consent,1,16-039-009Z,2,Lisa Njai,024,Satou Manka,Alhagie Njai,7977830,,,TANKULAR,Manduar, Abdoulie Jallow
+EDN1476-Z,IN-M-262E,recruitment_arm_1,consent,1,23-001-057B,2,Fatou Manneh,001,Fatou Camara,Buba Manneh,5152524,2344365,,BURONG,Karantaba,Demba Jallow
+EDN1526-E,IN-M-348F,recruitment_arm_1,consent,1,25-012-470C,2,Mariama Darboe,012,Majula Jabbi,Ousman Darboe,,,,KARANTABA,Karantaba,Demba Jallow
+EDN1537-A,IN-M-254E,recruitment_arm_1,consent,1,27-017-02,2,Fatou Camara,017,Nyimasatou Jarjue,Lamin Camara,2719950,,,JANNEH KUNDA,Kemoto,Amadou Jatta
+EDN1555-D,IN-M-473C,recruitment_arm_1,consent,1,28-014-039B,2,Mariama Janneh,014,Jarra Bajo,Jerreh Janneh,7992422,,,KEMOTO,Kemoto,Amadou Jatta
+EDN1557-H,IN-M-411Q,recruitment_arm_1,consent,1,28-009-008O,2,Oumie Manjang,032,Fansaine Janneh,Kalifa Manjang,,,,KEMOTO,Kemoto,Amadou Jatta
+EDN1564-G,IN-M-513A,recruitment_arm_1,consent,1,29-010-010Q,2,Aminata Minteh,005,Jonyinding Sise,Sankung Minteh,5369585,,,KENEBA,keneba,Lamin LK Jawla
+EDN1589-J,,recruitment_arm_1,consent,1,29-069-011X,2,Kaddijatou Jammeh,103,Jainaba Colley,Barra Jammeh,3596483,2678149,,KENEBA,keneba,Lamin LK Jawla
+EDN1597-D,IN-M-393H,recruitment_arm_1,consent,1,29-154-002U,2,Jalika Sonko,154,Hawa Sanyang,Bakary Sonko,,,,KENEBA,keneba,Lamin LK Jawla
+EDN1605-K,IN-M-471A,recruitment_arm_1,consent,1,32-009-009T,2,Isatou Jallow,009,Kaddijatou Keita,Amadou Wurry Jallow,,,,WUDEBA,Dumbuto,Ousman Kambi
+EDN1614-K,IN-M-229F,recruitment_arm_1,consent,1,40-001-01,2,Nyma Demba,001,Nymasata Sanneh,Bakary Demba,3015299,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo
+EDN1646-K,IN-M-232C,recruitment_arm_1,consent,1,41-021-01,2,Jainaba jarju,021,Fatou Touray,Manding Jarju,3058047,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai
+EDN1676-A,IN-M-241F,recruitment_arm_1,consent,1,42-061-01,2,sally darboe,061,mama kaddy dampha,molifa darboe,3236178,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo
+EDN1687-K,IN-M-402K,recruitment_arm_1,consent,1,42-084-02,2,Natoma Sanyang,084,Naymuna Dibba,Kebba Sanyang,7214885,3368420,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo
+EDN1707-G,,recruitment_arm_1,consent,1,44-004-08,2,Isatou Demba,004,Fansainey Camara,Bakary Demba,3112780,,,BUMARR,Kwinella Sansankono,Modou Lamin Njai
+EDN1709-C,IN-M-451B,recruitment_arm_1,consent,1,44-014-02,2,Fatou Darboe,014,fatoumata Camara,Bakary Darboe,7817379,,,BUMARR,Kwinella Sansankono,Modou Lamin Njai
+EDN1725-F,IN-M-375H,recruitment_arm_1,consent,1,47-045-05,2,Sangiba Gitteh,045,Sarjo Ceesay,Solo Gitteh,2534214,,,NEMA,Nema, Lamin Njai
+EDN1783-k,IN-M-264H,recruitment_arm_1,consent,1,40-010-08,2,Kaddy Sanyang,010,Mariama Saidy,Faburama Sanyang,5292575,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo
+EDN1785-J,IN-M-404B,recruitment_arm_1,consent,1,41-026-07,2,Isatou Sanyang ,026,Aminata Sanneh ,Jerreh Sanyang ,5923395,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai
+EDN1802-C,IN-M-495J,recruitment_arm_1,consent,1,05-024-003X,2,Jainaba Njai,015,Fatou Kinteh,Lang Lamin Njai,3852371,2081841,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN1818-D,IN-M-532F,recruitment_arm_1,consent,1,41-35-03,2,Bintou Ceesay,035,Mama Minteh,Alagie Ceesay,5036823,2808753,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai
+EDN1840-N,IN-M-373D,recruitment_arm_1,consent,1,70-001-01,2,Kaddijatou Sanneh,001,Jainaba Bah,Lamin Sanneh,3913956,,,KOLIOR,Nema Kuta,Mamadou Jarjusey
+EDN1844-G,IN-M-313E,recruitment_arm_1,consent,1,70-004-03,2,Jarra Sanyang,004,Jankey Manneh,Jalamanding Sanyang,5843025,,,KOLIOR,Nema Kuta,Mamadou Jarjusey
+EDN1879-B,IN-M-312C,recruitment_arm_1,consent,1,71-005-03,2,Ansata Kanteh,005,Fatoumata Dampha,Samba Kanteh,7230812,,,JOMARR,Kolior, Alieu Bah
+EDN1882-H,IN-M-483S,recruitment_arm_1,consent,1,71-007-02,2,FANSAINEY CAMARA ,007,SARJOE CAMARA ,LANDING  CAMARA ,2340863,,,JOMARR,Kolior, Alieu Bah
+EDN1901-A,,recruitment_arm_1,consent,1,72-018-02,2,Fatou Joof,018,Hawa Jabbie,Lamin Joof,2474305,,,JASOBO,Kolior, Alieu Bah
+EDN1907-V,IN-M-443B,recruitment_arm_1,consent,1,72-023-01,2,Sarjo Sanneh ,023,Fatoumatta Camara ,Kalilu Sanneh,2503810,,,JASOBO,Kolior, Alieu Bah
+EDN1932-Y,IN-M-455F,recruitment_arm_1,consent,1,75-002-03,2,SAINABOU  JOBE ,002,PENDA   SOWE ,SEEDU  JOBE ,7489876,,,BABOU YAA,MASSEMBEH,Sidu Sibi
+EDN1941-K,IN-M-453D,recruitment_arm_1,consent,1,76-002-03,2,FATOUMATA  JARJU ,002,BAKOTO CAMARA ,BILALI JARJU ,7507034,2588870,,MASEMBEH,MASSEMBEH,Sidu Sibi
+EDN1950-U,IN-M-454C,recruitment_arm_1,consent,1,76-009-03,2,NYIMASATOU  FATTY ,009,BANNA JARJU ,SISAWO FATTY ,7405828,,,MASEMBEH,MASSEMBEH,Sidu Sibi
+EDN2017-T,IN-M-525G,recruitment_arm_1,consent,1,77-001-01,2,Isatou Colley,001,Jainaba Badjie,About Colley,2397241,,,GENIERE,MASSEMBEH,Sidu Sibi
+EDN2051-U,IN-M-433G,recruitment_arm_1,consent,1,77-027-01,2,HAWA  SANNEH ,027,HAWA  CONTEH,ALASANA SANNEH ,5337101,,,GENIERE,MASSEMBEH,Sidu Sibi
+EDN2082-G,IN-M-464J,recruitment_arm_1,consent,1,78-004-01,2,Kaddy Darboe ,004,Nyomo Barrow,Nyuku Darboe,7227392,,,KAIAF,KAIAF,Foday Sanyang
+EDN2089-R,IN-M-478F,recruitment_arm_1,consent,1,78-015-01,2,MARIAMA COLLY,015,MUSUKEBA MANNEH ,OUSMAN COLLY ,3203361,,,KAIAF,KAIAF,Foday Sanyang
+EDN2090-S,IN-M-377X,recruitment_arm_1,consent,1,78-017-01,2,JABOU SAMA,017,MANSATA MANNEH ,MAMADOU SAMA,2874852,,,KAIAF,KAIAF,Foday Sanyang
+EDN2107-K,IN-M-481K,recruitment_arm_1,consent,1,78-050-01,2,Tomaring Sanneh,050,Awa Sanneh ,Sarjo Sanneh,,,,KAIAF,KAIAF,Foday Sanyang
+EDN2160-N,IN-M-460E,recruitment_arm_1,consent,1,78-090-02,2,Fatoumatta Joof,090,Musukebba Komah,Sulayman Joof,2911811,,,KAIAF,KAIAF,Foday Sanyang
+EDN2165-S,IN-M-370E,recruitment_arm_1,consent,1,78-100-01,2,Matty Drammeh ,100,Joma Sanneh,Ma Sanneh Drammeh ,3787954,,,KAIAF,KAIAF,Foday Sanyang
+EDN2204-W,,recruitment_arm_1,consent,1,79-001-08,2,Fatou Njie,001,Sohna Touray,Katim Njie,2121315,,,MADINA KAIAF,KAIAF,Foday Sanyang
+EDN2206-P,IN-M-530F,recruitment_arm_1,consent,1,79-001-010,2,Alima Njie,001,Lolly Mbaye,Modou Njie,2642549,,,MADINA KAIAF,KAIAF,Foday Sanyang
+EDN2243-N,,recruitment_arm_1,consent,1,79-018-04,2,Sainabou Touray,018,Fatou Touray,Katim Touray,3552304,7275813,,MADINA KAIAF,KAIAF,Foday Sanyang
+EDN2272-G,IN-M-503D,recruitment_arm_1,consent,1,79-030-01,2,Yassin Touray ,029,Harambee Cham,Modou Touray,7519102,,,MADINA KAIAF,KAIAF,Foday Sanyang
+EDN2322-V,,recruitment_arm_1,consent,1,79-054-05,2,Yassin Touray,054,Yassin Ceesay,Alhagie Ceesay ,7816782,,,MADINA KAIAF,KAIAF,Foday Sanyang
+EDN2351-T,,recruitment_arm_1,consent,1,79-062-02,2,Fatou Njie,062,Awa Touray ,Ousainou Njie,,,,MADINA KAIAF,KAIAF,Foday Sanyang
+EDN2371-O,,recruitment_arm_1,consent,1,79-076-03,2,Fatou Touray ,076,Mariama Sallah,Omar Touray ,5408242,,,MADINA KAIAF,KAIAF,Foday Sanyang
+EDN2373-P,,recruitment_arm_1,consent,1,79-078-02,2,Fatou Gaye,078,Kani Touray ,Hayib Gaye,7568052,,,MADINA KAIAF,KAIAF,Foday Sanyang
+EDN2382-U,IN-M-504B,recruitment_arm_1,consent,1,79-083-01,2,Oumie Bah,083,Hawa Touray ,Babou Bah,7092471,,,MADINA KAIAF,KAIAF,Foday Sanyang
+EDN2386-G,IN-M-439F,recruitment_arm_1,consent,1,79-085-03,2,Yassin Njie,085,Oumou Sallah ,Abdourahman Njie,7466407,,,MADINA KAIAF,KAIAF,Foday Sanyang
+EDN2391-D,,recruitment_arm_1,consent,1,79-088-01,2,Halima Gaye,088,Kumba Gaye,Mbye Gaye,,,,MADINA KAIAF,KAIAF,Foday Sanyang
+EDN2392-A,IN-M-502C,recruitment_arm_1,consent,1,79-088-02,2,Hata Touray ,088,Fatoumata Touray ,Omar Touray ,7297766,,,MADINA KAIAF,KAIAF,Foday Sanyang
+EDN2394-K,IN-M-440F,recruitment_arm_1,consent,1,79-089-01,2,Jama Jobe,089,Yassin Gai,Modou Jobe,,,,MADINA KAIAF,KAIAF,Foday Sanyang
+EDN2400-N,IN-M-441F,recruitment_arm_1,consent,1,79-090-02,2,Kanni Touray ,090,Sohna Touray ,Mustapha Touray ,,,,MADINA KAIAF,KAIAF,Foday Sanyang
+EDN2407-Q,,recruitment_arm_1,consent,1,79-090-09,2,Fodi Gai,090,Sainabou Touray ,Abibou gaye,,,,MADINA KAIAF,KAIAF,Foday Sanyang
+EDN2413-L,IN-M-482E,recruitment_arm_1,consent,1,79-094-02,2,Fatou Touray ,094,Jarra Touray ,Mamut Touray ,,,,MADINA KAIAF,KAIAF,Foday Sanyang
+EDN2426-I,,recruitment_arm_1,consent,1,79-097-04,2,Mariama Touray,097,Fatou Touray,Katim Touray,7154251,,,MADINA KAIAF,KAIAF,Foday Sanyang
+EDN2436-G,,recruitment_arm_1,consent,1,79-108-01,2,Hata Ceesay ,108,Isatou Ceesay ,Ousman Ceesay ,2998863,,,MADINA KAIAF,KAIAF,Foday Sanyang
+EDN2437-U,IN-M-499J,recruitment_arm_1,consent,1,79-108-03,2,Isatou Ceesay ,108,Mbombeh Ceesay ,Mod Ceesay ,2828371,,,MADINA KAIAF,KAIAF,Foday Sanyang
+EDN2439-V,IN-M-488C,recruitment_arm_1,consent,1,79-109-01,2,Sohna Mbye ,109,Haddy  Mbye ,Omar Mbye ,2881931,,,MADINA KAIAF,KAIAF,Foday Sanyang
+EDN2561-H,IN-M-378J,recruitment_arm_1,consent,1,82-006-02,2,Jaila Ceesay,006,Adam Bah,Mabo Ceesay,2735567,,,NJOLFEN,Kolior, Alieu Bah
+EDN2564-D,IN-M-387B,recruitment_arm_1,consent,1,82-007-03,2,OUMIE CEESAY ,007,JULY BAH ,NUMU CEESAY ,2534298,,,NJOLFEN,Kolior, Alieu Bah
+EDN2587-P,IN-M-457G,recruitment_arm_1,consent,1,82-024-01,2,FATIM JAWO,024,KUMBA BAH,YAYA JAWO ,7819308,,,NJOLFEN,Kolior, Alieu Bah
+EDN2588-G,IN-M-379Q,recruitment_arm_1,consent,1,82-024-02,2,FATOU BAH,024,TACKO CEESAY ,HAMADI BAH,3433779,,,NJOLFEN,Kolior, Alieu Bah
+EDN2591-I,,recruitment_arm_1,consent,1,82-028-01,2,MAIMUNA BAH,028,FATOUMATTA JALLOW ,KEBBA BAH,7006718,,,NJOLFEN,Kolior, Alieu Bah
+EDN2594-G,IN-M-458H,recruitment_arm_1,consent,1,82-030-02,2,ISTOU CEESAY ,030,ADAMA JAWO ,BERAN CEESAY ,2987326,,,NJOLFEN,Kolior, Alieu Bah
+EDN2646-T,IN-M-369J,recruitment_arm_1,consent,1,76-035-01,2,Nyimansatou Jarju,035,Binta Manka,Jerreh Jarju,7402495,,,MASEMBEH,MASSEMBEH,Sidu Sibi
+EDN2650-M,IN-M-509F,recruitment_arm_1,consent,1,76-018-01,2,SUTAYRING SANYANG ,018,NYIMA  NJIE ,LANG  SANYANG ,7587487,,,MASEMBEH,MASSEMBEH,Sidu Sibi
+EDN2660-P,IN-M-490E,recruitment_arm_1,consent,1,70-003-01,2,Kaddy Sanneh,003,Hawa Sanneh,Kebba Sanneh,7049261,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN2661-X,IN-M-425E,recruitment_arm_1,consent,1,70-017-01,2,Kaddy Camara,017,Nyakass Mass,Jalamang Camara,7350794,,,KOLIOR,Nema Kuta,Mamadou Jarjusey
+EDN2688-L,IN-M-385K,recruitment_arm_1,consent,1,82-039-01,2,JARRIE ALLOW ,039,HAWA GANO,SHERIF JALLOW ,3580489,,,NJOLFEN,Kolior, Alieu Bah
+EDN2695-J,IN-M-508G,recruitment_arm_1,consent,1,84-001-01,2,Jankey Barry,001,Isata Kolley,Momodou  Barry,2446142,,,SAREH PATEH,Kolior, Alieu Bah
+EDN2696-T,IN-M-456A,recruitment_arm_1,consent,1,84-004-03,2,Maimuna Sowe,004,Hawa Barry,Ebrima Sowe,,,,SAREH PATEH,Kolior, Alieu Bah
+EDN2707-W,IN-M-380A,recruitment_arm_1,consent,1,82-022-01,2,Jainaba Bah,022,Kumba Gaye,Samba Bah,5940661,,,NJOLFEN,Kolior, Alieu Bah
+EDN2730-T,IN-M-444E,recruitment_arm_1,consent,1,79-096-06,2,Mam Cham Touray ,096,Isatou Touray ,Ali Kady Touray ,7429095,,,MADINA KAIAF,KAIAF,Foday Sanyang
+EDN2731-P,,recruitment_arm_1,consent,1,79-096-07,2,Kaddy Ceesay ,096,Kaddy Ceesay ,Mamud Ceesay ,7957979,,,MADINA KAIAF,KAIAF,Foday Sanyang
+EDN2781-X,IN-M-469E,recruitment_arm_1,consent,1,51-040-10,2,Kumba Sabally,040,Mariama Sowe,Kalilu Sabally ,2712143,2702591,,JIRROFF,Nema Kuta,Mamadou Jarjusey
+EDN2782-K,,recruitment_arm_1,consent,1,55-001-13,2,Jarra Bah,001,Fatim Gaye,Hamadi Bah,,,,SARE SARJO,Nema Kuta,Mamadou Jarjusey
+EDN2785-J,IN-M-505A,recruitment_arm_1,consent,1,55-001-16,2,Haji Jobe,001,Adama Jallow,Gelleh Jobe,2165240,,,SARE SARJO,Nema Kuta,Mamadou Jarjusey
+EDN2787-Y,IN-M-514B,recruitment_arm_1,consent,1,55-008-06,2,kaddijatou jobe,008,Lele jobe,Abdoulie jobe,,,,SARE SARJO,Nema Kuta,Mamadou Jarjusey
+EDN0597-G,IN-M-042F,recruitment_arm_1,consent,1,17-001-056U,2,Fatou Camara,026,Kaddy Sanyang,Omar Camara,,,,JOLI,Kemoto,Amadou Jatta
+EDN0539-D,IN-M-064D,recruitment_arm_1,consent,1,47-052-01,2,Manifa Fadera,052,Nyimanding Jawara,sanna Fadera,2559091,,,NEMA,Nema, Lamin Njai
+EDN0115-G,IN-M-068B,recruitment_arm_1,consent,1,58-001-01,2,penda sanyang,001,kumba bah,almami sanyang,2216571,,,TABANANI,Unknown,
+EDN1081-F,IN-M-101H,recruitment_arm_1,consent,1,29-001-035L,2,Alimatou Sise,110,Binta Manneh,Jalamang Sise,,,,KENEBA,keneba,Lamin LK Jawla
+EDN0772-K,IN-M-124E,recruitment_arm_1,consent,1,27-042-016O,2,Mariatou Kanteh,009,Lalla Bajinka,Firiya Kanteh,,,,MANDINA,Karantaba,Demba Jallow
+EDN0487-C,IN-M-149K,recruitment_arm_1,consent,1,31-001-047Z,2,Fatoumata Saidy,014,Fatou Darboe,Lamin Saidy,,,,SANDENG,Niorro Jattaba,Modou Bah
+EDN1109-I,IN-M-152C,recruitment_arm_1,consent,1,31-001-028G,2,Aja Sanneh,026,Satounding Darboe,Momodou Sanneh,,,,JATTABA,Dumbuto,Ousman Kambi
+EDN1209-I,IN-M-194D,recruitment_arm_1,consent,1,02-015-012M,2,Sarjo Drammeh,015,Manding Barrow,Kalilu Drammeh,,,,SANKANDI,Dumbuto,Ousman Kambi
+EDN0415-C,IN-M-243J,recruitment_arm_1,consent,1,04-008-133Z,2,Juldeh Jawo,008,Isatou Sabally,Momodou Jawo,,,,JATTABA,Dumbuto,Ousman Kambi
+EDN1429-D,IN-M-245J,recruitment_arm_1,consent,1,05-003-033J,2,Nadinding Njai,021,Jai Barrow,Masanneh Njai,,,,JALI,Kuli Kunda, Tumbulu Drammeh
+EDN1585-E,IN-M-249K,recruitment_arm_1,consent,1,29-024-032Y,2,Binta Sise,094,Aminata Sise,Ebrima Sise,2823392,,,KENEBA,keneba,Lamin LK Jawla
+EDN1108-H,IN-M-253G,recruitment_arm_1,consent,1,04-005-057R,2,Mama Keita,005,Bintou Camara,Kebba Keita,,,,JATTABA,Dumbuto,Ousman Kambi
+EDN1803-O,IN-M-258C,recruitment_arm_1,consent,1,10-002-029L,2,Nyimansatou Sise,016,Nanding Sise,Jamanty Sise,,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN0869-B,IN-M-268F,recruitment_arm_1,consent,1,18-008-005P,2,Sheriffo Camara,012,Satou Jammeh,Sutering Camara,,,,MANDUAR,Manduar, Abdoulie Jallow
+EDN0600-C,IN-M-269H,recruitment_arm_1,consent,1,17-010-019N,2,Jarra Bass,005,Musukebba Camara,Jerreh Bass,,,,JOLI,Kemoto,Amadou Jatta
+EDN2075-H,IN-M-283F,recruitment_arm_1,consent,1,77-049-01,2,AJA SONKO ,049,HAWA  KUYATEH,KONYAJIE SONKO ,7716652,,,GENIERE,MASSEMBEH,Sidu Sibi
+EDN1510-B,IN-M-286J,recruitment_arm_1,consent,1,24-022-012O,2,Binta Sise,022,Fatoumata Saidy,Mamadi Sise,,,,JULA KUNDA,Karantaba,Demba Jallow
+EDN1436-K,IN-M-291J,recruitment_arm_1,consent,1,13-007-011R,2,Ndey Nget,015,Fatoumata Sanyang,Kebba Nget,5951600,,,MANDUAR,Manduar, Abdoulie Jallow
+EDN1313-M,IN-M-296G,recruitment_arm_1,consent,1,05-001-086M,2,Kaddy Camara,001,Banna Fofana,Wandifa Camara,3821716,,,JIFFARONG,Jiffarong,Lamin Jatta
+EDN1106-F,IN-M-297E,recruitment_arm_1,consent,1,13-036-004U,2,Kuta Darboe,013,Kamaranding Camara,Demba Darboe,,,,BAJANA,Jiffarong,Lamin Jatta
+EDN1302-B,IN-M-300F,recruitment_arm_1,consent,1,04-007-066Y,2,Fatou Barrow,007,Isatou Njai,Mamadou Barrow,3267980,,,JATTABA,Dumbuto,Ousman Kambi
+EDN1684-A,IN-M-303K,recruitment_arm_1,consent,1,42-076-02,2,Mama Manjang,076,Nyorri Demba,Jatta manjang,2778637,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo
+EDN0789-G,IN-M-308B,recruitment_arm_1,consent,1,11-012-018E,2,Aja Drammeh,012,Mbi Drammeh,Fakebba Drammeh,,,,JALI,Kuli Kunda, Tumbulu Drammeh
+EDN1861-E,IN-M-314F,recruitment_arm_1,consent,1,70-043-01,2,Jainaba Sallah,043,Netty Bah,Samba Sallah,2453388,,,KOLIOR,Nema Kuta,Mamadou Jarjusey
+EDN2120-Z,IN-M-317J,recruitment_arm_1,consent,1,78-059-01,2,Nurse Saidykhan ,059,Mariama Drammeh,Lamin Saidykhan,5427572,,,KAIAF,KAIAF,Foday Sanyang
+EDN1403-C,IN-M-318F,recruitment_arm_1,consent,1,07-040-009P,2,Binta Njai,054,Naffie Njai,Jutala Njai,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN1468-R,IN-M-319F,recruitment_arm_1,consent,1,17-012-009B,2,Jalika Bass,025,Mariama Camara,Sulayman Bass,7323392,,,JOLI,Kemoto,Amadou Jatta
+EDN0262-C,IN-M-324J,recruitment_arm_1,consent,1,48-002-01,2,Sonna Sanyang,002,Isatou Ceesay,Bambo Sanyang,5187042,,,KUNDANG NUMU KUNDA,Nema Kuta,Mamadou Jarjusey
+EDN1590-E,IN-M-329D,recruitment_arm_1,consent,1,29-004-112U,2,Yama Sise,103,Mariama Minteh,Sherifunding Sise,,,,KENEBA,keneba,Lamin LK Jawla
+EDN0719-F,IN-M-331E,recruitment_arm_1,consent,1,07-036-002M,2,Mariama Njai,036,Kairaba Njai,Manlafi Njai,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN1205-E,IN-M-333H,recruitment_arm_1,consent,1,02-009-036Q,2,Fatoumata Sise,009,Nurse Sanneh,Bunja Sise,3387344,,,SANKANDI,Dumbuto,Ousman Kambi
+EDN0179-J,IN-M-335V,recruitment_arm_1,consent,1,54-021-02,2,Kaddy Kinteh,021,Mai Sanyang,Kabirou Kinteh,,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey
+EDN0041-G,IN-M-341A,recruitment_arm_1,consent,1,42-067-01,2,Kaddy yabo,067,Binta Jammeh,Demba Yabo,2127115,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo
+EDN0246-E,IN-M-342B,recruitment_arm_1,consent,1,30-010-025T,2,Fatoumata Sowe,010,Jewo Jallow,Mamadou Sowe,,,,BATELLING,Kwinella Sansankono,Modou Lamin Njai
+EDN0723-K,IN-M-343G,recruitment_arm_1,consent,1,07-002-029V,2,Hawa Minteh,007,Saribanding Sise,Dodou Minteh,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0935-C,IN-M-344F,recruitment_arm_1,consent,1,10-006-021Z,2,Fatou Sise,037,Chamunding Njai,Sulayman Sise,,,,KENEBA,keneba,Lamin LK Jawla
+EDN1495-T,IN-M-345B,recruitment_arm_1,consent,1,23-017-065T,2,Kaddy Janko,017,Tida  Darboe,Samboujang Janko,3635327,,,BURONG,Karantaba,Demba Jallow
+EDN1413-M,IN-M-353D,recruitment_arm_1,consent,1,09-021-002Q,2,Binta Jallow,021,Mariama Jallow,Sanba Jallow,7639352,,,BRIKAMANDING,Jiffarong,Lamin Jatta
+EDN0312-J,IN-M-362E,recruitment_arm_1,consent,1,01-016-021T,2,Mariama Jaiteh,031,Fatou Jallow Darboe,Saikou Jaiteh,,,,DUMBUTO,Dumbuto,Ousman Kambi
+EDN1049-X,IN-M-363J,recruitment_arm_1,consent,1,42-042-01,2,MARIAMA DIBBA,042,ISATOU MANGA,LASANA DIBBA,7920845,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo
+EDN1972-K,IN-M-366D,recruitment_arm_1,consent,1,76-019-02,2,Nyimansatou Fadera,019,Yamundaw Jarju,Faba Fadera,7692265,,,MASEMBEH,MASSEMBEH,Sidu Sibi
+EDN2649-P,IN-M-368G,recruitment_arm_1,consent,1,76-023-02,2,SALLY MANKA ,023,SATOU YAFFA,MAMUDOU FATTY,7822774,,,MASEMBEH,MASSEMBEH,Sidu Sibi
+EDN0526-H,IN-M-371G,recruitment_arm_1,consent,1,43-023-09,2,Sarjo  Fadera,023,Henna Camara,Musa Fadera,3300659,,,TENDABA,Kwinella Sansankono,Modou Lamin Njai
+EDN2615-G,IN-M-389C,recruitment_arm_1,consent,1,82-046-01,2,Yassin Jawo,046,Bintou Sowe,Musa Jawo,5211557,,,NJOLFEN,Kolior, Alieu Bah
+EDN1243-R,IN-M-417F,recruitment_arm_1,consent,1,03-022-008C,2,Mariama Jallow,022,Jaila Colley,Alhagie Madi Jallow,3630121,,,NIORO JATTABA,Niorro Jattaba,Modou Bah
+EDN1695-H,IN-M-434E,recruitment_arm_1,consent,1,43-008-01,2,Kaddy Drammeh,008,Nyimansatou Jarra,Sanna Drammeh,3530251,,,TENDABA,Kwinella Sansankono,Modou Lamin Njai
+EDN0217-G,IN-M-438G,recruitment_arm_1,consent,1,47-057-02,2,Fatou korta,057,Jawaranding Camara,Masaneh korta,7741593,,,NEMA,Nema, Lamin Njai
+EDN1640-D,IN-M-442H,recruitment_arm_1,consent,1,40-034-05,2,Mariama Demba,034,Banna Darboe,Bakary Demba,7597890,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo
+EDN1939-J,IN-M-445G,recruitment_arm_1,consent,1,76-002-01,2,KADDIJATOU SAWO ,002,SUTAY RING DRAMMEH ,KUTUBO SAWO ,2616572,,,MASEMBEH,MASSEMBEH,Sidu Sibi
+EDN1980-U,IN-M-446E,recruitment_arm_1,consent,1,76-027-03,2,Sally Jarju,027,Fatou Banjul Jarju,Sheriffo Jarju,2563831,,,MASEMBEH,MASSEMBEH,Sidu Sibi
+EDN1521-A,IN-M-448A,recruitment_arm_1,consent,1,25-011-194A,2,Sarita Demba,010,Nyimanding Kanteh,Malang Demba,,,,KARANTABA,Karantaba,Demba Jallow
+EDN1659-A,IN-M-459E,recruitment_arm_1,consent,1,42-005-01,2,Jabou Jallow,005,Jainaba Jallow,Galo Jallow,7861541,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo
+EDN2062-M,IN-M-461H,recruitment_arm_1,consent,1,77-036-01,2,Aja Dibba,036,Musukebba Saidykhan,Ebrima Dibba,7940048,,,GENIERE,MASSEMBEH,Sidu Sibi
+EDN0188-F,IN-M-475G,recruitment_arm_1,consent,1,47-046-02,2,Chamunding saho,046,Fadiding fadera,Lang saho,7624185,,,NEMA,Nema, Lamin Njai
+EDN0782-F,IN-M-477F,recruitment_arm_1,consent,1,47-005-07,2,Isatou Fadera,005,Kaddyjatou Sorra,Alagie Fadera,2244333,,,NEMA,Nema, Lamin Njai
+EDN0160-B,IN-M-484H,recruitment_arm_1,consent,1,47-016-01,2,jarra fatty,016,Nyarra saho,Babucarr fatty,5176136,,,NEMA,Nema, Lamin Njai
+EDN2606-L,IN-M-498F,recruitment_arm_1,consent,1,82-040-03,2,Isata Jobe,040,Fatou Njie,Serign Jobe,3869153,,,NJOLFEN,Kolior, Alieu Bah
+EDN2350-R,IN-M-501E,recruitment_arm_1,consent,1,79-062-01,2,Isatou Ceesay ,062,Mam Ceesay ,Marry Ceesay ,7624941,,,MADINA KAIAF,KAIAF,Foday Sanyang
+EDN0721-J,IN-M-517H,recruitment_arm_1,consent,1,07-015-008A,2,Nyimansatou Njai,009,Barrow Njai,Karamba Njai,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh
+EDN0004-F,IN-M-519J,recruitment_arm_1,consent,1,40-009-01,2,Mariama Camara,009,Binta Sanneh,Bully Camara,5994382,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo
+EDN0223-B,IN-M-533E,recruitment_arm_1,consent,1,47-021-02,2,kaddy bah,021,sarjo bah,demba bah,,,,NEMA,Nema, Lamin Njai
+EDN2396-R,IN-M-535A,recruitment_arm_1,consent,1,79-089-03,0,Faddy Touray ,089,Kaddy Sallah,Nderra Touray ,,,,MADINA KAIAF,KAIAF,Foday Sanyang

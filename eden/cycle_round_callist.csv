@@ -1,0 +1,886 @@
+participant_id,ck_wkno,enu_name,enu_comp,enu_mname,enu_fname,sen_contact1,sen_contact2,sen_contact3,village_name,cluster_mapping,staff,uricycle,urine_date,Lmp_Status,last LMP cycle Visit,lmp_form_date_q5,next_cycle_due_date
+EDN0002-B,40-007-02,Fatou Darboe,007,Bintu Ceesay,Bakary Darboe,5887838,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,21,2023-10-19,Temporal Excluded,37,2024-12-22,2025-01-19
+EDN0007-G,41-022-01,Aja Kaddy Camara,022,Mbanding Sanyang,Sainey Camara,7726921,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai,36,2024-10-23,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN0008-E,40-010-01,Jainaba Camara,010,Nymasata Camara,Demba Camara,5303350,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-11-18,2024-12-16
+EDN0012-F,40-001-02,Satou Sonko,001,Nai Sabally,Karamo Sonko,3071253,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,21,2023-10-19,,37,2024-12-11,2025-01-08
+EDN0013-A,40-025-08,Sally manneh,025,Jainaba manjang,Keep manneh,7301145,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-12-12,2025-01-09
+EDN0016-D,41-002-01,Fatou Demba,002,Fatoumatta Barrow,Ensa Demba,3142567,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai,36,2024-10-23,,37,2024-11-26,2024-12-24
+EDN0026-E,42-072-02,Musukebba Manjang,072,Luwandi Manjang,Jamanti Manjang,7684103,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-11-18,2024-12-16
+EDN0027-J,42-072-01,Kaddy Manjang,072,Fatou Sanyang,Lamin Manjang,7451894,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-12-03,2024-12-31
+EDN0030-J,42-076-01,Maimuna Dibba,076,Fatou Darboe,Yaya Dibba,2781146,3719308,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-12-22,2025-01-19
+EDN0032-E,44-004-06,adama darboe,004,nyakonding manjang,kebba darboe,7241646,,,BUMARR,Kwinella Sansankono,Modou Lamin Njai,,,,37,2024-11-26,2024-12-24
+EDN0033-F,42-053-02,Oumie Drammeh,053,Mamie Ceesay,Kalilu Drammeh,5259831,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN0037-A,42-050-01,Fatou Kinteh,050,wontonding Njie,Abdoulie Kinteh,5172318,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-12-03,2024-12-31
+EDN0038-B,42-066-01,Nyima Sanyang,066,Maimuna Dibba,Kebba Sanyang,2324186,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-11-20,2024-12-18
+EDN0039-H,42-066-02,Sally Yabo,066,penda Makalo,Bakanding Yabou,7664281,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-11-21,2024-12-19
+EDN0040-D,42-069-02,Bato Sanyang,069,Fatou Manjang,Ebrima Sanyang,7584848,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,1,2022-07-19,Temporal Excluded,37,2024-11-18,2024-12-16
+EDN0048-J,42-110-02,nyima sanneh,010,sarja sanneh,kuta sanneh,3621350,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,21,2023-10-10,,37,2024-11-27,2024-12-25
+EDN0049-B,42-036-01,Mariama sey,036,Fatoumata jallow,Lamarana sey,7089512,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-11-25,2024-12-23
+EDN0052-J,42-032-02,Mai Darboe,032,Mai Darboe,Bunjaring Darboe,3453439,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,19,2023-08-04,,37,2024-12-02,2024-12-30
+EDN0055-D,42-011-01,JALIKATOU SOWE,011,AMINATA JALLOW,MAMALAMIN SOWE,7540595,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN0056-G,43-019-01,Lisa keita,019,mariama jammeh,Tongo keita,3543183,,,TENDABA,Kwinella Sansankono,Modou Lamin Njai,33,2024-07-30,,37,2024-12-09,2025-01-06
+EDN0067-C,42-025-02,Lisa sanyang,025,Fatou Dampha,Abou sanyang,7337775,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-12-04,2025-01-01
+EDN0068-A,42-098-01,Lamarana Camara,098,Fatou Bah,Mamudou Camara,2465774,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-11-26,2024-12-24
+EDN0070-F,42-095-01,Oumie K Touray,095,Kaddijatou Ann,Amadou Touray,7587207,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-12-05,2025-01-02
+EDN0073-K,42-065-01,Nyima Demba,065,Fatou Barrow,Ensa Demba,2728236,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-11-26,2024-12-24
+EDN0081-B,45-007-01,Hawa sanneh,007,Satou Darboe,Boto sanneh,5242641,,,BAMBAKO,Nema, Lamin Njai,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN0082-C,45-028-01,mariama Dibba,028,natoma touray,sanna dibba,2524008,,,BAMBAKO,Nema, Lamin Njai,35,2024-09-25,,36,2024-10-30,2024-11-27
+EDN0083-D,45-025-02,Fatoumata Barrow,025,mariama kinteh,Lamin Barrow,2979369,,,BAMBAKO,Nema, Lamin Njai,29,2024-04-30,Temporal Excluded,36,2024-10-30,2024-11-27
+EDN0087-K,54-005-01,mariama sanneh,005,binta sanneh,landing sanneh,7655419,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,29,2024-05-13,,37,2024-11-28,2024-12-26
+EDN0089-J,45-034-01,Binta njie,034,Njie ding njie,Ousman njie,2783657,3942235,,BAMBAKO,Nema, Lamin Njai,21,2023-10-12,,35,2024-09-30,2024-10-28
+EDN0091-C,42-019-01,FATOU DARBOE,019,JARRA MANJAN8,ANSUMANA  DARBOE,2042529,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,16,2023-06-07,,37,2024-12-22,2025-01-19
+EDN0092-A,42-109-01,Mariama Cham,109,Kaddy Dibba,Wandifa Cham,,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-12-25,2025-01-22
+EDN0094-J,42-110-01,fatou demba,010,satou demba,Sankung demba,7663992,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-11-28,2024-12-26
+EDN0099-K,30-020-049H,Nyimansatou Sonko,020,Mariama Camara,Jola Sonko,,,,BATELLING,Kwinella Sansankono,Modou Lamin Njai,1,,,37,2024-12-24,2025-01-21
+EDN0100-H,44-013-01,Fatou Demba,013,Binta Sonko,Lamin Demba,3714419,,,BUMARR,Kwinella Sansankono,Modou Lamin Njai,1,2022-07-13,,37,2024-11-26,2024-12-24
+EDN0103-C,44-005-01,kaddy Demba,005,jonma Darboe,Burama Demba,2762089,5326349,,BUMARR,Kwinella Sansankono,Modou Lamin Njai,1,2022-07-13,Temporal Excluded,36,2024-10-29,2024-11-26
+EDN0106-E,43-025-02,Sariba sarr,025,Jankey joof,Ebrima Sarr,3268294,,,TENDABA,Kwinella Sansankono,Modou Lamin Njai,33,2024-07-31,Temporal Excluded,37,2024-12-09,2025-01-06
+EDN0109-D,44-002-01,Musukebba Darboe,002,Fatou Manjang,Demba Darboe,7248166,,,BUMARR,Kwinella Sansankono,Modou Lamin Njai,19,2023-08-17,,37,2024-11-26,2024-12-24
+EDN0124-C,53-004-02,isatou jallow,004,daija jobe,mamadou jallow,7644658,,,JATTA KUNDA,Nema Kuta,Mamadou Jarjusey,2,2023-02-08,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN0126-K,43-014-02,Isatou Singhateh,014,Fatoumata Gadama,Lamin Singhateh,3219921,,,TENDABA,Kwinella Sansankono,Modou Lamin Njai,,,Temporal Excluded,35,2024-10-03,2024-10-31
+EDN0131-D,43-014-04,Fatou Famanta,014,Sunkary Jarra,mama Famanta,7432203,3621182,,TENDABA,Kwinella Sansankono,Modou Lamin Njai,33,2024-07-31,,37,2024-12-09,2025-01-06
+EDN0136-J,40-041-01,Fatou Manjang,041,Satou Manneh,Ndembou Manjang,3220895,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-12-12,2025-01-09
+EDN0145-D,40-010-02,Fatou Drammeh,010,Banna Njie,Bunja Drammeh,5027869,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,1,2022-07-07,,37,2024-12-12,2025-01-09
+EDN0146-G,40-032-02,kaddy darboe,032,Saturday sonko,bakary darboe,3390923,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-11-19,2024-12-17
+EDN0149-A,40-034-10,FATOU saidy,034,satou  ceesay,lamin saidy,6299497,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,21,2023-10-19,,37,2024-12-11,2025-01-08
+EDN0150-K,40-033-01,Habby camara,033,Fanta ndong,Fabakary camara,3998987,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,1,,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN0153-J,47-031-01,Binta Marong Fadera,031,Buran jawara,Kebba Fadera,3532941,,,NEMA,Nema, Lamin Njai,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN0154-G,43-003-03,Fatou Badjie,003,Njie Jarju,Sunkary Badjie,3112548,,,TENDABA,Kwinella Sansankono,Modou Lamin Njai,26,2024-01-24,Temporal Excluded,37,2024-12-09,2025-01-06
+EDN0159-F,47-013-01,Sally fadera,013,jutala kambai,kebba fadera,7714133,,,NEMA,Nema, Lamin Njai,32,2024-07-19,Temporal Excluded,37,2024-12-23,2025-01-20
+EDN0162-F,47-025-03,Fatou Fadera,025,sona fadera,nuha fadera,2841525,,,NEMA,Nema, Lamin Njai,20,2023-09-04,Temporal Excluded,37,2024-12-03,2024-12-31
+EDN0169-G,47-005-02,Salimatou Jawara,005,Jonfolo Camara,Omar Jawara,5077792,,,NEMA,Nema, Lamin Njai,,,Temporal Excluded,37,2024-12-23,2025-01-20
+EDN0184-J,54-015-01,Fatoumata Manjang,015,Luwanding Manka,Jamanty Manjang,7560381,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,26,2024-01-31,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN0187-D,54-005-03,Kaddy Camara,005,Kitimu Camara,Ebrima Camara,2679574,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,29,2024-05-13,,37,2024-11-28,2024-12-26
+EDN0190-F,47-010-02,Sira samateh,010,Binta dibba,maboo samateh,3281006,,,NEMA,Nema, Lamin Njai,1,2022-08-18,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN0195-C,47-042-01,FATOUMATTA JAWARA ,042,FATOUMATTA korta,Fabakary JAWARA ,,,,NEMA,Nema, Lamin Njai,,,Temporal Excluded,37,2024-12-24,2025-01-21
+EDN0195-C,47-042-01,Fatoumata Jawara,042,Fatoumata Korta,Fabakary Jawara,,,,NEMA,Nema, Lamin Njai,,,Temporal Excluded,37,2024-12-24,2025-01-21
+EDN0200-J,47-035-05,Fatou jarju,035,Sariba kanteh,Borri jarju,2213493,,,NEMA,Nema, Lamin Njai,29,2024-05-07,,37,2024-12-03,2024-12-31
+EDN0203-F,47-048-01,Fatoumata daffeh,048,fatou manjang,lamin samateh,6812984,,,NEMA,Nema, Lamin Njai,1,2022-08-19,Temporal Excluded,37,2024-12-24,2025-01-21
+EDN0204-D,47-046-01,Kaddy fadera,046,Fatou jawara,Samba kora jawara,2005538,,,NEMA,Nema, Lamin Njai,1,2022-08-19,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN0205-G,47-005-06,Mama seckan,005,Sallynding Fadera,Masan Seckan,2169728,,,NEMA,Nema, Lamin Njai,29,2024-05-08,,37,2024-12-23,2025-01-20
+EDN0212-B,47-037-02,manding camara,037,wontonding jarju,kawsu camara,7087469,,,NEMA,Nema, Lamin Njai,29,2024-05-07,,37,2024-12-03,2024-12-31
+EDN0214-F,47-056-01,Yaidinding Fadera,056,Jalika Fadera,Jerreh Fadera,2302019,,,NEMA,Nema, Lamin Njai,,,,37,2024-12-24,2025-01-21
+EDN0217-G,47-057-02,Fatou korta,057,Jawaranding Camara,Masaneh korta,7741593,,,NEMA,Nema, Lamin Njai,30,2024-07-02,,37,2024-12-23,2025-01-20
+EDN0219-C,47-058-03,ADAMA KORTA,058,NABA CAMARA,Sarjo Korta,2386594,,,NEMA,Nema, Lamin Njai,18,2023-07-12,,37,2024-12-03,2024-12-31
+EDN0225-D,47-045-03,Kaddy Demba,045,Mariama Conteh,Bubacarr Demba,7697411,,,NEMA,Nema, Lamin Njai,20,2023-09-08,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN0226-G,47-037-01,Fatoumata fadera,037,Queen fadera,Balanding fadera,3611017,,,NEMA,Nema, Lamin Njai,1,,Temporal Excluded,37,2024-12-24,2025-01-21
+EDN0227-H,47-028-04,Fatoumata kanyi,028,Momo Kanyi,Hamma Kanyi,7000744,,,NEMA,Nema, Lamin Njai,30,2024-06-20,,37,2024-12-03,2024-12-31
+EDN0229-A,47-043-01,AMINATA FADERA,043,SAINABOU JAWARA,KEBBALANG FADERA,2618870,,,NEMA,Nema, Lamin Njai,,,Temporal Excluded,37,2024-12-03,2024-12-31
+EDN0230-E,47-014-02,Fatou Darboe,014,Naba Gitteh,Mamudou Darboe,2421906,,,NEMA,Nema, Lamin Njai,,,Temporal Excluded,37,2024-12-03,2024-12-31
+EDN0238-F,40-034-12,Sammie Ceesay,034,Balanto Darboe,Alhagie Ceesay,7597890,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,1,2022-03-30,,37,2024-12-13,2025-01-10
+EDN0245-F,30-001-103P,Nyimansatou Jammeh,001,Satou Camara,Saikou Jammeh,,,,BATELLING,Kwinella Sansankono,Modou Lamin Njai,19,2023-08-10,,37,2024-12-24,2025-01-21
+EDN0247-J,30-004-010K,Satou Sonko,025,Yassin Jammeh,Yaya Sonko,,,,BATELLING,Kwinella Sansankono,Modou Lamin Njai,19,2023-08-09,,37,2024-12-24,2025-01-21
+EDN0248-G,05-022-010G,Awa Barrow,001,Fatou Njai,Tombong Barrow,,,,BATELLING,Kwinella Sansankono,Modou Lamin Njai,33,2024-08-13,,37,2024-12-24,2025-01-21
+EDN0253-E,47-039-06,Isatou Fadera,039,Nyimanding Jawara,Sanna Fadera,2463917,,,NEMA,Nema, Lamin Njai,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN0268-H,48-001-01,Musukebba Fadera,001,Kaken Sorra,Tumbul Fadera,2212684,3733695,,KUNDANG NUMU KUNDA,Nema Kuta,Mamadou Jarjusey,30,2024-05-29,,37,2024-11-25,2024-12-23
+EDN0274-G,51-014-02,Fatou Sanneh,014,kuta Sanneh,Saja Sanneh,2431094,,,JIRROFF,Nema Kuta,Mamadou Jarjusey,29,2024-05-06,,37,2024-11-28,2024-12-26
+EDN0303-J,30-018-006S,Habisatou Jobarteh,018,Jainaba Sanyang,Momodou Jobarteh,,,,BATELLING,Kwinella Sansankono,Modou Lamin Njai,33,2024-08-13,,36,2024-10-30,2024-11-27
+EDN0306-H,30-002-023Z,Fatou Sanneh,008,Naba Jobarteh,Bakary Sanneh,,,,BATELLING,Kwinella Sansankono,Modou Lamin Njai,,,,37,2024-12-24,2025-01-21
+EDN0316-G,01-019-012U,MamJarra Tamba,019,Nyima Badjie,Ebrima Tamba,,,,DUMBUTO,Dumbuto,Ousman Kambi,,,,37,2024-11-28,2024-12-26
+EDN0317-H,01-007-008C,Fatoumata Darboe,007,Fatou Darboe,Famusa Darboe,,,,DUMBUTO,Dumbuto,Ousman Kambi,1,2022-07-07,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN0324-A,01-008-008O,Nyimansatou Kinteh,008,Faye Darboe,Karamba Kinteh,,,,DUMBUTO,Dumbuto,Ousman Kambi,,,Temporal Excluded,37,2024-11-20,2024-12-18
+EDN0325-E,17-013-011P,Mariama Marri,041,Kaddy Marri,Lamin Marri,,,,DUMBUTO,Dumbuto,Ousman Kambi,22,2023-11-07,,36,2024-11-06,2024-12-04
+EDN0326-F,01-024-013D,Nyima Manjang,024,Matinding Sanyang,Lang Manjang,,,,DUMBUTO,Dumbuto,Ousman Kambi,,,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN0327-K,32-008-005D,Sainabou Camara,013,Mariama Jallow,Samba Camara,,,,WUDEBA,Dumbuto,Ousman Kambi,1,2022-07-13,Temporal Excluded,36,2024-11-06,2024-12-04
+EDN0330-D,32-015-009N,Kaddy Jallow,021,Jaila Sise,Malick Jallow,,,,WUDEBA,Dumbuto,Ousman Kambi,,,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN0332-H,32-015-002G,Isatou Sise,015,Binta Hallow,Demba Sise,,,,WUDEBA,Dumbuto,Ousman Kambi,22,2023-11-14,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN0333-E,02-009-004K,Nyimanding Sise,007,Nurse Sanneh,Bunja Sise,,,,SANKANDI,Dumbuto,Ousman Kambi,22,2023-11-16,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN0342-F,08-007-005T,Naffie Joof,014,Mariama Camara,Modou Kaddy Joof,,,,SANKANDI,Dumbuto,Ousman Kambi,1,2022-07-14,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN0343-A,02-014-003R,Binta Drammeh,014,Isatou Touray,Sutay Drammeh,,,,SANKANDI,Dumbuto,Ousman Kambi,1,2022-07-13,Temporal Excluded,37,2024-11-20,2024-12-18
+EDN0350-F,13-001-131N,Alimatou Jallow,021,Sira Camara,Kalifa Jallow,,,,SANKANDI,Dumbuto,Ousman Kambi,,,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN0353-K,04-024-045Z,Binta Sanneh,015,Natoma Camara,Lamin Sanneh,,,,SANKANDI,Dumbuto,Ousman Kambi,,,Temporal Excluded,36,2024-11-14,2024-12-12
+EDN0357-B,02-006-01,,,,,,,,,,,,,,35,2024-10-02,2024-10-30
+EDN0360-E,02-025-029T,Mariama Barrow,030,Fatou Darboe,Bantanwo Barrow,,,,SANKANDI,Dumbuto,Ousman Kambi,1,2022-07-19,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN0371-D,02-015-037L,Fatou Drammeh,003,Manding Barrow,Kalilu Drammeh,,,,DUMBUTO,Dumbuto,Ousman Kambi,,,,37,2024-11-28,2024-12-26
+EDN0378-E,03-019-045D,Isatou Ann,019,Mariatou Bah,Omar Ann,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,,,,36,2024-10-28,2024-11-25
+EDN0379-C,03-063-032Y,Isatou Jobe,063,Adama Jobe,Samba Jobe,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,21,2023-10-20,,37,2024-12-11,2025-01-08
+EDN0380-H,03-022-044M,Fatoumata Jobe,030,Jaila Gano,Hamat Jobe,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,,,,37,2024-11-25,2024-12-23
+EDN0387-J,03-069-009V,Fatoumata Bah,069,Jarra Colley,Musa Bah,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,,,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN0393-F,03-001-055F,Jaila Bah,001,Mahani Sall,Amadou Bah,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,1,2022-08-03,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN0397-A,03-059-035F,Hawa Bah,059,Adama Sey,Bokar Fatou Bah,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,20,2023-09-06,,37,2024-12-11,2025-01-08
+EDN0401-H,01-025-014Q,Fatoumata Darboe,009,Fatoumata Jammeh,Sheriff Darboe,,,,JATTABA,Dumbuto,Ousman Kambi,20,2023-09-07,Temporal Excluded,36,2024-10-30,2024-11-27
+EDN0402-F,04-006-050W,Aminata Jammeh,006,Dobally Njai,Lamin Jammeh,,,,JATTABA,Dumbuto,Ousman Kambi,22,2023-11-17,Temporal Excluded,35,2024-10-17,2024-11-14
+EDN0405-J,04-005-023J,Habisatou Touray,005,Kaddy Darboe,Fakebba Touray,,,,JATTABA,Dumbuto,Ousman Kambi,,,,37,2024-11-21,2024-12-19
+EDN0408-C,30-006-005D,Mai Sanyang,025,Jalang Jobarteh,Landing Sanyang,,,,BATELLING,Kwinella Sansankono,Modou Lamin Njai,20,2023-09-06,,37,2024-12-24,2025-01-21
+EDN0413-K,04-012-041H,Fatou Darboe,026,Sarjo Camara,Manding Darboe,,,,JATTABA,Dumbuto,Ousman Kambi,1,2022-07-19,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN0414-H,04-043-021V,Fatou Sowe,043,Kumba Kebbeh,Demba Sowe,,,,JATTABA,Dumbuto,Ousman Kambi,21,2023-10-18,,37,2024-12-04,2025-01-01
+EDN0416-A,04-026-042U,Aja Jaiteh,026,Binta Kassama,Kebba Jaiteh,,,,JATTABA,Dumbuto,Ousman Kambi,,,,37,2024-12-04,2025-01-01
+EDN0420-J,03-066-009L,Hawa Jallow,079,Jaila Bah,Momodou Jallow,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,,,,37,2024-12-11,2025-01-08
+EDN0428-B,03-016-025Z,Adama Colley,016,Ramatoulie Bah,Demba Sarjo Colley,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,21,2023-10-20,,37,2024-11-25,2024-12-23
+EDN0430-G,03-010-009P,Sirra Sowe,010,Isatou Kebbeh,Samba Sowe,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,20,2023-08-31,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN0432-C,03-013-008Y,Mariama Colley,013,Hawa Jobe,Alasana Colley,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,21,2023-10-20,,36,2024-12-11,2025-01-08
+EDN0437-K,04-003-046I,Kaddy Sise,003,Nancy Njai,Gibril Sise,,,,JATTABA,Dumbuto,Ousman Kambi,1,2022-07-20,Temporal Excluded,37,2024-11-20,2024-12-18
+EDN0438-H,04-036-014I,Borry Sanneh,036,Mbanka Marong,Demba Sanneh,,,,JATTABA,Dumbuto,Ousman Kambi,21,2023-10-18,,37,2024-11-21,2024-12-19
+EDN0448-F,03-016-016Q,Jarra Bah,016,Tabara Jobe,Momodou Bah,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,22,2023-11-16,,37,2024-11-25,2024-12-23
+EDN0462-J,03-023-016W,Mariama Jallow,086,Sunna Sowe,Babagalleh Jallow,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,20,2023-09-05,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN0463-B,04-040-006W,Sukai Sanneh,019,Sally Darboe,Landing Sanneh,,,,JATTABA,Dumbuto,Ousman Kambi,1,2022-07-20,Temporal Excluded,37,2024-11-20,2024-12-18
+EDN0464-E,05-002-038C,Isatou Drammeh,011,Natoma Njai,Dembo Drammeh,,,,JATTABA,Dumbuto,Ousman Kambi,,,Temporal Excluded,37,2024-11-20,2024-12-18
+EDN0467-H,04-048-007P,Asiatou Jallow,056,Wurry Baila,Mamadou Salieu Jallow,,,,JATTABA,Dumbuto,Ousman Kambi,22,2023-11-17,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN0472-H,04-009-093X,Kaddy Colley,009,Isatou Badjie,Momodou Colley,,,,JATTABA,Dumbuto,Ousman Kambi,22,2023-11-17,Temporal Excluded,37,2024-11-20,2024-12-18
+EDN0475-A,31-005-016Q,Fatou Darboe,004,Fatou Sise,Sutering Darboe,5936354,,,SANDENG,Niorro Jattaba,Modou Bah,1,2022-07-21,Temporal Excluded,36,2024-11-14,2024-12-12
+EDN0481-E,31-015-004U,Nyima Jarjou,015,Isatou Jobe,Borry Jarjou,,,,SANDENG,Niorro Jattaba,Modou Bah,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN0486-H,31-014-020Y,Kaddy Njai,014,Fatoumata Touray,Masireh Njai,,,,SANDENG,Niorro Jattaba,Modou Bah,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN0514-C,04-015-033J,Binta Sanneh,015,Fatou Njai,Kalifa Sanneh,,,,JATTABA,Dumbuto,Ousman Kambi,22,2023-11-17,Temporal Excluded,37,2024-11-20,2024-12-18
+EDN0528-A,54-015-02,Nyima Manjang,015,Ajarata Sanyang,Lang Manjang Satou,7577200,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,26,2024-01-31,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN0531-A,54-016-01,Kaddy Sanneh,016,Saffiatou Sanneh,Kalilu Sanneh,2113561,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,29,2024-05-01,,37,2024-12-02,2024-12-30
+EDN0532-K,50-029-01,Tabara Ceesay,029,Kaddijatou Colley,Samba Ceesay,2693066,,,NEMA KUTA,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN0535-F,47-054-03,Kaddy Sorra,054,Wonto Jarju,Fabakary Sorra,2235312,,,NEMA,Nema, Lamin Njai,29,2024-05-08,,37,2024-12-03,2024-12-31
+EDN0536-E,47-054-04,Kumba Jarju,054,Fansainey Camara,Fabakary Jarju,7444215,,,NEMA,Nema, Lamin Njai,32,2024-07-18,,37,2024-12-23,2025-01-20
+EDN0537-J,47-027-04,Oumie Fadera,027,Jalika korrta,Masanneh Metta Fadera,7706754,2351535,,NEMA,Nema, Lamin Njai,21,2023-10-13,Temporal Excluded,36,2024-11-26,2024-12-24
+EDN0540-G,47-039-03,MARIAMA MASS,039,KUJAY CAMARA,YAYA MASS,5378380,,,NEMA,Nema, Lamin Njai,29,2024-05-09,,36,2024-10-30,2024-11-27
+EDN0543-D,47-009-02,SALIMATOU FADERA,009,sAFIATU JAWARA,KEMESENG FADERA,2601188,,,NEMA,Nema, Lamin Njai,20,2023-09-07,,36,2024-11-14,2024-12-12
+EDN0547-K,05-002-014E,Oumie Drammeh,002,Nekebba Barrow,Momodou Drammeh,,,,JIFFARONG,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN0549-J,05-002-011B,Adama Drammeh,041,Jarra Barrow,Saikunding Drammeh,,,,JIFFARONG,Jiffarong,Lamin Jatta,,,,37,2024-11-28,2024-12-26
+EDN0550-B,45-035-02,Nyima ceesay,035,kaddy barrow,Dembo ceesay,2250721,,,BAMBAKO,Nema, Lamin Njai,29,2024-04-30,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN0562-G,05-030-027P,Mba Fatou Njai,018,Yafai Barrow,Alasana Njai,,,,JIFFARONG,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN0563-K,05-022-022S,Jainaba Barrow,022,Fatoumata Barrow,Tombong Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta,1,2023-01-31,Temporal Excluded,37,2024-12-10,2025-01-07
+EDN0565-C,29-014-028E,Jainaba Bajo,031,Kaddy Sise,Sutering Bajo,,,,JIFFARONG,Jiffarong,Lamin Jatta,22,2023-11-02,,37,2024-12-23,2025-01-20
+EDN0566-A,05-029-015R,Adama Saidy,029,Rokiatou Cham,Kebba Saidy,,,,JIFFARONG,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN0570-J,06-024-008Q,Nyominding Touray,017,Sutering Colley,Jamba Touray,,,,JIFFARONG,Jiffarong,Lamin Jatta,21,2023-10-18,,37,2024-12-04,2025-01-01
+EDN0571-K,05-027-047Z,Fatou Kinteh,033,Fatou Njai,Sanna Kinteh,,,,JIFFARONG,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN0581-F,05-024-001V,Mariama Njai,063,Tida Bajo,Lang Lamin Njai,,,,JIFFARONG,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-10,2025-01-07
+EDN0583-B,05-037-051T,Fatou Kangi Drammeh,037,Fatou Sanyang,Sitafa Drammeh,,,,JIFFARONG,Jiffarong,Lamin Jatta,22,2023-11-10,,37,2024-12-10,2025-01-07
+EDN0586-G,05-034-001L,Fatou Njai,077,Fatou Kinteh,Baba Njai,,,,JIFFARONG,Jiffarong,Lamin Jatta,1,2022-08-10,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN0588-K,05-025-011R,Adama Sanyang,052,Manding Njai,Njundu Sanyang,,,,JIFFARONG,Jiffarong,Lamin Jatta,22,2023-11-02,Temporal Excluded,37,2024-12-10,2025-01-07
+EDN0594-F,05-067-005V,Fatou Drammeh,056,Aja Kinteh,Mustapha Drammeh,,,,JIFFARONG,Jiffarong,Lamin Jatta,,,,37,2024-12-23,2025-01-20
+EDN0607-H,05-046-015N,Hawa Sey Njai,047,Mariama Barrow,Sali Njai,,,,JIFFARONG,Jiffarong,Lamin Jatta,18,2023-07-20,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN0608-K,05-052-026S,Ramatoulie Kinteh,052,Mama Njai,Turado Kinteh,,,,JIFFARONG,Jiffarong,Lamin Jatta,1,2022-08-04,Temporal Excluded,22,2023-11-11,2023-12-09
+EDN0614-A,06-006-014O,Nyimansatou Touray,009,Terema Sise,Molipha Touray,,,,BAJANA,Jiffarong,Lamin Jatta,22,2023-11-08,,37,2024-12-23,2025-01-20
+EDN0621-H,06-025-013H,Fatou Barrow,028,Fatou Drammeh,Lamin Barrow,,,,BAJANA,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-11,2025-01-08
+EDN0626-D,05-040-021Z,Aja Kinteh,006,Kaddy Boido Koteh,Lamin Kinteh,,,,BAJANA,Jiffarong,Lamin Jatta,20,2023-09-01,Temporal Excluded,37,2024-12-23,2025-01-20
+EDN0631-E,17-013-006K,Sutering Manneh,013,Jainaba Marri,Nfamara Manneh,,,,JOLI,Kemoto,Amadou Jatta,22,2023-11-15,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN0633-J,17-006-004C,Aminata Marri,011,Boto Kuyateh,Ansunding Marri,,,,JOLI,Kemoto,Amadou Jatta,22,2023-11-15,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN0634-G,17-001-074M,Binta Camara,014,Fatoumata Bass,Yusupha Camara,,,,JOLI,Kemoto,Amadou Jatta,28,2024-04-05,,37,2024-11-30,2024-12-28
+EDN0638-A,27-018-001X,Mai Janneh,018,Nyimanding Darboe,Momodou Janneh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN0643-K,27-037-026Q,Kaddy Manjang,037,Mariatou Janneh,Kejarra Manjang,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN0644-H,27-034-033N,Alimatou Kanteh,004,Kaddy Samateh,Alhagie Kanteh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN0648-D,27-005-028Y,Buteh Janneh,005,Kaddy Sise,Alhagie Bakary Janneh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,22,2023-11-08,,37,2024-12-04,2025-01-01
+EDN0651-A,06-026-106I,Mariama Jarra,036,Fatoumata Jarra,Lamin Jarra,,,,BAJANA,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-11,2025-01-08
+EDN0656-E,17-009-008Q,Ajaratou Marri,020,Kaddy Camara,Seedy Marri,,,,JOLI,Kemoto,Amadou Jatta,22,2023-11-14,,36,2024-11-06,2024-12-04
+EDN0666-C,27-006-029L,Aja Demba,035,Yafaye Jobarteh,Bakary Demba,,,,KEMOTO,Kemoto,Amadou Jatta,22,2023-11-08,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN0673-G,28-035-004K,Kaddy Touray,030,Makutu Sanyang,Lamin Touray,,,,KEMOTO,Kemoto,Amadou Jatta,19,2023-08-01,Temporal Excluded,37,2024-12-03,2024-12-31
+EDN0675-H,27-019-004M,Fatou Manjang,019,Mamanding Janneh,Lamin Manjang,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,19,2023-08-16,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN0682-B,27-033-014I,Mariama Sise,033,Jalla Janneh,Ebrima Sise,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,1,2022-08-04,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN0696-K,25-009-013D,Aminata Fofana,009,Fatou Darboe,Bakary Kanyi,,,,KARANTABA,Karantaba,Demba Jallow,37,2024-11-26,Temporal Excluded,37,2024-12-03,2024-12-31
+EDN0699-B,26-001-042C,Binta Gibba,020,Isatou Jarju,Faburama Gibba,,,,KARANTABA,Karantaba,Demba Jallow,35,2024-09-26,Temporal Excluded,36,2024-10-23,2024-11-20
+EDN0700-D,27-027-010K,Jainaba Njai,006,Kaddy Janneh,Bakary Njai,,,,KARANTABA,Karantaba,Demba Jallow,37,2024-11-26,Temporal Excluded,37,2024-12-03,2024-12-31
+EDN0705-A,07-045-014C,Jainaba Sise,045,Fanta Sise,Lamin Sise,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,22,2023-11-15,,37,2024-12-02,2024-12-30
+EDN0709-B,07-005-002E,Kaddijatou Njai,030,Naba Drammeh,Afang Sutay Njai,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,22,2023-11-03,,37,2024-12-19,2025-01-16
+EDN0711-E,29-018-020S,Mamanding Darboe,005,Jarra Jadama,Mamadou Darboe,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,22,2023-11-02,Temporal Excluded,36,2024-10-23,2024-11-20
+EDN0715-B,07-024-012I,Fatou Njai,025,Babung Njai,Karafanding Njai,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN0716-H,07-009-014M,Kaddy Sise,027,Fatoumata Njai,Saikou Sise,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,22,2023-11-09,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN0726-A,10-021-003F,Binta Fatou Dibba,006,Daranding Drammeh,Martin Dibba,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,,,Temporal Excluded,37,2024-12-23,2025-01-20
+EDN0726-A,10-021-003F,Binta Fatou Dibba,021,,,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,,,Temporal Excluded,37,2024-12-23,2025-01-20
+EDN0728-D,10-008-003F,Fatoumata Sise,008,Mbassy Sise,Yaya Sise,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,19,2023-08-02,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN0740-J,29-068-017R,Nyimansatou Sise,009,Metanding Sise,Sambou Sise,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,1,2022-08-25,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN0741-K,07-038-004M,Binta Njai,004,Sutering Njai,Momodou Njai,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN0741-K,07-038-004M,Binta Njai,007,,,,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN0753-G,02-010-029V,Sarjo Darboe,009,Joma Camara,Karamo Darboe,,,,KANTONG KUNDA,Kuli Kunda, Tumbulu Drammeh,,,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN0755-H,10-001-020Q,Musukebba Sise,001,Mbinkinding Sise,Mustapha Sise,,,,KANTONG KUNDA,Kuli Kunda, Tumbulu Drammeh,1,2022-09-05,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN0760-A,10-003-031Z,Isatou Sise,003,Mamie Sise,Kemo Sise,,,,KANTONG KUNDA,Kuli Kunda, Tumbulu Drammeh,,,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN0766-J,25-007-092G,Nyimanding Fatty,011,Satou Kanyi,Borry Fatty,,,,KARANTABA,Karantaba,Demba Jallow,37,2024-11-26,,37,2024-12-03,2024-12-31
+EDN0774-B,17-002-018U,Fatoumata Kuyateh,007,Sutay Camara,Karamo Kuyateh,,,,MANDINA,Karantaba,Demba Jallow,28,2024-03-27,,5,2022-08-18,2022-09-15
+EDN0776-E,27-024-024O,Binta Demba,001,Kaddy Fatty,Malang Demba,,,,MANDINA,Karantaba,Demba Jallow,37,2024-12-06,,37,2024-12-06,2025-01-03
+EDN0778-G,26-004-005B,Binta Bojang,004,Abi Manneh,Momodou Bojang,,,,MANDINA,Karantaba,Demba Jallow,37,2024-12-06,,37,2024-12-06,2025-01-03
+EDN0779-D,25-011-015D,Fatou Saidy,006,Aja Kambi,Kebba Saidy,,,,MANDINA,Karantaba,Demba Jallow,37,2024-12-06,Temporal Excluded,37,2024-12-06,2025-01-03
+EDN0781-H,25-010-062M,Binta Kanyi,014,Nyimanding Kambi,Sarjo Kanyi,,,,MANDINA,Karantaba,Demba Jallow,37,2024-12-06,Temporal Excluded,37,2024-12-06,2025-01-03
+EDN0792-C,11-033-003H,Famatanding Camara,033,Borry Kuyateh,Mbemba Camara,,,,JALI,Kuli Kunda, Tumbulu Drammeh,1,2022-09-13,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN0796-F,11-006-071L,Mama Dibba,049,Bajonki Drammeh,Tongonding Dibba,,,,JALI,Kuli Kunda, Tumbulu Drammeh,19,2023-08-11,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN0797-K,11-042-019B,Binta Drammeh,010,Nyorita Drammeh,Sanna Drammeh,,,,JALI,Kuli Kunda, Tumbulu Drammeh,22,2023-11-09,,37,2024-12-02,2024-12-30
+EDN0799-J,29-004-159P,Nyimansatou Sanyang,035,Tumbulu Sise,Njundou Sanyang,,,,JALI,Kuli Kunda, Tumbulu Drammeh,1,2022-09-13,Temporal Excluded,37,2024-12-10,2025-01-07
+EDN0800-F,11-025-108Q,Kaddy Dibba,025,Binta Samateh,Masaneh Dibba,,,,JALI,Kuli Kunda, Tumbulu Drammeh,32,2024-07-16,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN0802-G,11-054-007D,Kaddy Darboe,030,Fatoumata Drammeh,Bunja Darboe,,,,JALI,Kuli Kunda, Tumbulu Drammeh,1,2022-09-08,Temporal Excluded,37,2024-12-02,2024-12-30
+EDN0803-K,11-023-005T,Kaddy Drammeh,031,Mama Jatta Barrow,Sako Drammeh,,,,JALI,Kuli Kunda, Tumbulu Drammeh,22,2023-11-14,Temporal Excluded,37,2024-12-10,2025-01-07
+EDN0807-B,11-047-002S,Aramata Njai,047,Saribanding Sise,Njanneh Njai,,,,JALI,Kuli Kunda, Tumbulu Drammeh,1,2022-10-13,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN0809-E,11-024-003D,Sariba Samateh,024,Banjally Barrow,Baba Samateh,,,,JALI,Kuli Kunda, Tumbulu Drammeh,22,2023-11-14,,37,2024-12-11,2025-01-08
+EDN0810-H,11-007-011P,Jainaba Dibba,034,Sutaring Sawo,Janko Dibba,,,,JALI,Kuli Kunda, Tumbulu Drammeh,1,2022-09-08,Temporal Excluded,37,2024-12-02,2024-12-30
+EDN0814-B,27-018-007D,Fatou Janneh,065,Nyimanding Darboe,Momodou Janneh,,,,JALI,Kuli Kunda, Tumbulu Drammeh,22,2023-11-15,,37,2024-12-04,2025-01-01
+EDN0820-E,11-038-014A,Mariama Samateh,038,Jonfolo Barrow,Yusupha Samateh,,,,JALI,Kuli Kunda, Tumbulu Drammeh,22,2023-11-14,Temporal Excluded,37,2024-12-11,2025-01-08
+EDN0830-B,28-013-010M,Salimatou Barrow,010,Musukebba Janneh,Babanding Barrow,,,,KEMOTO,Kemoto,Amadou Jatta,22,2023-11-08,Temporal Excluded,37,2024-12-05,2025-01-02
+EDN0842-B,18-005-043R,Kadijatou Baldeh,014,Hawa Sowe,Lamin Baldeh,,,,TABORANGKOTO,Karantaba,Demba Jallow,36,2024-11-07,,36,2024-11-07,2024-12-05
+EDN0844-F,22-011-004C,Buya Jawo,013,Mariama Jawo,Banno Jawo,,,,TABORANGKOTO,Karantaba,Demba Jallow,36,2024-11-07,,36,2024-11-07,2024-12-05
+EDN0846-J,23-004-022C,Kaddy Darboe,012,Adama Sanyang,Ansumana Darboe,,,,TABORANGKOTO,Karantaba,Demba Jallow,1,2023-02-02,Temporal Excluded,36,2024-11-07,2024-12-05
+EDN0849-C,16-002-001P,Lolly Janneh,002,Barrow Barrow,Kebba Janneh,,,,TANKULAR,Manduar, Abdoulie Jallow,1,2022-08-31,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN0852-C,16-014-010M,Binta Drammeh,014,Kaddy Njai,Karamo Drammeh,,,,TANKULAR,Manduar, Abdoulie Jallow,22,2023-11-02,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN0853-D,17-001-071J,Aminata Camara,019,Saribanding Bass,Ousman Camara,,,,TANKULAR,Manduar, Abdoulie Jallow,1,2022-08-30,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN0855-E,15-006-010G,Fatou Bah,023,Teddy Bah,Modou Bah,,,,TANKULAR,Manduar, Abdoulie Jallow,22,2023-11-01,,37,2024-12-04,2025-01-01
+EDN0857-K,11-053-034S,Amie Faal,053,Jainaba Watara,Adama Faal,,,,JALI,Kuli Kunda, Tumbulu Drammeh,22,2023-11-09,Temporal Excluded,37,2024-12-02,2024-12-30
+EDN0858-H,11-015-021R,Sireh Samateh,054,Hajarata Daffeh,Karafa Samateh,,,,JALI,Kuli Kunda, Tumbulu Drammeh,,,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN0861-G,16-006-060S,Fatou Njai,006,Nakoi Sise,Kebba Njai,,,,TANKULAR,Manduar, Abdoulie Jallow,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN0865-A,16-013-019J,Jomma Drammeh,029,Fatoumata Kassama,Solly Felly Drammeh,,,,TANKULAR,Manduar, Abdoulie Jallow,16,2023-05-31,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN0868-J,16-016-020U,Ansata Sowe,016,Dardo Jallow,Amadou Sowe,,,,TANKULAR,Manduar, Abdoulie Jallow,21,2023-09-29,,37,2024-12-04,2025-01-01
+EDN0871-F,13-034-010C,Jonsaba Susso,034,Maimuna Kanteh,Babaye Susso,,,,MANDUAR,Manduar, Abdoulie Jallow,22,2023-11-09,,37,2024-11-27,2024-12-25
+EDN0876-G,13-029-007R,Fatou Jammeh,029,Kaddy Darboe,Yankuba Jammeh,,,,MANDUAR,Manduar, Abdoulie Jallow,29,2024-05-07,Temporal Excluded,37,2024-12-12,2025-01-09
+EDN0877-H,13-040-020G,Nanding Sanyang,053,Kaddy Sanyang,Momodou Sanyang,,,,MANDUAR,Manduar, Abdoulie Jallow,,,,37,2024-11-27,2024-12-25
+EDN0878-K,27-042-017P,Salimata Janneh,045,Satou Bajinka,Alasana Janneh,,,,MANDUAR,Manduar, Abdoulie Jallow,29,2024-05-08,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN0879-A,13-016-004O,Mariama Kanteh,016,Kuta Jammeh,Karafanding Kanteh,,,,MANDUAR,Manduar, Abdoulie Jallow,29,2024-05-08,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN0881-K,13-003-011V,Darbonding Darboe,003,Bintanding Sanyang,Demba Darboe,,,,MANDUAR,Manduar, Abdoulie Jallow,29,2024-05-08,Temporal Excluded,37,2024-12-12,2025-01-09
+EDN0886-C,13-010-034Y,Awa Sanyang,010,Isatou Hydara,Kawsu Sanyang,,,,MANDUAR,Manduar, Abdoulie Jallow,,,,37,2024-11-27,2024-12-25
+EDN0897-C,18-004-005T,Binta Demba,004,Yafaye Jobarteh,Bakary Demba,,,,KUYANG,Karantaba,Demba Jallow,35,2024-10-13,,35,2024-10-13,2024-11-10
+EDN0898-A,18-002-017H,Jainaba Darboe,002,Funtu Janneh,Nuha Darboe,,,,KUYANG,Karantaba,Demba Jallow,35,2024-10-13,,35,2024-10-13,2024-11-10
+EDN0901-B,29-009-013H,Isatou Sise,062,Habibatou Sise,Karamo Sise,,,,KENEBA,keneba,Lamin LK Jawla,35,2024-09-30,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN0903-D,29-077-009N,Binta Minteh,077,Jainaba Minteh,Sambou Minteh,,,,KENEBA,keneba,Lamin LK Jawla,37,2024-11-27,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN0913-G,47-009-03,BOBO FADERA,009,MUSUKEBBA FADERA,FABAKARY FADERA,,,,NEMA,Nema, Lamin Njai,19,2023-08-08,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN0917-D,13-010-003T,Kaddy Jammeh,035,Binta Camara,Futanko Jammeh,3368310,,,MANDUAR,Manduar, Abdoulie Jallow,,,,37,2024-11-27,2024-12-25
+EDN0918-F,15-005-007R,Fatou  Jobe,005,Ndey Joof,Modou Jobe,,,,GISSAY,Manduar, Abdoulie Jallow,,,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN0919-K,01-014-015P,Mai Jallow,006,Kodou Jallow,Samba Jallow,,,,GISSAY,Manduar, Abdoulie Jallow,,,,37,2024-12-12,2025-01-09
+EDN0927-G,29-059-021R,Sainabou Danso,033,Musukoto Sise,Baba Danso,,,,KENEBA,keneba,Lamin LK Jawla,34,2024-09-02,Temporal Excluded,37,2024-12-12,2025-01-09
+EDN0930-F,29-038-077D,Fatou Touray,038,Mariama Jawo,Ebrima Touray,,,,KENEBA,keneba,Lamin LK Jawla,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN0934-H,29-037-091F,Alimatou Sise,037,Lisanding Sise,Sulayman Sise,,,,KENEBA,keneba,Lamin LK Jawla,35,2024-10-17,,35,2024-10-17,2024-11-14
+EDN0944-G,01-033-017L,Fatou Colley,004,Isatou Drammeh,Lang Colley,,,,KENEBA,keneba,Lamin LK Jawla,37,2024-12-04,,37,2024-12-04,2025-01-01
+EDN0950-J,29-047-003L,Isatou Sise,036,Natoma Bajo,Baba Sise,,,,KENEBA,keneba,Lamin LK Jawla,35,2024-09-24,Temporal Excluded,35,2024-09-24,2024-10-22
+EDN0951-K,10-009-037Z,Binta Sise,085,Mariama Sise,Alhagie Sise,,,,KENEBA,keneba,Lamin LK Jawla,36,2024-11-07,Temporal Excluded,36,2024-11-07,2024-12-05
+EDN0952-E,29-004-207L,Kaddy Jammeh,004,Binta Camara,Lamin Jammeh,,,,KENEBA,keneba,Lamin LK Jawla,37,2024-12-04,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN0959-H,29-020-011H,Mabinta Sanyang,004,Arabiatou Sise,Messeng Sanyang,,,,KENEBA,keneba,Lamin LK Jawla,37,2024-12-04,,37,2024-12-04,2025-01-01
+EDN0962-K,29-005-003B,Mariama Sise,054,Mamie Bajo,Masanneh Sise,,,,KENEBA,keneba,Lamin LK Jawla,37,2024-12-03,,37,2024-12-03,2024-12-31
+EDN0963-C,29-014-064O,Banna Sise,014,Bojang Bajo,Baba Tomaring Sise,,,,KENEBA,keneba,Lamin LK Jawla,36,2024-11-12,,36,2024-11-12,2024-12-10
+EDN0967-J,25-012-050Y,Isatou Conteh,012,Maceesay Conteh,Kalilou Conteh,,,,KARANTABA,Karantaba,Demba Jallow,37,2024-11-26,Temporal Excluded,37,2024-12-02,2024-12-30
+EDN0968-G,25-012-441Z,Mariama Jarjou,012,Nyimanding Marri,Fakebba Jarjou,,,,KARANTABA,Karantaba,Demba Jallow,37,2024-11-26,,37,2024-12-02,2024-12-30
+EDN0969-D,25-006-083L,Isatou Kambi,012,Filijehjarjou,Baluta Kambi,,,,KARANTABA,Karantaba,Demba Jallow,37,2024-11-27,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN0970-B,25-004-014W,Fatou Chorr,004,Binta Jammeh,Bakary Chorr,,,,KARANTABA,Karantaba,Demba Jallow,37,2024-11-27,,37,2024-11-27,2024-12-25
+EDN0989-B,03-041-033V,Sallah Jallow,041,Binta Jallow,Hamat Jallow,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,22,2023-11-16,,37,2024-11-25,2024-12-23
+EDN0992-J,03-047-033P,Adama Gano,047,Jakerr Jobe,Alagie Gano,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,21,2023-10-20,,37,2024-11-25,2024-12-23
+EDN0994-E,03-048-046O,Jonsaba Sonko,048,Yassin Jammeh,Yaya Sonko,7277974,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,,,,37,2024-11-25,2024-12-23
+EDN0999-A,47-018-12,BINTA SAMATEH,018,ISATOU DRAMMEH,FABURAMA SAMATEH,,,,NEMA,Nema, Lamin Njai,,,Temporal Excluded,34,2024-08-22,2024-09-19
+EDN1001-A,54-014-01,fatou sarr,014,binta sanneh,burama sarr,7330906,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,29,2024-04-30,,37,2024-11-28,2024-12-26
+EDN1002-B,54-023-01,Jainaba Barrow,023,Yaye Njie,Babanding Barrow,2991433,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,32,2024-07-23,,37,2024-12-02,2024-12-30
+EDN1008-H,50-008-03,Fatou Gibba,008,Mariama Badjie,Abubacarr Gibba,3457220,,,NEMA KUTA,Nema Kuta,Mamadou Jarjusey,27,2024-02-28,Temporal Excluded,36,2024-10-28,2024-11-25
+EDN1010-G,54-025-01,Sainey Jallow,025,Neneh galleh jallow,Lamarana Jallow,7602929,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,29,2024-05-16,,37,2024-12-10,2025-01-07
+EDN1014-N,05-032-051L,Ndey Bajinka,032,Marie Fatajo,Su Bajinka,,,,JIFFARONG,Jiffarong,Lamin Jatta,21,2023-10-19,Temporal Excluded,37,2024-12-10,2025-01-07
+EDN1016-P,05-064-010Q,Aminata Barrow,064,Tombong Sise,Lang Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta,21,2023-10-12,,37,2024-12-23,2025-01-20
+EDN1018-R,05-014-029H,Musukebba Drammeh,014,Sunkary Barrow,Fanding Drammeh,,,,JIFFARONG,Jiffarong,Lamin Jatta,,,,37,2024-12-10,2025-01-07
+EDN1021-U,05-039-003V,Kumba Jaiteh,039,Kombeh Jatta,Lamin Jaiteh,,,,JIFFARONG,Jiffarong,Lamin Jatta,18,2023-07-07,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN1027-B,05-058-012Y,Maimuna Bah,058,Kaddy Jallow,Buba Bah,,,,JIFFARONG,Jiffarong,Lamin Jatta,20,2023-09-11,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN1031-F,54-015-04,Nyima Darboe,015,Sunkary,Bakary Darboe,2886184,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,27,2024-02-29,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN1038-M,22-003-004K,Mariama Jammeh,004,Sarjo Sanyang,Omar Jammeh,,,,BURONG,Karantaba,Demba Jallow,36,2024-11-05,,36,2024-11-05,2024-12-03
+EDN1040-O,16-031-002A,Fanta Camara,047,Jarra Mass,Balla Camara,,,,TANKULAR,Manduar, Abdoulie Jallow,22,2023-11-09,,37,2024-12-12,2025-01-09
+EDN1041-P,16-006-025J,Sariba Kassama,006,Fatou Sise,Omar Njai Kassama,,,,TANKULAR,Manduar, Abdoulie Jallow,,,Temporal Excluded,37,2024-12-12,2025-01-09
+EDN1042-G,29-046-013J,Isatou Bajo,042,Musukebba Njai,Jaiteh Bajo,,,,TANKULAR,Manduar, Abdoulie Jallow,29,2024-05-13,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN1043-R,22-009-013N,Nyimanding Sanyang,009,Fatoumata Camara,Famara Sanyang,,,,TANKULAR,Manduar, Abdoulie Jallow,22,2023-11-01,,37,2024-12-04,2025-01-01
+EDN1044-S,17-010-007B,Nyarading Bass,010,Naffie Marri,Momodou Bass,,,,JOLI,Kemoto,Amadou Jatta,20,2023-09-15,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN1046-U,16-001-098W,Mariama Drammeh,001,Binta Sanneh,Nfamara Drammeh,,,,TANKULAR,Manduar, Abdoulie Jallow,5,2023-05-11,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN1058-H,25-012-116M,Isatou Sawaneh,047,Jubay Jammeh,Duday Sawaneh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,22,2023-11-09,,37,2024-12-13,2025-01-10
+EDN1061-K,25-011-144C,Fatou Kambi,011,Mariama Darboe,Kamburama Fabba Kambi,,,,KARANTABA,Karantaba,Demba Jallow,37,2024-11-27,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN1069-S,25-006-093V,Nyimanding Marong,006,Mama Kaddy Kambi,Kebba Lang Marong,,,,KARANTABA,Karantaba,Demba Jallow,37,2024-11-28,,37,2024-11-28,2024-12-26
+EDN1073-W,17-004-028C,Jaciatou Marri,004,Fatoumata Camara,Bakanding Marri,,,,JOLI,Kemoto,Amadou Jatta,22,2023-11-15,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN1077-B,29-103-002G,Nakebba Minteh,103,Banna Njai Sise,Muhamed Waa Minteh,,,,KENEBA,keneba,Lamin LK Jawla,37,2024-12-04,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN1082-G,29-013-013D,Arokey Sanyang,115,Mbinkinding Sise,Mamadou Sanyang,,,,KENEBA,keneba,Lamin LK Jawla,37,2024-11-28,,37,2024-11-28,2024-12-26
+EDN1083-H,10-001-038I,Isatou Sise,052,Jonyinding Sise,Baba Sise,,,,KENEBA,keneba,Lamin LK Jawla,35,2024-09-30,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN1086-K,13-015-009H,Kaddy Camara,013,Darbonding Darboe,Ismaila Camara,,,,MANDUAR,Manduar, Abdoulie Jallow,5,2023-05-17,Temporal Excluded,37,2024-12-12,2025-01-09
+EDN1088-M,31-011-028W,Fatou Demba,011,Luntang Sanneh,Lamin Demba,,,,SANDENG,Niorro Jattaba,Modou Bah,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN1101-Z,47-027-05,Aminata Sabally,027,Fatoumatta Saidy,Mustapha Sabally,2351535,,,NEMA,Nema, Lamin Njai,21,2023-10-13,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN1103-C,30-001-068G,Kaddy Mambureh,001,Naba Sanyang,Muhammed Mambureh,,,,BATELLING,Kwinella Sansankono,Modou Lamin Njai,33,2024-08-13,,37,2024-12-24,2025-01-21
+EDN1105-E,10-006-052E,Mai Sise,017,Yafaye Njai,Bakanding Sise,,,,BAJANA,Jiffarong,Lamin Jatta,19,2023-08-15,,37,2024-12-23,2025-01-20
+EDN1107-G,06-023-012I,Natoma Bajo,002,Musukebba Daffeh,Yaya Bajo,,,,BAJANA,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-11,2025-01-08
+EDN1112-L,04-037-012S,Kaddy Njai,037,Fatou Sise,Kemo Njai,,,,JATTABA,Dumbuto,Ousman Kambi,20,2023-09-15,,36,2024-10-23,2024-11-20
+EDN1154-D,01-001-004E,Binta Jadama,001,Aminata Njai,Amadou Jadama,,,,DUMBUTO,Dumbuto,Ousman Kambi,,,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN1155-E,01-034-009P,Jainaba Bah,001,Fatou Jawo,Sulayman Bah,,,,DUMBUTO,Dumbuto,Ousman Kambi,,,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN1157-G,01-010-005J,Mariama Jallow,010,Jarra Jallow,Bubacarr Jallow,,,,DUMBUTO,Dumbuto,Ousman Kambi,,,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN1159-I,01-017-006Q,Mama Colley,011,Hawa Darboe,Baba Colley,,,,DUMBUTO,Dumbuto,Ousman Kambi,,,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN1162-L,01-015-053N,Fatou Jammeh,015,Alanso Colley,Saikou Jammeh,,,,DUMBUTO,Dumbuto,Ousman Kambi,,,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN1166-P,01-021-056K,Mariama Laineh,021,Binta Tunkara,Dawda Laineh,,,,DUMBUTO,Dumbuto,Ousman Kambi,,,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN1167-G,01-023-011P,Salimata Darboe,023,Fatoumata Darboe,Sarjo Darboe,,,,DUMBUTO,Dumbuto,Ousman Kambi,,,,36,2024-11-14,2024-12-12
+EDN1171-U,01-029-060G,Aminata Jadama,029,Bintou Darboe,Ebrima Jadama,,,,DUMBUTO,Dumbuto,Ousman Kambi,,,,35,2024-10-17,2024-11-14
+EDN1174-X,01-021-008O,Yama Saidy,030,Mariama Drammeh,Momodou Saidy,,,,DUMBUTO,Dumbuto,Ousman Kambi,,,Temporal Excluded,36,2024-10-31,2024-11-28
+EDN1179-D,01-033-185X,Isatou Bojang,033,Fatou Kuyateh,Masanneh Bojang,,,,DUMBUTO,Dumbuto,Ousman Kambi,,,,37,2024-12-04,2025-01-01
+EDN1180-E,07-002-021N,Matida Njai,033,Jajeh Sise,Juka Njai,,,,DUMBUTO,Dumbuto,Ousman Kambi,,,Temporal Excluded,36,2024-11-14,2024-12-12
+EDN1208-H,02-015-004E,Darbonding Drammeh,015,Sarjo Manjang,Karamo Drammeh,3130722,,,SANKANDI,Dumbuto,Ousman Kambi,,,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN1211-K,02-006-015L,Binta Sise,015,Sunkary Colley,Lang Sise,,,,SANKANDI,Dumbuto,Ousman Kambi,,,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN1215-O,02-027-019H,Fanta Darboe,027,Sutering Drammeh,Fabakary Darboe,3052799,,,SANKANDI,Dumbuto,Ousman Kambi,,,Temporal Excluded,36,2024-11-14,2024-12-12
+EDN1217-G,04-019-005D,Tomaring Touray,033,Musukebba Jarra,Molipha Touray,5311065,,,SANKANDI,Dumbuto,Ousman Kambi,,,,36,2024-11-14,2024-12-12
+EDN1222-V,02-034-006A,Saffiatou Jallow,051,Fatoumata Darboe,Amadou Jallow,3196326,,,SANKANDI,Dumbuto,Ousman Kambi,,,Temporal Excluded,37,2024-11-20,2024-12-18
+EDN1223-W,03-001-034K,Mahani Bah,001,Hawa Sowe,Alieu Bah,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN1231-F,03-006-006Q,Jaila Bah,006,Hawa Sey,Kebba Bah,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,,,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN1235-G,03-013-006W,Hulay Bah,013,Fatou Ann,Samba Bah,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,,,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN1237-L,03-015-044G,Awa Jobe,015,Jaila Jallow,Alpha Jobe,5375568,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,,,,36,2024-11-14,2024-12-12
+EDN1238-M,03-016-017R,Jaila Jobe,016,Jarra Bah,Hamadi Malick Jobe,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,,,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN1259-I,03-041-004S,Egan Jobe,041,Fatoumata Lido,Kebba Jobe,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,,,,36,2024-10-28,2024-11-25
+EDN1272-V,03-055-018S,Sally Sowe,055,Meta Kebbeh,Samba Sowe,5917181,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,,,,36,2024-11-14,2024-12-12
+EDN1274-X,03-002-009X,Jarra Bah,059,Isatou Jobe,Momodou Touray Bah,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,,,,37,2024-12-11,2025-01-08
+EDN1275-Y,03-059-007D,Adama Sey,059,Fatoumata Jobe,Bubacarr Sey,3086129,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,,,,37,2024-12-11,2025-01-08
+EDN1278-C,03-062-028I,Kaddy Camara,062,Teneng Camara,Ebrima Camara,2428453,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,,,Temporal Excluded,37,2024-12-11,2025-01-08
+EDN1284-I,03-066-039P,Kaddijatou Sallah,066,Adama Colley,Samba Sallah,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,,,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN1287-L,03-067-030S,Kaddy Bah,067,Isata Bah,Sheriff Bah,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN1297-V,04-002-015R,Kaddy Sonko,002,Sunkary Darboe,Konaji Sonko,,,,JATTABA,Dumbuto,Ousman Kambi,,,Temporal Excluded,37,2024-11-20,2024-12-18
+EDN1300-Y,04-006-055B,Mariama Njai,006,Mama Sanneh,Massey Njai,,,,JATTABA,Dumbuto,Ousman Kambi,,,Temporal Excluded,,2024-11-20,2024-12-18
+EDN1305-E,04-008-069N,Binta Darboe,008,Banna Camara,Suwarehba Darboe,,,,JATTABA,Dumbuto,Ousman Kambi,,,Temporal Excluded,37,2024-11-20,2024-12-18
+EDN1309-I,04-009-127F,Oumie Hydara,009,Kadessa Hydara,Sadibou Hydara,,,,JATTABA,Dumbuto,Ousman Kambi,,,Temporal Excluded,37,2024-11-20,2024-12-18
+EDN1319-S,05-002-187V,Fatou Sise,002,Sarjonding Colley,Lamin Sise,3713622,,,JIFFARONG,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-24,2025-01-21
+EDN1321-U,05-060-013X,Aja Njai,002,Musukebba Drammeh,Saidy Njai,2124554,,,JIFFARONG,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-23,2025-01-20
+EDN1322-V,05-065-003V,Halima Drammeh,002,Banna Njai,Bunja Drammeh,,,,JIFFARONG,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-11,2025-01-08
+EDN1325-Y,10-017-030K,Fatou Sise,006,Maimuna Sise,Kalilu Sise,,,,JIFFARONG,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN1329-D,05-016-020W,Kaddijatou Barrow,012,Lalla Kinteh,Fanding Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-10,2025-01-07
+EDN1330-E,29-022-012G,Binta Minteh,012,Musukebba Sise,Afang Malang Minteh,3578799,,,JIFFARONG,Jiffarong,Lamin Jatta,,,,37,2024-12-10,2025-01-07
+EDN1333-H,05-014-060M,Fatoumata Marena,014,Tiyana Kurang,Bunja M. K Marena,,,,JIFFARONG,Jiffarong,Lamin Jatta,,,,37,2024-12-04,2025-01-01
+EDN1335-G,05-064-017X,Manyima Njai,014,Natoma Barrow,Momodou Njai,3092703,,,JIFFARONG,Jiffarong,Lamin Jatta,,,,37,2024-12-04,2025-01-01
+EDN1336-K,29-050-008A,Mariama Barrow,014,Isatou Sise,Baba Barrow,3092703,,,JIFFARONG,Jiffarong,Lamin Jatta,,,,37,2024-12-04,2025-01-01
+EDN1337-L,05-002-076O,Arokey Drammeh,019,Alamuta Kinteh,Karamo Drammeh,5262395,,,JIFFARONG,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN1338-M,05-022-002Y,Mariama Barrow,022,Fatou Njai,Tombong Barrow,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,,,Temporal Excluded,37,2024-12-19,2025-01-16
+EDN1339-N,05-013-001T,Fatou Barrow,025,Yasin Njai,Bakary Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-24,2025-01-21
+EDN1343-R,05-031-004E,Nyimansatou Njai,031,Sutering Njai,Wandy Njai,,,,JIFFARONG,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN1346-U,05-034-021F,Jainaba Bajo,034,Jarra Barrow,Fakebba Bajo,3713654,,,JIFFARONG,Jiffarong,Lamin Jatta,,,,37,2024-12-10,2025-01-07
+EDN1348-W,05-036-071B,Jarra Darboe,036,Kaddy Sanyang,Lang Darboe,5216376,,,JIFFARONG,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-23,2025-01-20
+EDN1351-Z,11-025-009V,Fatou Samateh,038,Sireh Samateh,Momodou L. Samateh,5317350,,,JIFFARONG,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-24,2025-01-21
+EDN1357-G,05-003-034K,Jarra Njai,047,Jai Barrow,Masanneh Njai,,,,JIFFARONG,Jiffarong,Lamin Jatta,,,,37,2024-12-10,2025-01-07
+EDN1359-I,05-053-025D,Nyima Fatty,053,Hawa Fatty,Foday Fatty,3852191,,,JIFFARONG,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN1361-K,05-017-001P,Binta Barrow,056,Suntukung Kinteh,Lamin Barrow,,,,JIFFARONG,Jiffarong,Lamin Jatta,29,2024-05-23,,37,2024-12-23,2025-01-20
+EDN1362-L,06-022-012W,Binta Sise,058,Natoma Njai,Kalifa Sise,5255187,,,JIFFARONG,Jiffarong,Lamin Jatta,,,,37,2024-12-23,2025-01-20
+EDN1365-O,10-019-006K,Binta Barrow,061,Yai Njai,Babanding Barrow,5908814,,,JIFFARONG,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-23,2025-01-20
+EDN1368-R,05-027-050C,Fatou Jarra Kinteh,070,Fatou Njai,Solo Kinteh,,,,JIFFARONG,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN1369-S,26-007-026G,Mama Njai,075,Fatou Barrow,Momodou Njai,,,,JIFFARONG,Jiffarong,Lamin Jatta,,,,37,2024-12-23,2025-01-20
+EDN1373-W,05-032-020G,Kaddy Njai,089,Mariama Barrow,Essa Njai,5028057,,,JIFFARONG,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-10,2025-01-07
+EDN1378-C,06-023-036G,Mariama Touray,023,Binta Sise,Lamin Touray,7770589,,,BAJANA,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-11,2025-01-08
+EDN1380-E,06-026-058M,Fatou Colley,029,Aminata Barrow,Fansu Colley,3548847,,,BAJANA,Jiffarong,Lamin Jatta,,,,37,2024-12-11,2025-01-08
+EDN1383-H,07-005-004G,Fatou Njai,005,Naba Drammeh,Afang Sutay Njai,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN1389-N,29-056-033T,Fatou Sanyang,009,Kaddy Jammeh,Yankuba Sanyang,3523225,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,30,2024-06-25,,37,2024-12-23,2025-01-20
+EDN1390-O,07-002-001T,Mariama Njai,009,Saribanding Sise,Jabang Masanneh Njai,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,,,Temporal Excluded,37,2024-12-02,2024-12-30
+EDN1393-R,29-079-004G,Nyimanding Manjang,022,Wontonding Bajinka,Momodou Manjang,3990142,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN1398-W,07-037-038I,Fatou Sise,037,Mariama Njai,Sutay Sise,2700479,5300795,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,,,Temporal Excluded,37,2024-12-23,2025-01-20
+EDN1399-X,07-044-022Y,Maimuna Njai,044,Lisanding Njai,Lamin Njai,7991265,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,,,,37,2024-12-23,2025-01-20
+EDN1400-Y,07-044-051B,Mai Fatty,044,Jarrey Camara,Yala Fatty,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,,,Temporal Excluded,37,2024-12-02,2024-12-30
+EDN1401-Z,07-005-029F,Aminata Njai,049,Sanjiba Njai,Foday Njai,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,,,Temporal Excluded,36,2024-10-29,2024-11-26
+EDN1402-B,07-002-042I,Yamundaw Njai,052,Kaddy Sise,Foday Njai,2431682,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,,,Temporal Excluded,37,2024-12-02,2024-12-30
+EDN1404-D,07-058-012A,Kani Jaw,058,Ndey Gaye,Ali Jawo,7526220,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,,,,37,2024-12-23,2025-01-20
+EDN1405-E,07-036-004O,Halimatou Njai,059,Nakebba Bajo,Manlafi Njai,2976114,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,,,,37,2024-12-23,2025-01-20
+EDN1408-H,08-002-008O,Hawa Sowe,002,Fatou Sowe,Abdoulie Sowe,,,,JAMARU,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN1409-I,08-003-056W,Sarjo Sanneh,003,Mama Sonko,Jerreh Sanneh,7473194,,,JAMARU,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-23,2025-01-20
+EDN1410-G,08-006-014Q,Fatoumata Jallow,006,Hawa Jallow,Gibi Jallow,3017341,,,JAMARU,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN1414-N,09-002-077T,Penda Jammeh,024,Amie Sanneh,Sanna Jammeh,3565902,,,BRIKAMANDING,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-10,2025-01-07
+EDN1416-P,06-023-022S,Joma Drammeh,006,Jonkong Sanyang,Demba Drammeh,7004512,,,KANTONG KUNDA,Kuli Kunda, Tumbulu Drammeh,,,,37,2024-12-19,2025-01-16
+EDN1420-T,10-010-012M,Isatou Sise,023,Mariama Sise,Libally Sise,3067217,,,KANTONG KUNDA,Kuli Kunda, Tumbulu Drammeh,,,Temporal Excluded,37,2024-12-19,2025-01-16
+EDN1425-Y,11-011-008I,Rohey Dibba,011,Kaddy Samateh,Momodou Dibba,3907745,,,JALI,Kuli Kunda, Tumbulu Drammeh,,,Temporal Excluded,37,2024-12-19,2025-01-16
+EDN1427-B,11-013-004C,Fatoumata Samateh,015,Binta Dibba,Ebrima Samateh,,,,JALI,Kuli Kunda, Tumbulu Drammeh,,,Temporal Excluded,37,2024-12-02,2024-12-30
+EDN1428-C,11-020-095V,Binta Sise,020,Natoma Njai,Lamin Sise,3433035,7592031,,JALI,Kuli Kunda, Tumbulu Drammeh,,,,37,2024-12-10,2025-01-07
+EDN1432-G,11-003-057N,Mariama Jallow,031,Kaddiatou Jallow,Amadou Jallow,,,,JALI,Kuli Kunda, Tumbulu Drammeh,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN1435-G,13-001-083R,Binta  Fatty,001,Janding Jawara,Foday Fatty,,,,MANDUAR,Manduar, Abdoulie Jallow,,,,37,2024-12-12,2025-01-09
+EDN1437-L,13-001-027N,Arabiatou Sanyang,015,Kaddy Fabureh,Sanna Sanyang,,,,MANDUAR,Manduar, Abdoulie Jallow,,,,37,2024-11-28,2024-12-26
+EDN1442-G,13-044-004M,Mama Darboe,044,Fatou Jarju,Momodou Boss Darboe,7376724,,,MANDUAR,Manduar, Abdoulie Jallow,,,,37,2024-12-11,2025-01-08
+EDN1445-T,15-003-030Q,Mariama Bojang,003,Jalika Jammeh,Edward Bojang,3511299,,,GISSAY,Manduar, Abdoulie Jallow,,,,37,2024-12-04,2025-01-01
+EDN1446-U,15-004-093N,Nyima Drammeh,004,Nyimansatou Jarra,Sanna Drammeh,7708061,,,GISSAY,Manduar, Abdoulie Jallow,,,,37,2024-12-11,2025-01-08
+EDN1449-X,06-005-009X,Fatou Kinteh,001,Borry Bajo,Karamo Kinteh,,,,TANKULAR,Manduar, Abdoulie Jallow,,,,37,2024-12-04,2025-01-01
+EDN1451-Z,16-013-036A,Mariama Barrow,013,Fatou Sise,Fanding Barrow,,,,TANKULAR,Manduar, Abdoulie Jallow,,,,37,2024-12-04,2025-01-01
+EDN1454-D,16-006-028M,Fatoumata Kassama,021,Fatou Sise,Omar Njai Kassama,3547457,,,TANKULAR,Manduar, Abdoulie Jallow,,,,37,2024-12-04,2025-01-01
+EDN1457-G,16-017-013Z,Sariba Njai,034,Nakoi Sise,Kebba Njai,5832770,,,TANKULAR,Manduar, Abdoulie Jallow,,,,37,2024-11-27,2024-12-25
+EDN1459-I,17-018-005R,Mariama Touray,004,Sarjonding Bass,Ebrima Touray,7357977,,,JOLI,Kemoto,Amadou Jatta,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN1461-K,17-010-024S,Arokey Bass,011,Isatou Jallow,Jerreh Bass,2280537,,,JOLI,Kemoto,Amadou Jatta,,,Temporal Excluded,37,2024-11-30,2024-12-28
+EDN1462-L,17-001-067F,Isatou Camara,011,Binta Touray,Momodou Camara,,,,JOLI,Kemoto,Amadou Jatta,,,,37,2024-11-30,2024-12-28
+EDN1471-U,28-003-015B,Kaddy Jarjou,002,Mama Minteh,Lamin Jarjou,3235053,7101799,,KUYANG,Karantaba,Demba Jallow,35,2024-10-13,,35,2024-10-13,2024-11-10
+EDN1474-X,21-001-011F,Binta Sanyang,008,Salimatou Camara,Dembo Sanyang,,,,MISSIRA,Karantaba,Demba Jallow,35,2024-10-12,Temporal Excluded,35,2024-10-12,2024-11-09
+EDN1475-Y,22-008-013B,Aminata Sanyang,008,Fatou Giteh,Momodou Sanyang,,,,TABORANGKOTO,Karantaba,Demba Jallow,36,2024-11-07,,36,2024-11-07,2024-12-05
+EDN1477-B,23-001-096O,Mariama Colley,001,Kaddy Darboe,Ansumana Colley,5271947,7728132,,BURONG,Karantaba,Demba Jallow,,,Temporal Excluded,37,2024-12-10,2025-01-07
+EDN1480-E,24-002-011H,Fatou Colley,001,Lala Touray,Siaka Colley,3824493,7185875,,BURONG,Karantaba,Demba Jallow,,,Temporal Excluded,37,2024-12-11,2025-01-08
+EDN1481-F,23-001-009F,Fatou Colley,001,Kaddy Jadama,Yaya Colley,,,,BURONG,Karantaba,Demba Jallow,,,Temporal Excluded,37,2024-12-10,2025-01-07
+EDN1482-G,18-008-003N,Nyimanding Camara,003,Satou Jammeh,Sutering Camara,7146375,3147512,,BURONG,Karantaba,Demba Jallow,36,2024-11-06,,36,2024-11-06,2024-12-04
+EDN1483-H,23-001-094M,Bintou Colley,006,Fatou Jadama,Yaya Colley,3308910,,,BURONG,Karantaba,Demba Jallow,29,2024-05-14,Temporal Excluded,37,2024-12-10,2025-01-07
+EDN1487-L,23-010-015P,Jainaba Camara,010,Jammeh Colley,Borry Camara,3568612,,,BURONG,Karantaba,Demba Jallow,29,2024-05-14,Temporal Excluded,37,2024-12-10,2025-01-07
+EDN1490-O,17-002-023Z,Nyimanding Kuyateh,012,Binta Camara,Nfamara Kuyateh,5354451,,,BURONG,Karantaba,Demba Jallow,36,2024-11-05,,36,2024-11-05,2024-12-03
+EDN1491-P,23-013-014Y,Salimata Jammeh,013,Fatou Darboe,Konta Jammeh,5169408,,,BURONG,Karantaba,Demba Jallow,,,Temporal Excluded,37,2024-12-11,2025-01-08
+EDN1493-R,23-004-027H,Wuday Minteh,016,Mami Kassama,Alhagie Mafugi Minteh,7190543,5325737,,BURONG,Karantaba,Demba Jallow,33,2024-07-29,Temporal Excluded,36,2024-11-05,2024-12-03
+EDN1494-S,23-017-033N,Mamina Darboe,017,Tombong Colley,Sanuwa Darboe,2837249,,,BURONG,Karantaba,Demba Jallow,35,2024-10-13,Temporal Excluded,37,2024-12-11,2025-01-08
+EDN1500-Y,23-026-012W,Fatou Darboe,025,Lisanding Janneh,Yusupha Darboe,,,,BURONG,Karantaba,Demba Jallow,,,Temporal Excluded,36,2024-11-05,2024-12-03
+EDN1501-D,23-020-010A,Jainaba Fofana,028,Majuba Kambi,Momodou Fofana,,,,BURONG,Karantaba,Demba Jallow,36,2024-11-05,,36,2024-11-14,2024-12-12
+EDN1502-B,24-008-027R,Hawa Darboe,008,Fatou Sanyang,Amadou Darboe,,,,JULA KUNDA,Karantaba,Demba Jallow,29,2024-05-07,Temporal Excluded,37,2024-12-09,2025-01-06
+EDN1504-F,24-010-019H,Arokey Darboe,010,Fatou Gibba,Momodou Darboe,,,,JULA KUNDA,Karantaba,Demba Jallow,37,2024-12-09,Temporal Excluded,37,2024-12-09,2025-01-06
+EDN1505-K,23-020-005V,Aminata Camara,010,Jainaba Fofana,Essa Camara,,,,JULA KUNDA,Karantaba,Demba Jallow,30,2024-06-20,Temporal Excluded,37,2024-12-09,2025-01-06
+EDN1506-J,23-004-043X,Nyimanding Darboe,012,Adama Sanyang,Ansumana Darboe,,,,JULA KUNDA,Karantaba,Demba Jallow,,,Temporal Excluded,37,2024-12-09,2025-01-06
+EDN1507-G,24-017-033B,Nyimanding Sanyang,017,Nyimanding Jadama,Lamin Sanyang,3787358,,,JULA KUNDA,Karantaba,Demba Jallow,37,2024-12-09,Temporal Excluded,37,2024-12-09,2025-01-06
+EDN1508-E,24-021-018I,Kaddy Darboe,021,Nyimanding Darboe,Karamo Darboe,3089189,,,JULA KUNDA,Karantaba,Demba Jallow,37,2024-12-09,Temporal Excluded,37,2024-12-09,2025-01-06
+EDN1512-F,22-004-015H,Maimuna Barrow,024,Binta Bojang,Lamin Barrow,,,,JULA KUNDA,Karantaba,Demba Jallow,,,Temporal Excluded,37,2024-12-09,2025-01-06
+EDN1514-K,24-014-012W,Fatou Sanyang,026,Kaddy Jadama,Alhagie M. Sanyang,,,,JULA KUNDA,Karantaba,Demba Jallow,,,Temporal Excluded,37,2024-12-09,2025-01-06
+EDN1516-D,17-005-006S,Nyimansatou Jammeh,006,Binta Camara,Sambou Jammeh,,,,KARANTABA,Karantaba,Demba Jallow,,,,36,2024-10-24,2024-11-21
+EDN1522-K,24-010-010Y,Fatou Darboe,010,Nyimanding Sanyang,Abdoulie Darboe,,,,KARANTABA,Karantaba,Demba Jallow,35,2024-10-04,Temporal Excluded,36,2024-10-30,2024-11-27
+EDN1523-C,25-008-046Y,Nyimansatou Jarjou,011,Mama Fofana,Fakebba Jarju,5826010,,,KARANTABA,Karantaba,Demba Jallow,37,2024-12-04,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN1525-F,25-012-354Q,Nakaddy Jabbie,012,Mansata Minteh,Alhagie Wahab Jabbie,,,,KARANTABA,Karantaba,Demba Jallow,37,2024-11-28,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN1528-G,23-014-007D,Naffie Sise,020,Fatoumata Sawaneh,Saikou Alieu Sise,2119477,,,KARANTABA,Karantaba,Demba Jallow,37,2024-11-28,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN1529-D,25-008-020Y,Binta Jarju,020,Binta Fatty,Tumani Jarju,5948141,,,KARANTABA,Karantaba,Demba Jallow,35,2024-09-30,,35,2024-09-30,2024-10-28
+EDN1534-D,25-011-145D,Hawa Jadama,028,Fatoumata Mbain Darboe,Kejara Jadama,3089685,,,KARANTABA,Karantaba,Demba Jallow,,,,36,2024-10-24,2024-11-21
+EDN1540-D,05-033-026Y,Kaddijatou Taal,031,Sutering Kinteh,Demba Taal,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,,,,37,2024-11-27,2024-12-25
+EDN1541-G,27-031-004A,Kaddy Jobarteh,032,Mariama Manjang,Alhagie Omar Jobarteh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,,,,37,2024-12-05,2025-01-02
+EDN1544-C,27-038-013P,Mai Janneh,037,Fatou Kambi,Momodou Janneh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,,,,37,2024-12-13,2025-01-10
+EDN1547-F,27-041-013Z,Mama Kanteh,041,Filijeh Janneh,Mamanding Kanteh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN1549-B,27-005-003Z,Aja Kanteh,045,Sunkary Manjang,Nfamara Kanteh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN1554-E,28-030-012K,Mariama Manjang,008,Mama Sanyang,Momodou Manjang,3766413,,,KEMOTO,Kemoto,Amadou Jatta,,,,37,2024-11-27,2024-12-25
+EDN1559-A,23-001-031B,Mai Colley,004,Binta Sanyang,Karafanding Colley,5150384,,,KENEBA,keneba,Lamin LK Jawla,37,2024-11-28,,37,2024-11-28,2024-12-26
+EDN1560-K,29-004-148E,Jariatou Sise,004,Marang Sise,Masanneh Tomaring Sise,2555080,,,KENEBA,keneba,Lamin LK Jawla,37,2024-11-27,,37,2024-11-27,2024-12-25
+EDN1565-B,29-013-025P,Aminata Sanyang,005,Sutering Sise,Mamanding Sanyang,7827893,3376161,,KENEBA,keneba,Lamin LK Jawla,32,2024-07-16,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN1566-H,29-037-010C,Binta Bajo,005,Arabiatou Sanyang,Fabakary Bajo,3540703,7258927,,KENEBA,keneba,Lamin LK Jawla,37,2024-11-28,Temporal Excluded,,2024-11-28,2024-12-26
+EDN1567-C,10-021-004G,Awa Sise,010,Nadinding Sise,Jamanty Sise,7719225,,,KENEBA,keneba,Lamin LK Jawla,32,2024-07-11,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN1568-A,29-045-028M,Aminata Sanneh,010,Menata Sanyang,Nuha Sanneh,7282848,,,KENEBA,keneba,Lamin LK Jawla,32,2024-07-11,Temporal Excluded,37,2024-12-12,2025-01-09
+EDN1569-F,29-004-035V,Fatoumata Sise,012,Saribanding Minteh,Sanusi Sise,2708824,7744471,9726264,KENEBA,keneba,Lamin LK Jawla,36,2024-10-31,,36,2024-10-31,2024-11-28
+EDN1571-J,29-013-067F,Yafatou Sanyang,013,Sutering Sise,Mamanding Sanyang,3794695,,,KENEBA,keneba,Lamin LK Jawla,37,2024-12-12,Temporal Excluded,37,2024-12-12,2025-01-09
+EDN1572-G,11-034-031V,Mawuday Sawo,013,Natoma Samateh,Masanneh Sawo,,,,KENEBA,keneba,Lamin LK Jawla,37,2024-12-03,,37,2024-12-03,2024-12-31
+EDN1579-E,07-007-003D,Kaddy Njai,034,Boto Njai,Kebba Njai,,,,KENEBA,keneba,Lamin LK Jawla,,,Temporal Excluded,36,2024-11-14,2024-12-12
+EDN1583-D,29-022-021P,Binta Nyomi Minteh,077,Jarra Bajo,Afang Kemo Minteh,,,,KENEBA,keneba,Lamin LK Jawla,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN1587-K,11-003-026I,Banna Samateh,095,Jankey Fatty,Karanjaneh Samateh,,,,KENEBA,keneba,Lamin LK Jawla,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN1588-H,29-001-018U,Salimata Minteh,099,Musukebba Sise,Malang Minteh,2955700,,,KENEBA,keneba,Lamin LK Jawla,37,2024-11-27,,37,2024-11-27,2024-12-25
+EDN1592-A,07-008-006S,Fatou Njai,118,Nyima Njai,Jerreh Njai,5177303,5918491,,KENEBA,keneba,Lamin LK Jawla,37,2024-12-03,,37,2024-12-03,2024-12-31
+EDN1593-G,29-118-063N,Sally Kanteh,118,Kaddy Kuyateh,Momodou Kanteh,5218627,,,KENEBA,keneba,Lamin LK Jawla,,,,36,2024-10-30,2024-11-27
+EDN1593-G,29-118-063N,Sally Kanteh,079,Kaddy Kuyateh,Momodou Kanteh,,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,,36,2024-10-30,2024-11-27
+EDN1599-K,30-019-050W,Mama Sanneh,019,Binta Sonko,Bakary Sanneh,,,,BATELLING,Kwinella Sansankono,Modou Lamin Njai,33,2024-08-13,,37,2024-12-24,2025-01-21
+EDN1604-F,32-005-007V,Batty Camara,005,Isatou Camara,Momodou Jang Camara,,,,WUDEBA,Dumbuto,Ousman Kambi,,,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN1607-G,32-015-023B,Dado Njai,015,Julleh Sise,Musa Njai,,,,WUDEBA,Dumbuto,Ousman Kambi,,,,37,2024-12-04,2025-01-01
+EDN1610-B,32-018-003R,Salimata Jallow,018,Kumba Jallow,Pira Jallow,,,,WUDEBA,Dumbuto,Ousman Kambi,,,,36,2024-10-30,2024-11-27
+EDN1625-F,40-015-06,Nyima Sanneh,015,Bakoto Manka,Molina Sanneh,3547863,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN1626-E,40-021-02,Fatou Bintou Yarbo,021,Mattindingo Sanyang,Hatab Yarbo,5935751,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-12-04,2025-01-01
+EDN1629-D,40-025-05,Jainaba Touray,025,Satou njie,Landing Touray,6356151,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-12-11,2025-01-08
+EDN1630-J,40-025-06,Awa camara,025,Fatoumata Tambedou,Sanna camara,5847461,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-12-12,2025-01-09
+EDN1632-E,40-028-03,Fatou Camara,028,Fatou Darboe,Omar Camara,3264662,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-12-13,2025-01-10
+EDN1634-D,40-030-02,Manifa Samateh,030,Fatou Camara,Lang Jai Samateh,3080686,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-12-04,2025-01-01
+EDN1635-G,40-031-01,kadijatou camara,031,Satou camara,suwareh camara,,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-11-19,2024-12-17
+EDN1638-B,40-033-05,Darboe Camara,033,Kombeh Camara,Sutay Camara,3813798,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN1641-G,40-034-06,Fatoumatta Ceesay,034,Maimuna Minteh,Alhagie ceesay,5842267,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-12-11,2025-01-08
+EDN1644-C,41-004-01,Hawa Sanyang,004,Jalamba Jobateh,Landing Sanneh,2821439,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai,26,2024-01-24,,37,2024-11-26,2024-12-24
+EDN1648-J,41-026-02,Nyima Sanyang,026,Binta Daffeh,Lang Sanyang,6802966,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai,36,2024-10-23,,37,2024-11-26,2024-12-24
+EDN1657-H,41-047-01,Isatou Jammeh,047,Isatou Dampha,Lamin Jammeh,5197944,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN1658-K,42-003-01,Aminata Njie,003,Mariama Barrow,Ebrima njie,7580770,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-12-20,2025-01-17
+EDN1664-G,42-025-03,Nyomie Jobe,025,Mai cham,Bakary Jobe,7298922,5154059,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-11-18,2024-12-16
+EDN1666-H,42-038-01,Hawa Darboe,038,Nyakonding Manjang,Kebba Darboe,2880385,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN1667-C,42-048-02,Fatoumata samateh,048,Fatoumata Manjang,Lamin Samata,6812984,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-11-27,2024-12-25
+EDN1668-A,42-049-01,Mero Demba (Fatou  Demba),049,Faatou Camara,Bakary Demba,3286436,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN1673-K,42-054-01,Fatou Camara,054,Mariama Sanyang,Sainey Camara,2541234,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-12-03,2024-12-31
+EDN1675-C,42-060-03,Fatou Sanyang,060,Kaddy Drammeh,Demba Sanyang,6573009,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN1677-B,42-067-02,Fatoumatta Darboe,067,Binta Drammeh,Momodou Darboe,2260372,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-12-20,2025-01-17
+EDN1680-G,42-072-03,Banna Darboe,072,Isatou Marong,Lamin Darboe,2487301,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-11-27,2024-12-25
+EDN1681-B,42-072-05,Nyima Manjang,072,Batu Darboe,Solo Manjang,3960206,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-12-02,2024-12-30
+EDN1682-C,42-073-01,Mariama Dibba,073,Isatou manga,Sanna Dibba,7707353,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-12-25,2025-01-22
+EDN1683-D,42-075-01,Sally Sonko,075,Fatoumata Camara,Bakary sonko,7686721,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-12-02,2024-12-30
+EDN1686-F,42-084-01,Binta Sonko,084,mama Colley,Dodou Sonko,3169838,3368420,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN1688-H,42-088-01,Maimuna jallow,088,fatou jallow,mamadou yasin jallow,2487241,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-11-21,2024-12-19
+EDN1689-J,42-088-02,Adama keita,088,Kumba camara,Kamisa keita,2254132,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-11-21,2024-12-19
+EDN1690-E,42-088-03,Mariama jallow,088,Julie jallow,alieu jallow,7841245,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN1693-G,43-003-02,Nyima Drammeh,003,Isatou Ceesay,Sarjo Drammeh,3112548,,,TENDABA,Kwinella Sansankono,Modou Lamin Njai,,,Temporal Excluded,36,2024-11-07,2024-12-05
+EDN1697-D,43-012-01,Sarjo Touray,012,Mama Saidy,Lamin Touray,2667007,6944179,,TENDABA,Kwinella Sansankono,Modou Lamin Njai,33,2024-07-31,,37,2024-12-09,2025-01-06
+EDN1700-A,43-014-03,Tida Sanyang,014,Satou sanyang,Bunja Sanyang,2261590,,,TENDABA,Kwinella Sansankono,Modou Lamin Njai,,,,37,2024-12-09,2025-01-06
+EDN1701-D,43-015-01,Tida janko,015,Naba cham,kending janko,2283629,,,TENDABA,Kwinella Sansankono,Modou Lamin Njai,33,2024-07-30,,37,2024-12-09,2025-01-06
+EDN1702-B,43-022-02,Jabou Darboe,022,Sireh Drammeh,Massey Darboe,3543142,,,TENDABA,Kwinella Sansankono,Modou Lamin Njai,33,2024-07-30,,37,2024-12-09,2025-01-06
+EDN1703-H,43-023-07,Fanta Camara,023,Numi Darbo,Kabiro Camara,3541675,,,TENDABA,Kwinella Sansankono,Modou Lamin Njai,33,2024-07-30,Temporal Excluded,37,2024-12-09,2025-01-06
+EDN1704-F,43-025-01,Binta Joof,025,Awa cassama,Lamin Joof,3547399,,,TENDABA,Kwinella Sansankono,Modou Lamin Njai,,,Temporal Excluded,37,2024-12-09,2025-01-06
+EDN1705-K,44-001-01,Hawa Jamanka,001,karamatou Baldeh,Bubacarr Jamanka,3541900,,,BUMARR,Kwinella Sansankono,Modou Lamin Njai,,,,36,2024-10-29,2024-11-26
+EDN1710-B,44-015-01,MARIAMA MANJANG,015,KOMBEH SAMATEH,JAMANTY MANJANG,7805172,,,BUMARR,Kwinella Sansankono,Modou Lamin Njai,,,Temporal Excluded,36,2024-10-29,2024-11-26
+EDN1711-H,45-012-01,mariama jallow,012,isatou sidibeh,mamajang jallow,7239159,3525156,,BAMBAKO,Nema, Lamin Njai,29,2024-05-01,,37,2024-12-23,2025-01-20
+EDN1716-D,45-026-01,Mansata ceesay,026,Fatou Touray,Sambou sano,7441924,,,BAMBAKO,Nema, Lamin Njai,29,2024-04-30,,37,2024-11-26,2024-12-24
+EDN1722-K,47-026-01,Chakou saidykhan,026,Adama cassama,cherno saidykhan,7869108,,,NEMA,Nema, Lamin Njai,29,2024-05-08,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN1723-C,47-034-02,Fatou Sonko,034,Wonto sawanneh,Sarja sonko,2319157,,,NEMA,Nema, Lamin Njai,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN1724-B,47-039-02,Mariama mass,039,Nyimasatou camara,Yaya mass,5378380,,,NEMA,Nema, Lamin Njai,,,Temporal Excluded,37,2024-12-23,2025-01-20
+EDN1726-E,47-048-02,Mariama Jawara,048,Jutala camara,Masanneh jawara,2510675,,,NEMA,Nema, Lamin Njai,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN1731-K,49-013-01,Jarri Bah,013,Mariama Jallow,Alieu Bah,2153979,,,KUNDANG FULA KUNDA,Nema Kuta,Mamadou Jarjusey,29,2024-05-20,,37,2024-12-02,2024-12-30
+EDN1738-B,51-038-02,NDAYE MBAYE,038,JAMA MBAYE,Bayou mbaye,3808839,,,JIRROFF,Nema Kuta,Mamadou Jarjusey,26,2024-02-01,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN1741-G,51-040-01,Isatou Sanyang,040,Adama Manjang,Almamo Sanyang,2190018,3028683,,JIRROFF,Nema Kuta,Mamadou Jarjusey,30,2024-06-25,Temporal Excluded,37,2024-12-24,2025-01-21
+EDN1751-F,53-001-02,fatou ceesay,001,isata ganno,biran ceesay,2069424,,,JATTA KUNDA,Nema Kuta,Mamadou Jarjusey,29,2024-04-30,,37,2024-11-25,2024-12-23
+EDN1752-J,53-002-01,fatim njadou,002,hawa ann,demba njadou,7505331,,,JATTA KUNDA,Nema Kuta,Mamadou Jarjusey,29,2024-04-30,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN1755-D,54-013-01,fatou fatty,013,boto camara,dembo fatty,2121793,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,29,2024-04-30,,37,2024-11-28,2024-12-26
+EDN1756-G,54-015-06,Fatoumata Ceesay,015,Sainabou Ceesay,Libally Ceesay,,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,29,2024-05-16,,37,2024-12-02,2024-12-30
+EDN1761-E,55-008-01,Fatou Bah,008,Fatoumatta Jawo,Bakary Oldeh Bah,2421029,,,SARE SARJO,Nema Kuta,Mamadou Jarjusey,,,,37,2024-12-03,2024-12-31
+EDN1766-H,55-012-01,Sally bah,012,hawa Dumbuya,musa bah,2222712,,,SARE SARJO,Nema Kuta,Mamadou Jarjusey,,,,37,2024-12-03,2024-12-31
+EDN1780-G,61-001-01,Jarra Barry,001,Sallimatou jallow,Abdoulie Barry,7367417,3018840,,SARE MAMUDU,Nema Kuta,Mamadou Jarjusey,,,,37,2024-11-28,2024-12-26
+EDN1784-A,40-010-09,Aminata Barrow,010,Oumie Demba,Yaya Barrow,,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-12-11,2025-01-08
+EDN1786-T,45-026-02,Mama saneh,026,kaddy Demba,sulayman saidy,7881103,,,BAMBAKO,Nema, Lamin Njai,,,,37,2024-11-26,2024-12-24
+EDN1791-M,47-041-06,Hawa Sorra ,041,Faye Fadera,Ansumana Sorra,2622984,,,NEMA,Nema, Lamin Njai,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN1792-Q,61-001-07,Mbureh  Sowe,001,Hawa Barry,Seiba Sowe,7106027,,,SARE MAMUDU,Nema Kuta,Mamadou Jarjusey,,,,37,2024-11-28,2024-12-26
+EDN1801-C,05-002-185T,Mariama Fofana,002,Tanten Jobe,Kalilu Fofana,,,,JIFFARONG,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-24,2025-01-21
+EDN1804-K,05-033-001Z,Aminata Taal,033,Manyima Barrow,Demba Taal,,,,JIFFARONG,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-11,2025-01-08
+EDN1805-V,05-041-001R,Ida Kinteh,041,Binta Barrow,Sarjo Kinteh,,,,JIFFARONG,Jiffarong,Lamin Jatta,,,Temporal Excluded,37,2024-12-11,2025-01-08
+EDN1821-H,51-004-01,Hawa Jallow,029,Mariama Jawo,Lamin JAllow,2755735,,,JIRROFF,Nema Kuta,Mamadou Jarjusey,,,,37,2024-12-03,2024-12-31
+EDN1822-S,51-028-04,Hawa Jallow,028,Mariama Jawo,Lamin JAllow,5929195,,,JIRROFF,Nema Kuta,Mamadou Jarjusey,28,2024-03-27,,37,2024-11-28,2024-12-26
+EDN1823-W,53-002-02,fatoumata jallow,002,hawa jobe,demba jallow,7505331,,,JATTA KUNDA,Nema Kuta,Mamadou Jarjusey,28,2024-03-26,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN1830-U,42-041-02,Aminata Sanyang ,041,Musukebba Njie,Abdoulie Sanyang ,7302231,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-12-13,2025-01-10
+EDN1841-A,70-002-01,Kaddy Jatou Sanneh,002,Satou Sanneh,Nfamara Sanneh,7976514,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,,,,37,2024-12-10,2025-01-07
+EDN1842-X,70-004-01,Mama Sanneh,004,Maimuna Barrow,Jerreh Sanneh,5850928,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-12-02,2024-12-30
+EDN1843-E,70-004-02,Binta Sanneh,004,Binta Sanneh,Lamin Sanneh,7317805,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-12-02,2024-12-30
+EDN1845-S,70-008-01,NYIMA CAMARA,008,NANDING MASS,OUSMAN CAMARA,7410528,24108804,,KOLIOR,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-12-02,2024-12-30
+EDN1848-B,70-012-01,Halimatou Mass,012,Nyimansatou Fatty,Ousainou Mass,7998472,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,32,2024-07-23,,37,2024-12-10,2025-01-07
+EDN1850-I,70-016-01,FATOU CAMARA,016,YAH DEMBAJANG,FAKEBBA CAMARA,3525542,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,29,2024-05-01,,37,2024-11-27,2024-12-25
+EDN1851-G,70-020-01,SATANG DRAMMEH,020,FATOU SAHO,BASAMBA DRAMMEH,5069595,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN1852-P,70-022-01,Isatou Bojang,022,Fatou Jassey,Saikouba Bojang,3629505,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN1853-Z,70-022-02,Binta Fatty,022,Banna Jarju,Sisawo Fatty,2291347,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN1854-Q,70-022-03,Aramata Camara,022,Fatou Camara,Labally Camara,3138093,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,29,2024-05-01,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN1855-H,70-024-01,FATOUMATA JALLOW ,024,ISATOU JALLOW,EBBRIMA JALLOW,7295642,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN1856-H,70-032-01,KADDY JASSEY,032,HAWA CAMARA,NYANINKA  JASSEY,,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN1858-T,70-040-02,Fatoumatta Camara,040,Terema Camara,Lamin Camara,5959129,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN1859-W,70-040-03,Kaddy Jarju,040,Musukeba Jarju,Borry Jarju,7580778,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-12-10,2025-01-07
+EDN1862-I,70-047-01,Fatou Jassey,047,Fatoumata Fatty,Momodou Jassey,7252283,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-12-24,2025-01-21
+EDN1863-R,70-047-02,Nyimansatou Sawo,047,Fatou Cham,Momodou Sawo,7252283,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN1865-E,70-047-04,Fatou Jawo,047,Isatou Ceesay,Yaya Jawo,2449042,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,29,2024-05-02,Temporal Excluded,37,2024-12-24,2025-01-21
+EDN1867-R,70-050-02,Mam Jarra Drammeh,050,Fatou Samateh ,Alhagie Drammeh,7709935,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-12-02,2024-12-30
+EDN1869-Z,70-053-01,Jalika Jawara,053,Jawlanding Jawara,Kuyateh Jawara,2024822,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-12-10,2025-01-07
+EDN1870-N,70-056-01,NYIMASATOU CAMARA ,056,MAME FATTY ,MOMODOU CAMARA ,7719003,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN1871-C,71-003-01,Mansata Jawla,003,Mariama  Jambo,Lamin Jawla,7836412,,,JOMARR,Kolior, Alieu Bah,,,,36,2024-11-07,2024-12-05
+EDN1872-H,71-003-02,Fatoumata Camara,003,Binta Jadama,Alasana Camara,7831236,,,JOMARR,Kolior, Alieu Bah,,,,36,2024-11-07,2024-12-05
+EDN1873-E,71-003-03,Nyimansatou Jarju,003,Talla Jarju,Muhammed Jarju,2316882,,,JOMARR,Kolior, Alieu Bah,,,Temporal Excluded,36,2024-11-07,2024-12-05
+EDN1874-C,71-004-01,FATOU CAMARA ,004,NENNEH CAMARA ,MOMODOU  CAMARA ,7560876,,,JOMARR,Kolior, Alieu Bah,,,,36,2024-11-07,2024-12-05
+EDN1875-S,71-004-02,FATOUMATA  JARJU,004,FATOUMATA  DEMBAJANG,KABIRO JARJU ,7337878,,,JOMARR,Kolior, Alieu Bah,29,2024-05-02,Temporal Excluded,37,2024-12-05,2025-01-02
+EDN1876-S,71-004-03,SUNTOU FATTY ,004,ISATOU  DEMBAJANG ,OUSMAN  FATTY ,7335507,7035002,,JOMARR,Kolior, Alieu Bah,,,,36,2024-11-07,2024-12-05
+EDN1877-Z,71-004-04,NYIMASATOU SAWO ,004,NYOMINDING CAMARA ,KARAMO SAWO ,7335507,,,JOMARR,Kolior, Alieu Bah,,,Temporal Excluded,37,2024-12-05,2025-01-02
+EDN1878-H,71-005-02,Mariama Korta,005,Jawaranding Camara,Masanneh Korta,2701115,,,JOMARR,Kolior, Alieu Bah,,,Temporal Excluded,36,2024-11-07,2024-12-05
+EDN1880-Q,71-006-01,JALIKA CAMARA ,006,MAI CHAM,ALIEU CAMARA ,7551851,,,JOMARR,Kolior, Alieu Bah,29,2024-05-02,,37,2024-12-05,2025-01-02
+EDN1881-O,71-006-02,ADAMA SAWO ,006,FATOUMATA  KANTEH ,DOUDU SAWO ,7168416,5451079,,JOMARR,Kolior, Alieu Bah,,,,37,2024-12-05,2025-01-02
+EDN1883-Q,71-007-03,BINTA JARJU ,007,NYIMASATOU  DEMBAJANG ,LAMIN  JARJU ,2892510,,,JOMARR,Kolior, Alieu Bah,29,2024-05-02,Temporal Excluded,36,2024-11-07,2024-12-05
+EDN1884-D,71-009-01,FATOUMATA JARJU ,009,MANDING JARJU ,MOMODOU  JARJU ,7527809,,,JOMARR,Kolior, Alieu Bah,,,Temporal Excluded,36,2024-11-07,2024-12-05
+EDN1885-C,72-002-01,Nyima Omar Sanneh,002,Kaddy Drammeh ,Lamin Sanneh,7015131,,,JASOBO,Kolior, Alieu Bah,,,,37,2024-12-05,2025-01-02
+EDN1886-B,72-003-01,Amie Sarr,003,Jankey Joof,Ebrima Sarr,2206755,,,JASOBO,Kolior, Alieu Bah,29,2024-05-02,,37,2024-12-05,2025-01-02
+EDN1887-P,72-003-02,Adama Sanneh,003,Mariama Sarr,Lamin Sanneh ,2808816,,,JASOBO,Kolior, Alieu Bah,,,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN1890-C,72-007-01,Binta Sanneh,007,Fatou Sanneh ,Dawda Sanneh ,2640094,,,JASOBO,Kolior, Alieu Bah,29,2024-05-02,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN1902-A,72-020-01,Binta Sanneh ,020,Kumuna Sanneh,Bakary Sanneh,7007027,,,JASOBO,Kolior, Alieu Bah,29,2024-05-02,,37,2024-12-05,2025-01-02
+EDN1903-K,72-020-02,Nyimansatou Dampha ,020,Sarjo Jammeh ,Karamo Dampha ,2439265,,,JASOBO,Kolior, Alieu Bah,29,2024-05-02,,37,2024-12-05,2025-01-02
+EDN1904-L,72-020-03,Nyimansatou Sanneh ,020,Arabiatou Darboe,Lamin Sanneh,7935193,,,JASOBO,Kolior, Alieu Bah,29,2024-05-02,,37,2024-12-05,2025-01-02
+EDN1905-T,72-021-01,Isatou Joof,021,Awa Gassama,Lamin Joof,7375634,,,JASOBO,Kolior, Alieu Bah,,,,37,2024-12-05,2025-01-02
+EDN1906-V,72-021-02,Banna Jadama,021,Jakon Sanneh ,Sheriffo Jadama,7181087,,,JASOBO,Kolior, Alieu Bah,29,2024-05-02,,36,2024-11-05,2024-12-03
+EDN1908-M,73-001-01,SAINABOU  ANN,001,KUMBA BARRY ,HARUNA  ANN,7429529,,,SARE MUSA,MASSEMBEH,Sidu Sibi,29,2024-05-08,Temporal Excluded,36,2024-10-28,2024-11-25
+EDN1912-N,73-007-01,SALAH  COLLEY ,007,JAILA  CHUNE,MAMUDU COLLEY ,3914086,,,SARE MUSA,MASSEMBEH,Sidu Sibi,34,2024-09-03,,36,2024-11-04,2024-12-02
+EDN1913-V,73-010-01,Amie Ceesay ,010,Kumba Jobe,Oldy Ceesay ,2315984,,,SARE MUSA,MASSEMBEH,Sidu Sibi,34,2024-09-03,Temporal Excluded,37,2024-12-02,2024-12-30
+EDN1914-P,73-013-01,MARIAMA  SANYANG ,013,SEREH  SANNEH ,JOBE  SANYANG ,2965565,,,SARE MUSA,MASSEMBEH,Sidu Sibi,,,,36,2024-11-14,2024-12-12
+EDN1915-J,74-001-01,HAWA  JALLOW ,001,KUMBA  BAH ,KEBBA  JALLOW ,3479187,,,YORRO JULA,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,36,2024-11-14,2024-12-12
+EDN1916-O,74-001-02,SALIMATOU ANN ,001,KUMBA  BARRY ,HARUNA  ANN ,7605596,,,YORRO JULA,MASSEMBEH,Sidu Sibi,34,2024-09-05,Temporal Excluded,37,2024-12-02,2024-12-30
+EDN1917-E,74-002-01,Sainabou Colley ,002,Naffie Jarju,Nfansu Colley ,3849152,,,YORRO JULA,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,36,2024-11-14,2024-12-12
+EDN1918-E,74-003-01,Hawa Jawo,003,Isatou Kolley,Samba Jawo,7780350,,,YORRO JULA,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,36,2024-11-14,2024-12-12
+EDN1919-O,74-003-02,Jarra Ceesay,003,Adama Jawo,Biran Ceesay,5928063,,,YORRO JULA,MASSEMBEH,Sidu Sibi,34,2024-09-03,Temporal Excluded,37,2024-12-02,2024-12-30
+EDN1920-Y,74-003-03,Alimatou Jawo,003,Fatoumata Bah,Jawando Jawo,2912887,,,YORRO JULA,MASSEMBEH,Sidu Sibi,,,,37,2024-11-26,2024-12-24
+EDN1921-S,74-003-04,Isatou Ceesay,003,Yasin Jawo,Mabo Ceesay,7500194,,,YORRO JULA,MASSEMBEH,Sidu Sibi,34,2024-09-05,,36,2024-11-06,2024-12-04
+EDN1922-O,74-004-01,Adama Jallow ,004,Balley Jawo,Hamadi Jallow,2032661,,,YORRO JULA,MASSEMBEH,Sidu Sibi,34,2024-09-03,,37,2024-12-02,2024-12-30
+EDN1923-I,74-004-02,Isatou Ceesay ,004,Jarra Jallow,Mamadou Ceesay ,2980516,,,YORRO JULA,MASSEMBEH,Sidu Sibi,34,2024-09-05,,38,2024-12-11,2025-01-08
+EDN1928-D,74-010-02,EJATOU JALLOW ,010,HAWA  CEESAY ,YUNUSA JALLOW ,3101341,,,YORRO JULA,MASSEMBEH,Sidu Sibi,34,2024-09-03,Temporal Excluded,36,2024-11-14,2024-12-12
+EDN1930-X,75-002-01,KADDY   CEESAY ,002,ADAMA  JOBE ,DEMBA  CEESAY ,7893874,,,BABOU YAA,MASSEMBEH,Sidu Sibi,34,2024-09-03,,36,2024-10-31,2024-11-28
+EDN1931-N,75-002-02,BINTA  CEESAY ,002,NJETTY  BAH ,SAMBA   PENDA   CEESAY ,7893874,,,BABOU YAA,MASSEMBEH,Sidu Sibi,,,,37,2024-11-26,2024-12-24
+EDN1940-X,76-002-02,FATOU  SAMATEH ,002,ISATOUBA SAMATEH ,ALMAMI SAMATEH ,2615387,,,MASEMBEH,MASSEMBEH,Sidu Sibi,29,2024-05-07,,37,2024-11-27,2024-12-25
+EDN1943-R,76-004-01,AJA NENEH SANNEH ,004,FATOU MBAKEH CEESAY ,SIAKA SANNEH ,7242511,7066984,,MASEMBEH,MASSEMBEH,Sidu Sibi,29,2024-05-07,,37,2024-11-27,2024-12-25
+EDN1945-W,76-006-02,AJA JARJU ,006,BINTA MANKA,JERREH JARJU ,7176447,,,MASEMBEH,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN1949-E,76-009-02,FATOU  JARJU ,009,DOBALLY JARJU ,BAKARY JARJU ,7087581,,,MASEMBEH,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN1952-V,76-010-02,AMIE DRAMMEH ,010,FATOU  SAIDY,MALANG KEBBA DRAMMEH ,2766952,,,MASEMBEH,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN1954-Y,76-010-04,AMIENATA FA,010,SATOU YAFFA,MOMODOU  FATTY ,7702561,,,MASEMBEH,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN1961-W,76-014-01,Nyimansatou Camara ,014,Fansainey Camara,Bakary Camara,2096177,,,MASEMBEH,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN1962-D,76-014-02,Sona Jassey,014,Ma Janneh Beyai,Yafaye Jassey,2705251,,,MASEMBEH,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN1964-O,76-014-04,TIDA  SAWO ,014,KADDY  MANKA ,SAJA SAWO ,2733527,,,MASEMBEH,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN1965-L,76-015-01,Kaddy Gitteh,015,Sanjiba Drammeh,Ebrima Gitteh,7459899,,,MASEMBEH,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,38,2024-12-11,2025-01-08
+EDN1971-W,76-019-01,Mariama Camara,019,Binta Touray,Modou Camara ,7468945,,,MASEMBEH,MASSEMBEH,Sidu Sibi,30,2024-06-05,Temporal Excluded,38,2024-12-11,2025-01-08
+EDN1975-G,76-024-01,Fatoumatta Dembajang,024,Naffie Jarju,Ma Lamin Dembajang,7617288,,,MASEMBEH,MASSEMBEH,Sidu Sibi,30,2024-06-05,,36,2024-11-04,2024-12-02
+EDN1978-Z,76-026-01,Fatoumata Manka,026,Kaddy Camara,Mamadou Manka,7342035,,,MASEMBEH,MASSEMBEH,Sidu Sibi,,,,36,2024-11-04,2024-12-02
+EDN1979-P,76-027-02,Nyimansatou Jarju,027,Saruba Samura,Nuha Jarju,2470773,,,MASEMBEH,MASSEMBEH,Sidu Sibi,29,2024-05-07,,36,2024-10-30,2024-11-27
+EDN1982-E,76-029-01,Fatoumata Jarju,029,Wonto Camara,Terema Jarju,7078229,,,MASEMBEH,MASSEMBEH,Sidu Sibi,29,2024-05-07,,36,2024-11-04,2024-12-02
+EDN1983-O,76-029-02,Binta Jarju ,029,Binta Janneh,Momodou Jarju ,2338523,,,MASEMBEH,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-12-02,2024-12-30
+EDN1984-A,76-031-01,Fatoumata Jarju,031,Fansainey Camara,Yahya Jarju,2415027,,,MASEMBEH,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,36,2024-11-14,2024-12-12
+EDN1987-H,76-031-04,Aminata Jarju,031,Musukebba Jarju,Borry Jarju,7455549,,,MASEMBEH,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN1988-U,76-032-01,Halima Sawaneh,032,Saffiatou Ceesay,Madinding Sawaneh,7030563,,,MASEMBEH,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-12-02,2024-12-30
+EDN2003-R,76-037-02,Isatou Camara,037,Sarjo Camara,Landing Camara,6140575,,,MASEMBEH,MASSEMBEH,Sidu Sibi,,,,37,2024-12-02,2024-12-30
+EDN2004-I,76-037-03,Kaddy Jarju,037,Fatou Binta Jarju,Momodou Kebba Jarju,2245875,,,MASEMBEH,MASSEMBEH,Sidu Sibi,29,2024-05-07,Temporal Excluded,37,2024-12-02,2024-12-30
+EDN2005-R,76-038-01,Mariama Sillah ,038,Aminata Suwaneh,Musa Sillah,2880237,,,MASEMBEH,MASSEMBEH,Sidu Sibi,,,,37,2024-11-27,2024-12-25
+EDN2008-P,76-042-02,Mariama Jabbie,042,Fatou Darboe ,Basaikou Jabbie,2189038,,,MASEMBEH,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,36,2024-11-04,2024-12-02
+EDN2012-B,76-046-01,FATOUMATA  JARJU ,046,JILANG JARJU ,SEEY JARJU ,2730129,,,MASEMBEH,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN2013-P,76-047-01,Hawa Sowe ,047,Jainaba Sowe ,Musa Sowe,3488724,,,MASEMBEH,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN2018-G,77-002-01,JAINABA CAMARA,002,Mariama Dampha ,Salifu Camara ,2491560,,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN2019-I,77-002-05,JAINABA JADAMA,002,HAWA BAH,Bakai Jadama,2039795,,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN2020-D,77-006-01,Sarjo Sanneh,006,Tida Sanyang ,Aba Sanneh,7067880,2282344,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN2026-S,77-009-01,Mama Sonko,009,Kaddy Jamm,Mamadou Sonko,2155123,,,GENIERE,MASSEMBEH,Sidu Sibi,29,2024-05-06,,37,2024-11-27,2024-12-25
+EDN2032-V,77-012-02,NYIMANSATOU SANYANG ,012,Binta Daffeh,Demba Sanyang ,7171820,,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,36,2024-10-24,2024-11-21
+EDN2034-K,77-013-02,SUMAIYATOU SANNEH ,013,NJIE BARROW ,ABA SANNEH ,7075113,,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN2036-U,77-016-01,Lalla Sanneh ,016,Adama Njie,Ousman Sanneh ,5372794,,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN2038-Y,77-016-04,Matty Sanneh ,016,Nyimansatou  Dampha,Demba Sanneh ,2375663,,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN2041-F,77-018-01,KADDY SAYANG ,018,KADDY JAMMEH,MAMADOU SAYANG ,3552228,,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN2042-S,77-019-01,Rohey Darboe,019,Kaddy Jarju,Kebba Ansu Darboe ,3613547,,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN2043-C,77-019-02,Nyimansatou Sanneh,019,Nyimansatou Dampha,Demba Sanneh,7398124,,,GENIERE,MASSEMBEH,Sidu Sibi,34,2024-09-02,,37,2024-11-27,2024-12-25
+EDN2045-B,77-020-03,Nyimasatou Sanneh ,020,Fatou Manneh,Demba Sanneh ,7522189,,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN2047-Q,77-021-02,Nyimansatou Njie,021,Mokuta Sanneh,Yusupha Njie,2449958,,,GENIERE,MASSEMBEH,Sidu Sibi,,,,37,2024-11-27,2024-12-25
+EDN2048-E,77-022-01,ABISATOU SANNEH ,022,MAMA DANPHA,ABBA SANNEH ,2176310,,,GENIERE,MASSEMBEH,Sidu Sibi,29,2024-05-06,,37,2024-11-27,2024-12-25
+EDN2049-K,77-022-02,ISATOU SONKO ,022,ABISATOU SANNEH ,FODAY SONKO,7748283,,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN2050-N,77-023-01,Mariama Sanneh,023,Filijeh Dampha,Demba Sanneh,7586504,,,GENIERE,MASSEMBEH,Sidu Sibi,29,2024-05-06,,37,2024-11-26,2024-12-24
+EDN2052-E,77-027-02,MAMA  SANNEH ,027,ADAMA  NJIE ,OUSMAN  SANNEH ,7655843,,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN2057-Z,77-031-02,Hawa Sanneh,031,Nyominko Sanneh,Jagne Sanneh,2569692,,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN2059-L,77-032-03,Isatou Sankareh,032,Sutay Dampha ,Kekuta Sankareh,2905368,,,GENIERE,MASSEMBEH,Sidu Sibi,29,2024-05-06,,37,2024-11-27,2024-12-25
+EDN2060-K,77-034-01,Aminata Sanneh,034,Isatou Darboe,Ansumana Sanneh ,2575387,,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN2061-Y,77-035-02,Alimatou Jagne ,035,Fatou Kanteh,MustaphaJagne,3548455,,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN2065-H,77-038-02,Jainaba Sanneh,038,Kaddy Sanneh,Abdoulie Sanneh ,6224346,2657408,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN2068-W,77-042-01,FATOU CAMARA ,042,KADDY  CANTEH,MALAMIN CAMARA ,7176469,,,GENIERE,MASSEMBEH,Sidu Sibi,,,,,,
+EDN2069-J,77-043-01,MARIAMA  MANNEH ,043,BOMMA DANPHA,BABANDING MANNEH ,7776568,,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN2070-H,77-044-01,SERREH SANNEH ,044,SATOUNDING MAMBUREH,LANDING  SANNEH ,2524623,,,GENIERE,MASSEMBEH,Sidu Sibi,29,2024-05-06,,37,2024-11-27,2024-12-25
+EDN2071-L,77-044-02,FADIYA  GASSAMA,044,SERREY  MARONG,MASSANEH GASSAMA,6174097,,,GENIERE,MASSEMBEH,Sidu Sibi,29,2024-05-06,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN2072-Z,77-047-01,MAMA  SANNEH ,047,NYIMASATOU  SANNEH ,BA SEEDU SANNEH ,2321404,,,GENIERE,MASSEMBEH,Sidu Sibi,,,,37,2024-12-04,2025-01-01
+EDN2073-I,77-048-01,MENATA MANJANG,048,FATOU SANNEH ,LAMIN MANJANG,5802899,,,GENIERE,MASSEMBEH,Sidu Sibi,,,,37,2024-12-04,2025-01-01
+EDN2074-O,77-048-02,KADDIJATOU  DAMPHA ,048,FATOUMATA  JADAMA ,SANNA DAMPHA ,2583631,,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN2077-A,77-050-02,FATOU  DAMPHA,050,TUMA SANYANG ,MBUKUL DAMPHA,2740654,,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN2078-D,77-050-03,SUTAY  SANYANG ,050,ISATOU  JAMMEH ,ANSU SANYANG ,2793779,,,GENIERE,MASSEMBEH,Sidu Sibi,,,,37,2024-12-04,2025-01-01
+EDN2081-P,78-002-01,KADDY CHAM ,002,BINTA FATTY,DEMBA CHAM ,5452402,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-03,2024-12-31
+EDN2083-U,78-007-02,Sireh Sanneh,007,Banna Sanneh,Demba Sanneh ,3112163,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-05,2025-01-02
+EDN2084-D,78-008-01,FATOU SAIDY,008,MAM BARROW ,KAJALI SAIDY,7529458,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-11,2025-01-08
+EDN2085-X,78-011-01,WUDAI SANNEH ,011,KADDY SAYANG ,MUMMMED SAYANG ,6763558,,,KAIAF,KAIAF,Foday Sanyang,29,2024-04-29,,37,2024-12-05,2025-01-02
+EDN2086-A,78-011-02,NABA TAAL,011,MANIFA COLOLY,YAYA TAAL,3526238,,,KAIAF,KAIAF,Foday Sanyang,29,2024-04-29,Temporal Excluded,37,2024-12-05,2025-01-02
+EDN2091-K,78-019-01,NYIMA BARROW ,019,SERENDING SANNEH ,JALAMAN BARROW ,7622417,,,KAIAF,KAIAF,Foday Sanyang,29,2024-04-30,,37,2024-12-19,2025-01-16
+EDN2092-M,78-019-03,KADDIJATOU SANNEH ,019,NOMARING SANNEH ,KEBBA SANNEH ,5962895,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-19,2025-01-16
+EDN2093-Y,78-024-01,Nyimansatou Saidykhan,024,Hawa Camara,Mamadou Saidykhan,5328760,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-19,2025-01-16
+EDN2094-V,78-025-01,Balang Sanneh,025,Chaku Dibba,Musa Karaoke Kabba Sanneh,2105975,,,KAIAF,KAIAF,Foday Sanyang,,,,37,2024-12-19,2025-01-16
+EDN2095-Z,78-027-03,Binta Sanneh,027,Jarrai Ceesay,Alagie Ndongo Sanneh,2781542,,,KAIAF,KAIAF,Foday Sanyang,29,2024-04-30,Temporal Excluded,37,2024-12-19,2025-01-16
+EDN2096-L,78-027-04,Adama Sanneh,027,Jarrai Ceesay,Alagie Ndongo Sanneh,5909470,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN2099-X,78-036-01,MARIAMA  SAMBA JORBARTEH,036,JONFOLO JARJU ,BUBACARR  JORBARTEH,5133126,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-19,2025-01-16
+EDN2105-F,78-048-02,Fatou Kuyateh,048,Bintou  Dembajang,Almameh kuyateh,5015428,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-11,2025-01-08
+EDN2106-H,78-049-01,Isatou Fatty,049,Lisa Yaffah,Lamin Fatty ,5336798,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-19,2025-01-16
+EDN2108-R,78-053-01,Aja Jawara,053,Mariama Sanneh ,Abdoulie Jawara ,3551635,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-19,2025-01-16
+EDN2113-G,78-055-01,Fatou Manneh,055,Fatou Yarbo,Ansumana Manneh,5959016,,,KAIAF,KAIAF,Foday Sanyang,,,,37,2024-12-10,2025-01-07
+EDN2116-P,78-055-07,Isatou Abubacarr Sanneh,055,Wuday Jatta,Abubacarr Bakary Sanneh,5026044,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN2118-B,78-056-01,Binta Gassama ,056,Mama Dibba,Mamadou Gassama ,7413111,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-10,2025-01-07
+EDN2121-D,78-059-02,Kaddijatou Gaye,059,Sunn Kebbeh,Alieu Gaye,3393018,,,KAIAF,KAIAF,Foday Sanyang,29,2024-04-30,Temporal Excluded,37,2024-12-19,2025-01-16
+EDN2122-U,78-059-03,Assiastou Jallow,059,Rugiatou Jallow,Ebrima Jallow,7087152,,,KAIAF,KAIAF,Foday Sanyang,,,,37,2024-12-04,2025-01-01
+EDN2123-S,78-060-02,Nyimansatou Jawara,060,Saribanding Dembajang ,Ebrima Jawara ,7118384,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-11,2025-01-08
+EDN2124-X,78-060-01,Fatou Janneh ,060,Fatoumata Cham ,Wandy Janneh ,3546003,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-11,2025-01-08
+EDN2125-M,78-060-03,Sarjo Jabbie ,060,Binta Drammeh ,Sanna Ba Jabbie ,5959014,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-11,2025-01-08
+EDN2126-T,78-061-01,Nyimanding Kassama ,061,Musukebba Kassama ,Yusupha Kassama ,6206203,,,KAIAF,KAIAF,Foday Sanyang,30,2024-05-30,,37,2024-12-19,2025-01-16
+EDN2127-D,78-061-02,Sarjo Kassama ,061,Sainey Sanneh ,Sorri Kassama ,5451074,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-19,2025-01-16
+EDN2128-J,78-061-03,Isatou Barrow ,061,Isatou Darboe ,Karamo Barrow ,3112902,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-10,2025-01-07
+EDN2131-W,78-063-04,Aminata Jarju,063,Mama Dembajang ,Muhammed Jarju ,6108999,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-19,2025-01-16
+EDN2132-Y,78-063-05,Jainaba Jarju ,063,Gilang Jarju,Seedy Jarju ,7820861,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-19,2025-01-16
+EDN2133-H,78-065-01,Ndey Njie,065,Sophie Ndoye,Abdoulie Njie,3095043,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN2134-Q,78-066-01,Nyima Fatty,066,Mariama Jawara,Famara Jawara ,5019350,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-19,2025-01-16
+EDN2135-F,78-066-02,Habby Fatty,066,Mondo Jarju ,Alhagie Fatty,,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-03,2024-12-31
+EDN2137-E,78-068-02,MARIAMA SANNEH ,068,FATOU CAMARA ,OUSMAN SANNEH ,7176623,7478937,,KAIAF,KAIAF,Foday Sanyang,,,,37,2024-12-19,2025-01-16
+EDN2139-K,78-068-04,FATOUMATTA GASAMA ,068,TOMARIN GASAMA ,MUSA GASAMA ,7904105,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-19,2025-01-16
+EDN2140-P,78-068-05,NABA CEESAY ,068,ISATOU SANNEH ,ABDOU CEESAY,2900251,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-19,2025-01-16
+EDN2142-Y,78-069-01,Fatoumatta Fanneh,069,,Yaya Fanneh,,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN2143-E,78-069-02,Amie Sanneh ,069,Haha Jassey,Wandifa Sanneh ,3556284,,,KAIAF,KAIAF,Foday Sanyang,,,,37,2024-12-03,2024-12-31
+EDN2144-H,78-071-01,MARIAMA   N SANNEH ,071,NATOMA SANNEH ,NFAMARA  SANNEH ,5335776,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN2145-O,78-071-02,JARRA FANNEH,071,MUSUKEBBA SANNEH ,YAYA FANNEH ,5959067,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-03,2024-12-31
+EDN2146-E,78-071-03,MATTY JAITEH,071,MAIMUNA CAMARA ,DEMBA JAITEH ,7714884,,,KAIAF,KAIAF,Foday Sanyang,,,,37,2024-11-28,2024-12-26
+EDN2149-F,78-077-01,KADDY JADAMA,077,JAINABA DAMPHA,YAYA JADAMA,5313558,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-03,2024-12-31
+EDN2150-J,78-078-01,ARABIATOU KANTEH,078,ISATOU BANDA,OMAR  KANTEH ,7338427,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-03,2024-12-31
+EDN2152-Q,78-082-01,Fatou laineh,082,Binta Tunkara,Dawda Laineh,7051005,3545971,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,36,2024-11-07,2024-12-05
+EDN2155-Q,78-084-01,Kaddijatou Sanneh,084,,,7033841,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-10,2025-01-07
+EDN2158-Q,78-088-02,Nyimanding Sanneh ,088,Abisa Kassama,Momodou Sanneh ,3548262,,,KAIAF,KAIAF,Foday Sanyang,29,2024-04-30,Temporal Excluded,37,2024-12-05,2025-01-02
+EDN2159-F,78-090-01,Sirreh Samateh,090,Naba Kassama,Masanneh Samateh ,3547393,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-05,2025-01-02
+EDN2162-Y,78-096-01,Fatoumata Sanneh,096,Sirreh Sanneh,Bakary Sanneh ,7704536,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-10,2025-01-07
+EDN2163-S,78-098-01,Nyima Joof,098,Kaddijatou Sarjo,Kabiru Joof,2173488,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN2164-H,78-099-01,Mariama Sanneh,099,Fillijay Gassama,Lamin Kolior Sanneh,3524668,,,KAIAF,KAIAF,Foday Sanyang,,,,37,2024-12-04,2025-01-01
+EDN2167-H,78-101-02,Saribo Camara,055,Balang Sanneh,Jalamang Camara,5857518,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-03,2024-12-31
+EDN2171-U,78-105-02,Ramatoulie Jallow,105,Fatoumata Binta Jallow,Gendua Jallow,7039348,,,KAIAF,KAIAF,Foday Sanyang,,,,37,2024-11-26,2024-12-24
+EDN2173-D,78-107-02,Nyimansatou Jarju,107,Fatou Jarju,Momodou Jarju,2660415,,,KAIAF,KAIAF,Foday Sanyang,29,2024-05-09,,37,2024-11-28,2024-12-26
+EDN2175-E,78-107-04,Arokey Jawara,107,Nyimanding Dembajang,Menata Jawara,3551641,,,KAIAF,KAIAF,Foday Sanyang,,,,37,2024-11-28,2024-12-26
+EDN2176-R,78-108-01,Bakoto Kassama,108,Banday Sanneh,Musa Kassama,7456658,,,KAIAF,KAIAF,Foday Sanyang,,,,37,2024-11-26,2024-12-24
+EDN2177-X,78-108-03,Aminata Sanneh,108,Nyimanding Sanneh,Ba Alagie Sanneh,7344139,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-19,2025-01-16
+EDN2178-S,78-108-05,Manyima Sanyang,108,Sheriffo Sanneh,Momodou Sanyang,5103715,,,KAIAF,KAIAF,Foday Sanyang,29,2024-04-29,,37,2024-11-26,2024-12-24
+EDN2180-Q,78-109-02,Sireh Sanneh,109,Sirending  Sanneh,Baba Sanneh,,,,KAIAF,KAIAF,Foday Sanyang,,,,37,2024-11-26,2024-12-24
+EDN2189-T,78-114-01,FATOUMATA   DAFFEH,114,MARIAMA  BOJANG,BA SAIKOU DAFFEH ,3094961,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN2190-U,78-114-02,Kaddijatou Sanneh,114,BINTA SANNEH ,MAMADOU SANNEH ,3788690,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN2191-E,78-114-03,JAKONG JOOF ,114,MUSUKEBBA  COMMA,SULAYMAN  JOOF ,3020388,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN2194-W,78-117-01,Jalika Njie,117,Mamanding Njie,Sunkary Njie ,3505067,,,KAIAF,KAIAF,Foday Sanyang,29,2024-04-29,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN2196-B,78-120-01,Fatou Sanneh (Dado),120,Nyimansatou Kassama,Ballo Sanneh,7076617,,,KAIAF,KAIAF,Foday Sanyang,29,2024-04-29,,37,2024-11-26,2024-12-24
+EDN2198-O,78-123-01,Isatou Sanneh,123,Kaddy Sanneh ,Jerreh Sanneh,6285211,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,36,2024-11-13,2024-12-11
+EDN2202-V,79-001-06,Sainabou Ceesay ,001,Sainabou Ceesay ,Layin Touray ,7025113,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,36,2024-11-06,2024-12-04
+EDN2203-E,79-001-07,Sohna Touray,001,Sohna Ceesay ,Biran Touray ,7791502,,,MADINA KAIAF,KAIAF,Foday Sanyang,32,2024-07-15,,37,2024-12-05,2025-01-02
+EDN2205-L,79-001-09,Ancha Touray ,001,Awa Touray ,Gibel Touray ,2121314,,,MADINA KAIAF,KAIAF,Foday Sanyang,29,2024-05-15,,36,2024-11-06,2024-12-04
+EDN2207-V,79-001-012,Fatou Ceesay ,001,Isatou Ceesay ,Alieu Ceesay ,7025184,,,MADINA KAIAF,KAIAF,Foday Sanyang,29,2024-05-16,Temporal Excluded,35,2024-10-07,2024-11-04
+EDN2210-T,79-002-03,Mariama Touray ,002,Awa Ceesay ,Mot Touray ,7528099,,,MADINA KAIAF,KAIAF,Foday Sanyang,29,2024-05-16,Temporal Excluded,37,2024-12-05,2025-01-02
+EDN2223-B,79-008-02,Jeleh Ceesay ,008,Isatiu Ceesay ,Mamut  Ceesay ,,,,MADINA KAIAF,KAIAF,Foday Sanyang,36,2024-11-07,Temporal Excluded,36,2024-11-07,2024-12-05
+EDN2224-Z,79-008-03,Isatou Ceesay ,008,Isatou Drammeh,Ebrima Ceesay ,2198488,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,36,2024-10-24,2024-11-21
+EDN2225-K,79-008-04,Fatou Ceesay ,008,Jeleh,Ceesay,,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,36,2024-11-07,2024-12-05
+EDN2232-D,79-012-01,Ramata Ceesay,012,Sainabou Touray,Alhagie Modou Ceesay,2608538,,,MADINA KAIAF,KAIAF,Foday Sanyang,32,2024-07-16,,36,2024-11-12,2024-12-10
+EDN2246-D,79-020-01,Kanni Touray,020,Kaddy Touray,Modou Touray,2354748,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,37,2024-12-10,2025-01-07
+EDN2251-R,79-023-02,Awa Touray,023,Fatou Touray,Biran Touray,7896229,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,36,2024-11-12,2024-12-10
+EDN2255-V,79-024-02,Batorr Njie,024,Fanna Ceesay,Batch Njie,7896229,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,36,2024-11-12,2024-12-10
+EDN2256-Y,79-024-06,Jama Mbye,024,Gai Mbye ,Abdoulie Mbye ,,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,36,2024-11-12,2024-12-10
+EDN2257-K,79-024-07,Sohna Sallah,024,Ndumbeh Gaye,Mamudou Sallah,,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,36,2024-11-12,2024-12-10
+EDN2258-M,79-025-02,Haddy Ceesay,025,Kani Touray,Biran Ceesay,2933763,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,36,2024-11-15,2024-12-13
+EDN2259-R,79-025-03,Hully Ceesay,025,Ya Sukai Ceesay,Alhagie Amadou Ceesay,2933763,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,37,2024-12-05,2025-01-02
+EDN2266-W,79-028-01,Fatou Touray,028,Fatou Touray,Biran Touray,3010064,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,34,2024-09-03,2024-10-01
+EDN2269-W,79-029-02,Fanna Ceesay ,029,Kani Touray,Alieu Ceesay ,,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-05,2025-01-02
+EDN2270-Q,79-029-03,Sainabou Ceesay,029,Isatou Ceesay ,Ebrima Ceesay,2437271,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-05,2025-01-02
+EDN2271-B,79-029-04,Mbombeh Ceesay ,029,Sohna Ceesay ,Papa Ceesay ,2466036,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-05,2025-01-02
+EDN2273-Q,79-030-02,Haddy Ceesay ,030,Gai Touray,Omar Ceesay,,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,36,2024-11-06,2024-12-04
+EDN2279-X,79-037-01,Rokey Faal,037,Mamusu Secka,Omar Faal,5019607,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,37,2024-12-05,2025-01-02
+EDN2280-U,79-037-03,Aram Mangan,037,Mariama  Touray,Alpha Mangan,5379002,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,37,2024-12-05,2025-01-02
+EDN2282-H,79-038-01,Amie Cham,038,Ndey Ndow,Modou Cham,7575116,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,36,2024-11-05,2024-12-03
+EDN2284-M,79-039-01,Mbombeh Ceesay,038,Amie Ceesay,Brain Ceesay,5857869,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,37,2024-12-05,2025-01-02
+EDN2285-M,79-039-02,Rokey Jobe,038,Wully Jobe,Abass Jobe,5857869,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,37,2024-12-05,2025-01-02
+EDN2291-Q,79-041-03,Khoja,041,Halima Touray ,Alhagie Touray ,7273281,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,36,2024-11-15,2024-12-13
+EDN2292-X,79-041-04,Fatou Touray ,041,Anchar Touray ,Malice Touray ,7112823,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,35,2024-09-25,2024-10-23
+EDN2293-I,79-041-05,Aja Secka,041,Kinneh Ceesay,Alhagie Secka,7112823,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,37,2024-11-26,2024-12-24
+EDN2294-A,79-042-01,Mariama Touray ,042,Handy T,Omar Touray ,,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN2295-R,79-042-02,Hoja Ceesay ,042,Jai Touray ,Biran Ceesay ,3576303,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN2311-N,79-050-01,Mariama Secka ,050,Jarra Ndow,Alhagie Secka ,2022196,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,36,2024-11-13,2024-12-11
+EDN2313-S,79-051-02,Mbombeh Ceesay ,051,Yassin Ceesay,Alhagie Ceesay,2785657,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN2314-L,79-051-03,Fana Ceesay,051,Oumie Ceesay,Alhagie Ceesay ,2950670,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN2320-D,79-054-03,Isatou  Njie,054,Oumie Ceesay,Modou Lamin  Njie,7816782,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,,,
+EDN2323-L,79-054-06,Kanni Touray,054,Amie Touray,Alieu Touray,7532721,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,35,2024-10-03,2024-10-31
+EDN2340-I,79-059-07,Kaddy Njie,059,Oumie Ceesay,Modou Njie,7442711,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,36,2024-10-24,2024-11-21
+EDN2346-T,79-061-03,Fatou Jobe,061,Fatou Cham,Ass Jobe,25943374,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,36,2024-11-05,2024-12-03
+EDN2347-E,79-061-04,Fatou Touray,061,Alimatou Secka,Bai Dam Touray,2676364,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,36,2024-11-05,2024-12-03
+EDN2353-E,79-064-01,Kumba Ceesay ,064,Hoja Choi,Sait Ceesay ,7070371,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-25,2025-01-22
+EDN2356-B,79-065-02,Fanna Njie,065,Kaddy Jagne,Abdoulie Njie,2551742,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,36,2024-10-25,2024-11-22
+EDN2358-G,79-067-02,Fatou Touray ,067,Ndey Njie,Alhagie Ngemba Touray ,7733214,,,MADINA KAIAF,KAIAF,Foday Sanyang,29,2024-05-14,,36,2024-11-07,2024-12-05
+EDN2360-H,79-067-04,Menge Touray ,067,Matty Touray ,Yusupha Touray ,,,,MADINA KAIAF,KAIAF,Foday Sanyang,30,2024-06-11,,36,2024-11-07,2024-12-05
+EDN2364-K,79-071-02,Bigeh Touray ,071,Sohna Touray ,Gibel Touray ,,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,36,2024-10-24,2024-11-21
+EDN2367-Z,79-074-02,Sohna Njie ,074,Hawa Touray ,Katim Njie ,7392349,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,37,2024-12-10,2025-01-07
+EDN2369-S,79-076-01,Hata Touray ,076,Ndey  Mbaye,Sainey Touray ,7712468,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN2370-Q,79-076-02,Fana Ceesay ,076,Ndey Ceesay ,Jarga Ceesay ,,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN2372-D,79-078-01,Kani Touray ,077,Kaddy Touray ,Ayib Touray ,7568052,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,36,2024-11-15,2024-12-13
+EDN2374-N,79-079-01,Fatou Ceesay ,079,Amie Sallah,Madi Ceesay ,3978252,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,36,2024-11-05,2024-12-03
+EDN2375-D,79-080-01,Fanna Touray ,080,Kanni Touray ,Alhagie Demba Touray ,,,,MADINA KAIAF,KAIAF,Foday Sanyang,29,2024-05-14,Temporal Excluded,37,2024-12-25,2025-01-22
+EDN2376-X,79-080-02,Ndumbeh Touray ,080,Aram Touray ,Halli Touray ,,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,36,2024-10-30,2024-11-27
+EDN2380-R,79-082-01,Mam Haddy Touray ,082,Sohna Touray ,Gabell Touray ,,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,37,2024-12-04,2025-01-01
+EDN2383-P,79-083-02,Hawa Ceesay ,083,Haddy Touray ,Mbaye Ceesay ,7092471,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-26,2025-01-23
+EDN2385-J,79-085-02,Kanni Touray ,085,Fatou Touray ,Matarr Touray ,7466407,,,MADINA KAIAF,KAIAF,Foday Sanyang,35,2024-10-03,,37,2024-12-04,2025-01-01
+EDN2387-M,79-086-01,Jabou Ceesay ,086,Fatou Jobe,Pa Mamud Ceesay ,7744108,,,MADINA KAIAF,KAIAF,Foday Sanyang,32,2024-08-29,,37,2024-11-27,2024-12-25
+EDN2388-B,79-086-02,Sohna Secka ,086,Mariama  Secka ,Babacarr secka,,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN2389-H,79-087-01,Ancha Gaye,087,Jawo Cham,Bakari Gaye,7734008,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,36,2024-10-24,2024-11-21
+EDN2390-S,79-087-02,Jabou Ceesay,087,Yassin Ceesay ,Dam Ceesay ,7734008,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,36,2024-11-15,2024-12-13
+EDN2393-D,79-088-03,Awa Touray,088,Aram Touray ,Omar  Touray ,7297766,,,MADINA KAIAF,KAIAF,Foday Sanyang,35,2024-10-02,,37,2024-12-10,2025-01-07
+EDN2399-A,79-090-01,Oumie ceesay,090,Fatou Gaye,Tijan,2094611,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN2402-W,79-090-04,Fatou Mbaye,090,Kani Touray ,Babucarr Mbaye ,,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,36,2024-10-24,2024-11-21
+EDN2405-J,79-090-07,Begay Touray ,090,Isatou  Touray ,Babou Touray ,7699756,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,37,2024-11-27,2024-12-25
+EDN2406-H,79-090-08,Kura Touray ,090,Mariama Drammeh ,Babucarr Touray ,,,,MADINA KAIAF,KAIAF,Foday Sanyang,29,2024-05-14,,37,2024-11-27,2024-12-25
+EDN2408-Q,79-090-010,Jay Touray ,090,Fatou Jobe ,Matarr,2415955,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-26,2025-01-23
+EDN2410-Y,79-092-05,Kumba Bandeh,092,Toulie Bandeh,Sireh Bandeh,,,,MADINA KAIAF,KAIAF,Foday Sanyang,32,2024-07-16,,37,2024-12-04,2025-01-01
+EDN2411-O,79-092-03,Rokey Kandeh,092,Mariyatou Mballo ,Tala Kandeh,,,,MADINA KAIAF,KAIAF,Foday Sanyang,32,2024-07-16,,37,2024-12-04,2025-01-01
+EDN2417-H,79-094-06,Jainaba Ndong ,094,Mariama Jom,Baba leigh Ndong,,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-26,2025-01-23
+EDN2420-I,79-096-01,Mam Ceesay ,096,Kani Touray ,Modou Ceesay ,6401062,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,37,2024-12-10,2025-01-07
+EDN2421-S,79-096-03,Kaddy Ceesay ,096,Amie Ceesay ,Ebrima Ceesay ,,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,37,2024-12-10,2025-01-07
+EDN2422-Z,79-096-04,Haddy Ceesay ,096,Sainabou Ceesay ,Babucarr Ceesay ,2584280,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,37,2024-12-10,2025-01-07
+EDN2423-Y,79-097-01,Mam jarra Touray,097,Hoja Ceesay,ChernoTouray,7625743,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,36,2024-11-05,2024-12-03
+EDN2424-N,79-097-02,Kanni Touray,097,Natu Njie,Matarr Touray,2094059,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-26,2025-01-23
+EDN2433-H,79-105-01,Jai Mbye ,105,Mariama Mbye ,Biran Mbye ,7182163,,,MADINA KAIAF,KAIAF,Foday Sanyang,29,2024-05-16,,35,2024-10-10,2024-11-07
+EDN2435-K,79-107-04,Oumie Touray ,107,Amie Touray ,Modou Lamin Touray ,7412533,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,36,2024-10-30,2024-11-27
+EDN2438-S,79-108-04,Amie Ceesay ,108,Jabou Ceesay ,Musa Ceesay ,3651411,,,MADINA KAIAF,KAIAF,Foday Sanyang,29,2024-05-16,,37,2024-12-26,2025-01-23
+EDN2440-M,79-109-02,Fatou Touray ,109,Kanni Touray ,Alhagie Ousman Touray,7392165,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,36,2024-11-08,2024-12-06
+EDN2442-B,79-109-04,Mbombeh Ceesay ,109,Haddy Ceesay ,Mor Ceesay ,7881139,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,36,2024-11-13,2024-12-11
+EDN2443-P,79-109-05,Sainabou Ceesay ,109,Mariama Ceesay ,Mot Ceesay ,7881139,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,35,2024-10-10,2024-11-07
+EDN2461-V,79-116-01,Fana Gaye ,116,Fatou Secka ,Babucarr Gaye ,2504591,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,35,2024-09-30,2024-10-28
+EDN2464-K,80-001-03,JARRA  JOBE,001,SARJOE  CEESAY ,MUSA  JOBE ,2379991,,,SARE SAMBA,KAIAF,Foday Sanyang,,,,,,
+EDN2466-T,80-001-05,KADDY  CEESAY ,001,FATOUMATA  BAH,DEMBA  CEESAY ,5941030,,,SARE SAMBA,KAIAF,Foday Sanyang,29,2024-05-16,,29,2024-05-16,2024-06-13
+EDN2477-O,80-002-08,KADDYJATOU  BAH,002,FATOU  NJADO,GERREH BAH ,3865532,,,SARE SAMBA,KAIAF,Foday Sanyang,,,Temporal Excluded,29,2024-05-16,2024-06-13
+EDN2497-E,80-012-01,ADAMA   NGALLAN,012,NDEY  MANKA ,JIM  GAYE,5928027 ,,,SARE SAMBA,KAIAF,Foday Sanyang,29,2024-05-16,,29,2024-05-16,2024-06-13
+EDN2540-L,81-001-02,Hulay Ann,001,Kumba Barry,Haruna  Ann,5019390,,,MADINA CEESAY KUNDA,MASSEMBEH,Sidu Sibi,34,2024-08-22,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN2541-Y,81-002-01,Yassin Jawo,002,Adama Baldeh,Jawande Jawo,7613758,,,MADINA CEESAY KUNDA,MASSEMBEH,Sidu Sibi,29,2024-05-08,,37,2024-11-25,2024-12-23
+EDN2542-P,81-002-02,Mariama Bah,002,Fatim Jallow,Samba Bah,7613758,,,MADINA CEESAY KUNDA,MASSEMBEH,Sidu Sibi,,,,37,2024-11-25,2024-12-23
+EDN2544-Q,81-004-01,Adama Amie Ceesay ,004,Manyo,Muctarr Ceesay ,5909825,,,MADINA CEESAY KUNDA,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN2545-A,81-005-01,Isatou Jawo ,005,Penda  Ann,Musa Jawo,5145071,,,MADINA CEESAY KUNDA,MASSEMBEH,Sidu Sibi,34,2024-08-22,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN2546-Q,81-005-02,Kaddy Bah,005,Sohna Kolley,Samba Bah,5145302,,,MADINA CEESAY KUNDA,MASSEMBEH,Sidu Sibi,34,2024-08-22,,37,2024-11-25,2024-12-23
+EDN2547-N,81-006-01,Kaddijatou Colley ,006,Horeja Jallow,Bubacarr Colley,2158980,,,MADINA CEESAY KUNDA,MASSEMBEH,Sidu Sibi,34,2024-08-22,,37,2024-11-25,2024-12-23
+EDN2548-Y,81-007-01,Sallimatou Kolley,007,Jaila Ceesay,Gallo Kolley,7957435,,,MADINA CEESAY KUNDA,MASSEMBEH,Sidu Sibi,,,,37,2024-11-25,2024-12-23
+EDN2554-I,82-003-01,SALIMATOU BAH,003,MAIMUNA SALL,SHERIF BAH,5406871,,,NJOLFEN,Kolior, Alieu Bah,29,2024-05-13,,37,2024-12-03,2024-12-31
+EDN2555-T,82-003-02,ADAMA BAH,003,FATIMA NJIE ,MUSA BAH,3254453,,,NJOLFEN,Kolior, Alieu Bah,,,,37,2024-12-03,2024-12-31
+EDN2557-I,82-004-02,Mengeh Ceesay,082,Ramata Ann,Malick Ceesay,5908792,,,NJOLFEN,Kolior, Alieu Bah,29,2024-05-13,Temporal Excluded,37,2024-12-03,2024-12-31
+EDN2558-M,82-005-01,Jaila Jawo,005,Hawa Sowe,Biran Jawo,7645693,,,NJOLFEN,Kolior, Alieu Bah,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN2566-N,82-008-02,Kumba Jawo ,008,Hawa Ceesay,Kebba Jawo ,3745555,,,NJOLFEN,Kolior, Alieu Bah,,,,36,2024-10-29,2024-11-26
+EDN2568-A,82-009-01,Amie Njardo,009,Kaddy Jallow,Juju Njardo,2376199,,,NJOLFEN,Kolior, Alieu Bah,,,,37,2024-11-27,2024-12-25
+EDN2571-E,82-010-02,HULAY JAWO,010,JARR JALLOW ,OMAR JAWO,7427381,,,NJOLFEN,Kolior, Alieu Bah,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN2578-W,82-012-07,Ndey Fatou Jallow,012,Fatou Jallow ,Ebrima Jallow,2221487,,,NJOLFEN,Kolior, Alieu Bah,29,2024-05-13,Temporal Excluded,36,2024-10-29,2024-11-26
+EDN2580-T,82-016-01,ADAMA BAH ,015,KADDY COLLY ,MAMADOU BAH,2399642,,,NJOLFEN,Kolior, Alieu Bah,29,2024-05-13,,36,2024-10-29,2024-11-26
+EDN2581-U,82-017-01,Fatoumata Ann,017,Kumba Jobe,Haruna Ann,7508075,,,NJOLFEN,Kolior, Alieu Bah,,,Temporal Excluded,36,2024-10-29,2024-11-26
+EDN2596-Z,82-031-02,Ndey Ceesay,031,Fatoumata Jah,Omar Ceesay,7234611,,,NJOLFEN,Kolior, Alieu Bah,,,,36,2024-11-01,2024-11-29
+EDN2597-Z,82-031-03,Maimuna Jallow ,031,Njibou Nyang,Alassan Jallow,2574475,,,NJOLFEN,Kolior, Alieu Bah,,,,36,2024-10-30,2024-11-27
+EDN2598-T,82-032-01,JAILA CEESAY ,032,HAWA CEESAY ,SAMBA CEESAY ,5131072,,,NJOLFEN,Kolior, Alieu Bah,,,,37,2024-12-05,2025-01-02
+EDN2599-S,82-034-01,Hullay Camara,034,Fatou Colley,Samba Camara ,2219629,,,NJOLFEN,Kolior, Alieu Bah,,,Temporal Excluded,37,2024-12-03,2024-12-31
+EDN2602-G,82-037-01,Haja Jobe,037,Amie Jawo,Omar Jobe,5409480,,,NJOLFEN,Kolior, Alieu Bah,,,,36,2024-11-01,2024-11-29
+EDN2604-M,82-040-01,Kaddijatou Jawo,040,Dehja Ceesay,Babai Jawo,7615814,,,NJOLFEN,Kolior, Alieu Bah,,,,37,2024-12-03,2024-12-31
+EDN2611-K,82-040-08,Jainaba Bah,040,Binta Ndow,Diyeh Bah,2028078,,,NJOLFEN,Kolior, Alieu Bah,,,Temporal Excluded,37,2024-12-03,2024-12-31
+EDN2631-L,84-006-02,Kaddy Jallow,006,Hawa Dem,Hamadi Jallow,,,,SAREH PATEH,Kolior, Alieu Bah,,,,35,2024-10-20,2024-11-17
+EDN2632-D,84-007-01,MARIAMA CEESAY ,007,FATOU CHAM ,OMAR CEESAY ,30128844,,,SAREH PATEH,Kolior, Alieu Bah,,,,36,2024-11-01,2024-11-29
+EDN2647-R,78-065-02,Binta Sanneh ,065,Lisa Sanneh ,Jalamang Sanneh ,7726957,,,KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-10,2025-01-07
+EDN2652-W,78-021-01,Kaddijatou Jallow,021,Oumou Jallow,Alpha Abdoulie Jallow,3435916,,,KAIAF,KAIAF,Foday Sanyang,29,2024-04-30,,37,2024-12-19,2025-01-16
+EDN2653-H,76-040-01,Isatou Sanyang,040,Fatou Saidy,Saikou Sanyang,2331100,,,MASEMBEH,MASSEMBEH,Sidu Sibi,,,,36,2024-11-04,2024-12-02
+EDN2654-K,76-019-03,Fatou Saho,019,Hawa Mass,Ousman Saho,7677798,,,MASEMBEH,MASSEMBEH,Sidu Sibi,,,,36,2024-11-06,2024-12-04
+EDN2655-D,70-005-01,Fatou Minteh ,005,Wuday Ceesay ,Lamin Minteh ,3258191,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,29,2024-05-01,,37,2024-11-27,2024-12-25
+EDN2656-K,70-030-01,Fatou Camara Lee,030,Tombong Mass,Ebrima Camara ,2387654,3013000,,KOLIOR,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-12-10,2025-01-07
+EDN2658-Y,70-021-01,Haddy Faye,021,Mariama Jarjou,Sulayman Faye,7989837,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN2659-Z,70-023-01,Kaddijatou Saho,023,Jomma Jassey,Lamin Saho,2757030,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,29,2024-05-01,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN2662-N,70-018-01,Nato Touray,018,Mariama Dibba,Alieu Touray,3913689,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,29,2024-05-01,,37,2024-11-27,2024-12-25
+EDN2663-P,77-006-02,Binta Ceesay,006,Mutanyeh Njie,Saidy Ceesay,6920365,,,GENIERE,MASSEMBEH,Sidu Sibi,,,,38,2024-11-27,2024-12-25
+EDN2664-T,77-019-03,Kuta Dampha,019,Fanta Sanneh,Sanna Dampha,5406766,2903161,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN2666-M,77-013-01,JAINABA TOURAY ,013,AMIE DAFFE,FAMARA TOURAY ,7337190,,,GENIERE,MASSEMBEH,Sidu Sibi,29,2024-05-06,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN2669-Q,77-032-01,Alima Njie ,032,Tubanyo Sanneh ,Yusupha Njie ,3531838,,,GENIERE,MASSEMBEH,Sidu Sibi,29,2024-05-06,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN2670-W,77-034-02,Jainaba Colley ,034,Yassin Kassama,Baba Colley ,7374756,,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN2671-R,77-016-06,Nyima Sanyang ,016,Oumie Drammeh ,Nyuku Sanyang ,7006805,,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN2673-E,72-023-02,Sirreh Jallow,023,Fatoumatta Sidibeh ,Jamboye Jallow,3413183,,,JASOBO,Kolior, Alieu Bah,29,2024-05-02,,37,2024-12-05,2025-01-02
+EDN2675-N,72-017-02,Fanta Drammeh ,017,Kaddijatou Sanneh ,Kebba Drammeh ,,,,JASOBO,Kolior, Alieu Bah,29,2024-05-09,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN2676-W,70-050-03,Fatou Colley,050,Fatoumata Tabally,Kebba Colley,3389567,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,29,2024-05-02,Temporal Excluded,37,2024-12-24,2025-01-21
+EDN2678-A,70-050-04,Fatou Jarju,050,Jarra Samura,Borri Jarju,2546706,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,29,2024-05-02,,36,2024-11-14,2024-12-12
+EDN2679-C,82-028-02,Salimatou Kolley,028,Jaila Ceesay ,Galo Colley,,,,NJOLFEN,Kolior, Alieu Bah,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN2680-P,82-006-04,Sainabou Njie,006,Kaddijatou Bah,Modou Njie,5166805,,,NJOLFEN,Kolior, Alieu Bah,,,Temporal Excluded,37,2024-12-03,2024-12-31
+EDN2681-K,82-010-03,Mala Jarju,010,Deja Ann,Biran Jarju ,7970774,,,NJOLFEN,Kolior, Alieu Bah,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN2683-B,82-040-09,Jainaba Jobe,040,Adama Jarju,Bakary Jobe,,,,NJOLFEN,Kolior, Alieu Bah,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN2686-G,82-024-03,Kajatou Ceesay ,024,Adama Bah,Major Ceesay ,,,,NJOLFEN,Kolior, Alieu Bah,,,,35,2024-10-16,2024-11-13
+EDN2687-Q,82-032-02,Mariama Bah,032,Jaila Ceesay ,Juka,,,,NJOLFEN,Kolior, Alieu Bah,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN2690-V,82-020-02,Hawa Ceesay ,020,Mariama Jallow ,Habib  Ceesay ,3835774,,,NJOLFEN,Kolior, Alieu Bah,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN2693-L,82-036-02,Dabel Jawo,036,Ega Ceesay ,Musa Jawo,7683553,,,NJOLFEN,Kolior, Alieu Bah,,,Temporal Excluded,37,2024-12-03,2024-12-31
+EDN2697-J,27-004-074G,Jainaba Manjang,004,Kunda Bajinka,Ansumana Manjang,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,,,,37,2024-12-03,2024-12-31
+EDN2698-V,27-005-018O,Mai Kanteh,004,Jonfolo Janneh,Nfamara Mondo Kanteh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN2700-D,27-004-023H,Jariatou Janneh,021,Sutering Manjang,Masanneh F. Janneh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN2701-B,25-007-074O,Oumie Fofana,032,Nyimanding Kambi,Alhagie Fofana,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,,,,37,2024-12-05,2025-01-02
+EDN2705-Q,82-046-02,Fatoumata Chune,046,Mariama Jawo,Demba Chune,2289760,,,NJOLFEN,Kolior, Alieu Bah,,,Temporal Excluded,36,2024-10-29,2024-11-26
+EDN2711-G,77-028-02,Aminata  Jobe ,028,Arabiatou Jobe,Ismaila Jobe ,7157095,,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN2712-O,76-005-01,MARIAMA  SAIDY ,005,MARIAMA  JANKO ,EBRIMA  SAIDY ,7906467,,,MASEMBEH,MASSEMBEH,Sidu Sibi,,,,37,2024-11-26,2024-12-24
+EDN2713-M,76-005-02,MARIAMA  DRAMMEH ,005,SARJOE  SAMATEH ,KARAMO ALIEU   DRAMMEH ,7717754,,,MASEMBEH,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN2714-K,82-006-05,Amie Kolley ,006,Jarra Dumbuya,Bubacarr Colley,,,,NJOLFEN,Kolior, Alieu Bah,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN2715-R,77-019-05,Fatoumata Marong ,019,Nyako Manjang ,Hinna Marong,3283228,6240851,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-28,2024-12-26
+EDN2718-K,79-001-11,Fatou Njie,001,Alima Gaye,Amadou Njie,2121314,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,37,2024-12-05,2025-01-02
+EDN2719-B,79-108-02,Mbombeh Ceesay ,108,Penda Janneh,Alieu Ceesay ,7576417,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,36,2024-11-08,2024-12-06
+EDN2720-A,27-032-004M,Nyimanding Janneh,006,Nyimanding Sanyang,Kutubo Janneh,,,,JANNEH KUNDA,Kemoto,Amadou Jatta,,,,37,2024-11-27,2024-12-25
+EDN2723-H,79-109-07,ROKEY CEESAY ,109,AWA GAYE,MBYE  CEESAY ,7512901,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,36,2024-10-30,2024-11-27
+EDN2724-R,79-115-04,Mam Fatou Ceesay,115,Alimatou Ceesay,Madi Ceesay,2860048,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN2726-T,79-096-02,Amie Touray ,096,Jabou Ceesay ,Katim Touray %,7386025,,,MADINA KAIAF,KAIAF,Foday Sanyang,29,2024-05-13,,37,2024-12-10,2025-01-07
+EDN2729-U,79-096-05,Fatou Touray ,096,Kaddy Ceesay ,Babucarr Touray ,7429095,,,MADINA KAIAF,KAIAF,Foday Sanyang,29,2024-05-13,,37,2024-12-10,2025-01-07
+EDN2739-G,40-025-14,Kaddy Sonko,025,Muna Manneh,Malang Sonko,3290299,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN2741-Z,76-037-01,Hawa Saho,037,Binta Sanneh,Mamadi Saho,2409767,,,MASEMBEH,MASSEMBEH,Sidu Sibi,34,2024-09-05,,37,2024-12-02,2024-12-30
+EDN2742-P,72-001-01,Nyimansatou Sanneh,001,Kaddy Jatta,Finding Sanneh,2356471,,,JASOBO,Kolior, Alieu Bah,29,2024-05-09,,37,2024-12-05,2025-01-02
+EDN2750-E,03-083-007F,Hawa Colley,083,Salla Bah,Samba Colley,3264047,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,,,,36,2024-11-13,2024-12-11
+EDN2753-U,84-003-02,Fatou A Ceesay,003,Adama Bah,Momodou Ceesay,,,,SAREH PATEH,Kolior, Alieu Bah,,,,35,2024-10-20,2024-11-17
+EDN2755-R,07-063-005B,Kaddy Darboe,063,Ida Camara,Lang Darboe,3678499,7285890,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,,,Temporal Excluded,37,2024-12-02,2024-12-30
+EDN2767-S,10-016-042K,Fatoumata Dumbuya,020,Isatou Sidibeh,Amadou Wurry,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN2767-S,10-016-042K,Fatoumata  Dumbuya ,020,Isatou  Sidibeh ,Amadou Wurry ,,,,KULI KUNDA,Kuli Kunda, Tumbulu Drammeh,,,Temporal Excluded,37,2024-11-27,2024-12-25
+EDN2769-T,53-001-04,Aminata Jobe,001,Mariama Jallow,Bakary Jobe,2023666,,,JATTA KUNDA,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-12-02,2024-12-30
+EDN2771-K,70-013-01,Fatou Sillah,013,Nyimanding Jarju,Sheriff Sillah,2220424,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,,,,37,2024-11-27,2024-12-25
+EDN2772-B,53-002-11,Isata Njie,002,Fatoumata Jallow,Demba Njie,,,,JATTA KUNDA,Nema Kuta,Mamadou Jarjusey,,,,37,2024-12-04,2025-01-01
+EDN2773-H,53-008-01,Sallimatou bah,008,Hawa bah,samba bah,2743997,,,JATTA KUNDA,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,36,2024-10-28,2024-11-25
+EDN2775-K,70-025-01,Fatoumata Dembajang,025,Numo Jawara,Lamin Dembajang,7519271,,,KOLIOR,Nema Kuta,Mamadou Jarjusey,,,,36,2024-11-14,2024-12-12
+EDN2777-L,60-004-01,Fatou Njado,004,Ngibu Jallow,Jellel Njado,5259473,,,WILLINGARA,Kwinella Sansankono,Modou Lamin Njai,36,2024-10-23,,37,2024-11-25,2024-12-23
+EDN2778-Y,60-006-03,Maimuna Colley,006,Mariama Bah,Ismaila Colley,3618333,,,WILLINGARA,Kwinella Sansankono,Modou Lamin Njai,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN2779-X,60-007-09,Mariama Bah,007,Fatou jarju,Kebba Bah,3416175,,,WILLINGARA,Kwinella Sansankono,Modou Lamin Njai,34,2024-08-27,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN2780-U,60-010-05,MARIAMA KEITA ,010,FATOU KEITA ,SAMBA KEITA ,3301380,,,WILLINGARA,Kwinella Sansankono,Modou Lamin Njai,,2024-10-22,,37,2024-11-25,2024-12-23
+EDN2783-I,55-001-14,Jainaba Jallow,001,Dejar Jallow,Ebrima Jallow,,,,SARE SARJO,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN2784-U,55-001-15,Hawa Camara,001,Fatou Colley,Samba Camara,7327031,,,SARE SARJO,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,36,2024-11-07,2024-12-05
+EDN2786-Y,55-003-10,Fatoumata Bah,003,Hawa Bah,Musa Bah,,,,SARE SARJO,Nema Kuta,Mamadou Jarjusey,,,,37,2024-12-05,2025-01-02
+EDN2788-A,55-008-08,Sally Bah,008,Jarra Jarju,Yerro Bah,7277899,5848756,,SARE SARJO,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-12-03,2024-12-31
+EDN2789-P,55-010-02,Adama Jallow,010,Hoja Joof,Samba Jallow,7578325,,,SARE SARJO,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-12-03,2024-12-31
+EDN2790-C,55-015-01,ADAMA JALLOW,015,NJAMBOU BAH,KEBBA JALLOW,7049527,2833384,,SARE SARJO,Nema Kuta,Mamadou Jarjusey,,,,37,2024-12-11,2025-01-08
+EDN2794-E,60-007-10,Kumba Bah,007,Fatim Bah,Momodou Bah,,,,WILLINGARA,Kwinella Sansankono,Modou Lamin Njai,,2024-10-22,,37,2024-11-25,2024-12-23
+EDN2795-M,41-011-07,PENDA DEMBA ,011,BANNA DARBOE ,BAKARY DARBOE ,3460048,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai,,2024-10-22,,37,2024-11-26,2024-12-24
+EDN2796-F,41-011-08,JAINABA DEMBA ,011,FATOUMATA TOURAY ,LAMIN DEMBA ,3864097,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai,,,,37,2024-11-26,2024-12-24
+EDN2797-A,43-021-05,Hawa Saidy,021,Habbi  Jarju,Ndure Saidy,3723320,,,TENDABA,Kwinella Sansankono,Modou Lamin Njai,,,,37,2024-12-09,2025-01-06
+EDN2798-L,43-022-03,ISATOU BAH,022,MARIAMA JALLOW,TAHIRR JALLOW,3478366,,,TENDABA,Kwinella Sansankono,Modou Lamin Njai,,,,37,2024-12-09,2025-01-06
+EDN2799-P,55-015-04,Amie Bah,015,Fatou Bah,Omar Bah,,,,SARE SARJO,Nema Kuta,Mamadou Jarjusey,,,,37,2024-11-25,2024-12-23
+EDN2800-H,55-005-06,Maimuna Jallow,005,Egan Jawo,Mamadou Jallow,7689288,3092781,,SARE SARJO,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN2804-M,51-040-02,Sira Sabally,040,Mariama Sowe,Kalilu Sabally,2119207,,,JIRROFF,Nema Kuta,Mamadou Jarjusey,,,,37,2024-12-03,2024-12-31
+EDN2805-T,55-003-11,Hawa Ceesay,003,Penda Jobe,Samba Ceesay,2086917,2707434,,SARE SARJO,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-12-11,2025-01-08
+EDN2806-H,55-010-03,Kadijatou Ceesay,010,Ramata Ceesay,Kalidou Ceesay,2394717,3663524,,SARE SARJO,Nema Kuta,Mamadou Jarjusey,,,,37,2024-12-11,2025-01-08
+EDN2807-L,55-008-09,Fatou Bah,008,Hawa Jobe,Ismaila Bah,7277899,5445074,,SARE SARJO,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-12-03,2024-12-31
+EDN2808-A,54-026-01,Kaddijatou Jallow,026,Hawa Bah,Birom Bah,,,,MANDINA CENTRAL,Nema Kuta,Mamadou Jarjusey,,,,37,2024-12-03,2024-12-31
+EDN2809-Q,48-005-06, Nyimanding (KINNEH) Mass,005,Karafa  Jassey,Wuyeh Mass,,,,KUNDANG NUMU KUNDA,Nema Kuta,Mamadou Jarjusey,,,,37,2024-12-02,2024-12-30
+EDN2812- T,55-020-02,MAYDAREH JOBE,020,Juka Jobe,DELLO JOBE,7366709,2548754,,SARE SARJO,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-12-05,2025-01-02
+EDN2813-D,48-003-04,Manyima Cham,048,Jainaba Cham,Famara Cham,5827895,7806380,,KUNDANG NUMU KUNDA,Nema Kuta,Mamadou Jarjusey,,,,37,2024-12-02,2024-12-30
+EDN2815-Z,79-025-04,Mambombeh Ceesay ,025,Satou Touray ,Alhagie Alieu Ceesay ,6319539,,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,37,2024-12-05,2025-01-02
+EDN2817-D,53-010-02,Ratatouille Bah,010,Jaka Bah,Gidom Bah,,,,JATTA KUNDA,Nema Kuta,Mamadou Jarjusey,,,,37,2024-11-28,2024-12-26
+EDN2818-L,53-010-04,Jaia Gaye,010,Mbombeh Jallow,Oldy,7129658,7527634,,JATTA KUNDA,Nema Kuta,Mamadou Jarjusey,,,,37,2024-11-28,2024-12-26
+EDN2821-B,55-025-01,MARAM COLLEY,025,JAINABA DUMBUYA,Jollof KOLLEY,7354599,,,SARE SARJO,Nema Kuta,Mamadou Jarjusey,,,,37,2024-12-05,2025-01-02
+EDN2822-W,08-001-035D,Mariama Manneh,001,Binta Njie,Sainey Manneh,,,,WUROKANG,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-12-10,2025-01-07
+EDN2823-L,42-029-03,Mariama Fatty,029,Kadijatou Camara,Alhagie Fatty,,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-12-20,2025-01-17
+EDN2826-E,43-023-11,MAIMUNA KINTEH,023,FATOU SAIDY ,ALAGIE KINTEH ,3224463,,,TENDABA,Kwinella Sansankono,Modou Lamin Njai,,,,37,2024-12-09,2025-01-06
+EDN2827-N,43-023-12,KADIJATOU KONTEH ,023,FATOUMATA KONTEH ,EBRIMA KONTEH ,5462468,,,TENDABA,Kwinella Sansankono,Modou Lamin Njai,,,,37,2024-12-09,2025-01-06
+EDN2830-R,55-010-04,Fatoumata Ceesay,010,Ramata Ceesay,Kalidou Ceesay,2394717,3663524,,SARE SARJO,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-11-21,2024-12-19
+EDN2833-M,04-059-003N,Mariama Jallow,059,Isatou Jallow,Ebrima Jallow,2356409,,,JATTABA,Dumbuto,Ousman Kambi,,,,36,2024-10-23,2024-11-20
+EDN2836-E,55-009-02,Juli Gano,009,Jainaba Njado,Musa Gano,2998056,,,SARE SARJO,Nema Kuta,Mamadou Jarjusey,,,,37,2024-12-05,2025-01-02
+EDN2840-X,42-104-02,Binta Sanneh,104,Sally Camara,Sulayman Sanneh,6209594,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-12-20,2025-01-17
+EDN2841-M,42-022-05,Nyima Marong,022,Isatou Hanjula Dibba,Ansumana Marong,5273794,7008009,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,,37,2024-12-09,2025-01-06
+EDN2842-G,03-047-035R,Fatoumata Touray,047,Isata Bah,Omar Touray,,,,NIORO JATTABA,Niorro Jattaba,Modou Bah,,,,37,2024-11-25,2024-12-23
+EDN2842-T,77-016-02,Fatou Mbye,016,Lalla Sanneh ,Lamin Mbye,7341791,,,GENIERE,MASSEMBEH,Sidu Sibi,,,,37,2024-11-25,2024-12-23
+EDN2844-F,77-002-07,Awa Jadama ,002,Kujending  NJIE ,Bakai  JADAMA ,2399249,,,GENIERE,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-25,2024-12-23
+EDN2845-P,77-003-01,,,,,,,,,,,,,,,,
+EDN2848-W,76-034-06,PENDA  SABALLY,034,HAWA KANTEH,BANA SABALLY ,2183376,,,MASEMBEH,MASSEMBEH,Sidu Sibi,,,Temporal Excluded,37,2024-11-26,2024-12-24
+EDN2849-L,42-104-03,Sira Camara,104,Faye Dansira,Duwa Camara,6209594,,,KWINELLA NIA KUNDA,Kwinella Nia-Kunda,Foday K Darbo,,,Temporal Excluded,37,2024-12-12,2025-01-09
+EDN2850-A,04-009-126E,Mariama Touray,104,Kaddy Kuta Darboe,Edally Touray,5206385,,,JATTABA,Dumbuto,Ousman Kambi,,,,37,2024-12-04,2025-01-01
+EDN2856-W,79-067-05,Korka Secka,067,Jabou Ceesay,Alagie Secka,7733214,6796009,,MADINA KAIAF,KAIAF,Foday Sanyang,,,,36,2024-10-25,2024-11-22
+EDN2857-H,44-001-05,Kaddy fatty ,001,Awa cham,Masanneh fatty,3439494,5287420,,BUMARR,Kwinella Sansankono,Modou Lamin Njai,,,,37,2024-11-26,2024-12-24
+EDN2858-U,44-001-06,ISATOU DARBOE ,001,FATOU DEMBA ,BAKARY DARBOE ,3068746,,,BUMARR,Kwinella Sansankono,Modou Lamin Njai,,,,37,2024-11-26,2024-12-24
+EDN2860-T,53-005-01,Sira juma camara,005,Mariama Jallow,samba Camara,7942492,2900722,,JATTA KUNDA,Nema Kuta,Mamadou Jarjusey,,,,37,2024-12-04,2025-01-01
+EDN2861-E,53-005-04,Mariatou Touray ,005,Rasidatou Sowe,Sarjo Touray ,7942492,,,JATTA KUNDA,Nema Kuta,Mamadou Jarjusey,,,,37,2024-12-04,2025-01-01
+EDN2862-W,53-008-05,Jontang  Chune ,008,Isatou Ndow,Saidou Chune ,5409634,,,JATTA KUNDA,Nema Kuta,Mamadou Jarjusey,,,Temporal Excluded,37,2024-12-04,2025-01-01
+EDN2863-Z,74-002-02,JARRA  SAMBOU,002,BINTA  BONDI,KEBBA SAMBOU ,3554540,7194688,,YORRO JULA,MASSEMBEH,Sidu Sibi,,,,37,2024-11-26,2024-12-24
+EDN2865-U,41-023-02,SAINEY CEESAY ,022,KADDY SAIDY ,SAIKOU CEESAY ,6325712,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai,,,,37,2024-12-24,2025-01-21
+EDN2865-U,41-023-02,Binta Daffeh,023,Fatou cham,Omar ss Daffeh,5378814,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai,,,,37,2024-12-24,2025-01-21
+EDN2866-R,41-023-03,SUTAY JAMMEH ,023,NABA YARBOE ,BAKARY JAMMEH,3910681,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai,,,,37,2024-11-26,2024-12-24
+EDN2867-E,41-024-02,Nyimasatou Camara,024,Wuday fatty,Sankung Camara,3981440,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai,,,,37,2024-12-24,2025-01-21
+EDN2868-T,41-045-01,Fatou Cham,045,Nyimanding Jarju,Fabakary Cham,7710429,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai,,,,37,2024-12-24,2025-01-21
+EDN2869-V,41-019-02,Fatou Darboe,019,Ramatolie Jallow,Foday Darbo,7541747,,,KWINELLA SANSANKONO,Kwinella Sansankono,Modou Lamin Njai,,,,37,2024-12-24,2025-01-21

@@ -1,0 +1,1099 @@
+participant_id,redcap_event_name,redcap_repeat_instrument,redcap_repeat_instance,lmp_form_date_q5,lmp_cycle,lmp_temp_exclude___0,lmp_temp_exclude___1,lmp_temp_exclude___2,lmp_temp_exclude___3,lmp_temp_exclude___4,lmp_temp_exclude_oth,lmp_child_dob,have_you_missed_your_last,date_of_last_menstrual_per,lmp_comment,lmp_completedby_q3,lmp_sign_q4,lmp_reviewer_q6,lmp_reviewer_sign_q7,lmp_complete
+EDN0002-B,prepregnancy_arm_1,lmp,6,2023-10-18,21,1,0,0,0,0,,,0,2023-10-05,,27,,2,,2
+EDN0007-G,prepregnancy_arm_1,lmp,1,2024-03-29,28,0,0,0,0,1,on contraceptive ,,,,,15,,,,2
+EDN0008-E,prepregnancy_arm_1,lmp,4,2024-04-07,28,0,0,1,0,0,,,0,2024-04-03,,30,,,,2
+EDN0008-E,prepregnancy_arm_1,lmp,5,2024-05-15,29,0,0,1,0,0,,,0,2024-05-15,,,,,,2
+EDN0008-E,prepregnancy_arm_1,lmp,6,2024-06-12,30,0,0,1,0,0,,,0,2024-05-29,,30,,,,2
+EDN0011-H,prepregnancy_arm_1,lmp,9,2023-10-09,21,1,0,0,0,0,,,0,2023-09-18,,26,,2,,2
+EDN0012-F,prepregnancy_arm_1,lmp,7,2023-10-18,21,1,0,0,0,0,,,1,,,27,,2,,2
+EDN0013-A,prepregnancy_arm_1,lmp,1,2024-05-21,29,0,0,0,0,1,Travelled ,,,,,30,,,,2
+EDN0016-D,prepregnancy_arm_1,lmp,8,2023-10-15,21,1,0,0,0,0,,,0,2023-09-20,,15,,5,,2
+EDN0019-G,prepregnancy_arm_1,lmp,2,2023-10-22,21,0,0,0,0,1,On contraceptive ,,,,,15,,,,2
+EDN0020-H,prepregnancy_arm_1,lmp,1,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0020-H,prepregnancy_arm_1,lmp,3,2024-03-29,28,0,1,0,0,0,,,,,,15,,,,2
+EDN0020-H,prepregnancy_arm_1,lmp,4,2024-05-15,,0,0,0,0,1,SINGLE ,,,,,,,,,2
+EDN0020-H,prepregnancy_arm_1,lmp,5,2024-06-25,30,0,0,0,0,1,Divorce ,,,,,26,,,,2
+EDN0026-E,prepregnancy_arm_1,lmp,2,2024-04-07,28,0,0,1,0,0,,,0,2024-03-25,,30,,,,2
+EDN0026-E,prepregnancy_arm_1,lmp,3,2024-05-14,29,0,0,1,0,0,,,0,2024-05-02,,30,,,,2
+EDN0026-E,prepregnancy_arm_1,lmp,4,2024-06-13,30,0,0,1,0,0,,,0,2024-06-08,,30,,,,2
+EDN0027-J,prepregnancy_arm_1,lmp,1,2024-05-02,29,0,1,0,0,0,,,,,,30,,,,2
+EDN0027-J,prepregnancy_arm_1,lmp,2,2024-06-20,30,0,1,0,0,0,,,0,2024-06-06,,30,,,,2
+EDN0030-J,prepregnancy_arm_1,lmp,2,2024-05-03,29,0,0,0,0,1,Travelled to kombo ,,0,,,30,,,,2
+EDN0030-J,prepregnancy_arm_1,lmp,3,2024-06-22,30,0,0,0,0,1,Travelled to kombo ,,,,,30,,,,2
+EDN0033-F,prepregnancy_arm_1,lmp,1,2024-05-03,29,0,0,0,0,1,Travelled to kombo ,,,,,30,,,,2
+EDN0040-D,prepregnancy_arm_1,lmp,2,2024-02-08,26,0,0,1,0,0,,,0,2024-01-25,,30,,,,2
+EDN0040-D,prepregnancy_arm_1,lmp,3,2024-05-14,29,0,0,1,0,0,,,0,2024-05-03,,30,,,,2
+EDN0040-D,prepregnancy_arm_1,lmp,4,2024-06-13,30,0,0,1,0,0,,,0,2024-05-30,,30,,,,2
+EDN0044-C,prepregnancy_arm_1,lmp,1,2024-05-10,29,0,0,0,0,1,She said husband refused ,,1,,,30,,,,2
+EDN0048-J,prepregnancy_arm_1,lmp,8,2023-10-10,21,1,0,0,0,0,,,0,2023-10-02,,26,,2,,2
+EDN0056-G,prepregnancy_arm_1,lmp,9,2023-10-19,21,1,0,0,0,0,,,0,2023-09-20,,15,,5,,2
+EDN0062-D,prepregnancy_arm_1,lmp,2,2023-10-22,21,0,1,0,0,0,,,,,,15,,,,2
+EDN0064-G,prepregnancy_arm_1,lmp,7,2024-02-16,26,0,0,0,0,1,Pregnant and already was consented  at keneba for indigo,,,,,30,,,,2
+EDN0070-F,prepregnancy_arm_1,lmp,1,2024-04-07,28,0,0,0,0,1,Married & moved to senegal ,,,,,30,,,,2
+EDN0080-G,prepregnancy_arm_1,lmp,6,2023-11-02,22,0,0,0,0,1,She travel to kombo ,,,,,18,,2,,2
+EDN0081-B,prepregnancy_arm_1,lmp,1,2023-11-03,22,0,0,1,0,0,,,0,2023-10-09,,18,,,,2
+EDN0081-B,prepregnancy_arm_1,lmp,2,2024-05-22,29,0,0,0,0,1,Travelled ,,,,,21,,,,2
+EDN0082-C,prepregnancy_arm_1,lmp,7,2023-10-11,21,1,0,0,0,0,,,0,2023-09-20,,19,,2,,2
+EDN0083-D,prepregnancy_arm_1,lmp,6,2023-08-01,19,0,0,1,0,0,,,0,2023-07-15,,15,,2,,2
+EDN0083-D,prepregnancy_arm_1,lmp,8,2023-10-11,21,1,0,0,0,0,,,0,2023-10-05,,19,,2,,2
+EDN0084-A,prepregnancy_arm_1,lmp,6,2023-08-01,19,0,0,0,1,0,,,0,2023-07-15,,15,,2,,2
+EDN0084-A,prepregnancy_arm_1,lmp,7,2023-11-03,22,0,0,0,0,1,Withdraw and diagnosed with hypertension ,,,,,18,,,,2
+EDN0085-E,prepregnancy_arm_1,lmp,8,2023-11-03,22,0,0,0,0,1,Moved to kombo ,,,,,18,,,,2
+EDN0085-E,prepregnancy_arm_1,lmp,9,2023-11-03,22,0,0,0,0,1,Withdraw ,,,,,18,,,,2
+EDN0086-F,prepregnancy_arm_1,lmp,2,2023-11-03,22,0,0,0,0,1,Breastfeeding ,,,,,18,,,,2
+EDN0087-K,prepregnancy_arm_1,lmp,7,2023-10-12,21,1,0,0,0,0,,,0,2023-09-18,,6,,2,,2
+EDN0088-H,prepregnancy_arm_1,lmp,5,2023-11-03,22,0,0,0,0,1,Moved to Kaur ,,,,,18,,,,2
+EDN0089-J,prepregnancy_arm_1,lmp,8,2023-10-11,21,1,0,0,0,0,,,0,2023-09-24,,19,,2,,2
+EDN0096-B,prepregnancy_arm_1,lmp,1,2023-11-02,22,0,0,0,0,1,She is not married,,,,,18,,2,,2
+EDN0103-C,prepregnancy_arm_1,lmp,4,2024-05-01,29,0,0,0,0,1,TRAVELLED,,,,,26,,,,2
+EDN0106-E,prepregnancy_arm_1,lmp,1,2023-10-22,21,0,0,0,0,1,On contraceptive ,,,,,15,,,,2
+EDN0106-E,prepregnancy_arm_1,lmp,5,2024-05-16,29,0,0,0,0,1,ON CONTRACEPTIVE ,,,,,,,,,2
+EDN0115-G,prepregnancy_arm_1,lmp,1,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0116-C,prepregnancy_arm_1,lmp,2,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0117-A,prepregnancy_arm_1,lmp,1,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0120-D,prepregnancy_arm_1,lmp,1,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0121-G,prepregnancy_arm_1,lmp,7,2023-10-10,21,1,0,0,0,0,,,0,2023-10-03,,6,,2,,2
+EDN0123-E,prepregnancy_arm_1,lmp,1,2023-11-02,22,0,0,0,0,1,She moved to Senegal ,,,,,18,,2,,2
+EDN0126-K,prepregnancy_arm_1,lmp,1,2023-10-22,,0,1,0,0,0,,,,,,15,,,,2
+EDN0126-K,prepregnancy_arm_1,lmp,3,2024-03-26,28,0,1,0,0,0,,,,,,15,,,,2
+EDN0126-K,prepregnancy_arm_1,lmp,4,2024-05-16,29,0,0,0,0,1,SINGLE ,,,,,,,,,2
+EDN0127-F,prepregnancy_arm_1,lmp,2,2023-10-22,21,0,1,0,0,0,,,,,,15,,,,2
+EDN0128-J,prepregnancy_arm_1,lmp,2,2023-10-22,21,0,1,0,0,0,,,,,,15,,,,2
+EDN0129-B,prepregnancy_arm_1,lmp,6,2023-10-22,21,0,0,1,0,0,,,,,,15,,,,2
+EDN0131-D,prepregnancy_arm_1,lmp,4,2023-10-19,21,1,0,0,0,0,,,0,2023-10-13,,15,,5,,2
+EDN0133-H,prepregnancy_arm_1,lmp,2,2023-11-02,22,0,1,0,0,0,,,0,2023-10-17,,19,,,,2
+EDN0134-F,prepregnancy_arm_1,lmp,2,2023-10-05,21,1,0,0,0,0,,,0,2023-09-07,,18,,2,,2
+EDN0134-F,prepregnancy_arm_1,lmp,3,2023-10-09,21,1,0,0,0,0,,,0,2023-10-09,,19,,2,,2
+EDN0149-A,prepregnancy_arm_1,lmp,8,2023-10-18,21,1,0,0,0,0,,,0,2023-10-03,,27,,2,,2
+EDN0150-K,prepregnancy_arm_1,lmp,3,2024-06-21,30,0,0,1,0,0,,,0,2024-05-31,,30,,,,2
+EDN0153-J,prepregnancy_arm_1,lmp,1,2024-05-07,29,0,0,0,0,1,"Not yet decided ,not willing to oerticipate",,,,,21,,,,2
+EDN0154-G,prepregnancy_arm_1,lmp,6,2023-10-22,21,0,0,0,0,1,Travelled ,,1,,,15,,,,2
+EDN0154-G,prepregnancy_arm_1,lmp,9,2024-03-26,28,0,0,0,0,1,Temporary moved away ,,,,,15,,,,2
+EDN0156-H,prepregnancy_arm_1,lmp,2,2023-11-02,22,0,0,0,0,1,She moved to kombo ,,,,,18,,2,,2
+EDN0159-F,prepregnancy_arm_1,lmp,8,2024-03-25,28,0,0,0,0,1,Breastfeeding 6 months baby ,,,,,18,,,,2
+EDN0160-B,prepregnancy_arm_1,lmp,3,2023-10-12,21,1,0,0,0,0,,,0,2023-09-16,,19,,2,,2
+EDN0162-F,prepregnancy_arm_1,lmp,8,2024-05-06,29,0,0,0,0,1,Travelled to the coast,,,,,21,,,,2
+EDN0163-A,prepregnancy_arm_1,lmp,1,2023-11-02,22,0,0,0,0,1,Breastfeeding ,,,,,18,,2,,2
+EDN0167-E,prepregnancy_arm_1,lmp,2,2023-11-02,22,0,0,0,0,1,She move to kombo ,,,,,18,,2,,2
+EDN0168-C,prepregnancy_arm_1,lmp,6,2023-11-11,,0,0,1,0,0,,,0,2023-10-17,,19,,,,2
+EDN0169-G,prepregnancy_arm_1,lmp,1,2024-05-06,29,0,0,0,1,0,,2023-10-16,0,2024-04-30,,21,,,,2
+EDN0179-J,prepregnancy_arm_1,lmp,7,2023-10-11,21,1,0,0,0,0,,,0,2023-10-04,,6,,2,,2
+EDN0184-J,prepregnancy_arm_1,lmp,6,2023-11-15,22,0,0,0,0,1,Husband travelled,,0,2023-11-13,,6,,,,2
+EDN0184-J,prepregnancy_arm_1,lmp,8,2024-04-12,28,0,0,0,0,1,Temporarily excluded due to husband's travelled,,,,,6,,,,2
+EDN0184-J,prepregnancy_arm_1,lmp,9,2024-05-19,29,0,0,0,0,1,Husband lives in abroad. ,,,,,,,,,0
+EDN0184-J,prepregnancy_arm_1,lmp,10,2024-05-30,30,0,0,0,0,1,Husband travelled and not expecting soon,,,,,,,,,2
+EDN0190-F,prepregnancy_arm_1,lmp,2,2024-05-14,29,0,0,0,0,1,Transfer  to kombo,,,,,21,,,,2
+EDN0195-C,prepregnancy_arm_1,lmp,1,2024-05-14,29,0,0,0,0,1,Over age,,,,,21,,,,2
+EDN0197-B,prepregnancy_arm_1,lmp,10,2023-10-10,21,1,0,0,0,0,,,0,2023-09-26,,19,,2,,2
+EDN0200-J,prepregnancy_arm_1,lmp,3,2023-10-18,21,1,0,0,0,0,,,0,2023-10-16,,18,,2,,2
+EDN0203-F,prepregnancy_arm_1,lmp,2,2024-05-07,29,0,0,0,1,0,,2023-12-04,0,2024-05-02,,21,,,,2
+EDN0204-D,prepregnancy_arm_1,lmp,2,2024-05-07,29,0,0,1,0,0,,,,,Husband  is been sent to geal.sanna fadera ,21,,,,2
+EDN0221-F,prepregnancy_arm_1,lmp,4,2023-10-10,21,1,0,0,0,0,,,0,2023-09-20,,19,,2,,2
+EDN0225-D,prepregnancy_arm_1,lmp,4,2023-11-11,22,0,0,1,0,0,,,0,2023-10-21,,19,,,,2
+EDN0225-D,prepregnancy_arm_1,lmp,5,2024-05-22,29,0,0,1,0,0,,,,,,21,,,,2
+EDN0226-G,prepregnancy_arm_1,lmp,2,2024-05-22,29,0,0,0,0,1, Moved  to kombo,,,,,21,,,,2
+EDN0229-A,prepregnancy_arm_1,lmp,2,2024-05-21,29,0,0,0,0,1,Now move to kombo ,,,,,21,,,,2
+EDN0230-E,prepregnancy_arm_1,lmp,1,2024-05-21,29,0,0,0,1,0,,2024-02-13,0,2024-04-30,,21,,,,2
+EDN0233-G,prepregnancy_arm_1,lmp,8,2023-10-10,21,1,0,0,0,0,,,0,2023-10-10,,19,,2,,2
+EDN0234-J,prepregnancy_arm_1,lmp,2,2023-10-10,21,1,0,0,0,0,,,0,2023-09-23,,19,,2,,2
+EDN0234-J,prepregnancy_arm_1,lmp,3,2023-11-08,22,0,0,1,0,0,,,0,2023-10-17,,19,,,,2
+EDN0236-B,prepregnancy_arm_1,lmp,8,2023-10-18,21,1,0,0,0,0,,,0,2023-09-28,,18,,2,,2
+EDN0246-E,prepregnancy_arm_1,lmp,9,2023-10-11,21,1,0,0,0,0,,,0,2023-10-02,,26,,2,,2
+EDN0248-G,prepregnancy_arm_1,lmp,2,2023-10-11,21,1,0,0,0,0,,,0,2023-10-02,,26,,2,,2
+EDN0250-D,prepregnancy_arm_1,lmp,2,2024-05-08,29,0,0,0,0,1,TEMPORARY MOVED IN TOWN,,,,,26,,,,2
+EDN0250-D,prepregnancy_arm_1,lmp,3,2024-05-08,29,0,0,0,0,1,TEMPORARY MOVED IN TOWN,,,,,,,,,2
+EDN0252-H,prepregnancy_arm_1,lmp,2,2023-11-02,22,0,0,0,0,1,She moved to kombo ,,,,,18,,,,2
+EDN0253-E,prepregnancy_arm_1,lmp,1,,,0,0,0,0,1,Husband  refused ,,,,,21,,,,2
+EDN0254-C,prepregnancy_arm_1,lmp,1,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0255-A,prepregnancy_arm_1,lmp,1,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0256-K,prepregnancy_arm_1,lmp,1,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0256-K,prepregnancy_arm_1,lmp,2,2023-11-12,22,0,0,0,0,1,Didn't want to participate ,,,,,25,,,,2
+EDN0257-F,prepregnancy_arm_1,lmp,1,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0257-F,prepregnancy_arm_1,lmp,2,2023-11-12,22,0,0,0,0,1,Didn't want to participate ,,,,,25,,,,2
+EDN0258-J,prepregnancy_arm_1,lmp,2,2023-10-22,21,0,0,0,0,1,Refused bleeding ,,,,,15,,,,2
+EDN0258-J,prepregnancy_arm_1,lmp,3,2023-11-12,22,0,0,0,0,1,Didn't want to participate ,,,,,25,,,,2
+EDN0262-C,prepregnancy_arm_1,lmp,6,2023-10-05,21,1,0,0,0,0,,,0,2023-09-15,,19,,2,,2
+EDN0268-H,prepregnancy_arm_1,lmp,7,2023-10-05,21,1,0,0,0,0,,,0,2023-10-04,,19,,2,,2
+EDN0269-J,prepregnancy_arm_1,lmp,7,2023-10-11,21,1,0,0,0,0,,,0,2023-10-04,,26,,2,,2
+EDN0274-G,prepregnancy_arm_1,lmp,6,2023-10-10,21,1,0,0,0,0,,,0,2023-08-19,,6,,2,,2
+EDN0276-H,prepregnancy_arm_1,lmp,2,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0276-H,prepregnancy_arm_1,lmp,3,2023-11-12,22,0,0,0,0,1,Husband is in Europe ,,,,,25,,,,2
+EDN0278-A,prepregnancy_arm_1,lmp,2,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0279-F,prepregnancy_arm_1,lmp,1,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0279-F,prepregnancy_arm_1,lmp,2,2023-11-12,22,0,0,0,0,1,Married at cassamas ,,,,,25,,,,2
+EDN0280-F,prepregnancy_arm_1,lmp,2,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0280-F,prepregnancy_arm_1,lmp,3,2023-11-12,22,0,0,0,0,1,Didn't want to participate ,,,,,25,,,,2
+EDN0280-F,prepregnancy_arm_1,lmp,4,2023-11-12,22,0,0,0,0,1,Didn't want to participate ,,,,,25,,,,2
+EDN0281-J,prepregnancy_arm_1,lmp,1,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0281-J,prepregnancy_arm_1,lmp,2,2023-11-12,22,0,0,0,0,1,Didn't want to participate ,,,,,25,,,,2
+EDN0282-G,prepregnancy_arm_1,lmp,2,2023-10-22,21,0,0,0,0,1,Moved away ,,,,,15,,,,2
+EDN0282-G,prepregnancy_arm_1,lmp,3,2023-11-12,22,0,0,0,0,1,Didn't want to participate ,,,,,25,,,,2
+EDN0283-K,prepregnancy_arm_1,lmp,2,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0283-K,prepregnancy_arm_1,lmp,3,2023-11-14,22,0,0,0,0,1,Didn't want to participate ,,,,,25,,,,2
+EDN0284-H,prepregnancy_arm_1,lmp,2,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0284-H,prepregnancy_arm_1,lmp,3,2023-11-14,22,0,0,0,0,1,Didn't want to participate ,,,,,25,,,,2
+EDN0287-B,prepregnancy_arm_1,lmp,2,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0288-D,prepregnancy_arm_1,lmp,2,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0289-E,prepregnancy_arm_1,lmp,2,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0291-H,prepregnancy_arm_1,lmp,1,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0291-H,prepregnancy_arm_1,lmp,2,2023-11-14,22,0,0,0,0,1,Didn't want to participate ,,,,,25,,,,2
+EDN0292-F,prepregnancy_arm_1,lmp,2,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0292-F,prepregnancy_arm_1,lmp,3,2023-11-14,22,0,0,0,0,1,Didn't want to participate ,,0,2023-11-14,,25,,,,2
+EDN0293-A,prepregnancy_arm_1,lmp,2,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0294-K,prepregnancy_arm_1,lmp,2,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0295-J,prepregnancy_arm_1,lmp,2,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0295-J,prepregnancy_arm_1,lmp,3,2023-11-14,22,0,0,0,0,1,Didn't want to participate ,,,,,25,,,,2
+EDN0296-D,prepregnancy_arm_1,lmp,2,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0296-D,prepregnancy_arm_1,lmp,3,2023-11-14,22,0,0,0,0,1,Didn't want to participate ,,,,,25,,,,2
+EDN0312-J,prepregnancy_arm_1,lmp,8,2023-10-18,21,1,0,0,0,0,,,0,2023-10-18,,36,,,,2
+EDN0314-E,prepregnancy_arm_1,lmp,1,2023-11-08,22,0,0,0,0,1,Moved to Kombo ,,,,,35,,,,2
+EDN0317-H,prepregnancy_arm_1,lmp,2,2023-11-03,22,0,1,0,0,0,,,,,,35,,6,,2
+EDN0325-E,prepregnancy_arm_1,lmp,9,2023-10-10,21,1,0,0,0,0,,,0,2023-10-05,,36,,2,,2
+EDN0327-K,prepregnancy_arm_1,lmp,2,2023-11-09,22,0,0,0,1,0,,2023-06-11,,,,35,,,,2
+EDN0331-G,prepregnancy_arm_1,lmp,2,2023-11-09,22,0,0,0,1,0,,2023-10-10,,,,35,,,,2
+EDN0333-E,prepregnancy_arm_1,lmp,4,2023-10-18,21,1,0,0,0,0,,,0,2023-10-13,,36,,,,2
+EDN0333-E,prepregnancy_arm_1,lmp,6,2024-05-15,29,0,0,0,0,1,Travel to kombo,,,,,36,,,,2
+EDN0333-E,prepregnancy_arm_1,lmp,7,2024-06-15,30,0,1,0,0,0,,,,,,36,,,,2
+EDN0340-B,prepregnancy_arm_1,lmp,2,2023-11-09,22,0,0,0,0,1,She claimed not sensitised and needed time to decide with husband ,,,,,35,,,,2
+EDN0341-H,prepregnancy_arm_1,lmp,1,2023-11-09,22,0,0,0,0,1,Move to Kombo ,,,,,35,,,,2
+EDN0342-F,prepregnancy_arm_1,lmp,2,2023-11-09,22,0,1,0,0,0,,,,,,35,,,,2
+EDN0342-F,prepregnancy_arm_1,lmp,3,2024-05-15,29,0,0,0,0,1,She said she is not interested,,,,,36,,,,2
+EDN0342-F,prepregnancy_arm_1,lmp,4,2024-06-15,30,0,0,0,0,1,Travel to the husband ,,,,,36,,,,2
+EDN0343-A,prepregnancy_arm_1,lmp,2,2023-11-09,22,0,1,0,0,0,,,,,,35,,,,2
+EDN0343-A,prepregnancy_arm_1,lmp,3,2024-05-15,29,0,1,0,0,0,,,,,,36,,,,2
+EDN0343-A,prepregnancy_arm_1,lmp,4,2024-06-27,30,0,1,0,0,0,,,,,,,,,,2
+EDN0349-G,prepregnancy_arm_1,lmp,7,2023-10-18,21,1,0,0,0,0,,,0,2023-10-01,,36,,,,2
+EDN0351-J,prepregnancy_arm_1,lmp,11,2023-10-18,21,1,0,0,0,0,,,0,2023-10-12,,36,,,,2
+EDN0351-J,prepregnancy_arm_1,lmp,12,2023-10-18,21,1,0,0,0,0,,,0,2023-10-14,,36,,,,2
+EDN0363-G,prepregnancy_arm_1,lmp,2,2023-11-11,22,0,0,1,0,0,,,,,,15,,,,2
+EDN0365-H,prepregnancy_arm_1,lmp,2,2023-11-09,22,0,0,0,0,1,Moved to Murtania on marriage ,,,,,35,,,,2
+EDN0368-F,prepregnancy_arm_1,lmp,2,2023-11-07,22,0,0,1,0,0,,,,,,35,,6,,2
+EDN0369-K,prepregnancy_arm_1,lmp,1,2023-11-12,22,0,0,0,0,1,Travelled throughout cycle 22,,,,,35,,,,2
+EDN0370-A,prepregnancy_arm_1,lmp,2,2023-11-07,22,0,1,0,0,0,,,,,,35,,6,,2
+EDN0377-G,prepregnancy_arm_1,lmp,1,2023-11-11,22,0,1,0,0,0,,,,,,15,,,,2
+EDN0378-E,prepregnancy_arm_1,lmp,8,2023-10-18,21,1,0,0,0,0,,,0,2023-10-07,,36,,,,2
+EDN0379-C,prepregnancy_arm_1,lmp,10,2023-10-19,21,1,0,0,0,0,,,0,2023-10-19,,36,,,,2
+EDN0381-A,prepregnancy_arm_1,lmp,12,2023-10-19,21,1,0,0,0,0,,,0,2023-10-17,,36,,,,2
+EDN0382-K,prepregnancy_arm_1,lmp,11,2023-11-11,22,0,0,0,0,1,Travelled ,,,,,15,,,,2
+EDN0382-K,prepregnancy_arm_1,lmp,14,2024-05-22,29,0,0,0,0,1,Travelled to kombo ,,,,,8,,,,2
+EDN0382-K,prepregnancy_arm_1,lmp,15,2024-06-24,30,0,0,0,0,1,Travelled to the husband in kombo,,,,,8,,,,2
+EDN0384-B,prepregnancy_arm_1,lmp,2,2023-11-11,22,0,0,0,0,1,Moved away ,,,,,15,,,,2
+EDN0386-E,prepregnancy_arm_1,lmp,10,2023-10-19,21,1,0,0,0,0,,,0,2023-09-20,,36,,,,2
+EDN0386-E,prepregnancy_arm_1,lmp,14,2024-06-06,30,0,0,0,0,1,Sick and taking to her home in casamance,,0,2024-06-06,,8,,,,2
+EDN0389-D,prepregnancy_arm_1,lmp,11,2023-10-18,21,1,0,0,0,0,,,0,2023-10-05,,36,,,,2
+EDN0391-K,prepregnancy_arm_1,lmp,8,2023-10-18,21,1,0,0,0,0,,,0,2023-10-04,,36,,,,2
+EDN0393-F,prepregnancy_arm_1,lmp,2,2023-11-11,22,0,0,0,0,1,Pregnant ,,,,,15,,,,2
+EDN0393-F,prepregnancy_arm_1,lmp,3,2024-03-04,27,0,0,0,1,0,,2023-12-26,0,,,8,,,,2
+EDN0393-F,prepregnancy_arm_1,lmp,4,2024-05-07,29,0,0,0,1,0,,,,,,8,,,,2
+EDN0393-F,prepregnancy_arm_1,lmp,5,2024-06-06,30,0,0,0,1,0,,,0,,,8,,,,2
+EDN0395-G,prepregnancy_arm_1,lmp,2,2023-11-11,22,0,0,0,0,1,Travelled ,,,,,15,,,,2
+EDN0398-B,prepregnancy_arm_1,lmp,2,2023-10-19,21,1,0,0,0,0,,,0,2023-10-09,,36,,,,2
+EDN0399-H,prepregnancy_arm_1,lmp,1,2023-11-11,22,0,1,0,0,0,,,,,,15,,,,2
+EDN0402-F,prepregnancy_arm_1,lmp,2,2023-10-18,21,1,0,0,0,0,,,0,2023-10-08,,22,,,,2
+EDN0402-F,prepregnancy_arm_1,lmp,7,2024-06-24,30,0,0,0,0,1,travel ,,,2024-06-24,,36,,,,2
+EDN0408-C,prepregnancy_arm_1,lmp,7,2023-10-11,21,1,0,0,0,0,,,1,,,26,,2,,2
+EDN0413-K,prepregnancy_arm_1,lmp,2,2023-11-11,22,0,0,1,0,0,,,,,,15,,,,2
+EDN0413-K,prepregnancy_arm_1,lmp,5,2024-05-01,29,0,0,1,0,0,,,0,,,8,,,,2
+EDN0413-K,prepregnancy_arm_1,lmp,6,2024-05-29,30,0,0,1,0,0,,,0,,,36,,,,2
+EDN0414-H,prepregnancy_arm_1,lmp,8,2023-10-17,21,1,0,0,0,0,,,0,2023-10-05,,22,,,,2
+EDN0417-B,prepregnancy_arm_1,lmp,8,2023-10-18,21,1,0,0,0,0,,,0,2023-09-15,,22,,,,2
+EDN0426-C,prepregnancy_arm_1,lmp,10,2023-10-19,21,1,0,0,0,0,,,0,2023-09-18,,36,,,,2
+EDN0427-A,prepregnancy_arm_1,lmp,10,2023-10-19,21,1,0,0,0,0,,,1,,,36,,,,2
+EDN0428-B,prepregnancy_arm_1,lmp,9,2023-10-19,21,1,0,0,0,0,,,0,2023-10-07,,36,,,,2
+EDN0429-H,prepregnancy_arm_1,lmp,6,2023-11-11,22,0,0,0,0,1,Travelled ,,,,,15,,,,2
+EDN0430-G,prepregnancy_arm_1,lmp,10,2023-11-11,22,0,0,0,0,1,Sick,,,,,15,,,,2
+EDN0430-G,prepregnancy_arm_1,lmp,14,2024-06-06,30,0,0,0,0,1,She is currently under treatment at the coast,,,,,8,,,,2
+EDN0432-C,prepregnancy_arm_1,lmp,10,2023-10-19,21,1,0,0,0,0,,,0,2023-10-19,,36,,,,2
+EDN0434-A,prepregnancy_arm_1,lmp,10,2023-10-18,21,1,0,0,0,0,,,0,2023-10-12,,22,,,,2
+EDN0436-F,prepregnancy_arm_1,lmp,2,2023-11-11,22,0,0,0,0,1,Moved away ,,,,,15,,,,2
+EDN0437-K,prepregnancy_arm_1,lmp,2,2024-05-01,29,0,0,1,0,0,,,,,,8,,,,2
+EDN0437-K,prepregnancy_arm_1,lmp,3,2024-05-29,30,0,0,1,0,0,,,,,,36,,,,2
+EDN0438-H,prepregnancy_arm_1,lmp,10,2023-10-17,21,1,0,0,0,0,,,0,2023-10-15,,22,,,,2
+EDN0441-C,prepregnancy_arm_1,lmp,1,2023-11-11,,0,1,0,0,0,,,,,,15,,,,2
+EDN0443-G,prepregnancy_arm_1,lmp,2,2023-11-11,22,0,0,0,0,1,Moved away ,,,,,15,,,,2
+EDN0444-J,prepregnancy_arm_1,lmp,2,2023-10-18,21,1,0,0,0,0,,,0,2023-10-02,,22,,,,2
+EDN0446-B,prepregnancy_arm_1,lmp,1,2023-11-11,22,0,0,0,0,1,Moved away,,,,,15,,,,2
+EDN0450-A,prepregnancy_arm_1,lmp,2,2023-11-11,22,0,0,1,0,0,,,,,,15,,,,2
+EDN0452-B,prepregnancy_arm_1,lmp,2,2023-10-19,21,1,0,0,0,0,,,0,2023-10-19,,36,,,,2
+EDN0454-F,prepregnancy_arm_1,lmp,2,2023-11-11,22,0,0,1,0,0,,,,,,15,,,,2
+EDN0456-J,prepregnancy_arm_1,lmp,10,2023-11-11,22,0,0,0,0,1,Eden/indigo antenatal ,,,,,15,,,,2
+EDN0457-G,prepregnancy_arm_1,lmp,2,2023-11-11,22,0,0,1,0,0,,,,,,15,,,,2
+EDN0459-C,prepregnancy_arm_1,lmp,2,2023-10-18,21,1,0,0,0,0,,,0,2023-09-26,,36,,,,2
+EDN0459-C,prepregnancy_arm_1,lmp,5,2024-05-22,29,0,0,0,0,1,Travelled to kombo,,,,,8,,,,2
+EDN0462-J,prepregnancy_arm_1,lmp,8,2023-11-11,22,0,0,0,0,1,Travelled,,,,,15,,,,2
+EDN0463-B,prepregnancy_arm_1,lmp,2,2023-11-11,22,0,0,1,0,0,,,,,,15,,,,2
+EDN0463-B,prepregnancy_arm_1,lmp,5,2024-05-01,29,0,0,1,0,0,,,,,Husband returned to europe,8,,,,2
+EDN0463-B,prepregnancy_arm_1,lmp,6,2024-05-29,30,0,0,1,0,0,,,,,,36,,,,2
+EDN0464-E,prepregnancy_arm_1,lmp,1,2023-11-11,22,0,0,0,1,0,,2023-09-05,,,,15,,,,2
+EDN0464-E,prepregnancy_arm_1,lmp,2,2024-05-01,29,0,0,0,1,0,,2023-09-05,,,,8,,,,2
+EDN0464-E,prepregnancy_arm_1,lmp,3,2024-05-29,30,0,0,0,1,0,,2023-09-05,,,,36,,,,2
+EDN0465-D,prepregnancy_arm_1,lmp,1,2023-11-11,22,0,0,0,0,1,Moved away ,,,,,15,,,,2
+EDN0466-G,prepregnancy_arm_1,lmp,10,2023-10-13,21,1,0,0,0,0,,,1,,,22,,2,,2
+EDN0467-H,prepregnancy_arm_1,lmp,2,2023-10-20,21,1,0,0,0,0,,,0,2023-10-06,,22,,,,2
+EDN0467-H,prepregnancy_arm_1,lmp,6,2024-05-22,29,0,0,0,0,1,Travelled,,,,Travelled to guinea bissau,8,,,,2
+EDN0467-H,prepregnancy_arm_1,lmp,7,2024-06-25,30,0,0,0,0,1,Travel ,,,,,36,,,,2
+EDN0471-G,prepregnancy_arm_1,lmp,2,2023-11-11,22,0,0,0,0,1,Moved away ,,,,,15,,,,2
+EDN0472-H,prepregnancy_arm_1,lmp,3,2023-10-18,21,1,0,0,0,0,,,0,2023-10-05,,22,,,,2
+EDN0472-H,prepregnancy_arm_1,lmp,9,2024-05-29,30,0,0,0,0,1,Am using fp,,0,2023-05-01,,36,,,,2
+EDN0475-A,prepregnancy_arm_1,lmp,2,2024-02-15,26,0,0,1,0,0,,,,,,8,,,,2
+EDN0475-A,prepregnancy_arm_1,lmp,3,2024-05-21,29,0,0,1,0,0,,,,,,8,,,,2
+EDN0475-A,prepregnancy_arm_1,lmp,4,2024-06-24,30,0,0,1,0,0,,,,,,8,,,,2
+EDN0476-K,prepregnancy_arm_1,lmp,2,2024-02-15,26,0,0,0,0,1,Divorce,,,,,8,,,,2
+EDN0481-E,prepregnancy_arm_1,lmp,1,2024-02-15,26,0,0,0,0,1,Not married,,,,,8,,,,2
+EDN0481-E,prepregnancy_arm_1,lmp,2,2024-05-21,29,0,1,0,0,0,,,,,,8,,,,2
+EDN0481-E,prepregnancy_arm_1,lmp,3,2024-06-24,30,0,1,0,0,0,,,,,,8,,,,2
+EDN0484-G,prepregnancy_arm_1,lmp,1,2024-02-15,26,0,0,0,0,1,Student,,,,,8,,,,2
+EDN0486-H,prepregnancy_arm_1,lmp,1,2024-02-15,26,0,1,0,0,0,,,,,,8,,,,2
+EDN0486-H,prepregnancy_arm_1,lmp,2,2024-05-21,29,0,1,0,0,0,,,,,,8,,,,2
+EDN0486-H,prepregnancy_arm_1,lmp,3,2024-06-24,30,0,1,0,0,0,,,,,,8,,,,2
+EDN0487-C,prepregnancy_arm_1,lmp,1,2023-10-02,21,1,0,0,0,0,,,1,,,22,,2,,2
+EDN0489-F,prepregnancy_arm_1,lmp,1,2024-02-15,26,0,1,0,0,0,,,,,She travel with the childs card i couldnt obtained the childs DOB,8,,,,2
+EDN0489-F,prepregnancy_arm_1,lmp,2,2024-05-21,29,0,1,0,0,0,,,,,,8,,,,2
+EDN0489-F,prepregnancy_arm_1,lmp,3,2024-06-24,30,0,1,0,0,0,,,,,,8,,,,2
+EDN0494-B,prepregnancy_arm_1,lmp,5,2023-10-18,21,1,0,0,0,0,,,0,2023-10-15,,18,,2,,2
+EDN0504-J,prepregnancy_arm_1,lmp,1,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0509-K,prepregnancy_arm_1,lmp,1,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0509-K,prepregnancy_arm_1,lmp,2,2023-11-14,22,0,0,0,0,1,Didn't want to participate ,,,,,25,,,,2
+EDN0514-C,prepregnancy_arm_1,lmp,8,2023-10-19,21,1,0,0,0,0,,,0,2023-10-07,,22,,,,2
+EDN0519-B,prepregnancy_arm_1,lmp,8,2023-10-18,21,1,0,0,0,0,,,1,,,27,,2,,2
+EDN0522-D,prepregnancy_arm_1,lmp,6,2023-10-15,21,1,0,0,0,0,,,0,2023-10-03,,15,,5,,2
+EDN0524-G,prepregnancy_arm_1,lmp,1,2023-10-22,21,0,0,0,1,0,,,,,,15,,,,2
+EDN0525-B,prepregnancy_arm_1,lmp,1,2023-10-22,21,0,0,0,1,0,,,,,,15,,,,2
+EDN0527-C,prepregnancy_arm_1,lmp,8,2023-10-21,21,0,0,0,0,1,Travelled ,,,,,15,,,,2
+EDN0528-A,prepregnancy_arm_1,lmp,4,2023-11-09,22,0,0,0,0,1,Husband travelled,,0,2023-10-17,,6,,,,2
+EDN0528-A,prepregnancy_arm_1,lmp,6,2024-04-12,28,0,0,0,0,1,Temporary excluding due to husband's travelled,,,,,6,,,,2
+EDN0528-A,prepregnancy_arm_1,lmp,7,2024-05-19,29,0,0,0,0,1,Husband lives in abroad. ,,,,,,,,,0
+EDN0528-A,prepregnancy_arm_1,lmp,8,2024-05-30,30,0,0,0,0,1,Husband travelled and not expsoon,,,,,,,,,2
+EDN0529-F,prepregnancy_arm_1,lmp,5,2023-10-11,21,1,0,0,0,0,,,0,2023-09-26,,6,,2,,2
+EDN0532-K,prepregnancy_arm_1,lmp,7,,,0,0,0,0,1,The husband said let her quit the project. ,,,,,,,,,2
+EDN0532-K,prepregnancy_arm_1,lmp,8,2024-05-29,30,0,0,0,0,1,Declined for participation ,,,,,,,,,2
+EDN0535-F,prepregnancy_arm_1,lmp,12,2023-10-05,21,1,0,0,0,0,,,0,2023-10-03,,18,,2,,2
+EDN0536-E,prepregnancy_arm_1,lmp,7,2023-10-09,21,1,0,0,0,0,,,0,2023-10-09,,19,,2,,2
+EDN0537-J,prepregnancy_arm_1,lmp,13,2023-10-12,21,1,0,0,0,0,,,1,,,19,,2,,2
+EDN0539-D,prepregnancy_arm_1,lmp,2,2024-05-21,29,0,0,0,1,0,,2024-02-20,0,2024-04-30,,21,,,,2
+EDN0544-A,prepregnancy_arm_1,lmp,1,2024-05-21,29,0,0,0,0,1,Not interested to  ,,,,,21,,,,2
+EDN0546-F,prepregnancy_arm_1,lmp,1,2023-10-18,21,0,0,0,0,1,Move to the husband in the coast ,,,,,17,,,,2
+EDN0547-K,prepregnancy_arm_1,lmp,1,2024-01-30,26,0,1,0,0,0,,,,,,22,,,,2
+EDN0547-K,prepregnancy_arm_1,lmp,2,2024-03-06,27,0,1,0,0,0,,,,,,22,,,,2
+EDN0547-K,prepregnancy_arm_1,lmp,3,2024-03-30,28,0,1,0,0,0,,,0,2024-03-19,,,,,,2
+EDN0547-K,prepregnancy_arm_1,lmp,4,2024-05-07,29,0,1,0,0,0,,,,,,22,,,,2
+EDN0547-K,prepregnancy_arm_1,lmp,5,2024-06-05,30,0,1,0,0,0,,,,,,22,,,,2
+EDN0548-H,prepregnancy_arm_1,lmp,2,2023-10-18,21,0,1,0,0,0,,,,,,17,,,,2
+EDN0553-A,prepregnancy_arm_1,lmp,3,2023-10-18,21,0,0,0,0,1,Move to bondali,,,,,17,,,,2
+EDN0554-K,prepregnancy_arm_1,lmp,1,2023-10-18,21,0,0,0,0,1,Move to the coast,,,,,17,,,,2
+EDN0555-J,prepregnancy_arm_1,lmp,7,2023-10-10,21,1,0,0,0,0,,,0,2023-10-04,,22,,2,,2
+EDN0562-G,prepregnancy_arm_1,lmp,1,2023-10-18,21,0,0,0,1,0,,,,,,,,,,2
+EDN0562-G,prepregnancy_arm_1,lmp,2,2024-02-01,26,0,0,0,1,0,,2023-10-09,,,,22,,,,2
+EDN0562-G,prepregnancy_arm_1,lmp,3,2024-03-06,27,0,0,0,1,0,,2033-10-09,,,,22,,,,2
+EDN0566-A,prepregnancy_arm_1,lmp,3,2023-10-18,21,0,0,0,1,0,,2023-10-10,,,,17,,,,2
+EDN0566-A,prepregnancy_arm_1,lmp,4,2024-01-30,26,0,0,0,1,0,,2023-09-30,,,,22,,,,2
+EDN0566-A,prepregnancy_arm_1,lmp,5,2024-03-06,27,0,0,0,1,0,,2033-09-30,,,,22,,,,2
+EDN0566-A,prepregnancy_arm_1,lmp,6,2024-03-30,28,0,0,0,1,0,,2023-09-30,,,,31,,,,2
+EDN0569-E,prepregnancy_arm_1,lmp,2,2023-10-18,21,0,0,0,0,1,Move to the husband in the coast,,,,,17,,,,2
+EDN0570-J,prepregnancy_arm_1,lmp,1,2023-10-17,21,1,0,0,0,0,,,0,2023-09-27,,17,,,,2
+EDN0572-E,prepregnancy_arm_1,lmp,1,2023-10-17,21,1,0,0,0,0,,,1,,,17,,,,2
+EDN0574-D,prepregnancy_arm_1,lmp,7,2023-10-10,21,1,0,0,0,0,,,0,2023-09-08,,22,,2,,2
+EDN0575-G,prepregnancy_arm_1,lmp,7,2023-10-10,21,1,0,0,0,0,,,1,,,22,,2,,2
+EDN0577-A,prepregnancy_arm_1,lmp,3,2024-05-07,29,0,0,0,0,1,Husband refused ,,,,,30,,,,2
+EDN0581-F,prepregnancy_arm_1,lmp,1,2023-10-18,21,0,0,0,0,1,Move ,,,,,17,,,,2
+EDN0583-B,prepregnancy_arm_1,lmp,6,2023-10-10,21,1,0,0,0,0,,,0,2023-10-04,,22,,2,,2
+EDN0584-E,prepregnancy_arm_1,lmp,1,2023-10-17,21,1,0,0,0,0,,,1,,,17,,,,2
+EDN0585-D,prepregnancy_arm_1,lmp,1,2023-10-18,21,0,1,0,0,0,,,,,,17,,,,2
+EDN0586-G,prepregnancy_arm_1,lmp,2,2023-11-11,22,0,1,0,0,0,,,,,,22,,,,2
+EDN0588-K,prepregnancy_arm_1,lmp,11,2024-05-17,29,0,0,0,0,1,Travelled ,,,,,22,,,,2
+EDN0589-A,prepregnancy_arm_1,lmp,3,2023-11-11,22,0,0,1,0,0,,,,,,22,,,,2
+EDN0590-A,prepregnancy_arm_1,lmp,1,2023-10-18,21,0,0,0,0,1,Move to the coast ,,,,,17,,,,2
+EDN0591-D,prepregnancy_arm_1,lmp,1,2023-10-18,21,0,1,0,0,0,,,,,,17,,,,2
+EDN0597-G,prepregnancy_arm_1,lmp,4,2023-10-22,21,0,0,0,0,1,She is under supplement,,,,,2,,,,2
+EDN0599-C,prepregnancy_arm_1,lmp,1,2023-10-23,21,0,0,0,0,1,Moved to kombo,,,,,2,,,,2
+EDN0600-C,prepregnancy_arm_1,lmp,9,2023-10-11,21,1,0,0,0,0,,,1,,,21,,2,,2
+EDN0600-C,prepregnancy_arm_1,lmp,13,2024-04-02,28,0,0,0,0,1,Study participants in indigo,,0,,,,,,,2
+EDN0601-F,prepregnancy_arm_1,lmp,2,2023-10-22,21,0,1,0,0,0,,,0,2023-10-22,,2,,,,2
+EDN0606-G,prepregnancy_arm_1,lmp,7,2023-10-18,21,0,0,1,0,0,,,,,,17,,,,2
+EDN0607-H,prepregnancy_arm_1,lmp,7,2024-01-30,26,0,0,1,0,0,,,,,,22,,,,2
+EDN0607-H,prepregnancy_arm_1,lmp,8,2024-03-26,28,0,0,1,0,0,,,,,,31,,,,2
+EDN0607-H,prepregnancy_arm_1,lmp,9,2024-05-07,29,0,0,1,0,0,,,,,,22,,,,2
+EDN0607-H,prepregnancy_arm_1,lmp,10,2024-06-05,30,0,0,1,0,0,,,,,,22,,,,2
+EDN0608-K,prepregnancy_arm_1,lmp,3,2023-11-11,22,0,0,1,0,0,,,,,,22,,,,2
+EDN0613-D,prepregnancy_arm_1,lmp,3,2023-11-11,22,0,1,0,0,0,,,,,,22,,,,2
+EDN0614-A,prepregnancy_arm_1,lmp,6,2023-10-09,21,1,0,0,0,0,,,0,2023-10-06,,22,,2,,2
+EDN0621-H,prepregnancy_arm_1,lmp,1,2024-01-24,26,0,0,0,1,0,,2023-11-19,,,,22,,,,2
+EDN0621-H,prepregnancy_arm_1,lmp,2,2024-03-31,28,0,0,0,1,0,,2023-11-19,1,,,31,,,,2
+EDN0621-H,prepregnancy_arm_1,lmp,3,2024-05-02,29,0,0,0,1,0,,2023-11-19,,,,22,,,,2
+EDN0623-A,prepregnancy_arm_1,lmp,7,2023-10-11,21,1,0,0,0,0,,,0,2023-09-16,,22,,2,,2
+EDN0625-J,prepregnancy_arm_1,lmp,6,2023-10-10,21,1,0,0,0,0,,,0,2023-10-08,,22,,2,,2
+EDN0625-J,prepregnancy_arm_1,lmp,11,2024-06-07,30,0,0,0,0,1,Travelled ,,0,,,22,,,,2
+EDN0626-D,prepregnancy_arm_1,lmp,1,2023-08-15,19,0,0,0,1,0,,2023-01-29,,,,35,,2,,2
+EDN0626-D,prepregnancy_arm_1,lmp,2,2023-08-31,20,0,0,0,1,0,,2023-01-25,1,,,17,,2,,2
+EDN0626-D,prepregnancy_arm_1,lmp,3,2023-10-05,21,0,0,0,1,0,,2023-01-29,0,2023-01-29,,17,,2,,2
+EDN0626-D,prepregnancy_arm_1,lmp,7,2024-05-02,29,0,0,0,0,1,Travelled ,,,,,22,,,,2
+EDN0627-E,prepregnancy_arm_1,lmp,8,2023-10-18,21,1,0,0,0,0,,,0,2023-10-18,,2,,,,2
+EDN0628-C,prepregnancy_arm_1,lmp,6,2023-10-17,21,1,0,0,0,0,,,0,2023-10-09,,2,,2,,2
+EDN0631-E,prepregnancy_arm_1,lmp,8,2023-10-18,21,1,0,0,0,0,,,0,2023-10-18,,2,,2,,2
+EDN0633-J,prepregnancy_arm_1,lmp,7,2023-10-11,21,1,0,0,0,0,,,1,,,21,,2,,2
+EDN0633-J,prepregnancy_arm_1,lmp,12,2024-05-23,29,0,0,0,0,1,Travelled ,,,,,2,,,,2
+EDN0634-G,prepregnancy_arm_1,lmp,6,2023-10-11,21,1,0,0,0,0,,,0,2023-10-17,,2,,2,,2
+EDN0638-A,prepregnancy_arm_1,lmp,1,2023-10-23,21,0,0,0,1,0,,2022-11-29,0,2023-10-23,,2,,,,2
+EDN0638-A,prepregnancy_arm_1,lmp,4,2024-04-02,28,0,0,0,0,1,Travelled ,,,,,2,,,,2
+EDN0638-A,prepregnancy_arm_1,lmp,5,2024-05-16,29,0,0,0,0,1,Moved to kombo finally ,,,,,2,,,,2
+EDN0638-A,prepregnancy_arm_1,lmp,6,2024-06-26,30,0,0,0,0,1,Moved,,,,,2,,,,2
+EDN0639-E,prepregnancy_arm_1,lmp,1,2023-11-08,22,0,0,0,1,0,,,0,,,14,,,,2
+EDN0639-F,prepregnancy_arm_1,lmp,2,2023-10-23,21,0,0,0,1,1,,2023-02-28,,,,2,,,,2
+EDN0643-K,prepregnancy_arm_1,lmp,3,2024-04-02,28,0,0,0,0,1,Travelled ,,,,,2,,,,2
+EDN0643-K,prepregnancy_arm_1,lmp,4,2024-04-30,29,0,0,0,0,1,Moved to coast for treatment ,,,,,2,,,,2
+EDN0643-K,prepregnancy_arm_1,lmp,5,2024-06-26,30,0,0,0,0,1,Moved,,,,,2,,,,2
+EDN0644-H,prepregnancy_arm_1,lmp,1,2024-02-05,26,0,0,1,0,0,,,0,2024-02-05,,2,,2,,2
+EDN0644-H,prepregnancy_arm_1,lmp,2,2024-02-28,27,0,0,1,0,0,,,0,2024-02-16,,2,,,,2
+EDN0644-H,prepregnancy_arm_1,lmp,3,2024-04-02,28,0,0,1,0,0,,,,,,2,,,,2
+EDN0644-H,prepregnancy_arm_1,lmp,4,2024-04-30,29,0,0,1,0,0,,,0,2024-04-30,,2,,,,2
+EDN0644-H,prepregnancy_arm_1,lmp,5,2024-06-26,30,0,0,1,0,0,,,,,,2,,,,2
+EDN0648-D,prepregnancy_arm_1,lmp,4,2023-10-12,21,1,0,0,0,0,,,0,2023-09-29,,21,,2,,2
+EDN0649-E,prepregnancy_arm_1,lmp,6,2023-10-09,21,1,0,0,0,0,,,1,,,21,,2,,2
+EDN0650-H,prepregnancy_arm_1,lmp,2,2023-10-22,21,0,0,1,0,0,,,0,2023-10-22,,2,,,,2
+EDN0651-A,prepregnancy_arm_1,lmp,1,2024-01-25,26,0,0,0,1,0,,2023-05-19,,,,22,,,,2
+EDN0651-A,prepregnancy_arm_1,lmp,3,2024-05-02,29,0,0,0,1,0,,2023-05-19,,,,22,,,,2
+EDN0651-A,prepregnancy_arm_1,lmp,4,2024-05-30,,0,0,0,0,1,Travelled ,,,,,22,,,,2
+EDN0656-E,prepregnancy_arm_1,lmp,7,2023-10-11,21,1,0,0,0,0,,,1,,,21,,2,,2
+EDN0660-J,prepregnancy_arm_1,lmp,7,2023-10-05,21,1,0,0,0,0,,,0,2023-10-05,,2,,2,,2
+EDN0661-K,prepregnancy_arm_1,lmp,2,2023-10-10,21,1,0,0,0,0,,,1,,,21,,2,,2
+EDN0661-K,prepregnancy_arm_1,lmp,3,2023-10-10,21,1,0,0,0,0,,,1,,,21,,2,,2
+EDN0666-C,prepregnancy_arm_1,lmp,8,2023-10-05,21,1,0,0,0,0,,,0,2023-10-05,,2,,2,,2
+EDN0666-C,prepregnancy_arm_1,lmp,14,2024-06-06,30,0,0,0,0,1,Travelled ,,,,,35,,,,2
+EDN0666-C,prepregnancy_arm_1,lmp,15,2024-06-26,30,0,0,0,0,1,Moved to kombo,,,,,,,,,2
+EDN0668-B,prepregnancy_arm_1,lmp,7,2023-10-05,21,1,0,0,0,0,,,0,2023-10-01,,2,,2,,2
+EDN0668-B,prepregnancy_arm_1,lmp,12,2024-05-23,29,0,0,0,0,1,Travelled ,,,,,2,,,,2
+EDN0669-H,prepregnancy_arm_1,lmp,1,2023-10-23,21,0,0,0,0,1,Pregnancy more than 5 months ,,,,,2,,,,2
+EDN0673-G,prepregnancy_arm_1,lmp,7,2024-02-15,26,0,0,0,0,1,Travelled ,,,,,2,,,,2
+EDN0674-J,prepregnancy_arm_1,lmp,2,2023-10-23,21,0,0,0,0,1,Pass away ,,,,,2,,,,2
+EDN0675-H,prepregnancy_arm_1,lmp,4,2023-10-22,21,0,0,0,0,1,Declined to participate in the project ,,,,,2,,2,,2
+EDN0675-H,prepregnancy_arm_1,lmp,8,2024-05-01,29,0,0,0,0,1,Overage,,,,,2,,,,2
+EDN0676-B,prepregnancy_arm_1,lmp,8,2023-10-16,21,1,0,0,0,0,,,0,2023-10-12,,2,,2,,2
+EDN0682-B,prepregnancy_arm_1,lmp,2,2023-10-22,21,0,0,1,0,0,,,0,2023-10-11,,2,,2,,2
+EDN0682-B,prepregnancy_arm_1,lmp,3,2024-02-05,26,0,0,1,0,0,,,0,2024-02-04,,2,,,,2
+EDN0682-B,prepregnancy_arm_1,lmp,4,2024-02-28,27,0,0,1,0,0,,,,,,,,,,2
+EDN0682-B,prepregnancy_arm_1,lmp,5,2024-04-02,28,0,0,1,0,0,,,,,,2,,,,2
+EDN0682-B,prepregnancy_arm_1,lmp,6,2024-04-30,29,0,0,1,0,0,,,,,,2,,,,2
+EDN0682-B,prepregnancy_arm_1,lmp,7,2024-06-26,30,0,0,1,0,0,,,,,,2,,,,2
+EDN0684-F,prepregnancy_arm_1,lmp,1,2023-10-23,21,0,0,0,0,1,Moved to kombo finally ,,,,,2,,,,2
+EDN0686-J,prepregnancy_arm_1,lmp,1,2023-10-23,21,0,0,0,0,1,Moved to kombo finally ,,,,,2,,,,2
+EDN0687-G,prepregnancy_arm_1,lmp,7,2023-10-12,21,1,0,0,0,0,,,0,2023-09-28,,21,,2,,2
+EDN0696-K,prepregnancy_arm_1,lmp,2,2024-04-30,29,0,0,0,1,0,,2023-10-24,0,2024-04-14,,16,,,,2
+EDN0696-K,prepregnancy_arm_1,lmp,3,2024-06-04,30,0,0,0,0,1,Participant travelked.,,,,I couldn't know her last menstrual cycle because she is not within the cluster,16,,,,2
+EDN0697-F,prepregnancy_arm_1,lmp,10,2023-09-29,21,1,0,0,0,0,,,0,2023-09-10,,14,,2,,2
+EDN0699-B,prepregnancy_arm_1,lmp,10,2023-10-04,21,1,0,0,0,0,,,0,2023-10-18,,16,,2,,2
+EDN0700-D,prepregnancy_arm_1,lmp,4,2024-06-06,30,0,0,0,1,0,,2023-04-19,0,2024-06-03,,16,,,,2
+EDN0704-C,prepregnancy_arm_1,lmp,8,2023-10-02,21,1,0,0,0,0,,,0,2023-09-15,,28,,2,,2
+EDN0705-A,prepregnancy_arm_1,lmp,1,2023-10-10,21,1,0,0,0,0,,,0,2023-09-25,,28,,2,,2
+EDN0709-B,prepregnancy_arm_1,lmp,2,2023-10-05,21,1,0,0,0,0,,,0,2023-10-03,,28,,2,,2
+EDN0711-E,prepregnancy_arm_1,lmp,2,2023-10-02,21,1,0,0,0,0,,,0,2023-09-10,,28,,2,,2
+EDN0712-D,prepregnancy_arm_1,lmp,2,2023-07-31,19,0,0,0,1,0,,2023-07-31,,,,31,,2,,2
+EDN0715-B,prepregnancy_arm_1,lmp,1,2023-11-07,22,0,0,0,1,0,,2023-06-11,0,2023-10-27,,28,,,,2
+EDN0715-B,prepregnancy_arm_1,lmp,2,2024-01-24,26,0,0,0,1,0,,2023-06-11,0,2024-01-16,,28,,,,2
+EDN0715-B,prepregnancy_arm_1,lmp,4,2024-05-14,29,0,0,0,0,1,She is in kombo for a treatment.,,,,,28,,,,2
+EDN0715-B,prepregnancy_arm_1,lmp,5,2024-06-11,30,0,0,0,0,1,She is in kombo for treatment. ,,,,,28,,,,2
+EDN0716-H,prepregnancy_arm_1,lmp,3,2024-05-14,29,0,0,0,0,1,She moved to her husband in kombo.,,,,,28,,,,2
+EDN0716-H,prepregnancy_arm_1,lmp,4,2024-06-11,30,0,0,0,0,1,Married and staying with her husband in kombo. ,,,,,28,,,,2
+EDN0720-F,prepregnancy_arm_1,lmp,1,2023-07-31,19,0,0,0,0,1,Withdrawn,,,,,31,,2,,2
+EDN0721-J,prepregnancy_arm_1,lmp,2,2023-10-05,21,1,0,0,0,0,,,0,2023-09-27,,28,,2,,2
+EDN0723-K,prepregnancy_arm_1,lmp,2,2023-10-04,21,1,0,0,0,0,,,0,2023-09-29,,28,,2,,2
+EDN0724-H,prepregnancy_arm_1,lmp,2,2023-10-04,21,1,0,0,0,0,,,0,2023-09-22,,28,,2,,2
+EDN0726-A,prepregnancy_arm_1,lmp,1,2023-11-10,22,0,0,0,1,0,,2023-05-07,0,2023-10-22,,28,,,,2
+EDN0726-A,prepregnancy_arm_1,lmp,2,2024-01-25,26,0,0,0,1,0,,2023-05-07,0,2024-12-28,,28,,,,2
+EDN0731-F,prepregnancy_arm_1,lmp,7,2023-10-10,21,1,0,0,0,0,,,0,2023-09-15,,28,,2,,2
+EDN0731-F,prepregnancy_arm_1,lmp,8,2023-11-16,22,0,0,0,0,1,She is sick at the  time of visit ,,,,,30,,,,2
+EDN0736-G,prepregnancy_arm_1,lmp,2,2023-07-31,19,0,0,0,0,1,Not interested  to be part of the study,,,,,31,,2,,2
+EDN0737-H,prepregnancy_arm_1,lmp,2,2023-07-31,19,0,0,0,1,0,,2023-07-31,,,,31,,2,,2
+EDN0738-K,prepregnancy_arm_1,lmp,2,2023-07-31,19,0,0,0,1,0,,2023-07-31,0,,,31,,2,,2
+EDN0740-J,prepregnancy_arm_1,lmp,2,2023-07-31,19,0,0,1,0,0,,,0,,,31,,2,,2
+EDN0740-J,prepregnancy_arm_1,lmp,3,2023-09-21,20,0,0,1,0,0,,,,,,23,,2,,2
+EDN0740-J,prepregnancy_arm_1,lmp,4,2023-11-08,22,0,0,0,0,1,Moved to Kombo,,,,,28,,,,2
+EDN0740-J,prepregnancy_arm_1,lmp,5,2023-11-07,22,0,0,1,0,0,,,0,2023-11-05,,28,,,,2
+EDN0740-J,prepregnancy_arm_1,lmp,6,2024-01-25,26,0,0,1,0,0,,,0,2023-12-28,,28,,,,2
+EDN0740-J,prepregnancy_arm_1,lmp,7,2024-03-12,27,0,0,1,0,0,,,0,2024-03-07,,28,,,,2
+EDN0740-J,prepregnancy_arm_1,lmp,9,2024-05-14,29,0,0,1,0,0,,,,,She is now staying in keneba.,28,,,,2
+EDN0740-J,prepregnancy_arm_1,lmp,10,2024-06-11,30,0,0,1,0,1,She is back to Keneba to stay with the mother. ,,,,,28,,,,2
+EDN0741-K,prepregnancy_arm_1,lmp,2,2023-07-31,19,0,0,0,0,1,Her child is already part of the study,,0,2023-07-31,,31,,2,,2
+EDN0741-K,prepregnancy_arm_1,lmp,3,2023-11-07,22,0,0,0,1,0,,2022-12-28,0,2023-10-31,,28,,,,2
+EDN0741-K,prepregnancy_arm_1,lmp,4,2024-01-30,26,0,1,0,0,0,,,0,2024-01-01,,28,,,,2
+EDN0750-E,prepregnancy_arm_1,lmp,7,2023-10-18,21,1,0,0,0,0,,,0,2023-10-10,,30,,,,2
+EDN0750-E,prepregnancy_arm_1,lmp,10,2024-05-09,29,0,0,0,0,1,She is recruited and she came for a call.,,,,,28,,,,2
+EDN0755-H,prepregnancy_arm_1,lmp,2,2023-07-31,18,0,0,1,0,0,,,0,,,31,,2,,2
+EDN0755-H,prepregnancy_arm_1,lmp,3,2023-09-24,20,0,0,1,0,0,,,,,,23,,2,,2
+EDN0755-H,prepregnancy_arm_1,lmp,6,2024-05-07,29,0,0,1,0,0,,,0,2024-04-24,,28,,,,2
+EDN0755-H,prepregnancy_arm_1,lmp,7,2024-06-05,30,0,0,1,0,0,,,,,,28,,,,2
+EDN0757-D,prepregnancy_arm_1,lmp,2,2023-07-31,19,0,0,0,0,1,Relocate to the coast ,,,,,31,,2,,2
+EDN0757-D,prepregnancy_arm_1,lmp,3,2023-09-24,20,0,0,0,0,1,Relocation to the coast. ,,,,,23,,2,,2
+EDN0757-D,prepregnancy_arm_1,lmp,4,2023-11-06,22,0,0,0,0,1,Moved to Kombo ,,,,,28,,,,2
+EDN0760-A,prepregnancy_arm_1,lmp,2,2023-11-08,22,0,0,0,0,1,She said she will discuss with the husband,,0,2023-10-22,,28,,,,2
+EDN0760-A,prepregnancy_arm_1,lmp,1,2023-10-19,,0,0,0,0,1,She says husband is away and will have to discuss with him.,,,,,30,,,,2
+EDN0760-A,prepregnancy_arm_1,lmp,4,2024-05-14,29,0,0,0,0,1,She is not interested because she is a business woman and didn't stay at one place.,,,,,28,,,,2
+EDN0760-A,prepregnancy_arm_1,lmp,5,2024-06-05,30,0,0,0,0,1,She is not interested. ,,,,,28,,,,2
+EDN0766-J,prepregnancy_arm_1,lmp,10,2023-10-04,21,1,0,0,0,0,,,0,2023-10-04,,16,,2,,2
+EDN0775-F,prepregnancy_arm_1,lmp,10,2023-10-10,21,1,0,0,0,0,,,1,,,16,,2,,2
+EDN0776-E,prepregnancy_arm_1,lmp,11,2023-10-10,21,1,0,0,0,0,,,1,,,16,,2,,2
+EDN0779-D,prepregnancy_arm_1,lmp,3,2024-05-14,29,0,0,0,0,1,On family planning contraceptive. ,,0,2024-04-23,,16,,,,2
+EDN0781-H,prepregnancy_arm_1,lmp,10,2023-10-09,21,1,0,0,0,0,,,1,,,16,,2,,2
+EDN0787-E,prepregnancy_arm_1,lmp,2,2023-07-31,19,0,0,0,0,1,Relocated to the coast,,,,,31,,2,,2
+EDN0787-E,prepregnancy_arm_1,lmp,3,2023-09-24,20,0,0,0,0,1,Relocation to the coast. ,,,,,23,,2,,2
+EDN0787-E,prepregnancy_arm_1,lmp,4,2023-11-08,22,0,0,0,0,1,Moved to Kombo ,,,,,28,,,,2
+EDN0789-G,prepregnancy_arm_1,lmp,4,2023-07-31,19,0,0,1,0,0,,,0,,,31,,2,,2
+EDN0789-G,prepregnancy_arm_1,lmp,5,2023-11-06,22,0,0,1,0,0,,,0,2023-10-25,,28,,,,2
+EDN0789-G,prepregnancy_arm_1,lmp,6,2024-01-25,26,0,0,1,0,0,,,0,2024-01-22,,28,,,,2
+EDN0790-G,prepregnancy_arm_1,lmp,2,2023-07-31,19,0,0,0,0,1,Twins pregnancy,,,,,31,,2,,2
+EDN0790-G,prepregnancy_arm_1,lmp,3,2023-11-08,22,0,0,0,0,1,Divorce,,0,2023-11-02,,28,,,,2
+EDN0790-G,prepregnancy_arm_1,lmp,4,2024-02-06,26,0,0,0,0,1,"Divorce, single",,0,2024-01-27,,28,,,,2
+EDN0790-G,prepregnancy_arm_1,lmp,5,2024-02-28,27,0,0,0,0,1,Divorce not marriage.,,0,2024-02-21,,28,,,,2
+EDN0790-G,prepregnancy_arm_1,lmp,7,2024-04-30,29,0,0,1,0,0,,,0,2024-04-23,,28,,,,2
+EDN0790-G,prepregnancy_arm_1,lmp,8,2024-05-30,30,0,0,1,0,0,,,,,,28,,,,2
+EDN0791-B,prepregnancy_arm_1,lmp,8,2023-10-09,21,1,0,0,0,0,,,0,2023-10-04,,28,,2,,2
+EDN0792-C,prepregnancy_arm_1,lmp,1,2023-07-31,19,0,1,0,0,0,,,0,2023-07-31,,20,,2,,2
+EDN0792-C,prepregnancy_arm_1,lmp,2,2023-09-24,20,0,1,0,0,0,,,,,,23,,2,,2
+EDN0792-C,prepregnancy_arm_1,lmp,3,2024-02-01,26,0,0,1,0,0,,,0,2024-01-25,,28,,,,2
+EDN0792-C,prepregnancy_arm_1,lmp,4,2024-02-28,27,0,0,1,0,0,,,0,2024-02-23,,28,,,,2
+EDN0792-C,prepregnancy_arm_1,lmp,6,2024-04-30,29,0,0,1,0,0,,,0,2024-04-18,,28,,,,2
+EDN0792-C,prepregnancy_arm_1,lmp,7,2024-05-30,30,0,0,1,0,0,,,,,,28,,,,2
+EDN0793-D,prepregnancy_arm_1,lmp,2,2023-11-08,22,0,0,0,0,1,Moved to Kombo ,,,,,28,,,,2
+EDN0795-E,prepregnancy_arm_1,lmp,1,2023-07-31,19,0,0,0,0,1,Relocated to the coast,,,,,31,,2,,2
+EDN0795-E,prepregnancy_arm_1,lmp,2,2023-09-24,20,0,0,0,0,1,Relocation to the coast. ,,,,,23,,2,,2
+EDN0795-E,prepregnancy_arm_1,lmp,3,2023-11-08,22,0,0,0,0,1,Moved to Kombo ,,,,,28,,,,2
+EDN0796-F,prepregnancy_arm_1,lmp,6,2023-11-08,22,0,0,0,0,1,Pregnant,,,,,28,,,,2
+EDN0796-F,prepregnancy_arm_1,lmp,7,2023-11-07,22,0,0,0,0,1,Pregnant,,0,,,28,,,,2
+EDN0796-F,prepregnancy_arm_1,lmp,8,2024-01-25,26,0,0,0,1,0,,2023-11-30,0,2024-01-24,,28,,,,2
+EDN0796-F,prepregnancy_arm_1,lmp,9,2024-02-28,27,0,0,0,1,0,,2023-11-30,0,,She said normally she didn't see her menses after delivery.,28,,,,2
+EDN0796-F,prepregnancy_arm_1,lmp,11,2024-04-30,29,0,0,0,1,0,,2023-11-30,0,,She said she will not see her menses after she delivered.,28,,,,2
+EDN0796-F,prepregnancy_arm_1,lmp,12,2024-05-30,30,0,0,0,1,0,,2023-11-30,,,Since I delivered I didn't see my menses. ,28,,,,2
+EDN0797-K,prepregnancy_arm_1,lmp,6,2023-10-09,21,1,0,0,0,0,,,0,2023-10-04,,28,,2,,2
+EDN0798-H,prepregnancy_arm_1,lmp,1,2023-10-19,21,0,0,0,0,1,She says will ve to discuss with the Husband ,,,,,30,,,,2
+EDN0798-H,prepregnancy_arm_1,lmp,2,2023-11-08,22,0,0,0,0,1,She said she will discuss with the husband. ,,,,,,,,,2
+EDN0799-J,prepregnancy_arm_1,lmp,2,2023-07-31,19,0,0,0,0,1,She is not interested to participate in the  study,,,,,31,,2,,2
+EDN0799-J,prepregnancy_arm_1,lmp,3,2023-11-08,22,0,0,0,0,1,Husband and wife not interested.,,,,,28,,,,2
+EDN0800-F,prepregnancy_arm_1,lmp,4,2023-07-31,19,0,1,0,0,0,,,,,,31,,2,,2
+EDN0800-F,prepregnancy_arm_1,lmp,5,2023-09-24,20,0,1,0,0,0,,,,,,23,,2,,2
+EDN0800-F,prepregnancy_arm_1,lmp,6,2023-10-09,21,1,0,0,0,0,,,0,2023-10-06,,28,,2,,2
+EDN0801-J,prepregnancy_arm_1,lmp,1,2023-07-31,19,0,0,1,0,0,,,,,,31,,2,,2
+EDN0801-J,prepregnancy_arm_1,lmp,2,2023-09-24,20,0,0,0,1,0,,2023-09-24,,,,23,,2,,2
+EDN0801-J,prepregnancy_arm_1,lmp,3,2023-10-19,21,0,0,0,1,0,,2022-12-10,,,,30,,,,2
+EDN0801-J,prepregnancy_arm_1,lmp,4,2023-11-08,22,0,0,0,1,0,,2022-12-10,0,2023-10-24,,28,,,,2
+EDN0802-G,prepregnancy_arm_1,lmp,5,2023-07-31,19,0,0,0,0,1,She is not yet married,,,,,31,,2,,2
+EDN0802-G,prepregnancy_arm_1,lmp,6,2023-09-24,20,0,0,0,0,1,Already pregnant.,,,,,23,,2,,2
+EDN0802-G,prepregnancy_arm_1,lmp,7,2023-11-06,22,0,0,1,0,0,,,0,2023-11-06,,28,,,,2
+EDN0802-G,prepregnancy_arm_1,lmp,8,2024-02-06,26,0,0,1,0,0,,,0,2024-01-25,,28,,,,2
+EDN0802-G,prepregnancy_arm_1,lmp,9,2024-02-28,27,0,0,1,0,0,,,0,2024-02-20,,28,,,,2
+EDN0802-G,prepregnancy_arm_1,lmp,11,2024-04-30,29,0,0,1,0,0,,,0,2024-04-16,,28,,,,2
+EDN0802-G,prepregnancy_arm_1,lmp,12,2024-05-30,30,0,0,1,0,0,,,,,,28,,,,2
+EDN0803-K,prepregnancy_arm_1,lmp,5,2023-07-31,19,0,0,1,0,0,,,,,,31,,2,,2
+EDN0803-K,prepregnancy_arm_1,lmp,6,2023-10-16,21,1,0,0,0,0,,,0,2023-10-09,,30,,,,2
+EDN0804-H,prepregnancy_arm_1,lmp,1,2023-07-31,19,0,0,1,0,0,,,,,,31,,2,,2
+EDN0804-H,prepregnancy_arm_1,lmp,2,2023-09-24,20,0,0,0,0,1,Relocation to the coast. ,,,,,23,,2,,2
+EDN0804-H,prepregnancy_arm_1,lmp,3,2023-10-19,,0,0,0,0,1,She is at the moment in Kombo,,,,,30,,,,2
+EDN0804-H,prepregnancy_arm_1,lmp,4,2023-11-08,22,0,0,0,0,1,Moved to Kombo ,,,,,28,,,,2
+EDN0804-H,prepregnancy_arm_1,lmp,5,2023-11-07,22,0,0,0,0,1,Moved to Kombo ,,,,,28,,,,2
+EDN0807-B,prepregnancy_arm_1,lmp,5,2023-07-31,19,0,0,0,0,1,She is already pregnant,,,,,31,,2,,2
+EDN0807-B,prepregnancy_arm_1,lmp,6,2023-09-24,20,0,0,0,0,1,Already pregnant.,,,,,23,,2,,2
+EDN0807-B,prepregnancy_arm_1,lmp,7,2023-11-08,22,0,0,0,1,0,,2023-11-06,,,,28,,,,2
+EDN0807-B,prepregnancy_arm_1,lmp,8,2024-01-25,26,0,0,0,1,0,,2023-11-06,,,She didn't see her menses after her delivery.,28,,,,2
+EDN0807-B,prepregnancy_arm_1,lmp,9,2024-02-28,27,0,0,0,1,0,,2023-11-06,,,She said she didn't see her menses after delivery.,28,,,,2
+EDN0807-B,prepregnancy_arm_1,lmp,11,2024-04-30,29,0,0,0,1,0,,2023-11-06,0,2024-04-10,,28,,,,2
+EDN0807-B,prepregnancy_arm_1,lmp,12,2024-05-30,30,0,0,0,1,0,,2023-11-06,1,,,28,,,,2
+EDN0809-E,prepregnancy_arm_1,lmp,7,2023-10-16,21,1,0,0,0,0,,,0,2023-10-10,,30,,,,2
+EDN0810-H,prepregnancy_arm_1,lmp,3,2023-07-31,19,0,0,0,0,1,Her husband died,,,,,31,,2,,2
+EDN0810-H,prepregnancy_arm_1,lmp,4,2023-09-24,20,0,0,0,0,1,Husband passed away.,,,,,23,,2,,2
+EDN0810-H,prepregnancy_arm_1,lmp,5,2023-11-07,22,0,0,0,0,1,Widow,,0,2023-10-30,,28,,,,2
+EDN0810-H,prepregnancy_arm_1,lmp,6,2024-02-01,26,0,0,0,0,1,Widow,,0,2024-01-22,,28,,,,2
+EDN0810-H,prepregnancy_arm_1,lmp,7,2024-02-28,27,0,0,0,0,1,She is a widow.,,0,2024-02-21,,28,,,,2
+EDN0810-H,prepregnancy_arm_1,lmp,8,2024-03-28,28,0,0,0,0,1,Widow,,0,,"The time husband passed away she see her menses once, from there she never see it again.",28,,,,2
+EDN0810-H,prepregnancy_arm_1,lmp,9,2024-04-30,29,0,0,0,0,1,Widow,,0,2024-04-15,,28,,,,2
+EDN0810-H,prepregnancy_arm_1,lmp,10,2024-05-30,30,0,0,0,0,1,Widow ,,0,2024-05-15,,28,,,,2
+EDN0812-K,prepregnancy_arm_1,lmp,6,2023-10-17,21,1,0,0,0,0,,,0,2023-09-28,,30,,,,2
+EDN0813-C,prepregnancy_arm_1,lmp,2,2023-07-31,19,0,0,0,0,1,Divorced with her husband,,,,,31,,2,,2
+EDN0813-C,prepregnancy_arm_1,lmp,3,2023-09-24,20,0,1,0,0,0,,,,,,23,,2,,2
+EDN0813-C,prepregnancy_arm_1,lmp,4,2023-11-08,22,0,0,0,0,1,Divorce ,,0,2023-10-21,,28,,,,2
+EDN0814-B,prepregnancy_arm_1,lmp,8,2023-10-11,21,1,0,0,0,0,,,0,2023-10-10,,28,,2,,2
+EDN0820-E,prepregnancy_arm_1,lmp,3,2023-07-31,19,0,1,0,0,0,,,,,,31,,2,,2
+EDN0820-E,prepregnancy_arm_1,lmp,4,2023-09-24,20,0,1,0,0,0,,,,,,23,,2,,2
+EDN0820-E,prepregnancy_arm_1,lmp,5,2023-10-16,21,1,0,0,0,0,,,0,2023-10-14,,30,,,,2
+EDN0821-C,prepregnancy_arm_1,lmp,2,2023-11-08,22,0,0,0,0,1,Pregnant,,,,,28,,,,2
+EDN0821-C,prepregnancy_arm_1,lmp,3,2024-01-25,26,0,0,0,1,0,,2023-11-28,0,,Since she delivered she didn't see her menses.,28,,,,2
+EDN0821-C,prepregnancy_arm_1,lmp,5,2024-04-30,29,0,0,0,1,0,,2023-11-28,0,,Since I delivered up now I didn't see my menses.,28,,,,2
+EDN0821-C,prepregnancy_arm_1,lmp,6,2024-05-30,30,0,0,0,1,0,,2023-11-28,,,Since I delivered I didn't see my menses. ,28,,,,2
+EDN0822-A,prepregnancy_arm_1,lmp,1,2023-10-18,21,1,0,0,0,0,,,0,2023-09-15,,30,,,,2
+EDN0824-J,prepregnancy_arm_1,lmp,8,2023-10-11,21,1,0,0,0,0,,,0,2023-09-25,,28,,2,,2
+EDN0829-K,prepregnancy_arm_1,lmp,3,2023-07-10,18,0,0,0,0,1,Not willing to be bled.,,,,,6,,2,,2
+EDN0830-B,prepregnancy_arm_1,lmp,9,2023-10-22,21,0,0,0,0,1,Moved to burong,,,,,2,,,,2
+EDN0830-B,prepregnancy_arm_1,lmp,13,2024-05-16,29,0,1,0,0,0,,,,,,2,,,,2
+EDN0830-B,prepregnancy_arm_1,lmp,14,2024-06-26,30,0,1,0,0,0,,,,,,2,,,,2
+EDN0834-K,prepregnancy_arm_1,lmp,5,2023-07-10,18,0,0,0,0,1,Travelled to visit her husband  ,2023-07-10,,,,6,,2,,2
+EDN0834-K,prepregnancy_arm_1,lmp,8,2023-10-11,21,1,0,0,0,0,,,0,2023-10-28,,16,,2,,2
+EDN0836-D,prepregnancy_arm_1,lmp,9,2023-10-13,21,1,0,0,0,0,,,0,2023-10-05,,16,,2,,2
+EDN0837-E,prepregnancy_arm_1,lmp,5,2023-10-11,21,1,0,0,0,0,,,0,2023-09-21,,16,,2,,2
+EDN0840-A,prepregnancy_arm_1,lmp,5,2023-10-11,21,1,0,0,0,0,,,0,2023-09-14,,16,,2,,2
+EDN0846-J,prepregnancy_arm_1,lmp,4,2024-05-17,29,0,0,0,0,1,Participant is currently concieved and participating in the INDIGO clinical trial,,1,,,16,,,,2
+EDN0847-G,prepregnancy_arm_1,lmp,2,2023-07-10,18,0,1,0,0,0,,,0,,,6,,2,,2
+EDN0847-G,prepregnancy_arm_1,lmp,3,2023-10-12,22,0,1,0,0,0,,,,2023-10-02,,16,,,,1
+EDN0849-C,prepregnancy_arm_1,lmp,2,2023-09-27,21,0,1,0,0,0,,,,,,23,,2,,2
+EDN0849-C,prepregnancy_arm_1,lmp,3,2023-11-07,22,0,1,0,0,0,,,,,,30,,,,2
+EDN0849-C,prepregnancy_arm_1,lmp,4,2024-01-29,26,0,1,0,0,0,,,0,2024-01-18,,23,,,,2
+EDN0849-C,prepregnancy_arm_1,lmp,6,2024-03-31,28,0,1,0,0,0,,,0,2024-02-27,,23,,,,2
+EDN0849-C,prepregnancy_arm_1,lmp,7,2024-05-07,29,0,1,0,0,0,,,0,2024-05-05,,35,,,,2
+EDN0851-B,prepregnancy_arm_1,lmp,1,2023-09-27,21,0,1,0,0,0,,,,,,23,,2,,2
+EDN0851-B,prepregnancy_arm_1,lmp,2,2023-11-07,22,0,1,0,0,0,,,,,,30,,,,2
+EDN0852-C,prepregnancy_arm_1,lmp,4,2023-10-12,21,1,0,0,0,0,,,0,2023-10-05,,30,,2,,2
+EDN0853-D,prepregnancy_arm_1,lmp,2,2023-09-27,21,0,0,1,0,0,,,,,,23,,2,,2
+EDN0853-D,prepregnancy_arm_1,lmp,3,2023-11-07,22,0,0,1,0,0,,,,,,30,,,,2
+EDN0853-D,prepregnancy_arm_1,lmp,4,2024-01-29,26,0,0,1,0,0,,,0,2024-01-12,,23,,,,2
+EDN0853-D,prepregnancy_arm_1,lmp,5,2024-05-14,29,0,0,0,0,1,She move to kombo,,,,Not residing,35,,,,2
+EDN0853-D,prepregnancy_arm_1,lmp,6,2024-06-11,30,0,0,0,0,1,She move to kombo ,,,,Not staying in tankular,38,,,,2
+EDN0854-A,prepregnancy_arm_1,lmp,1,2023-09-27,21,0,0,1,0,0,,,,,,23,,2,,2
+EDN0854-A,prepregnancy_arm_1,lmp,2,2023-11-07,22,0,0,1,0,0,,,,,,30,,,,2
+EDN0855-E,prepregnancy_arm_1,lmp,8,2023-10-11,21,1,0,0,0,0,,,0,2023-10-04,,30,,2,,2
+EDN0856-F,prepregnancy_arm_1,lmp,5,2023-11-08,22,0,0,0,1,0,,2023-11-08,0,2023-11-06,,28,,,,2
+EDN0857-K,prepregnancy_arm_1,lmp,7,2023-10-17,21,1,0,0,0,0,,,0,2023-10-17,,30,,,,2
+EDN0858-H,prepregnancy_arm_1,lmp,2,2023-11-07,22,0,0,0,0,1,Moved to Kombo,,,,,28,,,,2
+EDN0859-J,prepregnancy_arm_1,lmp,7,2023-10-10,21,1,0,0,0,0,,,0,2023-09-15,,30,,2,,2
+EDN0859-J,prepregnancy_arm_1,lmp,14,2024-06-11,30,0,0,0,0,1,She is still kombo ,,,,She is still in kombo ,38,,,,2
+EDN0861-G,prepregnancy_arm_1,lmp,1,2023-09-27,21,0,0,0,0,1,Already 6 months pregnant.,,,,,23,,2,,2
+EDN0861-G,prepregnancy_arm_1,lmp,2,2023-11-07,22,0,0,0,0,1,Already pregnant,,,,,30,,,,2
+EDN0861-G,prepregnancy_arm_1,lmp,3,2024-01-29,24,0,0,0,1,0,,2023-12-08,1,,"She said when breastfeeding, she never see menses.",,,,,2
+EDN0861-G,prepregnancy_arm_1,lmp,4,2024-03-04,27,0,0,0,1,0,,2023-12-08,1,,She said when breastfeeding she never see her menses.,23,,,,2
+EDN0861-G,prepregnancy_arm_1,lmp,5,2024-03-31,28,0,0,0,1,0,,2023-12-08,1,,She said when breastfeeding she never see her menses. 3 months breastfeeding.,23,,,,2
+EDN0862-H,prepregnancy_arm_1,lmp,5,2023-10-10,21,1,0,0,0,0,,,1,,,30,,2,,2
+EDN0864-C,prepregnancy_arm_1,lmp,2,2023-09-27,21,0,0,1,0,0,,,,,,23,,2,,2
+EDN0864-C,prepregnancy_arm_1,lmp,3,2023-11-07,22,0,0,1,0,0,,,,,,30,,,,2
+EDN0864-C,prepregnancy_arm_1,lmp,4,2024-01-29,26,0,0,1,0,0,,,0,2024-01-23,,23,,,,2
+EDN0865-A,prepregnancy_arm_1,lmp,5,2023-09-27,21,0,0,1,0,0,,,,,,23,,2,,2
+EDN0865-A,prepregnancy_arm_1,lmp,6,2023-11-08,22,0,0,1,0,0,,,,,,30,,,,2
+EDN0865-A,prepregnancy_arm_1,lmp,7,2024-01-29,26,0,0,1,0,0,,,0,2024-01-04,,23,,,,2
+EDN0865-A,prepregnancy_arm_1,lmp,8,2024-02-28,27,0,0,1,0,0,,,0,2024-02-13,,23,,,,2
+EDN0865-A,prepregnancy_arm_1,lmp,9,2024-04-17,28,0,0,1,0,0,,,0,2024-03-24,,23,,,,2
+EDN0865-A,prepregnancy_arm_1,lmp,10,2024-05-07,29,0,0,1,0,0,,,0,2024-04-15,,35,,,,2
+EDN0866-K,prepregnancy_arm_1,lmp,1,2023-09-27,21,0,1,0,0,0,,,,,,23,,2,,2
+EDN0866-K,prepregnancy_arm_1,lmp,2,2023-11-08,22,0,1,0,0,0,,,,,,30,,,,2
+EDN0868-J,prepregnancy_arm_1,lmp,8,2023-09-28,21,1,0,0,0,0,,,0,2023-09-25,,23,,2,,2
+EDN0869-B,prepregnancy_arm_1,lmp,2,2023-11-07,22,0,0,1,0,0,,,,,,30,,,,2
+EDN0869-B,prepregnancy_arm_1,lmp,3,2024-02-13,26,0,0,1,0,0,,,0,2024-01-29,,23,,,,2
+EDN0869-B,prepregnancy_arm_1,lmp,5,2024-05-14,29,0,0,0,0,1,Travel to kombo,,,,Travel to kombo,35,,,,2
+EDN0871-F,prepregnancy_arm_1,lmp,9,2023-10-11,21,1,0,0,0,0,,,0,2023-10-04,,30,,,,1
+EDN0872-J,prepregnancy_arm_1,lmp,2,2023-11-07,22,0,0,0,0,1,Already pregnant ,,0,2023-11-07,,30,,,,2
+EDN0874-B,prepregnancy_arm_1,lmp,2,2023-11-07,22,0,0,0,0,1,Already pregnant ,,,,,30,,,,2
+EDN0875-D,prepregnancy_arm_1,lmp,1,2023-11-07,22,0,1,0,0,0,,,,,,30,,,,2
+EDN0876-G,prepregnancy_arm_1,lmp,11,2024-05-07,29,0,1,0,0,0,,,0,2024-05-02,,35,,,,2
+EDN0876-G,prepregnancy_arm_1,lmp,12,2024-05-30,30,0,1,0,0,0,,,0,2024-05-17,,38,,,,2
+EDN0878-K,prepregnancy_arm_1,lmp,1,2023-11-07,22,0,0,0,1,0,,2023-11-07,,,,30,,,,2
+EDN0878-K,prepregnancy_arm_1,lmp,2,2024-02-12,26,0,0,0,1,0,,2023-10-20,1,,"She said, if she is breastfeeding, she didn't see her menses.",23,,,,2
+EDN0878-K,prepregnancy_arm_1,lmp,3,2024-04-16,28,0,0,0,1,0,,2023-10-20,1,,"She said since she delivered, she did not see her menses.",23,,,,2
+EDN0879-A,prepregnancy_arm_1,lmp,2,2023-11-07,22,0,1,0,0,0,,,,,,30,,,,2
+EDN0879-A,prepregnancy_arm_1,lmp,3,2024-02-12,26,0,0,1,0,0,,,0,2024-02-10,,23,,,,2
+EDN0879-A,prepregnancy_arm_1,lmp,4,2024-03-10,27,0,0,1,0,0,,,0,2024-03-04,,23,,,,2
+EDN0879-A,prepregnancy_arm_1,lmp,5,2024-04-02,28,0,0,1,0,0,,,0,2024-03-26,,23,,,,2
+EDN0881-K,prepregnancy_arm_1,lmp,6,2023-11-07,22,0,0,0,0,1,Not interested,,,,,30,,,,2
+EDN0881-K,prepregnancy_arm_1,lmp,7,2024-02-13,26,0,0,0,1,0,,2023-11-26,1,,She said she didn't see her menses when breastfeeding.,23,,,,2
+EDN0881-K,prepregnancy_arm_1,lmp,8,2024-03-06,27,0,0,0,1,0,,2023-11-26,1,,She said when breastfeeding is normal for her to miss her menses for months.,23,,,,2
+EDN0881-K,prepregnancy_arm_1,lmp,9,2024-04-02,28,0,0,0,1,0,,2023-11-26,0,2024-03-07,,23,,,,2
+EDN0890-K,prepregnancy_arm_1,lmp,2,2023-11-07,22,0,0,0,0,1,Already pregnant ,,,,,30,,,,2
+EDN0897-C,prepregnancy_arm_1,lmp,9,2023-10-11,21,1,0,0,0,0,,,0,2023-10-03,,16,,,,1
+EDN0898-A,prepregnancy_arm_1,lmp,9,2023-10-10,21,1,0,0,0,0,,,1,,,16,,,,1
+EDN0901-B,prepregnancy_arm_1,lmp,7,2023-10-05,21,1,0,0,0,0,,,0,2023-09-27,,30,,,,1
+EDN0901-B,prepregnancy_arm_1,lmp,11,2024-04-14,28,0,0,0,0,1,travelled ,,,,went to kombo for Ramadan still not back,29,,,,2
+EDN0903-D,prepregnancy_arm_1,lmp,10,2023-10-19,21,1,0,0,0,0,,,0,2023-10-15,,1,,,,2
+EDN0903-D,prepregnancy_arm_1,lmp,11,2023-11-14,22,0,0,0,0,1,Husband is around but she is not intending to get pre5,,0,2023-11-13,,1,,,,2
+EDN0903-D,prepregnancy_arm_1,lmp,12,2024-02-15,26,0,0,0,0,1,"She is over aged, she is 41 years of age.",,0,,,29,,,,2
+EDN0903-D,prepregnancy_arm_1,lmp,13,2024-04-03,28,0,0,0,0,1,over aged ,,,,,,,,,2
+EDN0903-D,prepregnancy_arm_1,lmp,14,2024-05-02,29,0,0,0,0,1,She is overaged not intended to get pregnant ,,,,,29,,,,2
+EDN0903-D,prepregnancy_arm_1,lmp,15,2024-05-30,30,0,0,0,0,1,Over aged ,,,,,29,,,,2
+EDN0913-G,prepregnancy_arm_1,lmp,6,2024-05-21,29,0,0,0,0,1,Student now move the coast  for schooling,,,,,21,,,,2
+EDN0918-F,prepregnancy_arm_1,lmp,1,2024-03-07,27,0,0,0,0,1,On contraception.,,0,2024-02-19,,23,,,,2
+EDN0918-F,prepregnancy_arm_1,lmp,3,2024-05-16,29,0,0,0,0,1,Family planning (Depo),,0,2024-04-15,,38,,,,2
+EDN0927-G,prepregnancy_arm_1,lmp,9,2023-10-18,21,1,0,0,0,0,,,0,2023-10-04,,1,,,,2
+EDN0932-G,prepregnancy_arm_1,lmp,1,2023-10-24,21,0,0,0,1,0,,2023-06-25,0,2022-10-10,,1,,,,2
+EDN0932-G,prepregnancy_arm_1,lmp,2,2024-02-13,26,0,0,0,1,0,,2023-06-25,0,2024-01-07,,29,,,,2
+EDN0934-H,prepregnancy_arm_1,lmp,1,2023-10-09,21,1,0,0,0,0,,,0,2023-10-07,,1,,,,1
+EDN0936-A,prepregnancy_arm_1,lmp,9,2023-08-30,21,1,0,0,0,0,,,0,2023-08-17,,1,,,,1
+EDN0936-A,prepregnancy_arm_1,lmp,10,2023-10-18,21,1,0,0,0,0,,,0,2023-09-17,,1,,,,2
+EDN0936-A,prepregnancy_arm_1,lmp,12,2024-02-15,26,0,0,0,0,1,"Over age, she is 41years of age.",,,,,29,,,,2
+EDN0936-A,prepregnancy_arm_1,lmp,13,2024-03-01,27,0,0,0,0,1,"Over aged, she is 41 years ",,0,,,25,,,,2
+EDN0936-A,prepregnancy_arm_1,lmp,14,2024-04-03,28,0,0,0,0,1,overage  ,,,,,29,,,,2
+EDN0936-A,prepregnancy_arm_1,lmp,15,2024-05-02,29,0,0,0,0,1,Over aged not intended to get pregnant ,,,,,29,,,,2
+EDN0936-A,prepregnancy_arm_1,lmp,16,2024-05-30,30,0,0,0,0,1,Over aged and not interested in getting pregnant ,,,,,29,,,,2
+EDN0937-B,prepregnancy_arm_1,lmp,1,2023-09-28,21,1,0,0,0,0,,,0,2023-09-24,,1,,,,1
+EDN0938-D,prepregnancy_arm_1,lmp,1,2023-10-19,21,1,0,0,0,0,,,0,2023-10-04,,1,,,,2
+EDN0938-D,prepregnancy_arm_1,lmp,6,2024-06-09,30,0,0,0,0,1,We went to her home several times but we could not meet her. ,,,,,6,,,,2
+EDN0939-E,prepregnancy_arm_1,lmp,1,2023-10-05,21,1,0,0,0,0,,,0,2023-10-03,,30,,,,1
+EDN0942-D,prepregnancy_arm_1,lmp,8,2023-10-18,21,1,0,0,0,0,,,0,2023-09-25,,1,,,,2
+EDN0944-G,prepregnancy_arm_1,lmp,10,2023-08-30,21,1,0,0,0,0,,,0,2023-08-16,,1,,,,1
+EDN0944-G,prepregnancy_arm_1,lmp,11,2023-10-19,21,1,0,0,0,0,,,0,2023-09-09,,1,,,,2
+EDN0945-B,prepregnancy_arm_1,lmp,7,2023-08-30,21,1,0,0,0,0,,,0,2023-08-24,,1,,,,1
+EDN0945-B,prepregnancy_arm_1,lmp,8,2023-10-10,21,1,0,0,0,0,,,0,2023-09-24,,1,,,,1
+EDN0945-B,prepregnancy_arm_1,lmp,10,2024-02-14,26,0,1,0,0,0,,,,,moved away ,29,,,,2
+EDN0945-B,prepregnancy_arm_1,lmp,12,2024-04-08,28,0,0,0,0,1,travelled ,,,,,29,,,,2
+EDN0947-C,prepregnancy_arm_1,lmp,1,2023-10-05,21,1,0,0,0,0,,,0,2023-09-28,,30,,,,1
+EDN0949-F,prepregnancy_arm_1,lmp,5,2023-09-28,21,1,0,0,0,0,,,0,2023-09-10,,1,,,,1
+EDN0950-J,prepregnancy_arm_1,lmp,9,2023-10-10,21,1,0,0,0,0,,,0,2023-10-01,,1,,,,1
+EDN0950-J,prepregnancy_arm_1,lmp,15,2024-06-09,30,0,0,0,0,1,I have attempted several visits with the VA but we could not meet her at home .,,,,,6,,,,2
+EDN0951-K,prepregnancy_arm_1,lmp,9,2024-02-15,26,0,0,0,0,1,On family planning ,,0,2024-01-29,,29,,,,2
+EDN0951-K,prepregnancy_arm_1,lmp,11,2024-05-03,29,0,0,0,0,1,Using contracept and not willing to get pregnant ,,,,,29,,,,2
+EDN0951-K,prepregnancy_arm_1,lmp,12,2024-05-30,30,0,0,0,0,1,Using contracepts and not ready to get pregnant ,,,,,29,,,,2
+EDN0952-E,prepregnancy_arm_1,lmp,11,2023-10-12,21,1,0,0,0,0,,,0,2023-09-27,,1,,,,1
+EDN0952-E,prepregnancy_arm_1,lmp,17,2024-06-09,30,0,0,0,0,1,"I did not meet her each time I visited her home, ",,,,,6,,,,2
+EDN0953-F,prepregnancy_arm_1,lmp,3,2023-11-08,21,0,1,0,0,0,,,,,,14,,,,2
+EDN0954-D,prepregnancy_arm_1,lmp,1,2023-11-08,21,0,0,0,0,1,Moved,,,,,14,,,,2
+EDN0956-C,prepregnancy_arm_1,lmp,4,2023-11-08,21,0,1,0,0,0,,,,,,14,,,,2
+EDN0959-H,prepregnancy_arm_1,lmp,9,2023-10-12,21,1,0,0,0,0,,,0,2023-10-02,,1,,,,1
+EDN0962-K,prepregnancy_arm_1,lmp,9,2023-10-10,21,1,0,0,0,0,,,0,2023-10-03,,1,,,,1
+EDN0963-C,prepregnancy_arm_1,lmp,10,2023-10-10,21,1,0,0,0,0,,,0,2023-10-02,,1,,,,1
+EDN0969-D,prepregnancy_arm_1,lmp,11,2024-04-30,29,0,0,0,0,1,Travelled,,,,i dcould not know about her LMP because participant travelled,16,,,,2
+EDN0970-B,prepregnancy_arm_1,lmp,8,2023-10-10,21,1,0,0,0,0,,,1,,,16,,2,,2
+EDN0977-E,prepregnancy_arm_1,lmp,1,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0978-C,prepregnancy_arm_1,lmp,1,2023-10-22,21,0,0,0,0,1,Refused bleeding,,,,,15,,,,2
+EDN0992-J,prepregnancy_arm_1,lmp,1,2023-10-19,21,1,0,0,0,0,,,1,,,36,,,,2
+EDN0997-H,prepregnancy_arm_1,lmp,5,2023-11-11,22,0,1,0,0,0,,,0,2023-11-11,,19,,,,2
+EDN0999-A,prepregnancy_arm_1,lmp,1,2023-11-02,22,0,0,0,0,1,She moved to kombo ,,,,,18,,,,1
+EDN0999-A,prepregnancy_arm_1,lmp,2,2024-05-21,29,0,0,0,0,1,Transfer to the  Urr ,,,,,21,,,,2
+EDN1005-E,prepregnancy_arm_1,lmp,6,2023-10-15,21,1,0,0,0,0,,,0,2023-10-04,,15,,5,,2
+EDN1008-H,prepregnancy_arm_1,lmp,8,2024-03-26,28,0,0,0,0,1,Travelled for a family visit.,,,,,6,,,,2
+EDN1008-H,prepregnancy_arm_1,lmp,9,2024-05-19,29,0,0,0,0,1,Travelled and not yet back,,,,,,,,,0
+EDN1008-H,prepregnancy_arm_1,lmp,10,2024-05-30,30,0,0,0,0,1,Husband travelled to Europe ,,,,,,,,,2
+EDN1011-K,prepregnancy_arm_1,lmp,7,2023-10-12,21,1,0,0,0,0,,,0,2023-09-27,,6,,,,1
+EDN1012-L,prepregnancy_arm_1,lmp,2,2023-10-22,21,0,0,0,0,1,Not willing to be bled,,,,,15,,,,2
+EDN1013-M,prepregnancy_arm_1,lmp,6,2023-10-15,21,1,0,0,0,0,,,1,,,15,,5,,2
+EDN1014-N,prepregnancy_arm_1,lmp,7,2023-10-18,21,1,0,0,0,0,,,0,2023-10-09,,17,,,,2
+EDN1022-V,prepregnancy_arm_1,lmp,8,2023-10-18,21,1,0,0,0,0,,,0,2023-09-20,,17,,,,2
+EDN1027-B,prepregnancy_arm_1,lmp,10,2024-06-27,30,0,0,0,0,1,Sick,,,,,22,,,,2
+EDN1029-D,prepregnancy_arm_1,lmp,6,2024-01-10,21,1,0,0,0,0,,,1,,,6,,,,2
+EDN1031-F,prepregnancy_arm_1,lmp,5,2024-04-12,28,0,0,0,0,1,Temporary excluding due to husband's travelled ,,,,,6,,,,2
+EDN1031-F,prepregnancy_arm_1,lmp,6,2024-05-19,29,0,0,0,0,1,Husband lives in abroad ,,,,,,,,,0
+EDN1031-F,prepregnancy_arm_1,lmp,7,2024-05-29,30,0,0,0,0,1,Husband travelled to Europe ,,0,2024-05-05,,6,,,,2
+EDN1036-K,prepregnancy_arm_1,lmp,9,2023-10-12,21,1,0,0,0,0,,,0,2023-09-20,,16,,,,1
+EDN1038-M,prepregnancy_arm_1,lmp,9,2023-10-12,21,1,0,0,0,0,,,0,2023-09-13,,16,,,,1
+EDN1040-O,prepregnancy_arm_1,lmp,5,2023-10-09,21,1,0,0,0,0,,,0,2023-09-07,,30,,,,1
+EDN1041-P,prepregnancy_arm_1,lmp,1,2023-09-27,21,0,1,0,0,0,,,,,,23,,,,1
+EDN1041-P,prepregnancy_arm_1,lmp,2,2023-11-07,22,0,1,0,0,0,,,0,,,30,,,,2
+EDN1041-P,prepregnancy_arm_1,lmp,3,2024-01-29,26,0,1,0,0,0,,,0,2024-01-06,,23,,,,2
+EDN1041-P,prepregnancy_arm_1,lmp,4,2024-02-28,27,0,1,0,0,0,,,0,2024-01-03,,23,,,,2
+EDN1041-P,prepregnancy_arm_1,lmp,5,2024-03-30,28,0,1,0,0,0,,,0,2024-02-27,,23,,,,2
+EDN1041-P,prepregnancy_arm_1,lmp,6,2024-05-14,29,0,0,1,0,0,,,0,2024-04-25,,35,,,,2
+EDN1042-G,prepregnancy_arm_1,lmp,7,2023-09-28,21,1,0,0,0,0,,,1,,,23,,,,1
+EDN1043-R,prepregnancy_arm_1,lmp,7,2023-09-28,21,1,0,0,0,0,,,1,,,23,,,,1
+EDN1044-S,prepregnancy_arm_1,lmp,9,2023-11-08,22,0,0,0,0,1,Moved to Busumbala,,,,,14,,,,2
+EDN1044-S,prepregnancy_arm_1,lmp,10,2024-01-23,26,0,0,0,0,1,Finally moved to kombo,,,,,2,,,,2
+EDN1044-S,prepregnancy_arm_1,lmp,13,2024-04-02,28,0,0,0,0,1,Moved to tankulari,,0,2024-04-02,,2,,,,2
+EDN1044-S,prepregnancy_arm_1,lmp,14,2024-05-16,29,0,0,0,0,1,Moved to Tankular,,,,,2,,,,2
+EDN1046-U,prepregnancy_arm_1,lmp,5,2023-09-27,21,0,0,0,0,1,On contraceptive.,,,,,23,,,,1
+EDN1046-U,prepregnancy_arm_1,lmp,6,2023-11-07,22,0,0,0,0,1,Travelled to the coast,,,,,30,,,,2
+EDN1053-C,prepregnancy_arm_1,lmp,1,2023-10-23,21,0,1,0,0,0,,,,,,2,,,,2
+EDN1054-D,prepregnancy_arm_1,lmp,5,2023-10-09,21,1,0,0,0,0,,,0,2023-09-30,,21,,,,1
+EDN1055-E,prepregnancy_arm_1,lmp,6,2023-10-10,21,1,0,0,0,0,,,1,,,21,,,,1
+EDN1056-F,prepregnancy_arm_1,lmp,4,2023-10-12,21,1,0,0,0,0,,,1,,,21,,,,1
+EDN1057-G,prepregnancy_arm_1,lmp,6,2023-10-10,21,1,0,0,0,0,,,1,,,21,,,,1
+EDN1058-H,prepregnancy_arm_1,lmp,5,2023-10-09,21,1,0,0,0,0,,,1,,,21,,,,1
+EDN1061-K,prepregnancy_arm_1,lmp,1,2024-05-03,29,0,0,0,0,1,Participant travelled. ,,,,Her LMP status is unknown because she travelled.,16,,,,2
+EDN1061-K,prepregnancy_arm_1,lmp,2,2024-06-04,30,0,0,0,0,1,Travelled ,,,,I couldn't know her last menstrual cycle because participant travelled ,16,,,,2
+EDN1062-L,prepregnancy_arm_1,lmp,11,2023-10-09,21,1,0,0,0,0,,,0,2023-09-15,,16,,,,2
+EDN1062-L,prepregnancy_arm_1,lmp,14,2024-05-02,29,0,0,1,0,0,,,0,2024-04-22,,16,,,,2
+EDN1062-L,prepregnancy_arm_1,lmp,15,2024-06-04,30,0,0,1,0,0,,,0,2024-05-07,,16,,,,2
+EDN1069-S,prepregnancy_arm_1,lmp,9,2023-10-04,21,1,0,0,0,0,,,0,2023-09-26,,16,,,,2
+EDN1073-W,prepregnancy_arm_1,lmp,9,2024-06-06,30,0,0,0,0,1,Husband died and not remarry yet ,,,,,35,,,,2
+EDN1077-B,prepregnancy_arm_1,lmp,1,2023-10-24,21,0,0,0,1,0,,2023-07-19,0,2023-10-05,,1,,,,2
+EDN1077-B,prepregnancy_arm_1,lmp,2,2024-02-13,26,0,0,0,1,0,,2023-07-19,0,2024-01-27,,29,,,,2
+EDN1082-G,prepregnancy_arm_1,lmp,9,2023-10-09,21,1,0,0,0,0,,,0,2023-09-28,,1,,,,1
+EDN1083-H,prepregnancy_arm_1,lmp,3,2023-10-24,21,0,0,0,1,0,,2023-09-05,0,2023-03-08,,1,,,,2
+EDN1083-H,prepregnancy_arm_1,lmp,4,2024-02-13,26,0,0,0,1,0,,2023-09-05,0,2024-01-25,,29,,,,2
+EDN1086-K,prepregnancy_arm_1,lmp,4,2023-11-07,22,0,0,0,0,1,Already pregnant,,,,,30,,,,2
+EDN1086-K,prepregnancy_arm_1,lmp,5,2024-02-14,26,0,0,0,1,0,,2024-01-06,,,,23,,,,2
+EDN1086-K,prepregnancy_arm_1,lmp,6,2024-03-20,27,0,0,0,1,0,,2024-01-06,1,,She said when breastfeeding she never see her menses.,23,,,,2
+EDN1086-K,prepregnancy_arm_1,lmp,7,2024-04-16,28,0,0,0,1,0,,2024-01-06,1,,She said when breastfeeding she never see her menses.,23,,,,2
+EDN1088-M,prepregnancy_arm_1,lmp,1,2024-02-15,26,0,0,0,1,0,,2023-11-24,,,,8,,,,2
+EDN1088-M,prepregnancy_arm_1,lmp,2,2024-05-21,29,0,0,0,1,0,,2023-11-24,,,,8,,,,2
+EDN1088-M,prepregnancy_arm_1,lmp,3,2024-06-24,30,0,0,0,1,0,,2023-11-24,,,,8,,,,2
+EDN1089-N,prepregnancy_arm_1,lmp,1,2023-10-02,21,1,0,0,0,0,,,0,2023-09-25,,22,,,,1
+EDN1090-O,prepregnancy_arm_1,lmp,1,2023-10-02,21,1,0,0,0,0,,,0,2023-09-10,,22,,,,1
+EDN1092-G,prepregnancy_arm_1,lmp,5,2023-10-10,21,1,0,0,0,0,,,0,2023-09-15,,36,,,,1
+EDN1094-S,prepregnancy_arm_1,lmp,4,2023-10-10,21,1,0,0,0,0,,,0,2023-10-02,,36,,,,1
+EDN1095-T,prepregnancy_arm_1,lmp,5,2023-10-10,21,1,0,0,0,0,,,0,2023-10-01,,36,,,,1
+EDN1100-Y,prepregnancy_arm_1,lmp,3,2023-10-12,21,1,0,0,0,0,,,0,2023-09-27,,6,,2,,2
+EDN1101-Z,prepregnancy_arm_1,lmp,9,2023-10-12,21,1,0,0,0,0,,,0,2023-09-29,,19,,2,,2
+EDN1102-B,prepregnancy_arm_1,lmp,7,2023-10-11,21,1,0,0,0,0,,,0,2023-10-05,,26,,2,,2
+EDN1103-C,prepregnancy_arm_1,lmp,8,2023-10-11,21,1,0,0,0,0,,,0,2023-10-10,,26,,2,,2
+EDN1104-D,prepregnancy_arm_1,lmp,8,2023-10-05,21,1,0,0,0,0,,,1,,,17,,2,,2
+EDN1106-F,prepregnancy_arm_1,lmp,9,2024-05-01,29,0,0,0,0,1,Pregnant and already called for booking ,,,,,22,,,,2
+EDN1107-G,prepregnancy_arm_1,lmp,1,2024-01-25,26,0,0,0,1,0,,2023-06-29,,,,22,,,,2
+EDN1107-G,prepregnancy_arm_1,lmp,2,2024-02-28,27,0,0,0,1,0,,2023-06-29,,,,22,,,,2
+EDN1107-G,prepregnancy_arm_1,lmp,3,2024-03-31,28,0,0,0,1,0,,2023-06-29,,,,31,,,,2
+EDN1107-G,prepregnancy_arm_1,lmp,4,2024-05-01,29,0,0,0,1,0,,2023-06-29,,,,22,,,,2
+EDN1108-H,prepregnancy_arm_1,lmp,9,2023-10-18,21,1,0,0,0,0,,,0,2023-09-24,,22,,,,2
+EDN1109-I,prepregnancy_arm_1,lmp,9,2023-10-17,21,1,0,0,0,0,,,1,,,22,,,,2
+EDN1154-D,prepregnancy_arm_1,lmp,1,2024-05-06,29,0,0,1,0,0,,,0,2024-05-05,,36,,,,2
+EDN1154-D,prepregnancy_arm_1,lmp,2,2024-06-05,30,0,1,0,0,0,,,,,,36,,,,2
+EDN1155-E,prepregnancy_arm_1,lmp,1,2024-05-06,29,0,0,0,0,1,Move to the  husband in kombo,,0,2024-05-06,,36,,,,2
+EDN1155-E,prepregnancy_arm_1,lmp,2,2024-06-05,30,0,0,0,0,1,Move to the husband in kombo ,,,,,36,,,,2
+EDN1157-G,prepregnancy_arm_1,lmp,2,2024-05-06,29,0,1,0,0,0,,,0,2024-05-01,,36,,,,2
+EDN1157-G,prepregnancy_arm_1,lmp,3,2024-06-05,30,0,1,0,0,0,,,,,,36,,,,2
+EDN1159-I,prepregnancy_arm_1,lmp,1,2024-05-06,29,0,0,0,1,0,,2023-11-23,1,,,36,,,,2
+EDN1159-I,prepregnancy_arm_1,lmp,2,2024-06-05,30,0,0,0,1,0,,,,,,36,,,,2
+EDN1162-L,prepregnancy_arm_1,lmp,2,2024-05-14,29,0,0,0,0,1,She said she started using FP now,,,,,36,,,,2
+EDN1162-L,prepregnancy_arm_1,lmp,3,2024-06-14,30,0,0,0,0,1,She is on fp,,,,,36,,,,2
+EDN1166-P,prepregnancy_arm_1,lmp,2,2024-05-14,29,0,0,1,0,0,,,,,,36,,,,2
+EDN1166-P,prepregnancy_arm_1,lmp,3,2024-06-14,30,0,0,1,0,0,,,,,,36,,,,2
+EDN1174-X,prepregnancy_arm_1,lmp,3,2024-06-15,30,0,0,0,0,1,Travel to the husband ,,,,,36,,,,2
+EDN1180-E,prepregnancy_arm_1,lmp,2,2024-05-15,29,0,0,0,1,0,,2023-11-08,,,,36,,,,2
+EDN1180-E,prepregnancy_arm_1,lmp,3,2024-06-25,30,0,0,0,1,0,,2023-11-08,,,,36,,,,2
+EDN1204-D,prepregnancy_arm_1,lmp,1,2024-05-14,29,0,1,0,0,0,,,,,,36,,,,2
+EDN1204-D,prepregnancy_arm_1,lmp,2,2024-06-15,30,0,1,0,0,0,,,,,,36,,,,2
+EDN1208-H,prepregnancy_arm_1,lmp,2,2024-05-30,30,0,0,0,0,1,She over due,,,,,36,,,,2
+EDN1211-K,prepregnancy_arm_1,lmp,1,2024-05-15,29,0,1,0,0,0,,,,,,36,,,,2
+EDN1211-K,prepregnancy_arm_1,lmp,2,2024-06-25,30,0,1,0,0,0,,,,,,36,,,,2
+EDN1215-O,prepregnancy_arm_1,lmp,2,2024-05-15,29,0,0,0,0,1,Travel to the husband,,,,,36,,,,2
+EDN1215-O,prepregnancy_arm_1,lmp,3,2024-06-25,30,0,0,0,0,1,Travel to the husband ,,,,,36,,,,2
+EDN1223-W,prepregnancy_arm_1,lmp,1,2024-03-04,27,0,1,0,0,0,,,,,Student,8,,,,2
+EDN1223-W,prepregnancy_arm_1,lmp,2,2024-05-13,29,0,1,0,0,0,,,0,,,8,,,,2
+EDN1223-W,prepregnancy_arm_1,lmp,3,2024-06-11,30,0,1,0,0,0,,,,,,8,,,,2
+EDN1231-F,prepregnancy_arm_1,lmp,1,2024-05-22,29,0,1,0,0,0,,,,,,8,,,,2
+EDN1231-F,prepregnancy_arm_1,lmp,2,2024-06-24,30,0,1,0,0,0,,,,,,8,,,,2
+EDN1235-G,prepregnancy_arm_1,lmp,1,2024-02-29,27,0,1,0,0,0,,,,,Temporally excluded,8,,,,2
+EDN1235-G,prepregnancy_arm_1,lmp,2,2024-05-13,29,0,1,0,0,0,,,,,,8,,,,2
+EDN1235-G,prepregnancy_arm_1,lmp,3,2024-06-11,30,0,1,0,0,0,,,,,,8,,,,2
+EDN1238-M,prepregnancy_arm_1,lmp,1,2024-02-29,27,0,1,0,0,0,,,,,Temporal exclusion,8,,,,2
+EDN1238-M,prepregnancy_arm_1,lmp,2,2024-06-24,30,0,1,0,0,0,,,,,,8,,,,2
+EDN1278-C,prepregnancy_arm_1,lmp,2,2024-03-04,27,0,1,0,0,0,,,0,2024-02-14,,8,,,,2
+EDN1284-I,prepregnancy_arm_1,lmp,1,2024-05-21,29,0,0,0,1,0,,2023-09-29,0,,,8,,,,2
+EDN1284-I,prepregnancy_arm_1,lmp,2,2024-06-11,30,0,0,0,1,0,,,,,,8,,,,2
+EDN1287-L,prepregnancy_arm_1,lmp,1,2024-02-29,27,0,0,0,1,0,,2023-10-25,,,,8,,,,2
+EDN1287-L,prepregnancy_arm_1,lmp,2,2024-05-22,29,0,1,0,0,0,,,,,,8,,,,2
+EDN1292-G,prepregnancy_arm_1,lmp,1,2024-05-21,29,0,0,0,0,1,Fammily planning,,0,,,8,,,,2
+EDN1292-G,prepregnancy_arm_1,lmp,2,2024-06-24,30,0,0,0,0,1,Family planning,,,,,8,,,,2
+EDN1297-V,prepregnancy_arm_1,lmp,1,2024-03-07,27,0,1,0,0,0,,,,,Temporally excluded,8,,,,2
+EDN1297-V,prepregnancy_arm_1,lmp,2,2024-05-01,29,0,1,0,0,0,,,,,,8,,,,2
+EDN1297-V,prepregnancy_arm_1,lmp,3,2024-05-29,30,0,1,0,0,0,,,,,,36,,,,2
+EDN1300-Y,prepregnancy_arm_1,lmp,1,2024-03-07,27,0,1,0,0,0,,,0,2024-03-07,,8,,,,2
+EDN1300-Y,prepregnancy_arm_1,lmp,2,2024-05-06,29,0,1,0,0,0,,,,,Student,8,,,,2
+EDN1300-Y,prepregnancy_arm_1,lmp,3,2024-06-05,30,0,1,0,0,0,,,,,,36,,,,2
+EDN1305-E,prepregnancy_arm_1,lmp,1,2024-03-07,27,0,1,0,0,0,,,,,,8,,,,2
+EDN1305-E,prepregnancy_arm_1,lmp,2,2024-05-06,29,0,1,0,0,0,,,,,,8,,,,2
+EDN1305-E,prepregnancy_arm_1,lmp,3,2024-06-05,30,0,1,0,0,0,,,,,,36,,,,2
+EDN1309-I,prepregnancy_arm_1,lmp,1,2024-03-07,27,0,0,1,0,0,,,,,,8,,,,2
+EDN1309-I,prepregnancy_arm_1,lmp,2,2024-05-06,29,0,0,0,1,0,,,,,,8,,,,2
+EDN1309-I,prepregnancy_arm_1,lmp,3,2024-06-05,30,0,0,0,1,0,,,,,,36,,,,2
+EDN1319-S,prepregnancy_arm_1,lmp,3,2024-05-22,29,0,0,0,0,1,Travelled ,,,,,22,,,,2
+EDN1322-V,prepregnancy_arm_1,lmp,1,2024-02-06,26,0,1,0,0,0,,,,,,22,,,,2
+EDN1322-V,prepregnancy_arm_1,lmp,2,2024-03-30,28,0,1,0,0,0,,,,,,31,,,,2
+EDN1322-V,prepregnancy_arm_1,lmp,3,2024-05-14,29,0,1,0,0,0,,,,,,22,,,,2
+EDN1322-V,prepregnancy_arm_1,lmp,4,2024-06-11,30,0,1,0,0,0,,,,,,22,,,,2
+EDN1325-Y,prepregnancy_arm_1,lmp,1,2024-02-05,26,0,0,0,1,0,,2023-11-07,,,,22,,,,2
+EDN1325-Y,prepregnancy_arm_1,lmp,2,2024-03-26,28,0,0,1,0,0,,,,,,31,,,,2
+EDN1325-Y,prepregnancy_arm_1,lmp,3,2024-05-14,29,0,0,0,1,0,,2033-11-07,,,,22,,,,2
+EDN1325-Y,prepregnancy_arm_1,lmp,4,2024-06-27,30,0,0,1,0,0,,,,,,22,,,,2
+EDN1329-D,prepregnancy_arm_1,lmp,1,2024-02-01,26,0,0,0,1,0,,2023-08-18,,,,22,,,,2
+EDN1329-D,prepregnancy_arm_1,lmp,2,2024-03-26,28,0,0,0,1,0,,2023-08-10,,,,31,,,,2
+EDN1329-D,prepregnancy_arm_1,lmp,3,2024-05-14,29,0,0,0,0,1,Schooling at the coast but will come summer holidays,,,,,22,,,,2
+EDN1329-D,prepregnancy_arm_1,lmp,4,2024-06-11,30,0,0,0,0,1,At coast teaching ,,,,,22,,,,2
+EDN1331-F,prepregnancy_arm_1,lmp,2,2024-05-22,29,0,0,0,0,1,Travelled ,,,,,22,,,,2
+EDN1337-L,prepregnancy_arm_1,lmp,2,2024-03-26,28,0,0,1,0,0,,,,,,31,,,,2
+EDN1337-L,prepregnancy_arm_1,lmp,3,2024-05-14,29,0,0,1,0,0,,,,,,22,,,,2
+EDN1337-L,prepregnancy_arm_1,lmp,4,2024-06-11,30,0,0,1,0,0,,,,,,22,,,,2
+EDN1338-M,prepregnancy_arm_1,lmp,2,2024-03-26,28,0,0,0,0,1,Travelled to the coast,,0,,,31,,,,2
+EDN1338-M,prepregnancy_arm_1,lmp,3,2024-05-14,29,0,0,0,0,1,Lives with the husband at the coast ,,,,,22,,,,2
+EDN1338-M,prepregnancy_arm_1,lmp,4,2024-06-11,30,0,0,0,0,1,Currently live with the husband at the coast ,,,,,22,,,,2
+EDN1339-N,prepregnancy_arm_1,lmp,1,2024-03-30,28,0,0,0,1,0,,2024-01-04,,,,31,,,,2
+EDN1339-N,prepregnancy_arm_1,lmp,2,2024-05-16,29,0,0,0,1,0,,2024-01-04,,,,22,,,,2
+EDN1339-N,prepregnancy_arm_1,lmp,3,2024-06-11,30,0,0,0,1,0,,2024-01-04,,,,22,,,,2
+EDN1349-X,prepregnancy_arm_1,lmp,2,2024-03-30,28,0,0,0,0,1,She get missed carriage last month which is February ending2024.,,1,,Due to the abortion,31,,,,2
+EDN1351-Z,prepregnancy_arm_1,lmp,1,2024-03-30,28,0,0,0,1,0,,2024-05-01,0,2024-03-14,,,,,,2
+EDN1359-I,prepregnancy_arm_1,lmp,1,2024-03-26,28,0,0,0,1,0,,2023-05-03,,,,31,,,,2
+EDN1359-I,prepregnancy_arm_1,lmp,2,2024-05-21,29,0,0,0,0,1,Travelled ,,,,,22,,,,2
+EDN1365-O,prepregnancy_arm_1,lmp,1,2024-02-07,26,0,0,0,1,0,,2023-04-29,,,,22,,,,2
+EDN1365-O,prepregnancy_arm_1,lmp,2,2024-03-26,28,0,0,0,1,0,,,1,,,,,,,2
+EDN1368-R,prepregnancy_arm_1,lmp,2,2024-05-21,29,0,0,0,0,1,Travelled ,,,,,22,,,,2
+EDN1368-R,prepregnancy_arm_1,lmp,3,2024-06-24,30,0,0,0,0,1,Travelled ,,,,,22,,,,2
+EDN1372-V,prepregnancy_arm_1,lmp,1,2024-02-13,26,0,0,0,0,1,Pregnant and already recruited for INDIGO ,,,,,22,,,,2
+EDN1372-V,prepregnancy_arm_1,lmp,2,2024-05-21,29,0,0,0,0,1,She is already on supplement ,,,,This participant is pregnant and had started taking IPS,22,,,,2
+EDN1372-V,prepregnancy_arm_1,lmp,3,2024-06-26,30,0,0,0,0,1,She is already on IP ,,,,,22,,,,2
+EDN1378-C,prepregnancy_arm_1,lmp,2,2024-03-31,28,0,0,0,0,1,Travelled to the coast. ,,,,,31,,,,2
+EDN1383-H,prepregnancy_arm_1,lmp,1,2024-01-24,26,0,1,0,0,0,,,0,2024-01-17,,28,,,,2
+EDN1383-H,prepregnancy_arm_1,lmp,2,2024-05-14,29,0,0,0,0,1,She moved to her husband in kombo.,,,,,28,,,,2
+EDN1383-H,prepregnancy_arm_1,lmp,3,2024-06-11,30,0,0,0,0,1,Married and moved to her husband in kombo. ,,,,,28,,,,2
+EDN1386-K,prepregnancy_arm_1,lmp,1,2024-01-25,26,0,0,0,1,0,,2023-03-31,0,2024-01-23,,28,,,,2
+EDN1390-O,prepregnancy_arm_1,lmp,1,2024-01-25,26,0,0,0,1,0,,2024-01-16,0,,She said she didn't see her menses after she delivered.,28,,,,2
+EDN1390-O,prepregnancy_arm_1,lmp,3,2024-05-20,29,0,0,0,1,0,,2024-01-16,0,2024-05-12,,28,,,,2
+EDN1393-R,prepregnancy_arm_1,lmp,3,2024-05-20,29,0,0,0,0,1,Moved to Kombo to her husband. ,,,,,28,,,,2
+EDN1393-R,prepregnancy_arm_1,lmp,4,2024-06-24,30,0,0,0,0,1,She moved to Kombo to stay with her husband. ,,,,,28,,,,2
+EDN1397-V,prepregnancy_arm_1,lmp,1,2024-01-24,26,0,0,0,0,1,She moved with husband to Basse area URR.,,,,,28,,,,2
+EDN1397-V,prepregnancy_arm_1,lmp,2,2024-03-12,27,0,0,0,0,1,The husband is a teacher and she moved with him to Basse URR.,,,,,28,,,,2
+EDN1397-V,prepregnancy_arm_1,lmp,5,2024-06-24,30,0,0,0,0,1,She now  moved to kombo schooling.,,,,,28,,,,2
+EDN1398-W,prepregnancy_arm_1,lmp,1,2024-01-24,26,0,0,1,0,0,,,0,2023-12-27,,28,,,,2
+EDN1398-W,prepregnancy_arm_1,lmp,2,2024-03-12,27,0,0,1,0,0,,,,,She moved to Kombo for learning.,28,,,,2
+EDN1398-W,prepregnancy_arm_1,lmp,4,2024-05-20,29,0,0,1,0,0,,,,,She is in kombo. ,28,,,,2
+EDN1398-W,prepregnancy_arm_1,lmp,5,2024-06-24,30,0,0,1,0,0,,,,,,28,,,,2
+EDN1400-Y,prepregnancy_arm_1,lmp,1,2024-01-30,26,0,0,0,1,0,,2023-05-01,,,"When I delivered normally I didn't see my menses, until my child stop breastfeeding.g.",28,,,,2
+EDN1403-C,prepregnancy_arm_1,lmp,4,2024-05-21,29,0,0,0,0,1,She came for a booking ,,,,,28,,,,2
+EDN1408-H,prepregnancy_arm_1,lmp,1,2024-01-23,26,0,1,0,0,0,,,,,,22,,,,2
+EDN1408-H,prepregnancy_arm_1,lmp,2,2024-03-31,28,0,1,0,0,0,,,,,,31,,,,2
+EDN1408-H,prepregnancy_arm_1,lmp,3,2024-05-03,29,0,1,0,0,0,,,,,,22,,,,2
+EDN1408-H,prepregnancy_arm_1,lmp,4,2024-05-30,30,0,1,0,0,0,,,,,,22,,,,2
+EDN1409-I,prepregnancy_arm_1,lmp,1,2024-01-23,26,0,0,0,1,0,,2023-03-30,,,,22,,,,2
+EDN1410-G,prepregnancy_arm_1,lmp,2,2024-05-23,29,0,0,0,0,1,Travelled ,,,,,22,,,,2
+EDN1410-G,prepregnancy_arm_1,lmp,3,2024-06-27,30,0,0,0,0,1,Travelled ,,,,,22,,,,2
+EDN1414-N,prepregnancy_arm_1,lmp,2,2024-02-28,27,0,0,0,0,1,Husband not interested and asked to be withdrawn ,,,,,22,,,,2
+EDN1414-N,prepregnancy_arm_1,lmp,4,2024-05-03,29,0,0,0,0,1,Husband not interested ,,,,,22,,,,2
+EDN1414-N,prepregnancy_arm_1,lmp,5,2024-05-30,30,0,0,0,0,1,Husband not interested ,,,,,22,,,,2
+EDN1415-O,prepregnancy_arm_1,lmp,1,2024-02-21,26,0,1,0,0,0,,,0,2024-02-18,,28,,,,2
+EDN1418-R,prepregnancy_arm_1,lmp,1,2024-02-21,26,0,0,0,0,1,She is not interested. ,,,,,28,,,,2
+EDN1420-T,prepregnancy_arm_1,lmp,4,2024-05-14,29,1,0,0,0,1,"She said she is not interested because she didn't stay at one place, is a business woman. ",,0,2024-05-06,,28,,,,2
+EDN1425-Y,prepregnancy_arm_1,lmp,1,2024-02-06,26,0,0,0,1,0,,2024-01-15,0,,She said it takes time after delivery to see her menses.,28,,,,2
+EDN1425-Y,prepregnancy_arm_1,lmp,3,2024-05-06,29,0,0,0,1,0,,2024-01-15,,,"She said since she delivered ,she didn't see her menses.",28,,,,2
+EDN1425-Y,prepregnancy_arm_1,lmp,4,2024-06-03,30,0,0,0,1,0,,2024-01-15,,,She didn't see her menses after her delivery. ,28,,,,2
+EDN1427-B,prepregnancy_arm_1,lmp,1,2024-02-06,26,0,0,0,0,1,She is living in kombo now.,,,,"You cannot know her status,she is living in kombo.",28,,,,2
+EDN1427-B,prepregnancy_arm_1,lmp,3,2024-05-07,29,0,0,0,1,0,,2023-11-26,0,2024-05-03,,28,,,,2
+EDN1429-D,prepregnancy_arm_1,lmp,2,2024-03-04,27,0,0,0,0,1,She is pregnant and she came to the camp for the called.,,,,She is pregnant and came to the camp for the called,28,,,,2
+EDN1429-D,prepregnancy_arm_1,lmp,4,2024-05-09,29,0,0,0,0,1,She was recruited and started the supplement.,,,,"She was recruited and she stated her supplement, but she is staying in Jiffarong.",28,,,,2
+EDN1432-G,prepregnancy_arm_1,lmp,1,2024-02-08,26,0,0,0,1,0,,2023-11-29,0,,Since I delivered I didn't see my menses.,28,,,,2
+EDN1432-G,prepregnancy_arm_1,lmp,3,2024-05-07,29,0,0,0,1,0,,2023-11-29,0,2024-04-29,,28,,,,2
+EDN1432-G,prepregnancy_arm_1,lmp,4,2024-06-04,30,0,0,0,0,1,She is using Family Planning.,,0,,She last to see my menses when my child was two months old. ,28,,,,2
+EDN1440-O,prepregnancy_arm_1,lmp,1,2024-02-12,26,0,0,0,1,0,,2024-01-16,1,,"She said she didn't see her menses, because from the date of delivery to date is not up to one month. ",23,,,,2
+EDN1456-F,prepregnancy_arm_1,lmp,1,2024-02-15,26,0,1,0,0,0,,,0,2024-01-30,,23,,,,2
+EDN1459-I,prepregnancy_arm_1,lmp,1,2024-01-28,26,0,0,0,1,0,,2023-02-04,,,,2,,,,2
+EDN1461-K,prepregnancy_arm_1,lmp,1,2024-01-23,26,0,0,0,1,0,,2023-01-23,0,2024-01-18,,2,,,,2
+EDN1477-B,prepregnancy_arm_1,lmp,1,2024-06-11,30,0,1,0,0,1,Student and unmarried. ,,,,,16,,,,2
+EDN1481-F,prepregnancy_arm_1,lmp,1,2024-06-11,30,0,1,0,0,1,Student and unmarried. ,,,,,16,,,,2
+EDN1483-H,prepregnancy_arm_1,lmp,2,2024-06-13,30,0,0,0,0,1,Travelled,,,,I dcould not know about her LMP because participant travelled,16,,,,2
+EDN1487-L,prepregnancy_arm_1,lmp,2,2024-06-13,30,0,0,0,0,1,Travelled,,0,2024-06-13,I could not know about her LMP because participant travelled,16,,,,2
+EDN1493-R,prepregnancy_arm_1,lmp,1,2024-05-13,29,0,0,0,0,1,On family planning contraceptive. ,,0,2024-04-17,,16,,,,2
+EDN1500-Y,prepregnancy_arm_1,lmp,1,2024-05-13,29,0,0,0,0,1,On family planning contraceptive. ,,0,2024-04-21,,16,,,,2
+EDN1500-Y,prepregnancy_arm_1,lmp,2,2024-06-11,30,0,0,0,0,1,On family planning contraceptive.,,0,,,16,,,,2
+EDN1502-B,prepregnancy_arm_1,lmp,2,2024-06-20,30,0,0,0,0,1,Participant is a student and unmarried. ,,0,2024-05-27,,16,,,,2
+EDN1506-J,prepregnancy_arm_1,lmp,1,2024-05-07,29,0,0,0,0,1,Student,,0,2024-05-02,,16,,,,2
+EDN1506-J,prepregnancy_arm_1,lmp,2,2024-06-20,30,0,0,0,0,1,Student. ,,0,2024-05-24,,16,,,,2
+EDN1510-B,prepregnancy_arm_1,lmp,2,2024-05-06,29,0,0,0,0,1,Participant was found positive for pregnancy during cycle 28 round. ,,1,,,16,,,,2
+EDN1510-B,prepregnancy_arm_1,lmp,3,2024-06-19,30,0,0,0,0,1,Participant is currently pregnant.,,1,,,16,,,,2
+EDN1514-K,prepregnancy_arm_1,lmp,1,2024-05-07,29,0,0,0,0,1,She has travelled to the coast due to a medical condition and a student as well,,0,,,16,,,,2
+EDN1514-K,prepregnancy_arm_1,lmp,2,2024-06-20,30,0,0,0,0,1,Student ,,0,2024-06-04,,16,,,,2
+EDN1525-F,prepregnancy_arm_1,lmp,1,2024-05-01,29,0,0,0,1,0,,2023-08-16,1,,,16,,,,2
+EDN1525-F,prepregnancy_arm_1,lmp,2,2024-06-04,30,0,0,0,1,0,,2023-03-16,1,,,16,,,,2
+EDN1537-A,prepregnancy_arm_1,lmp,2,2024-04-02,28,0,0,0,0,1,Already booked ,,1,,,2,,,,2
+EDN1542-H,prepregnancy_arm_1,lmp,1,2024-02-05,26,0,0,0,1,0,,2023-02-28,0,2024-02-05,,2,,,,2
+EDN1547-F,prepregnancy_arm_1,lmp,3,2024-04-02,28,0,0,1,0,0,,,,,,2,,,,2
+EDN1547-F,prepregnancy_arm_1,lmp,4,2024-05-08,29,0,0,1,0,0,,,,,,2,,,,2
+EDN1547-F,prepregnancy_arm_1,lmp,5,2024-06-26,30,0,0,1,0,0,,,,,,2,,,,2
+EDN1548-J,prepregnancy_arm_1,lmp,1,2024-04-02,28,0,0,0,0,1,Declined ,,,,,2,,,,2
+EDN1548-J,prepregnancy_arm_1,lmp,2,2024-05-08,29,0,0,0,0,1,Declined ,,,,,2,,,,2
+EDN1548-J,prepregnancy_arm_1,lmp,3,2024-06-26,30,0,0,0,0,1,Declined ,,,,,2,,,,2
+EDN1549-B,prepregnancy_arm_1,lmp,1,2024-02-05,26,0,1,0,0,0,,,0,2024-02-05,,2,,,,2
+EDN1549-B,prepregnancy_arm_1,lmp,2,2024-02-28,27,0,1,0,0,0,,,,,,2,,,,2
+EDN1549-B,prepregnancy_arm_1,lmp,3,2024-04-02,28,0,1,0,0,0,,,0,2024-04-02,,2,,,,2
+EDN1549-B,prepregnancy_arm_1,lmp,4,2024-05-08,29,0,1,0,0,0,,,,,,2,,,,2
+EDN1549-B,prepregnancy_arm_1,lmp,5,2024-06-26,30,0,1,0,0,0,,,,,,2,,,,2
+EDN1564-G,prepregnancy_arm_1,lmp,1,2024-01-31,26,0,0,0,1,0,,2023-05-11,0,2024-01-25,,29,,,,2
+EDN1566-H,prepregnancy_arm_1,lmp,1,2024-01-31,26,0,0,0,1,0,,2023-03-09,0,2024-01-29,,29,,,,2
+EDN1567-C,prepregnancy_arm_1,lmp,1,2024-02-15,26,0,0,1,0,0,,,0,2024-01-29,,29,,,,2
+EDN1567-C,prepregnancy_arm_1,lmp,3,2024-05-13,29,0,0,1,0,0,,,0,2024-04-10,,29,,,,2
+EDN1568-A,prepregnancy_arm_1,lmp,1,2024-02-14,26,0,0,0,1,0,,2023-10-29,0,2024-01-28,,29,,,,2
+EDN1568-A,prepregnancy_arm_1,lmp,2,2024-05-15,29,0,0,0,1,0,,2023-10-29,0,2024-04-28,"Her child is just 7months old, not interested in pregnancy now ",29,,,,2
+EDN1571-J,prepregnancy_arm_1,lmp,1,2024-02-13,26,0,0,1,0,0,,,0,2024-01-24,,29,,,,2
+EDN1571-J,prepregnancy_arm_1,lmp,3,2024-05-15,29,0,0,1,0,0,,,0,2024-04-24,,29,,,,2
+EDN1571-J,prepregnancy_arm_1,lmp,4,2024-06-13,30,0,0,1,0,0,,,,,,35,,,,2
+EDN1574-H,prepregnancy_arm_1,lmp,1,2024-02-13,26,0,0,1,0,0,,,0,2024-01-16,,29,,,,2
+EDN1574-H,prepregnancy_arm_1,lmp,3,2024-05-17,29,0,0,1,0,0,,,0,2024-04-16,,29,,,,2
+EDN1574-H,prepregnancy_arm_1,lmp,4,2024-06-13,30,0,0,0,0,1,Husband travelled to Europe ,,,,,35,,,,2
+EDN1575-C,prepregnancy_arm_1,lmp,1,2024-02-16,26,0,0,0,0,1,Travelled to kombo for holidays.,,,,,29,,,,2
+EDN1583-D,prepregnancy_arm_1,lmp,1,2024-05-30,30,0,1,0,0,0,,,,,Student and not married ,29,,,,2
+EDN1587-K,prepregnancy_arm_1,lmp,1,2024-02-13,26,0,1,0,0,0,,,,,husband passed away,29,,,,2
+EDN1587-K,prepregnancy_arm_1,lmp,2,2024-05-17,29,0,1,0,0,0,,,,,Widowed ,29,,,,2
+EDN1587-K,prepregnancy_arm_1,lmp,3,2024-06-13,30,0,0,1,0,0,,,,,,35,,,,2
+EDN1590-E,prepregnancy_arm_1,lmp,1,2024-02-13,26,0,0,0,0,1,"Travelled, holiday at the coast, husband around for holiday.",,,,,29,,,,2
+EDN1594-J,prepregnancy_arm_1,lmp,1,2024-05-17,29,0,0,0,0,1,Using family planning for now ,,,,,29,,,,2
+EDN1625-F,prepregnancy_arm_1,lmp,4,2024-06-22,30,0,0,0,0,1,Travelled to kombo ,,0,,,30,,,,2
+EDN1630-J,prepregnancy_arm_1,lmp,1,2024-02-01,26,0,0,0,1,0,,2023-11-01,0,2024-01-04,,30,,,,2
+EDN1638-B,prepregnancy_arm_1,lmp,3,2024-05-16,29,0,0,1,0,0,,,0,2024-05-01,,30,,,,2
+EDN1638-B,prepregnancy_arm_1,lmp,4,2024-06-20,30,0,0,1,0,0,,,0,2024-06-11,,30,,,,2
+EDN1641-G,prepregnancy_arm_1,lmp,1,2024-02-16,26,0,0,0,1,0,,2023-05-19,0,2024-02-14,,30,,,,2
+EDN1655-D,prepregnancy_arm_1,lmp,1,2024-03-07,27,0,0,1,0,1,HUSBAND IN ABROAD ,,0,2024-03-02,,26,,,,2
+EDN1664-G,prepregnancy_arm_1,lmp,1,2024-02-01,26,0,0,1,0,0,,,0,2024-01-24,,30,,,,2
+EDN1664-G,prepregnancy_arm_1,lmp,2,2024-05-07,29,0,1,0,0,0,,,0,2024-04-26,,,,,,2
+EDN1664-G,prepregnancy_arm_1,lmp,3,2024-06-21,30,0,1,0,0,0,,,0,2024-05-29,,30,,,,2
+EDN1666-H,prepregnancy_arm_1,lmp,1,2024-02-01,26,0,0,0,1,0,,2023-08-19,0,2024-01-08,,30,,,,2
+EDN1668-A,prepregnancy_arm_1,lmp,1,2024-02-12,26,0,0,0,1,0,,2023-08-23,0,2024-01-10,,30,,,,2
+EDN1675-C,prepregnancy_arm_1,lmp,3,2024-05-20,29,0,0,0,0,1,Travelled ,,,,,30,,,,2
+EDN1686-F,prepregnancy_arm_1,lmp,1,2024-02-01,26,0,1,0,0,0,,,0,2024-02-01,,30,,,,2
+EDN1686-F,prepregnancy_arm_1,lmp,2,2024-05-14,29,0,1,0,0,0,,,0,2024-05-04,,30,,,,2
+EDN1690-E,prepregnancy_arm_1,lmp,1,2024-02-01,26,0,1,0,0,0,,,0,2024-12-30,,30,,,,2
+EDN1690-E,prepregnancy_arm_1,lmp,2,2024-05-20,29,0,1,0,0,0,,,0,2024-05-03,,30,,,,2
+EDN1690-E,prepregnancy_arm_1,lmp,3,2024-06-20,30,0,1,0,0,0,,,0,2024-06-17,,30,,,,2
+EDN1693-G,prepregnancy_arm_1,lmp,2,2024-06-03,30,0,0,0,0,1,TRAVELLED ,,,,,26,,,,2
+EDN1703-H,prepregnancy_arm_1,lmp,3,2024-05-16,29,0,0,0,0,1,ON CONTRACEPTIVE FOR BIRTH SPACING,,0,2024-05-14,,26,,,,2
+EDN1704-F,prepregnancy_arm_1,lmp,1,2024-03-04,27,0,0,0,0,1,ON CONTRACEPTIVE ,,,,,,,,,2
+EDN1704-F,prepregnancy_arm_1,lmp,2,2024-03-26,28,0,0,0,0,1,On contraceptive ,,,,,15,,,,2
+EDN1704-F,prepregnancy_arm_1,lmp,3,2024-05-16,29,0,0,0,0,1,ON CONTRACEPTIVE ,,,,,,,,,2
+EDN1708-E,prepregnancy_arm_1,lmp,1,2024-05-08,29,0,0,0,0,1,WIDOW,,0,2024-05-03,,26,,,,2
+EDN1723-C,prepregnancy_arm_1,lmp,1,2024-05-21,29,0,0,0,0,1,Husband  refused ,,,,,21,,,,2
+EDN1724-B,prepregnancy_arm_1,lmp,1,2024-05-21,29,0,0,0,0,1,Name is repeated ,,,,,21,,,,2
+EDN1726-E,prepregnancy_arm_1,lmp,1,2024-05-21,29,0,0,0,0,1,Travelled  to cassmance  for a fammo,,,,,21,,,,2
+EDN1738-B,prepregnancy_arm_1,lmp,2,2024-03-28,28,0,0,0,0,1,Husband travelled ,,,,,6,,,,2
+EDN1738-B,prepregnancy_arm_1,lmp,3,2024-05-19,29,0,0,0,0,1,Husband lives in abroad. ,,,,,,,,,0
+EDN1738-B,prepregnancy_arm_1,lmp,4,2024-06-07,30,0,0,1,0,0,,,0,2024-05-21,,37,,,,2
+EDN1801-C,prepregnancy_arm_1,lmp,2,2024-05-22,29,0,0,0,0,1,Travelled to the coast ,,,,,22,,,,2
+EDN1805-V,prepregnancy_arm_1,lmp,1,2024-05-22,29,0,0,0,0,1,Travelled ,,,,,22,,,,2
+EDN1805-V,prepregnancy_arm_1,lmp,2,2024-06-27,30,0,1,0,0,0,,,,,,22,,,,2
+EDN1842-X,prepregnancy_arm_1,lmp,1,2024-03-28,28,0,1,0,0,0,,,0,2024-03-12,,27,,,,2
+EDN1842-X,prepregnancy_arm_1,lmp,2,2024-06-05,30,0,1,0,0,0,,,0,2024-05-30,,37,,,,2
+EDN1843-E,prepregnancy_arm_1,lmp,1,2024-06-05,30,0,0,0,0,1,Over aged ,,,,,37,,,,2
+EDN1845-S,prepregnancy_arm_1,lmp,1,2024-03-28,28,0,1,0,0,0,,,0,2024-03-20,,27,,,,2
+EDN1845-S,prepregnancy_arm_1,lmp,2,2024-06-05,30,0,1,0,0,0,,,0,2024-05-30,,37,,,,2
+EDN1846-F,prepregnancy_arm_1,lmp,1,2024-03-28,28,0,0,0,0,1,Already consented for INDiGO,,1,,,27,,,,2
+EDN1851-G,prepregnancy_arm_1,lmp,2,2024-06-27,30,0,0,0,0,1,Travel ,,,,,37,,,,2
+EDN1852-P,prepregnancy_arm_1,lmp,1,2024-03-28,28,0,0,0,0,1,Declined,,0,2024-03-20,,27,,,,2
+EDN1852-P,prepregnancy_arm_1,lmp,2,2024-06-10,30,0,0,0,0,1,Declined ,,0,2024-05-25,,37,,,,2
+EDN1853-Z,prepregnancy_arm_1,lmp,3,2024-06-05,30,0,0,0,0,1,Taking  family  planning ,,0,2024-05-29,,37,,,,2
+EDN1854-Q,prepregnancy_arm_1,lmp,1,2024-05-01,29,0,0,0,0,1,Divorce,,0,2024-04-04,,27,,,,2
+EDN1854-Q,prepregnancy_arm_1,lmp,2,2024-06-10,30,0,1,0,0,0,,,0,2024-05-24,,37,,,,2
+EDN1855-H,prepregnancy_arm_1,lmp,1,2024-03-28,28,0,0,0,1,0,,2023-09-20,0,2024-03-23,,27,,,,2
+EDN1856-H,prepregnancy_arm_1,lmp,1,2024-06-09,30,0,0,1,0,0,,,0,2024-05-15,,37,,,,2
+EDN1858-T,prepregnancy_arm_1,lmp,1,2024-06-09,30,0,0,0,1,0,,2024-01-22,1,,Breastfeeding ,37,,,,2
+EDN1859-W,prepregnancy_arm_1,lmp,1,2024-05-02,29,0,0,0,0,1,On contraceptives ,,1,,,14,,,,2
+EDN1859-W,prepregnancy_arm_1,lmp,2,2024-06-25,30,0,0,0,0,1,Taking  Family  planning ,,1,,,37,,,,2
+EDN1863-R,prepregnancy_arm_1,lmp,1,2024-03-28,28,0,0,0,0,1,Divorced ,,0,2024-03-25,,27,,,,2
+EDN1863-R,prepregnancy_arm_1,lmp,2,2024-06-25,30,0,0,0,0,1,Divorced ,,1,,,37,,,,2
+EDN1869-Z,prepregnancy_arm_1,lmp,1,2024-05-02,29,0,0,0,1,0,,2023-10-08,1,,Breastfeeding less than 12 months,14,,,,2
+EDN1869-Z,prepregnancy_arm_1,lmp,2,2024-06-09,30,0,0,0,1,0,,2023-10-08,1,,Breastfeeding  ,37,,,,2
+EDN1870-N,prepregnancy_arm_1,lmp,1,2024-03-28,28,0,0,0,0,1,Single,,0,2024-03-18,,27,,,,2
+EDN1870-N,prepregnancy_arm_1,lmp,2,2024-06-25,30,0,0,0,0,1,Not married ,,0,2024-05-21,,37,,,,2
+EDN1873-E,prepregnancy_arm_1,lmp,2,2024-05-02,29,0,0,0,1,0,,2023-09-22,0,2024-04-19,BREASTFEEDING ,19,,,,2
+EDN1875-S,prepregnancy_arm_1,lmp,1,2024-04-08,28,0,0,0,0,1,Travelled,,,,,27,,,,2
+EDN1875-S,prepregnancy_arm_1,lmp,3,2024-05-30,30,0,0,0,1,0,,,,,,12,,,,2
+EDN1877-Z,prepregnancy_arm_1,lmp,1,2024-04-08,28,0,0,0,1,0,,2024-02-20,,,Last seen: post delivery,27,,,,2
+EDN1877-Z,prepregnancy_arm_1,lmp,2,2024-05-30,30,0,0,0,1,0,,2024-02-20,,,,12,,,,2
+EDN1878-H,prepregnancy_arm_1,lmp,1,2024-04-08,28,0,0,0,1,0,,,,,3b. Could not access the infant welfare card at the time,27,,,,2
+EDN1878-H,prepregnancy_arm_1,lmp,3,2024-05-30,30,0,0,0,1,0,,2024-05-30,,,,12,,,,2
+EDN1883-Q,prepregnancy_arm_1,lmp,1,2024-04-08,28,0,0,0,0,1,Travelled ,,,,,27,,,,2
+EDN1884-D,prepregnancy_arm_1,lmp,1,2024-04-08,28,0,0,0,0,1,Travelled ,,,,,27,,,,2
+EDN1884-D,prepregnancy_arm_1,lmp,2,2024-05-30,30,0,0,1,0,0,,,0,2024-04-25,,12,,,,2
+EDN1887-P,prepregnancy_arm_1,lmp,2,2024-05-10,29,0,0,1,0,0,,,0,2024-05-02,,27,,,,2
+EDN1887-P,prepregnancy_arm_1,lmp,3,2024-05-30,30,0,0,1,0,0,,,,,,12,,,,2
+EDN1915-J,prepregnancy_arm_1,lmp,1,2024-03-27,28,0,0,0,1,0,,2023-06-13,0,2024-03-10,BREASTFEEDING 9MONTHS ,19,,,,2
+EDN1916-O,prepregnancy_arm_1,lmp,1,2024-03-27,28,0,0,0,1,0,,2023-04-11,0,2024-04-30,HCG NEGATIVE ,19,,,,2
+EDN1917-E,prepregnancy_arm_1,lmp,1,2024-03-27,28,0,0,0,1,0,,2023-08-23,0,2024-03-11,BREASTFEEDING 6 MONTHS ,19,,,,2
+EDN1919-O,prepregnancy_arm_1,lmp,1,2024-03-27,28,0,0,0,1,0,,2023-06-12,0,2024-03-11,BREASTFEEDING 9MONTHS,19,,,,2
+EDN1925-T,prepregnancy_arm_1,lmp,1,2024-03-27,28,0,0,0,1,0,,2023-07-18,0,2024-03-17,HCG NEGATIVE ,19,,,,2
+EDN1938-B,prepregnancy_arm_1,lmp,1,2024-04-01,28,0,0,0,0,1,ALREADY ON INDIGO -IN-M-272 D,,,,IN-M- 272 D,19,,,,2
+EDN1945-W,prepregnancy_arm_1,lmp,1,2024-05-07,29,0,0,1,0,0,,,,,,19,,,,2
+EDN1949-E,prepregnancy_arm_1,lmp,1,2024-04-01,28,0,0,0,1,0,,2023-09-20,0,2024-03-15,"HCG NEGATIVE, BREASTFEEDING  6 MONTHS ",19,,,,2
+EDN1952-V,prepregnancy_arm_1,lmp,1,2024-04-01,28,0,0,0,1,0,,2023-11-02,0,2023-03-07,HCG NEGATIVE ,19,,,,2
+EDN1952-V,prepregnancy_arm_1,lmp,2,2024-06-25,30,0,0,0,1,0,,2023-11-02,1,,Breastfeeding.  Hcg negative ,17,,,,2
+EDN1954-Y,prepregnancy_arm_1,lmp,1,2024-04-03,28,0,0,0,1,0,,2023-11-02,0,2024-04-17,HCG NEGATIVE ,19,,,,2
+EDN1961-W,prepregnancy_arm_1,lmp,1,2024-04-01,28,0,0,0,1,0,,2023-08-09,0,2023-03-13,"HCG NEGATIVE, BREASTFEEDING 7MONTHS",19,,,,2
+EDN1962-D,prepregnancy_arm_1,lmp,1,2024-04-01,28,0,0,0,1,0,,2023-06-12,0,2023-03-09,"HCG NEGATIVE, BREASTFEEDING 9 MONTHS ",19,,,,2
+EDN1964-O,prepregnancy_arm_1,lmp,1,2024-04-01,28,0,0,0,1,0,,2023-10-16,0,2023-03-09,"HCG NEGATIVE, BREASTFEEDING 5 MONTHS ",19,,,,2
+EDN1965-L,prepregnancy_arm_1,lmp,1,2024-05-07,29,0,0,0,1,0,,,,,BREASTFEEDING 3MONTHS ,19,,,,2
+EDN1983-O,prepregnancy_arm_1,lmp,1,2024-06-27,30,0,1,0,0,0,,,,,WIDOWED ,19,,,,2
+EDN1988-U,prepregnancy_arm_1,lmp,3,2024-06-05,30,0,0,0,0,1,TRAVELLED ,,,,,19,,,,2
+EDN2008-P,prepregnancy_arm_1,lmp,1,2024-04-03,28,0,0,0,0,1,TRAVEL TO SENEGAL ,,,,,19,,,,2
+EDN2010-X,prepregnancy_arm_1,lmp,1,2024-04-03,28,0,0,0,0,1,Moved to kombo ,,,,Moved because  of  family  dispute ,19,,,,2
+EDN2012-B,prepregnancy_arm_1,lmp,1,2024-06-05,30,0,1,0,0,0,,,,,SINGLE ,19,,,,2
+EDN2013-P,prepregnancy_arm_1,lmp,1,2024-04-03,28,0,1,0,0,0,,,0,2023-03-27,HCG NEGATIVE ,19,,,,2
+EDN2014-Q,prepregnancy_arm_1,lmp,2,2024-06-05,30,0,0,0,0,1,Travelled ,,,,,19,,,,2
+EDN2017-T,prepregnancy_arm_1,lmp,1,2024-03-25,28,0,0,0,1,1,BREASTFEEDING  5 MONTHS ,2023-10-11,,,,19,,,,2
+EDN2018-G,prepregnancy_arm_1,lmp,1,2024-03-25,28,0,1,0,0,0,,,,,SINGLE LADY ,19,,,,2
+EDN2019-I,prepregnancy_arm_1,lmp,1,2024-03-25,28,0,1,0,0,0,,,,,SINGLE LADY ,19,,,,2
+EDN2020-D,prepregnancy_arm_1,lmp,1,2024-05-06,29,0,0,0,1,0,,,,,TEMPORAL  EXCLUSION ,19,,,,2
+EDN2032-V,prepregnancy_arm_1,lmp,1,2024-03-25,28,0,0,0,1,0,,2023-08-22,,,BREASTFEEDING  7 MONTHS ,19,,,,2
+EDN2034-K,prepregnancy_arm_1,lmp,1,2024-05-06,29,0,0,1,0,0,,,,,HUSBAND OVERSEAS ,19,,,,2
+EDN2035-P,prepregnancy_arm_1,lmp,1,2024-06-26,30,0,0,0,0,1,TRAVELLED ,,,,,19,,,,2
+EDN2036-U,prepregnancy_arm_1,lmp,1,2024-03-25,28,0,0,0,1,0,,2024-01-03,,,BREASTFEEDING  2 MONTHS ,19,,,,2
+EDN2038-Y,prepregnancy_arm_1,lmp,1,2024-05-06,29,0,0,0,1,0,,,,,BREASTFEEDING  5 MONTHS ,19,,,,2
+EDN2041-F,prepregnancy_arm_1,lmp,1,2024-03-25,28,0,0,1,0,0,,,,,HUSBAND  OVERSEAS ,19,,,,2
+EDN2042-S,prepregnancy_arm_1,lmp,1,2024-03-25,28,0,0,1,0,0,,,,,HUSBAND  OVERSEAS ,19,,,,2
+EDN2044-E,prepregnancy_arm_1,lmp,1,2024-03-25,28,0,1,0,0,0,,,,,SINGLE  LADY ,,,,,2
+EDN2045-B,prepregnancy_arm_1,lmp,1,2024-03-25,28,0,1,0,0,0,,,,,SINGLE  LADY ,19,,,,2
+EDN2049-K,prepregnancy_arm_1,lmp,1,2024-05-06,29,0,1,0,0,0,,,,,,19,,,,2
+EDN2057-Z,prepregnancy_arm_1,lmp,1,2024-03-25,28,0,1,0,0,0,,,,,SINGLE LADY ,19,,,,2
+EDN2058-B,prepregnancy_arm_1,lmp,1,2024-05-06,29,0,0,0,0,1,MENTALLY  UNFIT,,,,,,,,,2
+EDN2061-Y,prepregnancy_arm_1,lmp,2,2024-06-03,30,0,0,0,0,1,Husband is in Europe ,,0,2024-05-29,,25,,,,2
+EDN2065-H,prepregnancy_arm_1,lmp,1,2024-03-25,28,0,0,0,1,0,,2023-08-14,,,BREASTFEEDING  7 MONTHS ,19,,,,2
+EDN2069-J,prepregnancy_arm_1,lmp,1,2024-03-25,28,0,0,0,1,0,,2023-10-20,,,BREASTFEEDING 5 MONTHS ,19,,,,2
+EDN2071-L,prepregnancy_arm_1,lmp,1,2024-05-06,29,0,0,1,0,0,,,0,,HUSBAND OVERSEAS ,19,,,,2
+EDN2074-O,prepregnancy_arm_1,lmp,1,2024-05-06,29,0,0,1,0,0,,,,,HUSBAND OVERSEAS ,19,,,,2
+EDN2077-A,prepregnancy_arm_1,lmp,1,2024-03-25,28,0,0,0,1,0,,2024-01-17,,,BREASTFEEDING 2 MONTHS ,19,,,,2
+EDN2081-P,prepregnancy_arm_1,lmp,1,2024-04-29,29,0,1,0,0,0,,,0,2024-04-20,,14,,,,2
+EDN2083-U,prepregnancy_arm_1,lmp,1,2024-04-05,28,0,0,0,1,0,,2024-01-03,0,2024-04-05,,17,,,,2
+EDN2084-D,prepregnancy_arm_1,lmp,1,2024-05-30,30,0,0,0,0,1,She is on family planning implanon of three years ,,0,2024-04-29,,17,,,,2
+EDN2086-A,prepregnancy_arm_1,lmp,3,2024-05-29,30,0,1,0,0,0,,,0,2024-05-15,,27,,,,2
+EDN2092-M,prepregnancy_arm_1,lmp,1,2024-04-30,29,0,1,0,0,0,,,,,,19,,,,2
+EDN2093-Y,prepregnancy_arm_1,lmp,1,2024-03-28,28,0,0,0,1,0,,2023-06-18,0,2023-06-18,She is breastfeeding a child less than 12 months old,17,,,,2
+EDN2093-Y,prepregnancy_arm_1,lmp,2,2024-05-30,30,0,0,0,1,0,,2023-06-18,1,,She is breastfeeding ,17,,,,2
+EDN2096-L,prepregnancy_arm_1,lmp,1,2024-04-05,28,0,0,0,1,0,,2023-11-18,0,2024-03-28,,17,,,,2
+EDN2105-F,prepregnancy_arm_1,lmp,1,2024-03-28,28,0,0,0,1,0,,2023-11-03,1,,She is breastfeeding less than 12 months old child,17,,,,2
+EDN2106-H,prepregnancy_arm_1,lmp,2,2024-05-09,29,0,1,0,0,0,,,,,,14,,,,2
+EDN2108-R,prepregnancy_arm_1,lmp,1,2024-03-28,28,0,0,0,1,0,,2024-02-23,0,2024-03-28,Breastfeeding less than 12 months old baby,17,,,,2
+EDN2116-P,prepregnancy_arm_1,lmp,1,2024-04-05,28,0,1,0,0,0,,,0,2024-03-20,,17,,,,2
+EDN2123-S,prepregnancy_arm_1,lmp,1,2024-04-30,29,0,0,0,1,0,,2024-04-22,1,,,17,,,,2
+EDN2124-X,prepregnancy_arm_1,lmp,1,2024-04-03,28,0,0,0,1,0,,2023-08-17,0,2024-03-28,,17,,,,2
+EDN2125-M,prepregnancy_arm_1,lmp,1,2024-04-03,28,0,0,1,0,0,,,0,2024-04-03,,17,,,,2
+EDN2127-D,prepregnancy_arm_1,lmp,2,2024-04-30,29,0,1,0,0,0,,,0,2024-04-30,,17,,,,2
+EDN2127-D,prepregnancy_arm_1,lmp,3,2024-05-30,31,0,1,0,0,0,,,0,2024-05-15,,17,,,,2
+EDN2128-J,prepregnancy_arm_1,lmp,1,2024-03-29,28,0,0,0,1,0,,2023-09-28,1,,,17,,,,2
+EDN2131-W,prepregnancy_arm_1,lmp,1,2024-04-30,29,0,1,0,0,0,,,0,2024-04-28,,17,,,,2
+EDN2132-Y,prepregnancy_arm_1,lmp,1,2024-05-30,30,0,0,0,1,0,,2024-01-11,1,,Breastfeeding a child less than one year of age ,17,,,,2
+EDN2133-H,prepregnancy_arm_1,lmp,1,2024-03-29,28,0,0,0,1,0,,2023-09-06,1,,,17,,,,2
+EDN2133-H,prepregnancy_arm_1,lmp,2,2024-05-30,30,0,0,0,1,0,,2023-09-06,1,,Breastfeeding ,37,,,,2
+EDN2134-Q,prepregnancy_arm_1,lmp,2,2024-04-30,29,0,1,0,0,0,,,,,SINGLE,19,,,,2
+EDN2134-Q,prepregnancy_arm_1,lmp,3,2024-05-29,30,0,1,0,0,0,,,0,2024-05-22,,27,,,,2
+EDN2138-L,prepregnancy_arm_1,lmp,1,2024-04-30,29,0,0,0,0,1,MOVED AWAY,,,,,19,,,,2
+EDN2139-K,prepregnancy_arm_1,lmp,2,2024-04-30,29,0,1,0,0,0,,,,,,19,,,,2
+EDN2139-K,prepregnancy_arm_1,lmp,3,2024-05-30,30,0,1,0,0,0,,,0,2024-05-19,,17,,,,2
+EDN2140-P,prepregnancy_arm_1,lmp,1,2024-04-02,28,0,0,0,1,0,,2024-02-18,1,,Breastfeeding a one month ago child,17,,,,2
+EDN2140-P,prepregnancy_arm_1,lmp,2,2024-05-30,30,0,0,0,1,0,,2024-02-18,1,,Breastfeeding ,37,,,,2
+EDN2142-Y,prepregnancy_arm_1,lmp,1,2024-04-30,29,0,1,0,0,0,,,,,,19,,,,2
+EDN2144-H,prepregnancy_arm_1,lmp,1,2024-04-30,29,0,1,0,0,0,,,,,SINGLE,19,,,,2
+EDN2145-O,prepregnancy_arm_1,lmp,1,2024-04-03,28,0,1,0,0,0,,,0,2024-03-14,,17,,,,2
+EDN2147-W,prepregnancy_arm_1,lmp,1,2024-04-30,29,0,1,0,0,0,,,,,SINGLE,19,,,,2
+EDN2149-F,prepregnancy_arm_1,lmp,1,2024-04-02,28,0,0,0,1,0,,2023-12-17,0,2024-03-25,,17,,,,2
+EDN2149-F,prepregnancy_arm_1,lmp,2,2024-05-30,30,0,0,0,1,0,,2023-12-23,0,2024-05-28,,17,,,,2
+EDN2150-J,prepregnancy_arm_1,lmp,1,2024-06-06,30,0,0,0,1,0,,2024-02-15,1,,Breastfeeding less than one year old child ,17,,,,2
+EDN2159-F,prepregnancy_arm_1,lmp,1,2024-04-03,28,0,1,0,0,0,,,0,2024-03-28,Single,17,,,,2
+EDN2163-S,prepregnancy_arm_1,lmp,1,2024-05-09,29,0,0,0,0,1,Moved away,,,,,14,,,,2
+EDN2167-H,prepregnancy_arm_1,lmp,1,2024-04-30,29,0,1,0,0,0,,,,,SINGLE,19,,,,2
+EDN2177-X,prepregnancy_arm_1,lmp,1,2024-04-29,29,0,0,0,1,0,,2023-09-01,0,,NOT STARTED  MENSES SINCE CHILD BIRTH,19,,,,2
+EDN2184-C,prepregnancy_arm_1,lmp,1,2024-05-09,29,0,0,0,0,1,Permanent withdrawal,,,,,14,,,,2
+EDN2186-B,prepregnancy_arm_1,lmp,1,2024-05-09,29,0,0,0,0,1,Permanent withdrawal- against husband's wish,,,,,14,,,,2
+EDN2187-E,prepregnancy_arm_1,lmp,1,2024-05-09,29,0,0,0,0,1,Permanent withdrawal -against husband's wish,,,,,14,,,,2
+EDN2189-T,prepregnancy_arm_1,lmp,1,2024-04-03,28,0,0,0,1,0,,2023-12-18,0,2024-04-03,,17,,,,2
+EDN2190-U,prepregnancy_arm_1,lmp,1,2024-04-03,28,0,0,0,1,0,,2023-04-20,0,2024-03-31,,17,,,,2
+EDN2191-E,prepregnancy_arm_1,lmp,1,2024-04-30,29,0,0,0,1,0,,2023-12-15,1,,,14,,,,2
+EDN2194-W,prepregnancy_arm_1,lmp,1,2024-04-29,29,0,0,0,1,0,,2024-01-05,0,2024-03-24,,17,,,,2
+EDN2251-R,prepregnancy_arm_1,lmp,1,2024-05-17,29,1,0,0,0,1,HUSBAND DECLINED ,,0,2024-04-17,,19,,,,2
+EDN2254-E,prepregnancy_arm_1,lmp,1,2024-05-17,29,0,0,0,0,1,"REFUSED, SAID SHE WILL BE MOVED TO SENEGAL  TO MARRY ",,,,,19,,,,2
+EDN2257-K,prepregnancy_arm_1,lmp,1,2024-05-17,29,1,0,0,0,1,HUSBAND DECLINED ,,0,2024-04-22,,19,,,,2
+EDN2272-G,prepregnancy_arm_1,lmp,1,2024-06-04,30,0,0,0,0,1,Travellled,,,,,17,,,,2
+EDN2311-N,prepregnancy_arm_1,lmp,1,2024-05-17,29,0,0,0,1,0,,2023-12-02,,,BREASTFEEDING 5 MONTHS ,19,,,,2
+EDN2313-S,prepregnancy_arm_1,lmp,1,2024-05-17,29,0,0,1,0,0,,,,,HUSBAND OVERSEAS ,19,,,,2
+EDN2369-S,prepregnancy_arm_1,lmp,1,2024-05-29,30,0,0,0,0,1,Family planning ,,1,,Taking family  planning ,37,,,,2
+EDN2370-Q,prepregnancy_arm_1,lmp,1,2024-05-29,30,0,0,0,1,0,,2023-10-25,1,,,17,,,,2
+EDN2374-N,prepregnancy_arm_1,lmp,1,2024-05-29,30,0,0,0,1,0,,2024-02-29,1,,Breastfeeding ,37,,,,2
+EDN2376-X,prepregnancy_arm_1,lmp,1,2024-05-29,30,0,0,0,1,0,,2023-11-04,1,,Breastfeeding ,37,,,,2
+EDN2378-O,prepregnancy_arm_1,lmp,1,2024-05-29,30,0,0,0,1,0,,2024-01-18,1,,Breastfeeding less than 12 months child ,17,,,,2
+EDN2383-P,prepregnancy_arm_1,lmp,1,2024-05-29,30,0,0,0,1,0,,2024-03-18,1,,She is breastfeeding a child less than one year ,17,,,,2
+EDN2388-B,prepregnancy_arm_1,lmp,1,2024-05-29,30,0,0,0,1,0,,2024-01-13,0,2024-05-29,,17,,,,2
+EDN2399-A,prepregnancy_arm_1,lmp,1,2024-06-04,30,0,0,0,1,0,,2023-12-12,1,,,17,,,,2
+EDN2412-R,prepregnancy_arm_1,lmp,1,2024-06-04,30,0,0,0,1,0,,2023-11-21,1,,Breastfeeding ,17,,,,2
+EDN2423-Y,prepregnancy_arm_1,lmp,1,2024-05-29,30,0,0,0,1,0,,2024-01-24,1,,,17,,,,2
+EDN2442-B,prepregnancy_arm_1,lmp,2,2024-06-20,30,0,0,0,0,1,On family planning for 3years,,1,,Effect of the family planning ,17,,,,2
+EDN2477-O,prepregnancy_arm_1,lmp,1,2024-05-16,29,0,0,0,1,0,,2024-02-17,0,,Last seen after birth,27,,,,2
+EDN2540-L,prepregnancy_arm_1,lmp,1,2024-05-08,29,0,0,0,0,1,SHE'S ON FP FOR THE  NEXT 3YEARS ,,,,,19,,,,2
+EDN2540-L,prepregnancy_arm_1,lmp,2,2024-06-10,30,0,0,0,0,1,"SAID SHE IS ON FP,BUT  SOON SHE WILL  REMOVE ",,,,,19,,,,2
+EDN2543-I,prepregnancy_arm_1,lmp,1,2024-05-08,29,0,0,0,0,1,STILL  THINKING ABOUT IT,,,,,19,,,,2
+EDN2544-Q,prepregnancy_arm_1,lmp,1,2024-06-27,30,0,1,0,0,0,,,,,SINGLE ,19,,,,2
+EDN2545-A,prepregnancy_arm_1,lmp,1,2024-05-08,29,0,1,0,0,0,,,,,,19,,,,2
+EDN2581-U,prepregnancy_arm_1,lmp,1,2024-05-13,29,0,0,0,1,0,,2024-01-23,,,,27,,,,2
+EDN2656-K,prepregnancy_arm_1,lmp,1,2024-03-28,28,0,0,0,1,0,,2023-09-06,0,2034-03-15,,27,,,,2
+EDN2656-K,prepregnancy_arm_1,lmp,2,2024-06-10,30,0,0,0,1,0,,2023-09-06,1,,Breastfeeding ,37,,,,2
+EDN2658-Y,prepregnancy_arm_1,lmp,1,2024-03-28,28,0,0,0,1,0,,2023-07-18,0,2024-02-28,,27,,,,2
+EDN2660-P,prepregnancy_arm_1,lmp,1,2024-06-05,30,0,1,0,0,0,,,0,2024-05-25,,37,,,,2
+EDN2664-T,prepregnancy_arm_1,lmp,1,2024-05-06,29,0,0,1,0,0,,,0,2024-04-10,HUSBAND OVERSEAS ,19,,,,2
+EDN2671-R,prepregnancy_arm_1,lmp,1,2024-05-06,29,0,0,1,0,0,,,,,HUSBAND OVERSEAS ,19,,,,2
+EDN2698-V,prepregnancy_arm_1,lmp,1,2024-05-08,29,0,0,1,0,0,,,,,,2,,,,2
+EDN2700-D,prepregnancy_arm_1,lmp,1,2024-05-08,29,0,0,1,0,0,,,,,,2,,,,2
+EDN2700-D,prepregnancy_arm_1,lmp,2,2024-06-26,30,0,0,1,0,0,,,,,,,,,,2
+EDN2711-G,prepregnancy_arm_1,lmp,1,2024-06-26,30,0,1,0,0,0,,,,,SINGLE ,19,,,,2
+EDN2713-M,prepregnancy_arm_1,lmp,1,2024-05-07,29,0,0,0,1,0,,2024-12-25,0,,,19,,,,2
+EDN2714-K,prepregnancy_arm_1,lmp,1,2024-05-13,29,0,0,0,1,0,,2024-02-20,0,,Last seen after birth,27,,,,2
+EDN2715-R,prepregnancy_arm_1,lmp,1,2024-05-06,29,0,1,0,0,0,,,,,SINGLE ,19,,,,2
+EDN2739-G,prepregnancy_arm_1,lmp,1,2024-05-15,29,0,0,1,0,0,,,0,2024-04-27,,30,,,,2
+EDN2739-G,prepregnancy_arm_1,lmp,2,2024-06-21,30,0,0,1,0,0,,,0,2024-06-09,,30,,,,2
+EDN2755-R,prepregnancy_arm_1,lmp,1,2024-06-03,30,0,1,0,0,0,,,0,2024-05-23,,28,,,,2

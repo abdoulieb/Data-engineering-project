@@ -1,0 +1,206 @@
+con_participantid_q1,redcap_event_name,redcap_repeat_instrument,redcap_repeat_instance,dvisit_code,cbc_cord_blood_q3,cord_not,cbc_cord_blood_volume_q5,serum_vol,lithep_vol,edta_vol,gcomment,placenta_available,time_of_delivery_of_placen,comments_dbee42,verified_by_signatureq14,date_form_completed_15,verified_byq16,cord_blood_collection_complete
+IN-M-001E,delivery__postpart_arm_1,,,2023-10-31,1,,8,,4,4,,,,,ysowe,2023-10-31,42,2
+IN-M-002H,delivery__postpart_arm_1,,,2023-10-09,1,,10,,5,5,,,,,ysowe,2023-10-10,42,2
+IN-M-004F,delivery__postpart_arm_1,,,2023-10-17,1,,10,,5,5,,,,,lamceesay,2023-10-17,22,2
+IN-M-005J,delivery__postpart_arm_1,,,2023-11-07,1,,2,,2,,Only 2ml of lithHep available ,,,,ljatta,,,2
+IN-M-007A,delivery__postpart_arm_1,,,2023-10-15,1,,10,,4.5,4.5,,,,,okambi,2023-10-15,22,2
+IN-M-009K,delivery__postpart_arm_1,,,2023-09-26,0,Delivered at the Hospital (Bwiam General Hospital).,,,,,,,,,lamceesay,2023-09-27,,2
+IN-M-011C,delivery__postpart_arm_1,,,2023-10-07,1,,10,,4.9,4.9,2 EDTA tubes and 2 Heparine tubes were collected.,,,,dembaajallow,2023-10-07,42,2
+IN-M-012B,delivery__postpart_arm_1,,,2023-11-03,1,,2,,2.0,0.0,,,,,latcham,2024-11-04,,2
+IN-M-013D,delivery__postpart_arm_1,,,2023-10-19,1,,10,,5,5,,,,,ysowe,2023-10-19,42,2
+IN-M-014D,delivery__postpart_arm_1,,,2023-11-05,1,,8,,4,4,The the placenta was not normal that that was why enough blood volume was not obtained.,,,,lkjawla,2023-11-05,,2
+IN-M-016F,delivery__postpart_arm_1,,,2023-09-21,1,,10,5,5,5,,,,,ysowe,2023-09-21,42,2
+IN-M-018C,delivery__postpart_arm_1,,,2023-10-07,1,,10,,5,5,,,,,ysowe,2023-10-06,42,2
+IN-M-020G,delivery__postpart_arm_1,,,2023-10-11,1,,9,,4.9,4.9,3 EDTA and 3 Heparin tubes.,,,,dembaajallow,2023-10-11,47,2
+IN-M-022E,delivery__postpart_arm_1,,,2023-11-07,1,,1,,0,1,"I was working in the supplement store while awaiting the delivery, but misplaced my phone while the midwife tried calling me. After almost 1 hour of delivery I went in to the labor ward only to find that the blood was all clotted. I only managed to get 1ml of EDTA ",,,,lamceesay,2023-11-07,,2
+IN-M-023A,delivery__postpart_arm_1,,,2023-11-30,1,,10,,5,5,Safe c/s,,,,ssibi,2023-11-30,42,2
+IN-M-026F,delivery__postpart_arm_1,,,2023-11-21,1,,10,,5,5,,,,,amatjoof,2023-11-21,42,2
+IN-M-027E,delivery__postpart_arm_1,,,2023-10-09,1,,10,,5,5,,,,,ysowe,2023-10-10,42,2
+IN-M-028G,delivery__postpart_arm_1,,,2023-11-03,1,,8,,4,4,,,,,aymbah,2023-11-03,,2
+IN-M-029D,delivery__postpart_arm_1,,,2023-12-15,1,,10,,5,5,,,,,ysowe,2023-12-15,42,2
+IN-M-030C,delivery__postpart_arm_1,,,2023-11-28,1,,10,,5,5,,,,,amatjoof,2023-11-29,42,2
+IN-M-031D,delivery__postpart_arm_1,,,2023-11-01,1,,8,,4,4,,,,,lynjai,2023-12-19,42,2
+IN-M-033K,delivery__postpart_arm_1,,,2023-11-12,1,,9,,4.5,4.5,,,,,lamceesay,2023-11-12,,2
+IN-M-040F,delivery__postpart_arm_1,,,2023-12-17,1,,10,,5,5,,,,,amatjoof,2023-12-17,,2
+IN-M-042F,delivery__postpart_arm_1,,,2023-12-17,1,,10,,5,5,,,,,amatjoof,2023-12-17,,2
+IN-M-043H,delivery__postpart_arm_1,,,2023-12-16,1,,10,,5,5,,,,,ysowe,2023-12-16,,2
+IN-M-046J,delivery__postpart_arm_1,,,2023-10-31,1,,8,,4,4,,,,,fosanyang,2023-10-31,,2
+IN-M-047B,delivery__postpart_arm_1,,,2023-12-14,1,,10,,5,5,,,,,fkdarboe,,,2
+IN-M-048E,delivery__postpart_arm_1,,,2023-11-05,1,,8,,4,4,,,,,modnjie,2023-11-05,,2
+IN-M-053K,delivery__postpart_arm_1,,,2023-11-20,1,,8,,4,4,,,,,fosanyang,2023-11-20,,2
+IN-M-056J,delivery__postpart_arm_1,,,2024-01-13,1,,10,,4.5,4.5,,,,,kyceesay,2024-01-13,,2
+IN-M-058J,delivery__postpart_arm_1,,,2023-11-13,1,,10,,4.5,4.5,Enough is collected ,,,,mujoof,2023-11-13,,2
+IN-M-059G,delivery__postpart_arm_1,,,2024-01-23,1,,10,,5,5,Nil,,,,lamceesay,2024-01-23,,2
+IN-M-061B,delivery__postpart_arm_1,,,2024-01-25,1,,10,,5,5,,,,,lamceesay,2024-01-25,,2
+IN-M-062B,delivery__postpart_arm_1,,,2024-01-15,1,,10,,5.0,5,,,,,lamceesay,2024-07-10,,2
+IN-M-064D,delivery__postpart_arm_1,,,2023-12-23,1,,10,,5,5,,,,,ssibi,2023-12-23,,2
+IN-M-065H,delivery__postpart_arm_1,,,2023-11-29,1,,10,,5,5,Sample and placenta sent to keneba lab immediately ,,,,amatjoof,2023-11-29,42,2
+IN-M-067H,delivery__postpart_arm_1,,,2024-01-25,1,,10,,5,5,,,,,ysowe,2024-01-25,42,2
+IN-M-069K,delivery__postpart_arm_1,,,2023-12-04,1,,10,,5,5,Nil,,,,lamceesay,,,2
+IN-M-070E,delivery__postpart_arm_1,,,2024-02-03,1,,10,,5,5,Nil,,,,ysowe,2024-02-03,42,2
+IN-M-071F,delivery__postpart_arm_1,,,2024-01-18,1,,10,,5,5,,,,,ysowe,2024-01-19,42,2
+IN-M-072J,delivery__postpart_arm_1,,,2024-01-18,1,,10,,5,5,,,,,ysowe,2024-01-19,42,2
+IN-M-074F,delivery__postpart_arm_1,,,2024-02-01,1,,10,,4,4,,,,,dembaajallow,2024-02-01,,2
+IN-M-075A,delivery__postpart_arm_1,,,2024-02-13,1,,10,,5,5,,,,,asejatta,2024-02-13,,2
+IN-M-076H,delivery__postpart_arm_1,,,2024-01-16,1,,10,,5,5,Nil,,,,lamceesay,2024-01-16,42,2
+IN-M-077H,delivery__postpart_arm_1,,,2024-01-10,1,,10,,5,5,,,,,amatjoof,2024-01-10,,2
+IN-M-078F,delivery__postpart_arm_1,,,2024-01-27,1,,9.5,,4.5,5,,,,,lamceesay,2024-01-27,,2
+IN-M-079G,delivery__postpart_arm_1,,,2024-02-16,1,,10,,5,5,,,,,lamceesay,2024-02-16,,2
+IN-M-081D,delivery__postpart_arm_1,,,2024-01-08,1,,10,,5,5,,,,,ysowe,2024-01-08,42,2
+IN-M-082E,delivery__postpart_arm_1,,,2024-02-17,1,,9.0,,4.5,4.5,,,,,dembaajallow,2024-03-17,9,2
+IN-M-083H,delivery__postpart_arm_1,,,,0,Participant delivered far away from the study site (at the hospital) due to safety reasons,,,,,,,,,lamceesay,2024-09-26,,2
+IN-M-084C,delivery__postpart_arm_1,,,2024-02-08,1,,10,,4.5,4.5,Collect enough blood samples ,,,,mujoof,2024-02-08,43,2
+IN-M-085H,delivery__postpart_arm_1,,,2024-01-02,1,,10,,5,5,,,,,lamceesay,2024-01-02,,2
+IN-M-086J,delivery__postpart_arm_1,,,2024-01-01,1,,10,,5,5,,,,,okambi,2024-01-01,,2
+IN-M-087F,delivery__postpart_arm_1,,,2024-01-20,1,,10,,5,5,,,,,ysowe,2024-01-20,42,2
+IN-M-088J,delivery__postpart_arm_1,,,2024-02-07,1,,10,,5,5,Received enough blood. ,,,,mujoof,2024-02-07,,2
+IN-M-089F,delivery__postpart_arm_1,,,,,,,,,,,,,,,,,0
+IN-M-090C,delivery__postpart_arm_1,,,2024-02-29,1,,10,,5,5,,,,,ysowe,2024-03-02,42,2
+IN-M-091K,delivery__postpart_arm_1,,,2024-02-06,1,,10,,5,5,,,,,ysowe,2024-02-06,42,2
+IN-M-093E,delivery__postpart_arm_1,,,2024-02-23,1,,10,,5,5,Sample collected and submitted to the lab,,,,amatjoof,2024-02-24,,2
+IN-M-096C,delivery__postpart_arm_1,,,2024-02-22,1,,9,,4.5,4.5,,,,,ljatta,2024-02-22,,2
+IN-M-097K,delivery__postpart_arm_1,,,2024-01-16,1,,10,,5,5,,,,,amatjoof,2024-01-16,,2
+IN-M-098F,delivery__postpart_arm_1,,,2024-02-11,1,,10,,5,4.5,Nil,,,,mujoof,2024-02-11,,2
+IN-M-099A,delivery__postpart_arm_1,,,2024-01-24,1,,10,,5,5,,,,,asejatta,,,2
+IN-M-100G,delivery__postpart_arm_1,,,2024-03-02,1,,4.9,,4.9,4.9,,,,,dembaajallow,2024-03-02,,2
+IN-M-101H,delivery__postpart_arm_1,,,2024-04-01,1,,10,,4.5,4.5,,,,,mujoof,2024-04-01,,2
+IN-M-104G,delivery__postpart_arm_1,,,2024-03-07,1,,10,,5,5,,,,,ysowe,2024-03-07,,1
+IN-M-105F,delivery__postpart_arm_1,,,2024-01-23,1,,10,,5,5,,,,,lamceesay,2024-01-23,,2
+IN-M-107A,delivery__postpart_arm_1,,,2024-02-20,1,,8,,4,4,,,,,ljatta,2024-02-20,,2
+IN-M-108D,delivery__postpart_arm_1,,,2024-02-13,1,,3,,1,2,,,,,ljatta,2024-02-13,,2
+IN-M-110C,delivery__postpart_arm_1,,,2024-03-02,1,,4,,4,4,,,,,modnjie,2024-03-02,,2
+IN-M-111D,delivery__postpart_arm_1,,,2024-02-18,1,,10,,5,5,,,,,ysowe,2024-02-18,,2
+IN-M-112D,delivery__postpart_arm_1,,,2024-03-09,1,,10,,5,5,,,,,okambi,2024-03-09,,2
+IN-M-113G,delivery__postpart_arm_1,,,2024-03-09,1,,10,,5,5,,,,,okambi,2024-03-09,,2
+IN-M-116D,delivery__postpart_arm_1,,,2024-02-13,1,,10,,5,5,,,,,ysowe,2024-02-13,42,2
+IN-M-118E,delivery__postpart_arm_1,,,2024-03-28,1,,10,,5,5,,,,,ysowe,2024-03-28,,1
+IN-M-123A,delivery__postpart_arm_1,,,2024-01-14,0,"She was referred from kwinella to Soma hospital condition as acute UTI , 
+Was later referred to Farafenni hospital. ",,,,,,,,,fkdarboe,2024-01-14,,2
+IN-M-124E,delivery__postpart_arm_1,,,2024-04-01,1,,10,,4.5,4.5,,,,,mujoof,2024-04-01,,2
+IN-M-125H,delivery__postpart_arm_1,,,2024-02-15,1,,10,,5,5,,,,,bceesay,2024-02-15,,2
+IN-M-126J,delivery__postpart_arm_1,,,2024-03-28,1,,10,,5,5,,,,,bceesay,2024-03-28,,2
+IN-M-129E,delivery__postpart_arm_1,,,2024-05-05,1,,10,,5,5,,,,,amatjoof,2024-05-06,,2
+IN-M-130F,delivery__postpart_arm_1,,,2024-03-28,1,,10,,4.9,4.9,Enough blood collected. ,,,,mujoof,2024-03-28,,2
+IN-M-131H,delivery__postpart_arm_1,,,2024-02-15,1,,10,,5,5,,,,,ysowe,2024-02-16,,1
+IN-M-132C,delivery__postpart_arm_1,,,2024-04-15,1,,10,,5.0,5.0,Nil,,,,lamceesay,2024-04-15,,2
+IN-M-133B,delivery__postpart_arm_1,,,2024-03-03,1,,8,,2.5,5,,,,,ysowe,2024-03-03,,2
+IN-M-134C,delivery__postpart_arm_1,,,2024-04-09,1,,9,,4,5,,,,,bceesay,2024-04-09,,2
+IN-M-136C,delivery__postpart_arm_1,,,,,,,,,,,,,,,,,0
+IN-M-138B,delivery__postpart_arm_1,,,2024-05-21,1,,10,,5,5,,,,,ysowe,2024-05-21,,2
+IN-M-140D,delivery__postpart_arm_1,,,2024-03-15,1,,3,,0,3.0,Delivered at home and arrived at the clinic about 40 minutes later,,,,lamceesay,2024-03-15,,2
+IN-M-142H,delivery__postpart_arm_1,,,2024-05-16,1,,10,,5,5,,,,,safjarju,2024-05-16,,2
+IN-M-145E,delivery__postpart_arm_1,,,2024-03-27,1,,,,,,Enough blood  collected. ,,,,mujoof,2024-03-27,,2
+IN-M-146H,delivery__postpart_arm_1,,,2024-04-21,1,,9,,4.5,4.5,,,,,okambi,2024-04-21,,2
+IN-M-147K,delivery__postpart_arm_1,,,2024-03-17,0,Participant underwent a C/S when there was no staff present.,,,,,,,,,ysowe,2024-03-21,,2
+IN-M-148E,delivery__postpart_arm_1,,,2024-04-28,1,,10.0,,4.0,4.0,,,,,ljatta,2024-04-28,,2
+IN-M-150H,delivery__postpart_arm_1,,,2024-04-07,1,,9,,4.5,4.5,,,,,abarjo,2024-04-07,,2
+IN-M-151B,delivery__postpart_arm_1,,,2024-02-11,0,Delivered at EFSTH where we could not collect the samples,,,,,,,,,lamceesay,2024-02-11,,2
+IN-M-153G,delivery__postpart_arm_1,,,2024-05-21,1,,10,,5,5,,,,,ysowe,2024-07-13,,2
+IN-M-156B,delivery__postpart_arm_1,,,2024-03-29,1,,10,,4.9,4.9,Enough blood collected. ,,,,mujoof,2024-03-29,,2
+IN-M-159C,delivery__postpart_arm_1,,,2024-04-07,1,,10,,5,5,,,,,abarjo,2024-04-07,,2
+IN-M-160G,delivery__postpart_arm_1,,,2024-04-08,1,,9,,4.5,4.5,,,,,asejatta,2024-04-08,,2
+IN-M-161D,delivery__postpart_arm_1,,,2024-05-10,1,,10,,5,5,,,,,safjarju,2024-05-10,,2
+IN-M-162F,delivery__postpart_arm_1,,,2024-07-04,1,,4,,4.5,4.5,,,,,mymbah,2024-07-04,,2
+IN-M-165G,delivery__postpart_arm_1,,,2024-06-08,1,,10,,4.9,4.9,,,,,abarjo,2024-06-08,,2
+IN-M-166D,delivery__postpart_arm_1,,,2024-06-11,1,,10,,5,5,Enough blood collected. ,,,,mujoof,2024-06-11,,2
+IN-M-169A,delivery__postpart_arm_1,,,2024-06-25,1,,10,,5,5,Adequate volume of cord blood sample collected at 23:55.,,,,safjarju,2024-06-25,,2
+IN-M-173D,delivery__postpart_arm_1,,,2024-06-10,1,,10,,5,5,,,,,ysowe,2024-06-10,,2
+IN-M-174J,delivery__postpart_arm_1,,,,,,,,,,,,,,,,,0
+IN-M-177H,delivery__postpart_arm_1,,,2024-06-04,1,,10,,5,5,,,,,lynjai,2024-06-04,,2
+IN-M-178B,delivery__postpart_arm_1,,,2024-05-10,1,,10,,5,5,,,,,lynjai,2024-05-10,,2
+IN-M-179J,delivery__postpart_arm_1,,,2024-06-01,1,,10,,5,5,Adequate  volume  of  cord  blood  collected  at  00:53,,,,safjarju,2024-06-01,,2
+IN-M-180J,delivery__postpart_arm_1,,,2024-07-21,1,,10,,5,5,,,,,ysowe,2024-07-22,,2
+IN-M-181B,delivery__postpart_arm_1,,,2024-04-23,1,,10,,5,5,,,,,ysowe,2024-04-23,,2
+IN-M-182K,delivery__postpart_arm_1,,,2024-06-13,1,,10,,5,5,Enough blood ,,,,safjarju,2024-06-13,35,2
+IN-M-183H,delivery__postpart_arm_1,,,,,,,,,,,,,,,,,0
+IN-M-184A,delivery__postpart_arm_1,,,2024-05-10,1,,10,,4.5,4.9,,,,,ljatta,2024-05-10,,2
+IN-M-186K,delivery__postpart_arm_1,,,2024-06-29,1,,4,,4,4,,,,,modnjie,2024-06-29,,2
+IN-M-187B,delivery__postpart_arm_1,,,2024-08-31,0,The team was alerted lately after the participant has already delivered and by the time we got there the blood has already clotted. ,,,,,No cord blood at all. ,,,,lamceesay,2024-08-31,,2
+IN-M-188B,delivery__postpart_arm_1,,,2024-05-24,1,,10,,5,5,Enough blood collected. ,,,,mujoof,2024-05-24,,2
+IN-M-189C,delivery__postpart_arm_1,,,2024-06-13,1,,7,,3.5,3.5,,,,,tdrammeh,2024-06-13,,2
+IN-M-190C,delivery__postpart_arm_1,,,2024-08-12,1,,10,,5,5,Adequate volume of cord blood collected at 01:15am.,,,,safjarju,2024-08-12,,2
+IN-M-191D,delivery__postpart_arm_1,,,2024-06-25,1,,10,,5,5,,,,,ysowe,2024-06-25,,2
+IN-M-192B,delivery__postpart_arm_1,,,2024-07-02,1,,10,,5,5,,,,,ysowe,2024-07-03,,2
+IN-M-194D,delivery__postpart_arm_1,,,2024-07-14,1,,10,,5,5,,,,,ysowe,2024-07-15,,2
+IN-M-195J,delivery__postpart_arm_1,,,2024-07-16,1,,8,,5,3,,,,,safjarju,2024-07-16,,2
+IN-M-196C,delivery__postpart_arm_1,,,,,,,,,,,,,,,,,0
+IN-M-201B,delivery__postpart_arm_1,,,2024-08-30,1,,10,,5,5,,,,,ysowe,2024-08-29,,2
+IN-M-205D,delivery__postpart_arm_1,,,2024-06-16,1,,4,,4,0,"According to the field assistant the blood clotted, so he was only able to collect 4 ml of lithep. ",,,,lamceesay,2024-06-18,,2
+IN-M-207C,delivery__postpart_arm_1,,,2024-07-07,1,,10,,5,5,,,,,lamceesay,2024-07-07,,2
+IN-M-212K,delivery__postpart_arm_1,,,2024-06-11,1,,10,,5,5,,,,,ysowe,2024-06-11,,2
+IN-M-214F,delivery__postpart_arm_1,,,2024-07-15,1,,10,,5,5,,,,,ysowe,2024-07-15,,2
+IN-M-215E,delivery__postpart_arm_1,,,2024-09-18,1,,10,,5,5,,,,,dembaajallow,2024-09-18,,2
+IN-M-221E,delivery__postpart_arm_1,,,2024-07-06,1,,10,,5,5,Successfully ,,,,lynjai,2024-07-06,,2
+IN-M-222C,delivery__postpart_arm_1,,,2024-09-29,1,,10,,5,5,,,,,amatjoof,2024-09-29,,2
+IN-M-223J,delivery__postpart_arm_1,,,2024-08-28,1,,10,,5,5,,,,,ysowe,2024-08-28,,2
+IN-M-224K,delivery__postpart_arm_1,,,2024-07-19,1,,10,,5,5,,,,,ysowe,2024-07-20,,2
+IN-M-226E,delivery__postpart_arm_1,,,2024-08-05,1,,10,,5,5,,,,,ysowe,2024-08-05,,2
+IN-M-227K,delivery__postpart_arm_1,,,2024-09-27,1,,10,,5,5,,,,,ysowe,2024-09-27,,2
+IN-M-228E,delivery__postpart_arm_1,,,2024-09-27,1,,10,,5,5,,,,,ysowe,2024-09-27,,2
+IN-M-229F,delivery__postpart_arm_1,,,2024-09-14,1,,10,,5,5,,,,,lamceesay,2024-09-14,,2
+IN-M-232C,delivery__postpart_arm_1,,,2024-07-24,1,,10,,5,5,,,,,ysowe,2024-07-24,,2
+IN-M-234D,delivery__postpart_arm_1,,,2024-09-25,1,,10,,5,5,All the heparine and EDTA tubes were filled and alos a 20ml siyringe.,,,,dembaajallow,2024-09-25,,2
+IN-M-235D,delivery__postpart_arm_1,,,2024-09-11,1,,10,,5,5,Adequate volume of cord blood collected at 10:55am.,,,,safjarju,2024-09-11,,2
+IN-M-236J,delivery__postpart_arm_1,,,2024-08-21,1,,10,,4.5,4.5,,,,,kyceesay,2024-08-21,,2
+IN-M-238C,delivery__postpart_arm_1,,,2024-09-09,1,,10,,5,5,,,,,ysowe,2024-09-15,,2
+IN-M-240B,delivery__postpart_arm_1,,,2024-09-13,1,,10,,5,5,Adequate volume of cord blood collected. ,,,,safjarju,2024-09-12,,2
+IN-M-241F,delivery__postpart_arm_1,,,2024-10-08,1,,10,,5,5,Towel used to wrap placenta is very clean. It's the one used by the Kwinella clinic.At that moment that was the only option.,,,,ysowe,2024-10-08,,2
+IN-M-244E,delivery__postpart_arm_1,,,2024-08-07,1,,10,,5,5,,,,,safjarju,2024-08-07,,2
+IN-M-245J,delivery__postpart_arm_1,,,2024-08-30,1,,10,,4.9,4.9,,,,,ljatta,2024-08-30,,2
+IN-M-246G,delivery__postpart_arm_1,,,2024-08-14,1,,10,,5,5,,,,,ysowe,2024-08-14,,2
+IN-M-247K,delivery__postpart_arm_1,,,2024-10-01,1,,5,,5,5,,,,,sbeyai,2024-10-01,,2
+IN-M-249K,delivery__postpart_arm_1,,,2024-08-23,1,,9.5,,5.0,4.5,,,,,lamceesay,2024-08-23,,2
+IN-M-252B,delivery__postpart_arm_1,,,2024-10-15,1,,8,,4,4,,,,,ljatta,2024-10-15,,2
+IN-M-254E,delivery__postpart_arm_1,,,2024-09-21,1,,4.5,,4.5,9.0,,,,,asejatta,2024-09-21,,2
+IN-M-255D,delivery__postpart_arm_1,,,2024-09-22,1,,9,,4.5,4.5,,,,,lamceesay,2024-09-22,,2
+IN-M-256K,delivery__postpart_arm_1,,,2024-08-13,1,,10,,5,5,,,,,lamceesay,2024-08-13,,2
+IN-M-257E,delivery__postpart_arm_1,,,2024-10-03,1,,5,,5,5,,,,,sbeyai,2024-10-03,,2
+IN-M-259H,delivery__postpart_arm_1,,,2024-08-26,1,,9,,4.5,4.5,,,,,asejatta,2024-08-26,,2
+IN-M-261J,delivery__postpart_arm_1,,,2024-10-11,1,,8,,4,4,,,,,ljatta,2024-10-11,,2
+IN-M-262E,delivery__postpart_arm_1,,,2024-11-03,1,,8,,4,4,,,,,ysowe,2024-11-03,,2
+IN-M-263A,delivery__postpart_arm_1,,,2024-08-18,1,,10,,5,5,,,,,ysowe,2024-08-18,,2
+IN-M-264H,delivery__postpart_arm_1,,,2024-10-31,1,,8,,4,4,,,,,ysowe,2024-11-05,,2
+IN-M-265E,delivery__postpart_arm_1,,,2024-09-13,1,,10,,5,5,Adequate volume of cord blood collected. ,,,,safjarju,2024-09-13,,2
+IN-M-266G,delivery__postpart_arm_1,,,2024-10-24,1,,8,,4,4,,,,,ysowe,2024-10-25,,2
+IN-M-267C,delivery__postpart_arm_1,,,2024-08-31,1,,10,,5,5,,,,,lamceesay,2024-08-31,,2
+IN-M-268F,delivery__postpart_arm_1,,,2024-10-17,1,,8,,4,4,Enough blood collected ,,,,mujoof,2024-10-17,,2
+IN-M-271H,delivery__postpart_arm_1,,,2024-10-21,1,,8,,4,4,,,,,ysowe,2024-10-21,,2
+IN-M-273H,delivery__postpart_arm_1,,,2024-11-02,1,,10,,5,5,Adequate volume of cord blood collected ,,,,safjarju,2024-11-02,,2
+IN-M-274B,delivery__postpart_arm_1,,,2024-10-31,1,,10,,5,5,Adequate volume of cord blood collected ,,,,safjarju,2024-11-01,,2
+IN-M-276H,delivery__postpart_arm_1,,,2024-09-28,1,,10,,5,5,,,,,dembaajallow,2024-09-28,,2
+IN-M-280K,delivery__postpart_arm_1,,,2024-11-14,0,The participant delivered at EFSTH in Banjul,,,,,,,,,lamceesay,2024-11-14,,2
+IN-M-281C,delivery__postpart_arm_1,,,2024-09-20,1,,9.0,,4.5,4.5,,,,,asejatta,2024-09-20,,2
+IN-M-282D,delivery__postpart_arm_1,,,2024-10-25,1,,4.5,,4.5,4.5,,,,,aymbah,2024-10-25,,2
+IN-M-283F,delivery__postpart_arm_1,,,2024-10-05,1,,8,,4,4,,,,,ysowe,2024-10-05,,2
+IN-M-284K,delivery__postpart_arm_1,,,2024-09-09,1,,10,,5,5,Enough blood collected ,,,,mujoof,2024-09-09,,2
+IN-M-285A,delivery__postpart_arm_1,,,2024-10-02,1,,10,,5,5,,,,,ysowe,2024-10-02,,2
+IN-M-287K,delivery__postpart_arm_1,,,2024-11-08,1,,9,,4.5,4.5,Enough blood collected ,,,,mujoof,2024-11-08,,2
+IN-M-288G,delivery__postpart_arm_1,,,2024-09-25,1,,9,,4.5,4.5,,,,,lamceesay,2024-09-25,,2
+IN-M-290B,delivery__postpart_arm_1,,,2024-11-14,1,,8,,4,4,Adequate volume of cord blood collected ,,,,safjarju,2024-11-14,,2
+IN-M-291J,delivery__postpart_arm_1,,,2024-10-28,0,The participant delivered at Bwiam General Hospital without notifying the team unti after her delivery when there was no one to collect the samples.,,,,,The participant was taken to Bwiam that very day by the project for her usual appointment at the hospital as she was booked for Hospital delivery without any complaint or concerns suggesting labour. She was admitted at the hospital without our notice and later that afternoon she delivered without any prior notification.,,,,lamceesay,2024-11-06,,2
+IN-M-293C,delivery__postpart_arm_1,,,2024-09-17,0,Retained placenta..referred to Soma then Farafenni. Placenta removed but fragmented into pieces.,,,,,Fragmented placental tissues.,,,,ysowe,2024-09-18,,2
+IN-M-295F,delivery__postpart_arm_1,,,,,,,,,,,,,,,,,0
+IN-M-296G,delivery__postpart_arm_1,,,2024-11-14,1,,10,,4.9,4.9,,,,,ljatta,2024-11-14,,2
+IN-M-299A,delivery__postpart_arm_1,,,2024-10-31,1,,8,,4,4,,,,,ysowe,2024-10-31,,2
+IN-M-305B,delivery__postpart_arm_1,,,2024-10-31,1,,8,,4,4,,,,,ysowe,2024-10-31,,2
+IN-M-306K,delivery__postpart_arm_1,,,2024-09-12,0,Delivery at kombo ,,,,,,,,,asejatta,2024-09-12,,2
+IN-M-307K,delivery__postpart_arm_1,,,2024-10-27,1,,4,,4,4,,,,,sbeyai,2024-10-27,,2
+IN-M-310B,delivery__postpart_arm_1,,,2024-10-19,1,,4,,4,4,,,,,sbeyai,2024-10-19,,2
+IN-M-316H,delivery__postpart_arm_1,,,2024-11-10,1,,4,,2,2,,,,,lynjai,2024-11-10,,2
+IN-M-321D,delivery__postpart_arm_1,,,2024-10-26,1,,8,,4,4,,,,,amatjoof,2024-10-26,,2
+IN-M-323D,delivery__postpart_arm_1,,,2024-09-20,1,,10,,5,5,,,,,ysowe,2024-09-21,,2
+IN-M-324J,delivery__postpart_arm_1,,,2024-11-06,1,,4.5,,4.5,4.5,Not enough blood collected due to small nature of the placenta. ,,,,mujoof,2024-11-06,,2
+IN-M-327F,delivery__postpart_arm_1,,,2024-09-20,1,,9,,4.5,4.5,,,,,asejatta,2024-09-20,,2
+IN-M-328K,delivery__postpart_arm_1,,,2024-10-08,1,,10,,5,5,,,,,ysowe,,,2
+IN-M-329D,delivery__postpart_arm_1,,,2024-10-26,1,,4,,4,4,,,,,sbeyai,2024-10-26,,2
+IN-M-339K,delivery__postpart_arm_1,,,2024-09-24,1,,10,,5,5,,,,,ysowe,2024-09-24,,2
+IN-M-341A,delivery__postpart_arm_1,,,2024-10-25,1,,5,,4,1,,,,,lynjai,2024-10-25,,2
+IN-M-346A,delivery__postpart_arm_1,,,2024-11-09,1,,5,,3,2,,,,,lynjai,2024-11-09,,2
+IN-M-348F,delivery__postpart_arm_1,,,2024-11-07,1,,10,,5,5,,,,,dembaajallow,2024-11-07,,2
+IN-M-351B,delivery__postpart_arm_1,,,2024-10-31,1,,10,,5,5,Adequate volume of cord blood collected. ,,,,safjarju,2024-10-31,,2
+IN-M-354C,delivery__postpart_arm_1,,,,,,,,,,,,,,,,,0
+IN-M-356C,delivery__postpart_arm_1,,,2024-10-29,1,,10,,5,5,,,,,fosanyang,2024-10-29,,2
+IN-M-365J,delivery__postpart_arm_1,,,2024-11-05,1,,9,,4.5,4.5,Enough blood collected ,,,,mujoof,2024-11-05,,2
+IN-M-374J,delivery__postpart_arm_1,,,2024-09-22,1,,3.5,,,3.5,There was no enough blood ,,,,tdrammeh,2024-09-22,,2
+IN-M-375H,delivery__postpart_arm_1,,,2024-11-07,1,,5,,3,2,,,,,lynjai,2024-11-07,,2
+IN-M-405C,delivery__postpart_arm_1,,,2024-10-23,1,,8,,4,4,,,,,ysowe,2024-10-23,,2

@@ -1,0 +1,236 @@
+con_participantid_q1,redcap_event_name,redcap_repeat_instrument,redcap_repeat_instance,st_date,st_lastactivity,st_reason,st_specify,st_completedby,study_termination_complete
+IN-M-003A,end_of_study_arm_1,,,2023-05-18,1,10,Started Fe due to Anaemic,mdanjo,2
+IN-M-006H,end_of_study_arm_1,,,2023-07-15,1,4,Spontaneous Abortion,,2
+IN-M-008D,end_of_study_arm_1,,,2023-05-05,1,4,Primary Language not M/F,mdanjo,2
+IN-M-009K,end_of_study_arm_1,,,2024-05-25,8,2,Moved away from study area for an extended period of time.,ojarjou,2
+IN-M-010F,end_of_study_arm_1,,,2023-04-05,1,4,Non viable Gestation,,2
+IN-M-013D,end_of_study_arm_1,,,2024-01-03,8,10,Her infant had  an SAE. ,ojarjou,2
+IN-M-015H,end_of_study_arm_1,,,2023-06-19,1,2,Prolong travel until pregnancy was overdue for recruitment.,ojarjou,2
+IN-M-017E,end_of_study_arm_1,,,2023-06-01,1,2,"Travelled to the outside study area, and returned to the study area at a time when her GA was beyond the time point of Randomization.",ojarjou,2
+IN-M-019C,end_of_study_arm_1,,,2023-05-15,1,10,Started Fe due to Anaemic,mdanjo,2
+IN-M-021K,end_of_study_arm_1,,,2023-08-21,4,1,Consent withdrawal after start of supplemetation,ojarjou,2
+IN-M-024D,end_of_study_arm_1,,,2023-05-22,1,2,She is currently living and attending school at Jarra Soma ( which is outside the study area) and only stays in Kiang during the weekends.No logistics in place to facilitate the daily supplementation of IP.,ojarjou,2
+IN-M-025G,end_of_study_arm_1,,,2023-07-23,2,2,She's attending a school and living in Jarra Soma (outside study area).,ojarjou,2
+IN-M-027E,end_of_study_arm_1,,,2023-11-07,7,1,,ojarjou,2
+IN-M-032D,end_of_study_arm_1,,,2023-10-04,1,4,Only Gestational sac was seen,,2
+IN-M-034A,end_of_study_arm_1,,,2023-06-23,1,2,Prolong travel until pregnancy was overdue for recruitment.,ojarjou,2
+IN-M-035J,end_of_study_arm_1,,,2023-08-10,1,4,Spontaneous Abortion,,2
+IN-M-036E,end_of_study_arm_1,,,2023-07-13,1,10,High risk pregnancy (recurrent episode of postpartum preeclamsia and postpartum haemorrhage),mdanjo,2
+IN-M-037H,end_of_study_arm_1,,,2023-07-23,2,1,,ojarjou,2
+IN-M-038A,end_of_study_arm_1,,,2023-07-23,2,1,,ojarjou,2
+IN-M-039J,end_of_study_arm_1,,,2023-07-15,1,2,Travelled.,ojarjou,2
+IN-M-041B,end_of_study_arm_1,,,2023-08-22,2,8,Spontaneous Abortion,ojarjou,2
+IN-M-042F,end_of_study_arm_1,,,2023-12-17,6,12,Demise of the infant,lamceesay,2
+IN-M-044H,end_of_study_arm_1,,,2023-05-23,1,2,Prolong travel until pregnancy was overdue for recruitment.,ojarjou,2
+IN-M-045B,end_of_study_arm_1,,,2023-07-05,2,10,Non-increment of baseline HB (Which was low),ojarjou,2
+IN-M-049G,end_of_study_arm_1,,,2023-05-30,1,2,Prolong travel until pregnancy was overdue for recruitment.,ojarjou,2
+IN-M-050K,end_of_study_arm_1,,,2023-07-03,1,10,Severe undernutrition in pregnancy with history of recurrent anaemia,mdanjo,2
+IN-M-051E,end_of_study_arm_1,,,2023-06-01,1,2,Prolong travel until pregnancy was overdue for recruitment.,ojarjou,2
+IN-M-052C,end_of_study_arm_1,,,2023-06-12,1,2,Prolong travel until pregnancy was overdue for recruitment.,ojarjou,2
+IN-M-054E,end_of_study_arm_1,,,2023-06-15,1,4,Multiple gestation,,2
+IN-M-055E,end_of_study_arm_1,,,2023-06-14,1,4,Primary Language not M/F,mdanjo,2
+IN-M-057J,end_of_study_arm_1,,,2023-10-10,1,12,Missed Week 20 Rescheduled visit and became overdue.,ojarjou,2
+IN-M-058J,end_of_study_arm_1,,,2024-02-11,8,2,Move out of The Gambia to a Senegalese border village around Farafenni. ,ojarjou,2
+IN-M-060G,end_of_study_arm_1,,,2023-09-11,1,2,"Travelled to the coast ( outside study area), returned when pregnancy is too advanced. GA today is 24.7 weeks.",ojarjou,2
+IN-M-063E,end_of_study_arm_1,,,2023-09-13,1,2,Travel away from study area,ojarjou,2
+IN-M-066B,end_of_study_arm_1,,,2023-10-16,2,8,,ojarjou,2
+IN-M-068B,end_of_study_arm_1,,,2023-07-06,1,4,Multiple gestation,,2
+IN-M-070E,end_of_study_arm_1,,,2024-05-03,8,12,THE INFANT PARTICIPANT DEMISE ,modnjie,2
+IN-M-073A,end_of_study_arm_1,,,2023-09-19,3,2,Had an SAE and continued to stay at the coast for continuation of care and delivery at EFSTH.,ojarjou,2
+IN-M-080D,end_of_study_arm_1,,,2023-07-17,1,4,Advanced Gestation age,,2
+IN-M-091K,end_of_study_arm_1,,,2024-02-06,5,8,Had a term fresh stillbirth,ojarjou,2
+IN-M-092F,end_of_study_arm_1,,,2023-09-13,1,4,Unconfirmed pregnancy,,2
+IN-M-093E,end_of_study_arm_1,,,2024-07-11,10,2,,lamceesay,2
+IN-M-094C,end_of_study_arm_1,,,2023-08-09,1,4,GA was 23weeks 1day which is beyond the range for recruitment,lamceesay,2
+IN-M-095K,end_of_study_arm_1,,,2023-10-16,3,8,,ojarjou,2
+IN-M-102H,end_of_study_arm_1,,,2024-03-07,3,8,,rsecka,2
+IN-M-103A,end_of_study_arm_1,,,2023-10-12,1,10,,ojarjou,2
+IN-M-106H,end_of_study_arm_1,,,2023-12-21,1,12,"She came for her 20 week clinic visit but said she was going to travel to URR for 4 weeks as a result, she was not randomized. Seen today, however her gestational age is 27 weeks which is beyond the eligibility criteria for randomization.",rsecka,2
+IN-M-109D,end_of_study_arm_1,,,2024-06-13,1,4,GA 23 weeks at scanning ,mdanjo,2
+IN-M-114H,end_of_study_arm_1,,,2024-04-29,3,2,She delivered whilst at the Coast and the child passed away,hceesay,2
+IN-M-115E,end_of_study_arm_1,,,2023-09-14,1,4,Absent foetal cardiac activity,,2
+IN-M-117F,end_of_study_arm_1,,,2024-06-13,1,4,GA at 22 weeks at first Scan,mdanjo,2
+IN-M-119A,end_of_study_arm_1,,,2023-09-21,1,4,Absent foetal cardiac activity,,2
+IN-M-120C,end_of_study_arm_1,,,2023-09-20,1,4,Advanced Gestation age,,2
+IN-M-121C,end_of_study_arm_1,,,2023-09-20,1,4,Advanced Gestation age,,2
+IN-M-122F,end_of_study_arm_1,,,2023-10-12,1,4,,ojarjou,2
+IN-M-123A,end_of_study_arm_1,,,2024-02-22,3,8,"Her infant had Severe Birth Asphyxia with Broncho Aspiration, LBW and Prematurity. There was also a long period of hospitalization from 13/01/2024-30/01/2024). A clinical discretion was taken to withdraw this participant based on a combination of these factors.",lamceesay,2
+IN-M-127B,end_of_study_arm_1,,,2023-09-26,1,4,Advanced Gestation age,,2
+IN-M-128D,end_of_study_arm_1,,,2023-09-26,1,4,,ojarjou,2
+IN-M-129E,end_of_study_arm_1,,,2024-05-06,5,8,LBW ( with? IUGR) and hospitalization.,amatjoof,2
+IN-M-135G,end_of_study_arm_1,,,2023-10-09,1,4,Advanced Gestation age,,2
+IN-M-137B,end_of_study_arm_1,,,2024-06-26,1,12,she lost the pregnancy,hceesay,2
+IN-M-139H,end_of_study_arm_1,,,2023-10-17,1,4,Advanced GA at screening (Ii.e GA>20 weeks ),ojarjou,2
+IN-M-141D,end_of_study_arm_1,,,2024-06-13,1,4,GA at 23 week at screening visit,mdanjo,2
+IN-M-143B,end_of_study_arm_1,,,2023-11-30,1,4,Had miscarriage prior to the randomisation visit ,lamceesay,2
+IN-M-144A,end_of_study_arm_1,,,2023-10-12,1,4, Gestation of 24 weeks at screening visit,lamceesay,2
+IN-M-146H,end_of_study_arm_1,,,2024-10-26,13,12,Lack of expected normal physiological development of infant,rsecka,2
+IN-M-149K,end_of_study_arm_1,,,2024-06-13,1,4,GA 27 at screening ,mdanjo,2
+IN-M-152C,end_of_study_arm_1,,,2024-01-18,1,12,Miscarriage ,lamceesay,2
+IN-M-154D,end_of_study_arm_1,,,2024-06-13,1,4,GA at 22 week at screening visit,mdanjo,2
+IN-M-155K,end_of_study_arm_1,,,2024-07-25,1,4,Had  a miscarriage.,safjarju,2
+IN-M-156B,end_of_study_arm_1,,,2024-05-07,8,8,Participant's infant has a diagnosis of failure to thrive with WHO z score of -3.13 on admission,rsecka,2
+IN-M-157F,end_of_study_arm_1,,,2023-10-30,1,12,,amatjoof,2
+IN-M-158A,end_of_study_arm_1,,,2023-11-13,1,4,GA at screening was not <20 weeks.,ojarjou,2
+IN-M-159C,end_of_study_arm_1,,,2024-04-15,6,8,Neonatal Death,ojarjou,2
+IN-M-161D,end_of_study_arm_1,,,2024-06-10,5,8,,rsecka,2
+IN-M-163H,end_of_study_arm_1,,,2023-11-30,1,10,,rsecka,2
+IN-M-164K,end_of_study_arm_1,,,2024-06-13,1,4,GA at 28 weeks at screening visit,mdanjo,2
+IN-M-167G,end_of_study_arm_1,,,2023-11-08,1,4,"Nil gestation as shown by the ultrasound scan, and verified with a negative urine Hcg. ",lamceesay,2
+IN-M-168K,end_of_study_arm_1,,,2024-01-11,1,4,,rsecka,2
+IN-M-170D,end_of_study_arm_1,,,2023-12-21,1,4,The GA 31 weeks 2 days which is beyond the age for randomization.,lamceesay,2
+IN-M-171K,end_of_study_arm_1,,,2023-11-14,1,4,Scan results. Gestation > 20 weeks on screening visit ,amatjoof,2
+IN-M-172G,end_of_study_arm_1,,,2023-11-14,1,4,USS results is > 20 week on consenting visit day,amatjoof,2
+IN-M-174J,end_of_study_arm_1,,,2024-06-28,5,8,,rsecka,2
+IN-M-175B,end_of_study_arm_1,,,2023-11-14,1,4,USS results > 20 weeks on consenting visit day,amatjoof,2
+IN-M-176A,end_of_study_arm_1,,,2024-06-13,1,4,GA st screening 31 weeks,mdanjo,2
+IN-M-179J,end_of_study_arm_1,,,2024-07-26,8,8,Her baby had an SAE,rsecka,2
+IN-M-185E,end_of_study_arm_1,,,2024-06-12,1,4,Over age (above 40 years) ,lamceesay,2
+IN-M-193D,end_of_study_arm_1,,,2024-04-02,1,4,,rsecka,2
+IN-M-196C,end_of_study_arm_1,,,2024-08-02,4,8,,rsecka,2
+IN-M-197H,end_of_study_arm_1,,,2024-01-15,1,12,Confirmed Twin pregnancy through ultra sound scan,amatjoof,2
+IN-M-198J,end_of_study_arm_1,,,2024-04-16,1,4,Aborted ,mujoof,2
+IN-M-199G,end_of_study_arm_1,,,2024-01-23,1,12,Gestation at screening visit is above 20 weeks,amatjoof,2
+IN-M-200H,end_of_study_arm_1,,,2024-01-23,1,12,Twin pregnancy ,amatjoof,2
+IN-M-202C,end_of_study_arm_1,,,2024-01-23,1,12,No sign of pregnancy.  Hcg test negative,amatjoof,2
+IN-M-203C,end_of_study_arm_1,,,2024-01-24,1,12,Screening visit gestation age is above 20WKS ,amatjoof,2
+IN-M-204C,end_of_study_arm_1,,,2024-01-24,1,12,Screening gestation age is above 20 weeks,amatjoof,2
+IN-M-208A,end_of_study_arm_1,,,2024-01-24,1,4,She has  a GA of  22Weeks 2 days which falls within the exclusion criteria ,lamceesay,2
+IN-M-209D,end_of_study_arm_1,,,2024-01-24,1,12,Screening visit gestation age is above 20 weeks,amatjoof,2
+IN-M-210A,end_of_study_arm_1,,,2024-01-24,1,12,Screening visit gestation age is above 20WKS ,amatjoof,2
+IN-M-211D,end_of_study_arm_1,,,2024-01-24,1,12,Screening visit gestation age is above 20WKS ,amatjoof,2
+IN-M-213G,end_of_study_arm_1,,,2024-01-30,1,4,Gestational age is above 20 weeks ,lamceesay,2
+IN-M-216F,end_of_study_arm_1,,,2024-07-15,1,12,was aborted,hceesay,2
+IN-M-217G,end_of_study_arm_1,,,2024-04-23,3,10,Anemia in second trimester of pregnancy,rsecka,2
+IN-M-218F,end_of_study_arm_1,,,2024-05-08,1,12,Transferred to kombo,fkdarboe,2
+IN-M-219H,end_of_study_arm_1,,,2024-04-25,1,12,Aborted,ysowe,2
+IN-M-220H,end_of_study_arm_1,,,2024-02-12,1,4,USS shows nil pregnancy confirmed by negative Hcg,lamceesay,2
+IN-M-225D,end_of_study_arm_1,,,2024-02-13,1,4,USS shows no pregnancy,lamceesay,2
+IN-M-229F,end_of_study_arm_1,,,2024-10-17,6,8,,rsecka,2
+IN-M-230G,end_of_study_arm_1,,,2024-06-12,1,4,,lamceesay,2
+IN-M-231G,end_of_study_arm_1,,,2024-06-12,1,4,,lamceesay,2
+IN-M-233B,end_of_study_arm_1,,,2024-07-15,1,4,"Came for rescanning and gestational age overdue, BPD measured 6.60cm equivalent to 2weeks 5days. ",safjarju,2
+IN-M-237F,end_of_study_arm_1,,,2024-06-12,1,4,Rescanned done today and the gestational age is over 22weeks 3days. ,mujoof,2
+IN-M-239D,end_of_study_arm_1,,,2024-02-28,1,12,Twin pregnancy. twin A fetal heart rate is 75bpm and twin B is IUFD,amatjoof,2
+IN-M-242G,end_of_study_arm_1,,,2024-02-21,1,12,Consenting visit scan more than 20 weeks,amatjoof,2
+IN-M-243J,end_of_study_arm_1,,,2024-02-21,1,12,No pregnancy confirm during scan and the repeated HCG result is negative,amatjoof,2
+IN-M-248F,end_of_study_arm_1,,,2024-02-27,1,12,Screening visit gestation age is more that 20 weeks.,amatjoof,2
+IN-M-250J,end_of_study_arm_1,,,2024-05-02,1,4,Epileptic patient,rsecka,2
+IN-M-251B,end_of_study_arm_1,,,2024-02-28,1,4,Medical reason.,amatjoof,2
+IN-M-253G,end_of_study_arm_1,,,2024-02-28,1,12,Aborted,amatjoof,2
+IN-M-258C,end_of_study_arm_1,,,2024-06-24,1,4,,ojarjou,2
+IN-M-260K,end_of_study_arm_1,,,2024-04-18,1,4,Thyroid disease,rsecka,2
+IN-M-269H,end_of_study_arm_1,,,2024-03-28,1,12,Abortion ,mujoof,2
+IN-M-272D,end_of_study_arm_1,,,2024-08-27,3,12,Ineligible participant recruited ( had positive history of chronic illness which was not reported to the research team),ojarjou,2
+IN-M-275H,end_of_study_arm_1,,,2024-09-10,4,7,She had an AE for which she was started on other MN treatment ( therapeutic doses given).,ojarjou,2
+IN-M-277N,end_of_study_arm_1,,,2024-07-12,1,12,abortion,hceesay,2
+IN-M-278K,end_of_study_arm_1,,,2024-07-08,1,4,Had abortion in month of May 2024. Was rescan 08 Jul 2024 and uterus found empty. ,safjarju,2
+IN-M-279D,end_of_study_arm_1,,,2024-03-25,1,4,,rsecka,2
+IN-M-286J,end_of_study_arm_1,,,2024-08-05,1,4,,safjarju,2
+IN-M-289F,end_of_study_arm_1,,,2024-03-26,1,4,GA >20 Weeks,mujoof,2
+IN-M-292D,end_of_study_arm_1,,,2024-06-13,2,10,CONFIRMED LOW HB,ssibi,2
+IN-M-300F,end_of_study_arm_1,,,2024-06-24,1,4,Had complete abortion on the 30th April 2024. Rescan today 24th Jun 2024 and the uterus is found empty. No sign of gestation.,safjarju,2
+IN-M-301F,end_of_study_arm_1,,,2024-04-25,1,12,Gestational age at screening visit is more than 20 weeks. ,mujoof,2
+IN-M-303K,end_of_study_arm_1,,,2024-06-12,1,12,medical reason,amatjoof,2
+IN-M-304E,end_of_study_arm_1,,,2024-07-22,1,2,"Failed to return, now GA is even beyond randomisation.",ojarjou,2
+IN-M-309K,end_of_study_arm_1,,,2024-05-30,1,4,,rsecka,2
+IN-M-311A,end_of_study_arm_1,,,2024-04-23,1,4,Gestational age more than 20 weeks. ,mujoof,2
+IN-M-319F,end_of_study_arm_1,,,2024-04-24,1,4,Due to miscarriage. See bleeding per vagina  on 17th April 2024.USS indicated empty uterus. ,mujoof,2
+IN-M-320E,end_of_study_arm_1,,,2024-04-24,1,4,"Medical conditions. 
+ she realised seizure 9 years ago.
+Her last attack was 3 months ago. ",mujoof,2
+IN-M-323D,end_of_study_arm_1,,,2024-09-20,5,5,Infant had an exclusion criteria at birth. Details on the delivery eCRF.,ojarjou,2
+IN-M-325K,end_of_study_arm_1,,,2024-04-30,1,4,Gestational age is 0ver.,mujoof,2
+IN-M-326B,end_of_study_arm_1,,,2024-11-06,3,8,,rsecka,2
+IN-M-330H,end_of_study_arm_1,,,2024-05-02,1,4,Gestational age is over.,mujoof,2
+IN-M-331E,end_of_study_arm_1,,,2024-06-24,1,2,,ojarjou,2
+IN-M-334J,end_of_study_arm_1,,,2024-07-04,1,4,,rsecka,2
+IN-M-338G,end_of_study_arm_1,,,2024-05-06,1,4,Gestational age 0ver,mujoof,2
+IN-M-343G,end_of_study_arm_1,,,2024-05-17,1,12,abortion,amatjoof,2
+IN-M-344F,end_of_study_arm_1,,,2024-05-13,1,12,Said have episode of seizures ,amatjoof,2
+IN-M-345B,end_of_study_arm_1,,,2024-08-20,1,4,,safjarju,2
+IN-M-347H,end_of_study_arm_1,,,2024-05-07,1,12,No pregnancy confirmed through scan and hcg test results is also negative ,amatjoof,2
+IN-M-349K,end_of_study_arm_1,,,2024-05-08,1,12,Twin pregnancy ,amatjoof,2
+IN-M-350B,end_of_study_arm_1,,,2024-05-08,1,12,Participant report to have experienced  multiple episodes of seizures ,amatjoof,2
+IN-M-353D,end_of_study_arm_1,,,2024-05-13,1,12,History of episodes of seizures ,amatjoof,2
+IN-M-360D,end_of_study_arm_1,,,2024-07-20,1,12,HAD A MISCARRIAGE,hceesay,2
+IN-M-371G,end_of_study_arm_1,,,2024-10-03,1,9,,hceesay,2
+IN-M-376B,end_of_study_arm_1,,,2024-08-06,1,12,miscarriage ,amatjoof,2
+IN-M-383A,end_of_study_arm_1,,,2024-07-31,1,4,Had a miscarriage. Rescanned today and uterus found empty. ,safjarju,2
+IN-M-384D,end_of_study_arm_1,,,2024-05-22,1,4,"Pregnancy Not confirmed by USS.
+HCG Test was done and resulted NEGATIVE. ",mujoof,2
+IN-M-385K,end_of_study_arm_1,,,2024-05-22,1,4,Seizure episodes. Her last attack was last year 2023.,mujoof,2
+IN-M-386K,end_of_study_arm_1,,,2024-08-26,1,4,(Details recorded in the clinical notes),rsecka,2
+IN-M-388F,end_of_study_arm_1,,,2024-05-22,1,12,consenting scan result is more than 20 weeks,amatjoof,2
+IN-M-389C,end_of_study_arm_1,,,2024-05-22,1,12,no pregnancy seen during scan and hcg test result is negative ,amatjoof,2
+IN-M-391J,end_of_study_arm_1,,,2024-06-11,1,12,"Miscarriage (complete abortion) Bleeding per vagina occur this afternoon with blood clots at home. 
+Puts on treatment by Doctor on call.",mujoof,2
+IN-M-394J,end_of_study_arm_1,,,2024-05-29,1,4,Gestational age is 20 weeks today. ,mujoof,2
+IN-M-397D,end_of_study_arm_1,,,2024-06-13,1,4,Miscarriage on the 6th of June 2024.,mujoof,2
+IN-M-398A,end_of_study_arm_1,,,2024-08-08,1,4,,rsecka,2
+IN-M-401A,end_of_study_arm_1,,,,,,,safjarju,0
+IN-M-404B,end_of_study_arm_1,,,2024-10-07,3,10,,rsecka,2
+IN-M-420K,end_of_study_arm_1,,,2024-06-26,1,4,"Scanning confirmed No pregnancy. 
+HCG result NEGATIVE. ",mujoof,2
+IN-M-430H,end_of_study_arm_1,,,2024-07-03,1,4,Twins Pregnancy ,safjarju,2
+IN-M-436A,end_of_study_arm_1,,,2024-09-17,1,10,Details recorded on clinical notes.,ojarjou,2
+IN-M-437J,end_of_study_arm_1,,,2024-07-09,1,4,Beyond gestational age ,mujoof,2
+IN-M-438G,end_of_study_arm_1,,,2024-07-09,1,4,HCG RESULT NEGATIVE  TODAY 09/07/2024,mujoof,2
+IN-M-445G,end_of_study_arm_1,,,2024-07-11,1,4,No pregnancy detected on ultrasound and HCG is negative. ,safjarju,2
+IN-M-446E,end_of_study_arm_1,,,2024-07-11,1,4,Participant confirm to have episodes of seizures especially during pregnancy. ,safjarju,2
+IN-M-447J,end_of_study_arm_1,,,2024-07-15,1,4,"Gestational age more than 20weeks. Taday BPD measured 5.87cm, 24weeks 0days",safjarju,2
+IN-M-448A,end_of_study_arm_1,,,2024-09-30,1,10,See clinical notes for details.,ojarjou,2
+IN-M-450E,end_of_study_arm_1,,,2024-07-17,1,4,"Gestational age is over 
+24weeks 4days. ",mujoof,2
+IN-M-453D,end_of_study_arm_1,,,2024-10-10,1,10,,rsecka,2
+IN-M-457G,end_of_study_arm_1,,,2024-09-17,1,4,See clinical notes.,ojarjou,2
+IN-M-458H,end_of_study_arm_1,,,2024-09-09,1,4,,ojarjou,2
+IN-M-463G,end_of_study_arm_1,,,2024-09-09,1,12,miscarriage ,amatjoof,2
+IN-M-467H,end_of_study_arm_1,,,2024-07-24,1,4,USS Reveals IUFD. Referred to Dr appropriate management ,safjarju,2
+IN-M-469E,end_of_study_arm_1,,,2024-07-24,1,4,History of seizures. ,safjarju,2
+IN-M-476N,end_of_study_arm_1,,,2024-10-21,3,10,,rsecka,2
+IN-M-480A,end_of_study_arm_1,,,2024-09-05,1,12,Lost to follow up,kaceesay,2
+IN-M-482E,end_of_study_arm_1,,,2024-07-30,1,4,The pregnancy is over,safjarju,2
+IN-M-484H,end_of_study_arm_1,,,2024-08-01,1,12,medical reason ,amatjoof,2
+IN-M-488C,end_of_study_arm_1,,,2024-08-06,1,4,GA on consenting visit above 20WKS ,amatjoof,2
+IN-M-490E,end_of_study_arm_1,,,2024-08-06,1,12,medical reason ,amatjoof,2
+IN-M-498F,end_of_study_arm_1,,,2024-08-13,1,12,screening visit gestation age above 20WKS ,amatjoof,2
+IN-M-499J,end_of_study_arm_1,,,2024-08-13,1,12,gestation age on consenting visit day is above 20 weeks,amatjoof,2
+IN-M-500D,end_of_study_arm_1,,,2024-08-13,1,12,medical reason ,amatjoof,2
+IN-M-501E,end_of_study_arm_1,,,2024-08-13,1,4,Gestational age overdue at consenting. ,safjarju,2
+IN-M-514B,end_of_study_arm_1,,,2024-08-28,1,4,Gestational age overdue for enrolment. ,safjarju,2
+IN-M-516E,end_of_study_arm_1,,,2024-08-28,1,12,gestation age at screening visit is above 20 weeks,amatjoof,2
+IN-M-534J,end_of_study_arm_1,,,2024-09-03,1,12,gestation age is above 20WKS on the day of consenting ,amatjoof,2
+IN-M-540Q,end_of_study_arm_1,,,2024-09-04,1,4,Gestational age overdue for enrollment. ,safjarju,2
+IN-M-544H,end_of_study_arm_1,,,2024-09-04,1,4,"HCG negative 
+USS NO PREGNANCY DETECTED. ",sbeyai,2
+IN-M-549T,end_of_study_arm_1,,,2024-09-09,1,12,gestation age at consenting visit is more than 20 weeks ,safjarju,2
+IN-M-550J,end_of_study_arm_1,,,2024-09-09,1,4,"Pregnancy over due for enrollment,  ",safjarju,2
+IN-M-561G,end_of_study_arm_1,,,2024-09-18,1,12,gestation age at screening visit is above 20WKS ,amatjoof,2
+IN-M-566K,end_of_study_arm_1,,,2024-11-11,1,12,twin pregnancy ,amatjoof,2
+IN-M-567C,end_of_study_arm_1,,,2024-10-14,1,4,,rsecka,2
+IN-M-568A,end_of_study_arm_1,,,2024-09-24,1,12,gestation age at screening visit is above 20 weeks  ,amatjoof,2
+IN-M-570H,end_of_study_arm_1,,,2024-11-06,1,12,gestation age at screening visit was above 20WKS ,amatjoof,2
+IN-M-572F,end_of_study_arm_1,,,2024-09-24,1,12,gestation age at screening visit is above 20 weeks ,amatjoof,2
+IN-M-574K,end_of_study_arm_1,,,2024-09-24,1,12,medical reason ,amatjoof,2
+IN-M-578G,end_of_study_arm_1,,,2024-10-03,2,10,Details recorded in her clinical notes.,ojarjou,2
+IN-M-582H,end_of_study_arm_1,,,2024-09-26,1,12,"1. medical reason 
+2. gestation age at screening visit is above 20 weeks ",amatjoof,2
+IN-M-585A,end_of_study_arm_1,,,2024-10-01,1,4,gestational age over,mujoof,2
+IN-M-592K,end_of_study_arm_1,,,2024-10-03,1,4,The gestational age is over. ,mujoof,2
+IN-M-600J,end_of_study_arm_1,,,2024-10-08,1,4,Gestational age is over.,mujoof,2
+IN-M-601B,end_of_study_arm_1,,,2024-10-08,1,12,multiple pregnancy ,amatjoof,2
+IN-M-603C,end_of_study_arm_1,,,2024-10-09,1,4,SEIZURE attack last year.,mujoof,2
+IN-M-604C,end_of_study_arm_1,,,2024-10-09,1,4,Gestational age over,mujoof,2
+IN-M-606H,end_of_study_arm_1,,,2024-11-11,1,4,,rsecka,2
+IN-M-610B,end_of_study_arm_1,,,2024-10-22,1,12,gestation age above 20WKS at consenting visit ,amatjoof,2
+IN-M-612J,end_of_study_arm_1,,,2024-10-22,1,12,no pregnancy seen ,amatjoof,2
+IN-M-616D,end_of_study_arm_1,,,2024-10-22,1,12,twin pregnancy ,amatjoof,2
+IN-M-618A,end_of_study_arm_1,,,2024-10-24,1,4,,rsecka,2
+IN-M-620A,end_of_study_arm_1,,,2024-10-23,1,12,gestation age at screening visit is above 20 weeks ,amatjoof,2
+IN-M-621F,end_of_study_arm_1,,,2024-10-23,1,12,gestation age at screening visit is above 20 weeks,amatjoof,2
+IN-M-624D,end_of_study_arm_1,,,2024-10-23,1,12,medical reason ,amatjoof,2
+IN-M-628G,end_of_study_arm_1,,,2024-10-28,1,12,gestation age at screening visit is above 20 weeks,amatjoof,2
+IN-M-634H,end_of_study_arm_1,,,2024-10-30,1,12,twin pregnancy ,amatjoof,2
+IN-M-641B,end_of_study_arm_1,,,2024-11-04,1,12,medical reason ,amatjoof,2
+IN-M-650E,end_of_study_arm_1,,,2024-11-11,1,12,pregnancy over 20WKS of age at the time of consenting visit ,amatjoof,2

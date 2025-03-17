@@ -1,0 +1,217 @@
+participant_id,ck_wkno,withdrawal_complete,compoundno,enu_village,enu_comp,enu_name,enu_mname,enu_fname,sen_icd_given,sen_contact1
+EDN0005-K,40-008-01,2,40-008,WUROKANG,008,Satou Jammeh,Binta camara,Lamin Jammeh,1,3741305
+EDN0018-C,41-017-01,2,41-017,KWINELLA SANSANKONO,017,Binta sanyang,sarata darboe,kebba sanyang,1,3312596
+EDN0024-B,42-041-01,2,42-041,KWINELLA NIA KUNDA,041,Mariama Ceesay,Sutay Manjang,Alieu Ceesay,1,3287570
+EDN0025-F,42-044-01,2,42-044,KWINELLA NIA KUNDA,044,NYIMA DIBBA,MAMA KOLLEY,MOMODOU DIBBA,1,7467022
+EDN0097-D,54-009-05,2,54-009,MANDINA CENTRAL,009,Isatou Yarboe,Nyima Sanneh,Sunkary Yarboe,1,
+EDN0102-K,51-009-01,2,51-009,JIRROFF,009,Penda bah,buntung jawo,musa bah,1,3978331
+EDN0140-C,40-037-01,2,40-037,WUROKANG,037,Fatou Camara,mariama Camara,Abdoulie Camara,1,7406011
+EDN0141-F,40-014-01,2,40-014,WUROKANG,014,Mariama Sanyang,Kaddy Touray,Sunkar Sanyang,1,2220107
+EDN0142-J,48-012-01,2,48-012,KUNDANG NUMU KUNDA,012,kaddy jammeh,binta camara,Ba musa jammeh,1,2872799
+EDN0148-K,40-034-09,2,40-034,WUROKANG,034,jomma Njie,Fatoumatta Sanneh,Masey  Njie,1,3608390
+EDN0155-B,47-012-01,2,47-012,NEMA,012,Fatou sanneh,satou sanneh,molifa sanneh,1,7365587
+EDN0165-J,48-004-01,2,48-004,KUNDANG NUMU KUNDA,004,Kumba konta,Tida Sanneh,Kebba konta,1,2750916
+EDN0171-B,47-006-02,2,47-006,NEMA,006,Isatou Bah,Hawa Bah,Adama Bah,1,7045270
+EDN0173-D,54-008-01,2,54-008,MANDINA CENTRAL,008,arokey jarju,nirranding jarju,mamadou jarju,1,3268546
+EDN0174-A,54-018-02,2,54-018,MANDINA CENTRAL,018,Nyima Sanneh,Satouding Darbo,Both Darbo,1,5325665
+EDN0176-F,54-007-02,2,54-007,MANDINA CENTRAL,007,tida fadera,kaken sorra,fabakary fadera,1,2485622
+EDN0177-K,54-007-01,2,54-007,MANDINA CENTRAL,007,mariama dalang jallow,lamarana jallow,amadou boye jallow,1,2485622
+EDN0180-E,54-019-03,2,54-019,MANDINA CENTRAL,019,Fatou Fanneh,Mariama Darbo,Bakary Fanneh,1,3020040
+EDN0182-A,54-012-01,2,54-012,MANDINA CENTRAL,012,Belikisamanka,sunkary demba,babanding manka,1,7822762
+EDN0185-H,54-011-01,2,54-011,MANDINA CENTRAL,011,Sali Sanneh,naffie sanneh,landing sanneh,1,3791809
+EDN0186-B,54-019-02,2,54-019,MANDINA CENTRAL,019,Fatoumata Sama,Meta Sanneh,Kaba Sama,1,3492667
+EDN0191-J,47-038-01,2,47-038,NEMA,038,Nyimanding sora,Faye  fadera,Sunkarr sora,1,2743127
+EDN0207-A,47-033-01,2,47-033,NEMA,033,Kaddy Fadera,Mariama Fadera,Bunja Fadera,1,2582931
+EDN0210-A,47-027-03,2,47-027,NEMA,027,Adama Fadera,Fillije jawara,Kawsu Faders,1,7595634
+EDN0211-D,47-023-01,2,47-023,NEMA,023,Fatou kanyi,musukebba saidy,Almameh kanyi,1,7261609
+EDN0213-H,47-045-01,2,47-045,NEMA,045,Binta Drammeh,Sarjo ceesay,Solo gitteh,1,2534214
+EDN0242-K,30-017-030E,2,30-026,BATELLING,026,Kaddy Jassey,Nanding Yabo,Afang Ansu Jassey Bateh,1,
+EDN0259-B,48-007-01,2,48-007,KUNDANG NUMU KUNDA,007,fatou seckan,fatou seckan,kajally seckan,1,2200225
+EDN0260-G,48-012-02,2,48-012,KUNDANG NUMU KUNDA,012,Sireh Mambureh,binta sanneh,fillijeh mambureh,1,3693459
+EDN0261-B,48-013-01,2,48-013,KUNDANG NUMU KUNDA,013,zainabou jawo,mariama bah,marry jawo,1,296228
+EDN0263-D,48-013-03,2,48-013,KUNDANG NUMU KUNDA,013,kaddy bah,Ndungu jawo,samba bah,1,2453220
+EDN0264-A,48-007-02,2,48-007,KUNDANG NUMU KUNDA,007,nyima cham,nyaranding camara,jerreh cham,1,3567122
+EDN0267-K,48-012-03,2,48-012,KUNDANG NUMU KUNDA,012,Fatou Saidy,Wuday Njie,Borri Saidy,0,
+EDN0270-K,51-001-01,2,51-001,JIRROFF,001,Kaddy bah,Nurse jallow,Manyo bah,1,2438678
+EDN0273-J,51-022-01,2,51-022,JIRROFF,022,Oumie Drammeh,Satou saho,yaya Drammeh,1,5235173
+EDN0275-B,52-065-04,2,52-065,MADINA ANGALLEH,065,Isatou Bah,Fatoumata Jallow,Sulayman Bah,1,
+EDN0305-B,30-019-052Y,2,30-019,BATELLING,019,Fatou Trawally,Satou Sanyang,Mustapha Trawally,1,
+EDN0306-H,30-002-023Z,2,30-008,BATELLING,008,Fatou Sanneh,Naba Jobarteh,Bakary Sanneh,1,
+EDN0308-A,51-028-01,2,51-028,JIRROFF,028,Lisa Ceesay,mariatou Barrow,samboujan ceesay,1,6644867
+EDN0323-D,16-020-002Y,2,01-035,DUMBUTO,035,Kaddy Jassey,Warra Barrow,Tumbulu Jassey,1,
+EDN0328-H,32-018-002Q,2,32-018,WUDEBA,018,Jaila Sey,Hawa Bah,Omar Sey,1,
+EDN0335-A,02-009-057L,2,02-009,SANKANDI,009,Mariama Darboe,Fatoumata Sanyang,Baba Darboe,1,
+EDN0345-J,02-048-015V,2,02-048,SANKANDI,048,Kaddy Sabally,Dado Sey,Samba Sabally,1,
+EDN0346-D,02-015-005F,2,02-015,SANKANDI,015,Adama Darboe,Sireh Samateh,Lamin Darboe,1,
+EDN0362-A,04-001-001R,2,01-032,DUMBUTO,032,Kaddy Sanneh,Musukuta Sanneh,Momodou Sanneh,1,
+EDN0367-D,07-022-007F,2,01-042,DUMBUTO,042,Hawa Bajo,Manyima Njai,Afang Sanna Bajo,1,
+EDN0376-J,04-001-021L,2,04-012,JATTABA,012,Fatou Sanneh,Fatou Njai,Demba Sanneh,1,
+EDN0390-J,03-067-017F,2,03-067,NIORO JATTABA,067,Jainaba Jallow,Hulay Bah,Kebba Jallow,1,
+EDN0395-G,03-063-026S,2,03-059,NIORO JATTABA,059,Jainaba Bah,Isatou Jallow,Amadou Bah,1,
+EDN0398-B,03-001-043T,2,03-001,NIORO JATTABA,001,Aja Ndey Jallow,Samba Jallow,Sanna Bah,1,
+EDN0403-A,04-007-039X,2,04-026,JATTABA,026,Isatou Darboe,Fatou Drammeh,Molipha Darboe,1,
+EDN0410-F,51-028-02,2,51-028,JIRROFF,028,Rabiyatou Manka,Fatoumata Demba,Abubacarr Manka,1,2025969
+EDN0423-F,03-020-021R,2,03-020,NIORO JATTABA,020,Dellam Touray,Jarra Bah,Omar Touray,1,
+EDN0424-D,03-020-016M,2,03-020,NIORO JATTABA,020,Amie Jallow,Isatou Leigh,Chanadou Jallow,1,
+EDN0425-G,03-026-010A,2,03-026,NIORO JATTABA,026,Mami Sey,Adama Bah,Kebba Sey,1,
+EDN0431-B,03-002-004S,2,03-067,NIORO JATTABA,067,Kaddijatou Bah,Hawa Sowe,Momodou Touray Bah,1,
+EDN0433-D,04-019-013L,2,04-019,JATTABA,019,Mai Njai,Mariama Sarr,Dodou Njai,1,
+EDN0435-E,04-027-002S,2,04-024,JATTABA,024,Hawa Touray,Arokey Drammeh,Kanti Touray,1,
+EDN0445-H,04-012-023P,2,04-036,JATTABA,036,Fatou S. Camara,Sama Marong,Simbon Camara,1,
+EDN0451-D,03-052-027R,2,03-052,NIORO JATTABA,052,Kumba Jallow,Isatou Sowe,Sulayman Jallow,1,
+EDN0470-D,04-033-015Z,2,04-057,JATTABA,057,Salimata Jallow,Oumie Bah,Momodou Alieu Jallow,1,
+EDN0479-B,31-015-002S,1,31-015,SANDENG,015,Isatou Jobe,Terema Njai,Bunja Jobe,1,
+EDN0480-K,04-009-076G,2,31-010,SANDENG,010,Mariama Touray,Kaddy Kuta Darboe,Edally Touray,1,
+EDN0487-C,31-001-047Z,2,31-014,SANDENG,014,Fatoumata Saidy,Fatou Darboe,Lamin Saidy,1,
+EDN0488-A,31-001-025D,2,31-013,SANDENG,013,Kaddijatou Saidy,Satounding Darboe,Harri Kebba Saidy,1,
+EDN0491-A,03-046-013J,2,03-027,NIORO JATTABA,027,Ngibou Sowe,Fatoumata Bah,Boukary Sowe,1,
+EDN0492-K,03-074-010E,2,03-074,NIORO JATTABA,074,Isata Jobe,Mariama Bah,Alpha Jobe,1,
+EDN0508-F,03-043-010W,2,03-043,NIORO JATTABA,043,Jaila Jallow,Mahani Bah,Ousman Jallow,1,
+EDN0518-J,40-016-04,2,40-016,WUROKANG,016,Nyimansatou Jammeh,Binta Sanneh,Lamin Jammeh,1,5301927
+EDN0530-H,54-025-02,2,54-025,MANDINA CENTRAL,025,Isatou Saidy,Vintage Saidy,Sherriffo saidy,1,7602929
+EDN0538-G,47-028-03,2,47-028,NEMA,028,KADDY S FADERA,SUTAYRING FADERA,ANSUMANA FADERA,1,7018108
+EDN0541-B,47-038-02,2,47-038,NEMA,038,Amie korta,Kaddijatou fadera,Hatab korta,1,7340925
+EDN0545-E,05-047-006Q,2,05-001,JIFFARONG,001,Mata Njai,Mamanding Njai,Sunkary Njai,1,
+EDN0558-C,05-012-023D,2,05-012,JIFFARONG,012,Mama Manka,Jai Barrow,Nambung Manka,1,
+EDN0560-F,11-020-071X,2,05-026,JIFFARONG,026,Hawa Njai,Fatou Barrow,Landing Njai,1,
+EDN0582-J,05-033-025X,2,05-082,JIFFARONG,082,Jainaba Taal,Sutering Kinteh,Demba Taal,1,
+EDN0597-G,17-001-056U,2,17-026,JOLI,026,Fatou Camara,Kaddy Sanyang,Omar Camara,1,
+EDN0600-C,17-010-019N,2,17-005,JOLI,005,Jarra Bass,Musukebba Camara,Jerreh Bass,1,
+EDN0604-E,18-004-007V,2,18-020,KARANTABA,020,Binta Samateh,Mariatou Janneh ,Filial Samateh,0,3159960
+EDN0605-D,05-066-006K,2,05-071,JIFFARONG,071,Nakebba Drammeh,Banna Njai,Bunja Drammeh,1,
+EDN0615-E,06-009-039X,2,06-009,BAJANA,009,Nyimansatou Marong,Fatoumata Sanneh,Gibriel Marong,1,
+EDN0616-F,05-057-017R,2,06-008,BAJANA,008,Jainaba Barrow,Aminata Barrow,Alimameh Barrow,1,
+EDN0624-K,06-015-016U,2,06-017,BAJANA,017,Nadinding Touray,Fatou Bajo,Lamin Touray,1,
+EDN0629-G,17-017-008I,2,17-017,JOLI,017,Tida Jobarteh,Jainaba Jobarteh,Sulayman Jobarteh,1,3199753
+EDN0645-C,27-005-020Q,2,27-009,JANNEH KUNDA,009,Mariatou Kanteh,Jonfolo Janneh,Nfamara Mondo Kanteh,1,
+EDN0657-J,29-004-011X,2,17-023,JOLI,023,Jarriatou Sise,Mama Sise,Malang Sise,1,
+EDN0671-C,28-037-007L,2,28-037,KEMOTO,037,Kaddy Janneh,Mabinta Majang,Jerreh Janneh,1,
+EDN0678-F,27-043-001L,2,27-043,JANNEH KUNDA,043,Jainaba Manjang,Jainaba Janneh,Nyakassi Manjang,1,
+EDN0679-K,27-015-030Q,2,27-009,JANNEH KUNDA,009,Isatou Bajinka,Isatou Janneh,Ansumana Bajinka,1,
+EDN0681-D,27-017-009T,2,27-017,JANNEH KUNDA,017,Kaddy Janneh,Mariatou Manjang,Nyakass Janneh,1,
+EDN0683-H,27-034-030K,2,27-019,JANNEH KUNDA,019,Bintou Kanteh,Isatou Janneh,Alhagie Kanteh,1,
+EDN0692-H,28-014-018G,2,25-010,KARANTABA,010,Naffie Manjang,Musukuta Touray,Afang Lamin Manjang,1,
+EDN0695-A,25-007-084Y,2,25-007,KARANTABA,007,Fatoumata Bajinka,Tida Janneh,Nfamara Bajinka,1,
+EDN0698-J,26-008-016I,2,25-008,KARANTABA,008,Fatou Marri,Fatou Jawo,Mamadou Marri,1,
+EDN0699-B,26-001-042C,2,25-020,KARANTABA,020,Binta Gibba,Isatou Jarju,Faburama Gibba,1,
+EDN0703-E,07-005-039P,2,07-022,KULI KUNDA,022,Salimata Njai,Jomma Njai,Bafoday Njai,1,
+EDN0707-F,06-030-012O,2,07-038,KULI KUNDA,038,Mariama Sise,Sirreh Bajo,Babanding Sise,1,
+EDN0708-J,07-005-061L,2,07-005,KULI KUNDA,005,Fatou Sanneh,Matty Sanyang,Lamin Sanneh,1,
+EDN0718-A,30-019-014M,2,07-049,KULI KUNDA,049,Kaddy Sise,Mama Sanneh Manneh,Baba Sise,1,
+EDN0720-F,07-031-033J,1,07-031,KULI KUNDA,031,Ramata Bah,Jainaba Bah,Alieu Bah,1,
+EDN0723-K,07-002-029V,2,07-007,KULI KUNDA,007,Hawa Minteh,Saribanding Sise,Dodou Minteh,1,
+EDN0729-E,07-008-073H,2,07-008,KULI KUNDA,008,Fatou Manneh,Meta Sise,Lamin Manneh,1,
+EDN0735-D,07-033-037L,2,07-057,KULI KUNDA,057,Sirra Jallow,Jarra Camara,Jang Korrka Jallow,1,
+EDN0736-G,07-045-012A,1,07-045,KULI KUNDA,045,Isatou Barrow,Sheriffunding Njai,Jamanty Barrow,1,
+EDN0737-H,07-004-044I,1,29-001,KENEBA,001,Isatou Njai,Kaddy Sise,Seedia Njai,1,
+EDN0739-A,07-007-040O,2,07-007,KULI KUNDA,007,Binta Bajo,Jarra Njai,Jaiteh Bajo,1,
+EDN0747-A,08-002-031L,2,08-002,JAMARU,002,Aminata Jallow,Sallah Bah,Sorie Jallow,1,
+EDN0758-F,10-003-113D,2,10-003,KANTONG KUNDA,003,Fatou Sise,Naba Sise,Terema Sise,1,
+EDN0759-K,10-001-205T,2,10-001,KANTONG KUNDA,001,Fatou Sise,Nyima Camara,Ousman Sise,1,
+EDN0763-H,10-010-003D,2,10-024,KANTONG KUNDA,024,Mariama Sise,Mabinta Sise,Sankung Sise,1,
+EDN0764-F,29-004-044E,2,10-006,KANTONG KUNDA,006,Salimata Sise,Njonji Sise,Malang Sise,1,
+EDN0767-G,25-011-207N,2,25-011,KARANTABA,011,Fatou Kambi,Fatou Kambi,Lamin Kambi,1,
+EDN0769-C,14-001-038M,2,14-001,BANG KULING,001,Mariama Sanyang,Jainaba Badjie,Sulayman Sanyang,1,
+EDN0770-H,26-001-028O,2,26-001,MANDINA,001,Mai Gibba,Natoma Marri,Omar Gibba,1,
+EDN0771-A,26-008-012E,2,26-008,MANDINA,008,Bakoto Jawo,Kaddy Demba,Momodou Jawo,1,
+EDN0780-B,24-009-004G,2,26-007,MANDINA,007,Mariama Daffeh,Fatounding Gibba,All Kawsu Daffeh,1,3663669
+EDN0793-D,11-042-015X,2,11-041,JALI,041,Wonto Drammeh,Terema Samateh,Jaiteh Drammeh,1,
+EDN0795-E,08-006-004G,2,11-024,JALI,024,Sainabou Touray,Isatou Jah,Ebrima Touray,1,
+EDN0806-A,11-038-006S,2,11-034,JALI,034,Jainaba Samateh,Suwadu Drammeh,Bunja Samateh,1,
+EDN0808-D,11-008-014E,2,11-036,JALI,036,Fatou Darboe,Dranding Drammeh,Momodou Darboe,1,
+EDN0816-E,11-029-058O,2,11-015,JALI,015,Fatoumata Samateh,Banna Dibba,Mamadi Samateh,1,
+EDN0818-G,10-006-049B,2,11-028,JALI,028,Fatoumata Touray,Hajaratou Sise,Momodou Touray,1,
+EDN0829-K,23-013-036U,2,23-013,BURONG,013,Binta Jallow,Mariama Korika Bah,Musa Jallow,1,
+EDN0832-F,24-008-017H,2,23-012,BURONG,012,Lisa Darboe,Tombong Colley,Sanuwa Darboe,1,
+EDN0838-C,21-001-028W,2,21-001,MISSIRA,001,Isatou Jawo,Binta Marri,Jerreh Jawo,1,
+EDN0840-A,21-003-009B,2,21-007,MISSIRA,007,Amie Jallow,Kaddy Bah,Ousman Jallow,1,
+EDN0856-F,11-020-061N,2,11-062,JALI,062,Nakebba Drammeh,Saribanding Samateh,Afang Lamin Drammeh,1,
+EDN0870-C,13-012-066C,2,13-012,MANDUAR,012,Awa Jammeh,Aramata Darboe,Alhagie Jammeh,1,
+EDN0872-J,13-037-009L,2,13-037,MANDUAR,037,Kaddy Sanyang,Fatoumata Darboe,Yaya Sanyang,1,
+EDN0874-B,13-001-014A,2,13-012,MANDUAR,012,Jainaba Sanyang,Sarjonding Darboe,Alhagie Burama Sanyang,1,
+EDN0875-D,13-012-062Y,2,13-015,MANDUAR,015,Fatou Darboe,Nyimanding Sanyang,Sarjo Darboe,1,
+EDN0880-J,13-040-003P,2,13-030,MANDUAR,030,Jainaba Sanyang,Musukebba Njai,Mafoday Sanyang,1,
+EDN0890-K,13-037-029F,2,13-037,MANDUAR,037,Maimuna Sise,Binta Kassama,Abdoulie Sise,1,
+EDN0896-H,23-022-027P,2,18-003,KUYANG,003,Marang Camara,Jalika Sanyang,Matarr Camara,1,
+EDN0899-F,18-002-023N,2,18-002,KUYANG,002,Kaddy Sanyang,Sheriff Sanneh,Momodou Sanyang,1,
+EDN0900-G,17-010-030Y,2,29-115,KENEBA,115,Fatoumata Bass,Kaddy Drammeh,Yusupha Bass,1,
+EDN0902-C,29-001-027D,2,29-146,KENEBA,146,Tida Manneh,Tumbulu Samateh,Sheriff Manneh,1,
+EDN0906-F,29-110-008S,2,29-110,KENEBA,110,Isatou Sise,Natoma Njai,Lamin Sise,1,
+EDN0908-H,29-005-020S,2,29-059,KENEBA,059,Fatoumata Sise,Mai Samateh,Alh. Moneh Sise,1,
+EDN0916-B,13-012-020I,2,13-037,MANDUAR,037,Sireh Samateh,Sanunding Darboe,Sainy Samateh,1,
+EDN0920-A,15-006-023T,2,15-006,GISSAY,006,Maimuna Jallow,Sallah Jallow,Mamadou Jallow,1,
+EDN0924-F,15-004-028A,2,15-008,GISSAY,008,Jully Bah,Sira Bah,Yobi Bah,1,
+EDN0928-E,10-005-009B,2,29-046,KENEBA,046,Nyimansatou Sise,Fatoumata Sise,Lamin Sise,1,
+EDN0933-K,29-035-015J,2,29-035,KENEBA,035,Sarita Sise,Bajo Sise,Sunkary Sise,1,
+EDN0940-K,29-001-010M,2,29-020,KENEBA,020,Isatou Sise,Binta Manneh,Jalamang Sise,1,
+EDN0943-J,29-005-031D,2,29-002,KENEBA,002,Isatou Sise,Sireh Barrow,Alh. Moneh Sise,1,
+EDN0946-H,29-044-030C,2,29-044,KENEBA,044,Fatou Camara,Aramata Sise,Junkung Camara,1,
+EDN0948-A,11-029-059P,2,29-034,KENEBA,034,Kaddijatou Samateh,Banna Dibba,Mamadi Samateh,1,
+EDN0953-F,29-048-004Y,2,29-048,KENEBA,048,Mariama Sise,Kaddy Minteh,Mamadou Sise,1,
+EDN0954-D,02-026-002E,1,29-042,KENEBA,042,Binta Minteh,Binta Sise,Molipha Minteh,1,
+EDN0956-C,29-033-081Z,1,29-002,KENEBA,002,Maimuna Sise,Haminata Danso,Baluta Sise,1,
+EDN0958-B,29-010-020A,2,29-002,KENEBA,002,Isatou Bajo,Kaddy Sise,Sutering Bajo,1,
+EDN0960-H,29-061-011F,2,29-004,KENEBA,004,Haminata Minteh,Salinding Barrow,Muhamed Waa Minteh,1,
+EDN0961-A,25-006-196U,2,25-008,KARANTABA,008,Nyimanding Fatty,Mariama Samateh,Borry Fatty,1,
+EDN0965-F,27-036-022A,2,25-007,KARANTABA,007,Isatou Samateh,Isatou Manjang,Momodou Samateh,1,
+EDN0971-H,25-011-031T,2,25-011,KARANTABA,011,Musukuta Marong,Mama Jarju,Alh. Ansumana Marong,1,
+EDN0973-A,25-012-219L,2,25-012,KARANTABA,012,Fatoumata Jaiteh,Mama Conteh,Bubacarr Jaiteh,1,
+EDN0974-K,25-012-053B,2,25-012,KARANTABA,012,Wuday Conteh,Hawa Minteh,Lallo Conteh,1,
+EDN0975-J,25-008-009N,2,25-020,KARANTABA,020,Fatou Jarju,Nyimanding Kanyi,Dembo Jarju,1,
+EDN0979-G,52-051-01,2,52-051,MADINA ANGALLEH,051,kaddijatou bah,fatoumata jallow,sulayman bah,1,2552972
+EDN0988-J,03-041-036Y,2,03-041,NIORO JATTABA,041,Nyima Sise,Siiya Jammeh,Modou Sise,1,
+EDN0994-E,03-048-046O,2,03-048,NIORO JATTABA,048,Jonsaba Sonko,Yassin Jammeh,Yaya Sonko,1,7277974
+EDN1003-C,50-002-04,2,50-002,NEMA KUTA,002,Adama Wurry Jallow,Sirra Camara,Basirou Jallow,1,2531779
+EDN1006-F,54-024-02,2,54-024,MANDINA CENTRAL,024,Jainaba Bah,Tomaring Jadama,Ali Bah,0,
+EDN1029-D,48-002-03,2,48-002,KUNDANG NUMU KUNDA,002,Fatou Sarr,Mariama Jarju,Alagife Sarr,1,3049347
+EDN1059-I,25-010-041R,2,25-012,KARANTABA,012,Kaddijatou Fofana,Fulo Kambi,Jerro Fofana Kanyi,1,
+EDN1060-G,09-005-017V,2,25-030,KARANTABA,030,Mariama Barrow,Matida Fofana,Karamo Barrow,0,3256064
+EDN1067-G,25-011-293V,2,25-012,KARANTABA,012,Jainaba Kambi,Babung Nyimanding Jammeh,Dembo Kambi,1,
+EDN1068-R,25-011-011Z,2,25-011,KARANTABA,011,Matty Kambi,Fatou Camara,Sulayman Kambi,1,
+EDN1070-T,27-006-018A,2,13-010,MANDUAR,010,Alima Janneh,Neneh Susso,Karamo Janneh,1,
+EDN1071-U,25-007-021N,2,25-008,KARANTABA,008,Nyimanding Sise,Jalla Janneh,Ebrima Sise,1,
+EDN1078-C,29-131-014Q,2,29-131,KENEBA,131,Fatou Sise,Lisa Sise,Omar Sise,1,
+EDN1080-E,29-028-006U,2,29-094,KENEBA,094,Binta Sise,Natoma Minteh,Nyanbi Sise,1,
+EDN1084-I,29-056-030Q,1,29-056,KENEBA,056,Isatou Jammeh,Fatoumata Sise,Mbemba Jammeh,1,
+EDN1108-H,04-005-057R,2,04-005,JATTABA,005,Mama Keita,Bintou Camara,Kebba Keita,1,
+EDN1109-I,31-001-028G,2,04-026,JATTABA,026,Aja Sanneh,Satounding Darboe,Momodou Sanneh,1,
+EDN1110-G,04-007-059R,2,04-007,JATTABA,007,Binta Sanneh,Arabiatou Touray,Demba Sanneh,1,
+EDN1290-O,03-070-025X,2,03-070,NIORO JATTABA,070,Hawa Gassama,Faye Marong,Omar Gassama,0,
+EDN1296-U,03-029-011L,2,03-102,NIORO JATTABA,102,Ngibou Bah,Jarra Bah,Janko Bah,0,
+EDN1372-V,05-003-020W,2,05-089,JIFFARONG,089,Nakebba Njai,Fatou Drammeh,Sheriffo Malamin Njai,0,3851970
+EDN1447-V,15-006-032C,2,15-006,GISSAY,006,Mariama Jawo,Mariama Bah,Musa Jawo,1,3347379
+EDN1468-R,17-012-009B,2,17-025,JOLI,025,Jalika Bass,Mariama Camara,Sulayman Bass,1,7323392
+EDN1678-D,42-069-03,2,42-069,KWINELLA NIA KUNDA,069,Isatou Colley,Jonkunda Darboe,Sukutu Colley,1,2024674
+EDN1725-F,47-045-05,2,47-045,NEMA,045,Sangiba Gitteh,Sarjo Ceesay,Solo Gitteh,1,2534214
+EDN1938-B,76-001-03,2,76-001,MASEMBEH,001,BINTOU SAMATEH ,JALIKUMBA DUMBUYA,KARAFA SAMATEH ,1,7956902
+EDN1958-X,76-011-04,2,76-011,MASEMBEH,011,MAM JARRA SANNEH ,FAYE SANNEH ,KUTUBO SANNEH ,1,7209828
+EDN1974-R,76-023-01,2,76-023,MASEMBEH,023,Fatoumata Manka,Ya Oumie Jarju,Momodou  Manka ,0,2585546
+EDN1976-G,76-025-01,2,76-025,MASEMBEH,025,Fatou Camara,Satounding Darboe,Borry Camara,1,7790873
+EDN2138-L,78-068-03,2,78-068,KAIAF,068,JOINE GASAMA,TOMARIN GASAMA ,MUSA GASAMA ,0,2713340
+EDN2147-W,78-071-04,2,78-071,KAIAF,071,QUEEN  WANDIFA SANNEH ,NABA KASSAMA ,WANDIFA SANNEH ,1,3080240
+EDN2184-C,78-112-01,2,78-112,KAIAF,111,Hawa Sanneh ,Sally Barrow,Cherno Sanneh ,0,2506471
+EDN2186-B,78-112-03,2,78-112,KAIAF,112,Nyimanding Sanneh ,Sutayring Sanyang ,Baba Sanneh ,0,7655850
+EDN2187-E,78-112-04,2,78-112,KAIAF,112,Oumie Trawally,Saffiatou Darboe ,Alh Momodou Trawally,0,7191374
+EDN2230-B,79-011-02,2,79-011,MADINA KAIAF,011,Haram Ceesay,Sarjo Cham,Ngange Ceesay,1,7360850
+EDN2231-V,79-011-03,2,79-011,MADINA KAIAF,011,Fatim Cham,Essa Cham,Mam Sait Cham,1,7360850
+EDN2233-O,79-013-01,2,79-013,MADINA KAIAF,013,Sainabou secka,Khadja Secka,Alieu Secka,1,2427547
+EDN2234-A,79-013-02,2,79-013,MADINA KAIAF,013,Sainabou Ceesay,Mariama Ceesay,Madi Ceesay,1,2427547
+EDN2235-T,79-015-01,2,79-015,MADINA KAIAF,015,Haddy Saho,Kumba Ceesay,Osman Saho,1,3306259
+EDN2236-T,79-015-02,2,79-015,MADINA KAIAF,015,Oumie Touray,Ndeye Touray,Alie Touray,1,7542314
+EDN2262-I,79-026-04,2,79-026,MADINA KAIAF,026,Sainabou Ceesay,Mbombeh Ceesay,Ebrima Ceesay,1,7682175
+EDN2263-P,79-027-01,2,79-027,MADINA KAIAF,027,Aram Ceesay,Bintou Touray,Jabel Touray,1,2444870
+EDN2264-E,79-027-02,2,79-027,MADINA KAIAF,027,Jalleh Touray,Kani Touray,Dame Touray,1,
+EDN2265-Y,79-027-03,2,79-027,MADINA KAIAF,027,Ndey Fatou Touray,Faddy Touray,Alhagie Adda Touray,1,
+EDN2351-T,79-062-02,2,79-062,MADINA KAIAF,062,Fatou Njie,Awa Touray ,Ousainou Njie,1,
+EDN2357-B,79-067-01,2,79-067,MADINA KAIAF,067,Isatou Touray ,Binton Touray ,Omar Touray ,1,7733214
+EDN2361-G,79-068-01,2,79-068,MADINA KAIAF,068,Mengeh Touray ,Mariama Touray ,Matarr Touray ,1,7439933
+EDN2371-O,79-076-03,2,79-076,MADINA KAIAF,076,Fatou Touray ,Mariama Sallah,Omar Touray ,1,5408242
+EDN2373-P,79-078-02,2,79-078,MADINA KAIAF,078,Fatou Gaye,Kani Touray ,Hayib Gaye,1,7568052
+EDN2377-P,79-081-01,2,79-081,MADINA KAIAF,081,Aminata Ceesay ,Yassin Ceesay,Alhagie Ousainou Ceesay ,1,
+EDN2384-O,79-084-01,2,79-084,MADINA KAIAF,084,Hawa Touray ,Matty Touray ,Essap Touray ,1,7745365
+EDN2391-D,79-088-01,2,79-088,MADINA KAIAF,088,Halima Gaye,Kumba Gaye,Mbye Gaye,1,
+EDN2436-G,79-108-01,2,79-108,MADINA KAIAF,108,Hata Ceesay ,Isatou Ceesay ,Ousman Ceesay ,1,2998863
+EDN2449-I,79-112-03,2,79-112,MADINA KAIAF,112,Yassin Taal,Jai Taal,Charnock Taal,1,2171454
+EDN2460-S,79-115-03,2,79-115,MADINA KAIAF,115,Fana Taal ,Amie taal,Layin Taal ,0,
+EDN2651-R,76-023-03,2,76-023,MASEMBEH,023,NYIMANSATOU JARJU ,BINTANDING JARJU ,MAMADOU JARJU ,1,4069026
+EDN2731-P,79-096-07,2,79-096,MADINA KAIAF,096,Kaddy Ceesay ,Kaddy Ceesay ,Mamud Ceesay ,1,7957979

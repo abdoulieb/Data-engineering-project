@@ -1,0 +1,430 @@
+con_participantid_q1,USS Date,EDEN | Infant Number,Participant_name,mother_ name ,Father_name,Village,in_compound,Gestational Age (Weeks),Gestational Age (Days),Cluster,Current Gestational Age,(Expected)Delivery Date ((E)DD)
+IN-M-001E,03/04/2023,EDN0079-E,Nyima Sanyang,Jainaba Manjang,Manlafi Sanyang,BAMBAKO,14,9,4,2,97.85714286,02/11/2023
+IN-M-002H,03/04/2023,EDN0313-B,Olimatou Trawally,Naba Touray,Mamadou Trawally,Dumbuto,30,12,1,2,100.4285714,15/10/2023
+IN-M-004F,04/04/2023,EDN0765-K,Binta Ceesay,Gunjur Ceesay,Sankung Ceesay,Kantong Kunda,11,12,2,1,100.4285714,15/10/2023
+IN-M-005J,04/04/2023,EDN0556-D,Jalika Barrow,Nyimanding Njie,Jatta Barrow,Jiffarong,6,13,2,1,101.4285714,08/10/2023
+IN-M-007A,04/04/2023,EDN0421-K,Jalla Jallow,Mahani Bah,Ousman Jallow,Nioro Jattaba,2,10,4,1,98.71428571,27/10/2023
+IN-M-011C,05/04/2023,EDN0688-E,Fatou Janneh,Kaddy Sise,Bakary Janneh,Janneh Kunda,39,11,4,1,99.57142857,21/10/2023
+IN-M-012B,05/04/2023,EDN0635-B,Isatou Gaye,Mariama Colly,Demba Gaye,Janneh Kunda,20,11,0,1,99,25/10/2023
+IN-M-014D,11/04/2023,EDN0240-H,Hulay Jawo,Adama Sall,Beram Jawo,JATTA KUNDA,,10,1,2,97.28571429,06/11/2023
+IN-M-016F,11/04/2023,EDN0323-D,Kaddy Jassey,Kaddy Barrow,Tumbul Jassey,Tankular,20,16,3,1,103.5714286,23/09/2023
+IN-M-018C,12/04/2023,EDN0628-C,Jainaba Marri,Fatoumatta Camara,Luntang Marri,Joli,,17,5,1,104.7142857,15/09/2023
+IN-M-020G,12/04/2023,EDN0693-E,Oumie Camara,Maimuna Minteh,Sambujang Camara,Karantaba,,13,6,1,100.8571429,12/10/2023
+IN-M-022E,13/04/2023,EDN0646-A,Kaddy Manjang,Kuku Janneh,Bunjaring Manjang,Janneh Kunda,19,8,0,1,94.85714286,23/11/2023
+IN-M-023A,17/04/2023,EDN1007-G,Aja Suso,Jankey Sanyang,Bakary Suso,Mandina,11,7,6,2,94.14285714,28/11/2023
+IN-M-026F,26/04/2023,EDN1024-X,Fatou Camara,Fatou Pirang Camara,Masanneh Camara,WUROKANG,2,12,0,1,97,08/11/2023
+IN-M-028G,26/04/2023,EDN0034-D,Isatou Jarjue,Naba Ceesay,Alagie Jarjue,KWINELLA NIA KUNDA,71,14,1,2,99.14285714,24/10/2023
+IN-M-029D,26/04/2023,EDN1023-W,Binta Sidibeh,Isatou Kanteh,Sabou Sidibeh,WUROKANG,8,7,4,2,92.57142857,09/12/2023
+IN-M-030C,26/04/2023,EDN0394-D,Tabara Jobe,Dewuru Bah,Sainey Jobe,Wudeba,,9,1,1,94.14285714,28/11/2023
+IN-M-031D,27/04/2023,EDN0964-B,Binta Ceesay,Tumbulu Drammeh,Balla Ceesay,Tankular,30,13,1,1,98,01/11/2023
+IN-M-033K,27/04/2023,EDN0957-A,Mariama Sise,Jariatou Sise,Yaya Sise,Keneba,32,11,4,1,96.42857143,12/11/2023
+IN-M-040F,22/05/2023,EDN0909-J,Jalika Kuyateh,Alimatou Camara,Bakary Kuyateh,Keneba,,9,4,1,90.85714286,21/12/2023
+IN-M-043H,23/05/2023,EDN0359-E,Jarra Manjang,Fatou Barrow,Baba Manjang,Sankandi,,11,3,1,92.57142857,09/12/2023
+IN-M-046J,24/05/2023,EDN1015-O,Aramtoulie Barrow,Sutukung Kinteh,Afanlang Barrow,Jiffarong,,15,5,1,96.71428571,10/11/2023
+IN-M-047B,24/05/2023,,Fatoumata Touray,Ajaratou Ceesay,Mamadou Touray,Jali,,10,6,1,91.85714286,14/12/2023
+IN-M-048E,30/05/2023,EDN0066-H,Isatou Sarr,Binta Marong,Lamin Sarr,KWINELLA NIA KUNDA,28,16,3,2,96.57142857,11/11/2023
+IN-M-053K,13/06/2023,EDN1017-G,Yassin Njie,Mariama Barrow,Ebrima Njai,Jiffarong,,19,2,1,97.42857143,05/11/2023
+IN-M-056J,14/06/2023,EDN0435-E,Hawa Touray,Arokey Drammeh,Kantai Touray,Jattaba,,11,6,1,89.85714286,28/12/2023
+IN-M-059G,22/06/2023,,Jainaba Sanyang,Musukebba Njai,Mafoday Sanyang,Manduar,,10,1,1,87,17/01/2024
+IN-M-061B,03/07/2023,EDN1051-Z,Mariatou Sanneh,Ida Sanyang,Lanjay Sanneh,Keneba,,11,6,1,87.14285714,16/01/2024
+IN-M-062B,22/06/2023,,Isatou Sise,Sirreh Barrow,Alh Moneh Sise,Keneba,,10,1,1,87,17/01/2024
+IN-M-064D,06/07/2023,EDN0539-D,Manifa Fadera,Nyimanding Jawara,Sana Fadera,NEMA,,14,6,2,89.71428571,29/12/2023
+IN-M-065H,06/07/2023,,Nyimasatou Jabbi,Aja Samura,Lamin Jabbi,KWINELLA SANSANKONO,,18,4,2,93.42857143,03/12/2023
+IN-M-067H,06/07/2023,EDN0206-C,Nyimansatou Fadera,Borry Fadera,Jalang Fadera,NEMA,,8,5,2,83.57142857,10/02/2024
+IN-M-069K,06/07/2023,,Nyimansatou Camara,Borry Drammeh,Masanneh Camara,Manduar,,18,4,1,93.42857143,03/12/2023
+IN-M-071F,10/07/2023,EDN0199-E,Nyimansatou M Fadera,Aria Fadera,Masanneh Fadera,NEMA,,12,5,2,87,17/01/2024
+IN-M-072J,06/07/2023,EDN1034-I,Nyima Yarboe,Kaddy Manjang,Demba Yarboe,KUNDANG NUMU KUNDA,,11,3,2,86.28571429,22/01/2024
+IN-M-074F,13/07/2023,EDN0691-G,Oumie Kambi,Nyimasatou Sise,Kebba Kambi,Karantaba,,10,4,1,84.42857143,04/02/2024
+IN-M-075A,13/07/2023,EDN0641-J,Aminata Bajinka,Free Janneh,Mbemba Bajinka,Janneh Kunda,,8,4,1,82.42857143,18/02/2024
+IN-M-076H,13/07/2023,EDN0751-C,Aminata Samateh,Binta Sawo,Buramanding Samateh,Kantong Kunda,,8,3,1,82.28571429,19/02/2024
+IN-M-077H,17/07/2023,EDN0761-D,Jainaba Jarju,Mami Kanyi,Jerro Jarju,Kantong Kunda,,17,3,1,90.71428571,22/12/2023
+IN-M-078F,17/07/2023,EDN0756-B,Isatou Drammeh,Nakebba Bajo,Yaya Drammeh,Kantong Kunda,,14,1,1,87.42857143,14/01/2024
+IN-M-079G,17/07/2023,EDN0788-C,Mariatou Sawo,Mariama Sise,Burafing Sawo,Kantong Kunda,,9,5,1,83,14/02/2024
+IN-M-081D,17/07/2023,EDN0078-D,Fatou Drammeh,Nyimansatou Jarra,Sanna Drammeh,BAMBAKO,,17,1,1,90.42857143,24/12/2023
+IN-M-082E,17/07/2023,,Mama Kanteh,Fireya Kanteh,Mamadou Kanteh,Janneh Kunda,,8,0,1,81.28571429,26/02/2024
+IN-M-083H,20/07/2023,EDN1079-D,Nakebba Sanyang,Momanku Sise,Momodou Sanyang,Keneba,,14,0,1,86.85714286,18/01/2024
+IN-M-084C,24/07/2023,EDN0617-K,Anna Touray,Yadekoni Sonko,Jerreh Touray,Bajana,,11,5,1,84,07/02/2024
+IN-M-085H,24/07/2023,EDN0449-K,Adama Bah,Hawa Ndow,Demba Bah,Nioro Jattaba,,16,4,2,88.85714286,04/01/2024
+IN-M-086J,26/07/2023,,Fatoumata Gassama,Jonsaba Gassama,Baba Gassama,Sankandi,,18,0,1,90,27/12/2023
+IN-M-087F,31/07/2023,EDN0485-B,Nyako Manjang,Luntant Sanneh,Sheriffo Manjang,Sandeng,,13,3,1,84.71428571,02/02/2024
+IN-M-088J,31/07/2023,EDN0895-B,Nurse Njie,Fatoumata Njie,Momodou Njie,Tankular,,11,6,1,83.14285714,13/02/2024
+IN-M-089F,31/07/2023,EDN0743-F,Jainaba Njai,Nyimansata Njai,Yaya Njai,Jamaru,13,18,1,1,89.42857143,31/12/2023
+IN-M-090C,01/08/2023,,Binta M. Colley,Yamundaw Njie,Masanneh Colley,Kuli Kunda,,10,5,1,81.85714286,22/02/2024
+IN-M-096C,09/08/2023,EDN0551-H,Adama Njie,Fatou Barrow,Lamin Njie,Jiffarong,,12,0,1,82,21/02/2024
+IN-M-097K,17/08/2023,,Mariama Njie,Nurse Sise,Masanneh Njie,Kuli Kunda,,19,3,1,88.28571429,08/01/2024
+IN-M-098F,21/08/2023,EDN0754-J,Nyara Ceesay,Mbi Ceesay,Mustapha Ceesay,Kantong Kunda,,16,6,1,85.14285714,30/01/2024
+IN-M-099A,21/08/2023,EDN0647-B,Kaddy Janneh,Nyimanding Darboe,Momodou Janneh,Janneh Kunda,,16,5,1,85,31/01/2024
+IN-M-100G,21/08/2023,EDN0833-A,Salimata Drammeh,Kaddy Camara,Sulayman Drammeh,Burong,,10,4,1,78.85714286,14/03/2024
+IN-M-101H,24/08/2023,EDN1081-F,Alimatou Sise,Binta Manneh,Jalamang Sise,Keneba,,7,6,1,75.71428571,05/04/2024
+IN-M-104G,28/08/2023,,Jarra Darboe,Fatou Demba,Lamin Darboe,KWINELLA NIA KUNDA,,15,1,2,82.42857143,18/02/2024
+IN-M-105F,28/08/2023,,Nyima Njai,Nyominding Bajo,Sheriff Njai,Kuli Kunda,,19,4,1,86.85714286,18/01/2024
+IN-M-107A,04/09/2023,EDN1026-Z,Menata Barrow,Adama  Kinteh,Junkung Barrow,Jiffarong,,15,5,1,82,21/02/2024
+IN-M-108D,04/09/2023,EDN0561-J,Aminata Baarrow,Sarjonding Barjo,Dodou-Kutu Barrow,Jiffarong,,17,1,1,83.42857143,11/02/2024
+IN-M-110C,13/09/2023,,Jainaba Sey,Saffie Touray,Bubacarr Sey,Nioro Jattaba,,18,1,1,83.14285714,13/02/2024
+IN-M-111D,13/09/2023,,Mariama Sillah,Binta Bojang,Sanna Sillah,TENDABA,23,18,2,2,83.28571429,12/02/2024
+IN-M-112D,13/09/2023,,Nyima Jammeh,Fatou Sanneh,Kebba Jammeh,Jattaba,,16,3,1,81.42857143,25/02/2024
+IN-M-113G,13/09/2023,,Fatoumata Jawo,Jewo Baldeh,Yerro Jawo,Sandeng,,14,5,1,79.71428571,08/03/2024
+IN-M-116D,13/09/2023,,Mariama Njie,Adama Bah,Mutar Njie,Nioro Jattaba,,19,3,1,84.42857143,04/02/2024
+IN-M-118E,14/09/2023,,Abisa Manneh,Fatoumata Keita,Sara Manneh,KWINELLA SANSANKONO,10,12,5,2,77.57142857,23/03/2024
+IN-M-124E,20/09/2023,,Mariatou Kanteh,Lalla Bajinka,Firiya Kanteh,Mandina,,11,1,1,75.14285714,09/04/2024
+IN-M-125H,26/09/2023,,Alimatou Sise,Tutu Sise,Sutering Sise,Keneba,,19,1,1,82.28571429,19/02/2024
+IN-M-126J,26/09/2023,,Law Jallow,Adama Jallow,Abdoulie Jallow,Keneba,,11,6,1,75,10/04/2024
+IN-M-130F,26/09/2023,,Bintou Sise,Jarra Barrow,Afang-Fodayba Sise,Keneba,,13,4,1,76.71428571,29/03/2024
+IN-M-131H,26/09/2023,,Sally Bah,Mai Jobe,EBrima Bah,WILLINGARA,,18,6,2,82,21/02/2024
+IN-M-132C,26/09/2023,,Bintou Sise,Baluta Sise,Molipha Sise,Keneba,,10,4,1,73.71428571,19/04/2024
+IN-M-133B,26/09/2023,,Aminata Darboe,MA Darboe,Janko Darboe,BUMARR,10,18,2,2,81.42857143,25/02/2024
+IN-M-134C,04/10/2023,,Masireh Sise,Kaddy Sise,Wandifa Sise,Keneba,,13,5,1,75.71428571,05/04/2024
+IN-M-136C,09/10/2023,,Mariama Sise,Nyamansatou Manjang,Muhammed Karim Sise,Jattaba,,19,1,2,80.42857143,03/03/2024
+IN-M-138B,12/10/2023,,Kaddy Jaiteh,Binta Bass,Ousman Jaiteh,TENDABA,3,8,1,2,69,22/05/2024
+IN-M-140D,18/10/2023,EDN0862-H,Fatou Sise,Kaddy Janneh,Fabakary Sise,Tankular,,18,6,1,78.85714286,14/03/2024
+IN-M-142H,12/10/2023,EDN0063-J,Nyimasatou Colley,Amie Kutu njie,Lang Colley,TENDABA,20,8,0,2,68.85714286,23/05/2024
+IN-M-145E,16/10/2023,,Saffiatou Camara,Binta Kanteh,Samba Boye Camara,Manduar,,17,3,1,77.71428571,22/03/2024
+IN-M-147K,17/10/2023,,Aminata Sanyang,Mattynding Sanyang,Dembo Nyako Sanyang,KWINELLA NIA KUNDA,,19,0,2,79.14285714,12/03/2024
+IN-M-148E,18/10/2023,EDN1104-D,Aja Drammeh,Nakebba Bajo,Yaya Drammeh,Bajana,,10,3,1,70.42857143,12/05/2024
+IN-M-150H,18/10/2023,EDN0575-G,Safiatou Touray,Terema Ceesay,Molifa Touray,Jiffarong,,16,1,1,76.14285714,02/04/2024
+IN-M-151B,18/10/2023,EDN0649-E,Jainaba Marong,Mama Kaddy Kambi,Kebbalang Marong,Janneh Kunda,,18,6,1,78.85714286,14/03/2024
+IN-M-153G,23/10/2023,EDN1013-M,Nyima Sanneh,Mattynding Sanyang,Lamin Sanneh,KWINELLA SANSANKONO,28,8,5,2,68,29/05/2024
+IN-M-160G,30/10/2023,,Halimatou Tabally,Musukebba Jaiteh,Musa Tabally,KWINELLA SANSANKONO,,18,5,2,77,27/03/2024
+IN-M-162F,08/11/2023,EDN0456-J,Mariama Jobe,Hawa Bah,Musa Jobe,Nioro Jattaba,,7,1,2,64.14285714,25/06/2024
+IN-M-165G,08/11/2023,,Fatoumata Bajinka,Aminata Daffeh,Nfamara Bajinka,Dumbuto,,8,3,2,65.42857143,16/06/2024
+IN-M-166D,08/11/2023,EDN0931-J,Jainaba Sise,Metanding Sise,Sambou Sise,Keneba,,8,4,1,65.57142857,15/06/2024
+IN-M-169A,09/11/2023,EDN0937-B,Binta Sise,Saribanding Bajo,Bekai Manifa Sise,Keneba,,7,1,1,64,26/06/2024
+IN-M-173D,14/11/2023,,Isatou Njie,Fatoumata Touray,Masey Njie,Sandeng,,9,1,1,65.28571429,17/06/2024
+IN-M-177H,28/11/2023,EDN0235-H,Kadijatou Fadera,Yafaye Fadera,Omar Fadera,NEMA,,10,4,2,64.71428571,21/06/2024
+IN-M-178B,28/11/2023,EDN0198-D,Fatou Dembajang,Nyimanding Seckan,Momodou Dembajang,NEMA,,18,0,2,72.14285714,30/04/2024
+IN-M-180J,28/11/2023,,Fanta Mama Sawaneh,Mariama Jassey,Abdou Sawaneh,KWINELLA SANSANKONO,5,6,5,2,60.85714286,18/07/2024
+IN-M-181B,28/11/2023,,Fatou Sanneh,Sarjo Kinteh,Landing Sanneh,Jattaba,,17,6,1,72,01/05/2024
+IN-M-182K,28/11/2023,,Fatou Njie,Halima Samateh,Basiru Njie,Kantong Kunda,,11,2,1,65.42857143,16/06/2024
+IN-M-183H,05/12/2023,,Wuday Conteh,Hawa Katchang,Alagie Lalo Kanteh,Karantaba,,19,4,1,72.71428571,26/04/2024
+IN-M-184A,12/12/2023,EDN0555-J,Manding Barrow,Jarra Njie,Jalamang Barrow,Jiffarong,,17,2,1,69.42857143,19/05/2024
+IN-M-186K,19/12/2023,,Fatou Trawally,Satou Sanyang,Mustapha Trawally,Batelling,,13,3,2,64.57142857,22/06/2024
+IN-M-187B,18/12/2023,,Isatou Darboe,Saffiatou Sanneh,Sarjoe Darboe,MANDINA CENTRAL,,10,0,2,61.28571429,15/07/2024
+IN-M-189C,03/01/2024,EDN0822-A,Fatoumat Dibba,Mama Samateh,Sambujang Dibba,Jali,,19,2,1,68.28571429,27/05/2024
+IN-M-190C,04/01/2024,,Nakebba Njie,Fatou Drammeh,Shriff Njie,Jiffarong,,7,1,1,56,21/08/2024
+IN-M-191D,04/01/2024,,Isatou Touray,Hawa Njai,Sulayman Touray,WUROKANG,,15,4,2,64.42857143,23/06/2024
+IN-M-192B,04/01/2024,,Jalika Nduru,Sally Badjie,Lamin Nduru,WUROKANG,,13,1,2,62,10/07/2024
+IN-M-194D,08/01/2024,,Sajou Drammeh,Manding Barrow,Kalilu Drammeh,Sankandi,,12,6,1,61.14285714,16/07/2024
+IN-M-195J,10/01/2024,,Sainabou Sambou,Isatou Sarjo,Musa Sambou,Keneba,,11,4,1,59.57142857,27/07/2024
+IN-M-201B,23/01/2024,EDN0064-G,Nyaranding Manjang,Isatou Demba,Jatta Manjang,KWINELLA NIA KUNDA,,9,4,1,55.71428571,23/08/2024
+IN-M-205D,24/01/2024,,Mama Janneh,Mariama Nyangado,Lamin Janneh,,58,18,4,2,64.57142857,22/06/2024
+IN-M-206F,,,Kaddijatou Bah,Adama Jobe,Alieu Bah,,,,,3,,
+IN-M-207C,24/01/2024,,Joko Jawara,Nyoma Jawara,Malamin Jawara,,27,18,0,2,64,26/06/2024
+IN-M-212K,30/01/2024,,Binta Sanneh,Fatoumata Sanneh,Nfamara Sanneh,,16,19,6,2,65,19/06/2024
+IN-M-214F,30/01/2024,,Mai Beyai,Fatou Saidy,Malang Beyai,,9,17,3,2,62.57142857,06/07/2024
+IN-M-215E,27/02/2024,,Mariama Daffeh,Fatounding Gibba,Alhagie Kawsu Daffeh,Mandina,,11,2,1,52.42857143,15/09/2024
+IN-M-221E,12/02/2024,,Hawa Sorra,Faye Fadera ,Ansumana Sorra,NEMA,41,19,1,2,62.42857143,07/07/2024
+IN-M-222C,12/02/2024,,Fatou Bojang,Fanta Sanyang,Ebrima Bojang,KWINELLA NIA KUNDA,104,7,2,2,50.57142857,28/09/2024
+IN-M-223J,12/02/2024,,Rubbie Bah,Kaddy Ceesay,Demba Bah,,,9,0,1,52.28571429,16/09/2024
+IN-M-224K,12/02/2024,EDN0505-H,Mariama Sowe,Kumba Sey,Sheriff Sowe,Nioro Jattaba,,17,6,1,61.14285714,16/07/2024
+IN-M-226E,13/02/2024,EDN0011-H,Nima Sonko,Fatoumata Camara,Famara Sonko,WUROKANG,6,16,3,2,59.57142857,27/07/2024
+IN-M-227K,13/02/2024,EDN0233-G,Binta Fadera,Oumie Fadera,Musa Fadera,NEMA,,7,5,2,50.85714286,26/09/2024
+IN-M-228E,13/02/2024,EDN1094-S,Binta Jarju,Fatou Touray,Manding Jarju,Dumbuto,,7,4,1,50.71428571,27/09/2024
+IN-M-232C,15/02/2024,EDN1646-K,Jainaba Jarju,Fatou Touray,Manding Jarju,KWINELLA SANSANKONO,,17,6,2,60.71428571,19/07/2024
+IN-M-234D,15/02/2024,EDN0777-J,Jainaba Kanyi,Fatoumata Saribanding Kambi,Bakary Kanyi,Mandina,13,8,5,1,51.57142857,21/09/2024
+IN-M-235D,15/02/2024,EDN0680-A,Fatou Kambi,Sally Sanyang,Momodou Lamin Kambi,Janneh Kunda,,8,6,1,51.71428571,20/09/2024
+IN-M-236J,15/02/2024,EDN0966-E,Fatou Kambi,Awa Kambi,Dembo Kambi,Karantaba,,11,2,1,54.14285714,03/09/2024
+IN-M-238C,20/02/2024,EDN0076-A,Nyima Manjang,Kaddy Sanyang,Jerreh Manjang,KWINELLA NIA KUNDA,,11,6,2,54,04/09/2024
+IN-M-240B,21/02/2024,EDN0949-F,Mariatou Sise,Banna Sanyang,Ebrima Sise,Keneba,,11,5,1,53.71428571,06/09/2024
+IN-M-241F,21/02/2024,EDN1676-A,Sally Darboe,Mama Kaddy Dampha,Mollpa Darboe,KWINELLA NIA KUNDA,,8,0,2,50,02/10/2024
+IN-M-244E,21/02/2024,EDN1488-M,Kaddy Camara,Jammeh Colley,Borry Camara,Burong,,16,5,1,58.71428571,02/08/2024
+IN-M-245J,22/02/2024,EDN1429-D,Nadinding Njie,Jai Barrow,Masanneh Njie,Jali,,11,1,1,53,11/09/2024
+IN-M-246G,26/02/2024,,Batty Camara,Fatoumata Jallow,Samba Camara,Wudeba,,14,1,1,55.42857143,25/08/2024
+IN-M-247K,27/02/2024,,Natoma Kinteh,Borry Bajo,Karamoring Kinteh,Kuli Kunda,,7,5,1,48.85714286,10/10/2024
+IN-M-249K,28/02/2024,EDN1585-E,Binta Sise,Aminata  Sise,Ebrima Sise,Keneba,,15,0,1,56,21/08/2024
+IN-M-254E,29/02/2024,EDN1537-A,Fatoumata Camara,Nyimansatou Jarju,Lamin Camara,Janneh Kunda,,10,6,1,51.71428571,20/09/2024
+IN-M-255D,29/02/2024,EDN0080-G,Wuday Colley,Sutayring Darboe,Alieu Colley,BAMBAKO,,9,1,1,50,02/10/2024
+IN-M-256K,04/03/2024,,Fatoumata Sise,Mabinta Sise,Fakebba Sise,Keneba,,18,4,1,58.85714286,01/08/2024
+IN-M-257E,04/03/2024,,Bintou Barrow,Isatou Sise,Baba Barrow,Keneba,33,10,4,1,50.85714286,26/09/2024
+IN-M-259H,04/03/2024,,Nyimanding Janneh,Nyaranding Kanteh,Bakary Janneh,Janneh Kunda,,12,6,1,53.14285714,10/09/2024
+IN-M-261J,05/03/2024,EDN0812-K,Mariama Bah,Kumba Colley,Biran Bah,Jali,,8,6,1,49,09/10/2024
+IN-M-262E,05/03/2024,EDN1476-Z,Fatou Manneh,Fatou Camara,Buba Manneh,Burong,,4,5,1,44.85714286,07/11/2024
+IN-M-263A,05/03/2024,EDN1089-N,Fatou Bajo,Sally Njai,Bunja Bajo,Sandeng,,17,5,1,57.85714286,08/08/2024
+IN-M-264H,11/03/2024,EDN1783-k,Kaddy Sanyang,Mariama Saidy,Faburam Sanyang,WUROKANG,,8,2,2,47.57142857,19/10/2024
+IN-M-265E,11/03/2024,EDN0841-D,Sarjo Bojang,Kitim Danso,Saikally Bojang,Taborangkoto,26,13,1,1,52.42857143,15/09/2024
+IN-M-266G,12/03/2024,EDN1095-T,Mariama Sonko,Fatoumata Njai,Falang Sonko,Dumbuto,,7,1,1,46.28571429,28/10/2024
+IN-M-267C,12/03/2024,EDN0824-J,Mamie Darboe,Fatoumata Drammeh,Bunja Darboe,Jali,,16,4,1,55.71428571,23/08/2024
+IN-M-268F,12/03/2024,EDN0869-B,Sheriffo Camara,Satou Jammeh,Sutereng Camara,Manduar,,7,3,1,46.57142857,26/10/2024
+IN-M-270C,18/03/2024,,Jakongbah Jagne,Fatou Kanteh,Mustapha Jagne,,48,11,6,2,50.14285714,01/10/2024
+IN-M-271H,18/03/2024,,Halima Jarju,Hawa Camara,Lamin Jarju,,,8,5,3,47,23/10/2024
+IN-M-273H,19/03/2024,EDN0660-J,Alima Janneh,Sutering Manjang,Masanneh F Janneh,Kemoto,,6,1,1,44.28571429,11/11/2024
+IN-M-274B,12/06/2024,EDN0731-F,Fatou Jallow,Alamuta Njai,Alsana Jallow,Kuli Kunda,,18,5,1,44.71428571,08/11/2024
+IN-M-276H,19/03/2024,,Mariama Fatty,Kaddijatou Mass,Omar Fatty,,,10,2,3,48.42857143,13/10/2024
+IN-M-280K,25/03/2024,,Mariama Jallow,Fatoumata Jallow,Ousman Jallow,Nioro Jattaba,,13,5,1,51,25/09/2024
+IN-M-281C,25/03/2024,,Hawa Jallow,Sira Jallow,Mamadou Jallow,Janneh Kunda,11,14,6,1,52.14285714,17/09/2024
+IN-M-282D,25/03/2024,,Fatou Fadera,Binta Jarju,Alagie Fadera,,,9,1,3,46.42857143,27/10/2024
+IN-M-283F,25/03/2024,,Aja Sonko,Hawa Kuyateh,Konyajie Sonko,,49,12,6,2,50.14285714,01/10/2024
+IN-M-284K,25/03/2024,,Bintou Sanneh,Fatou mata Camara,Ebrima Sanneh,,,16,5,3,54,04/09/2024
+IN-M-285A,25/03/2024,,Adama Jawo,Kaddijatou Sallah,Haruna Jawo,,4,12,5,3,50,02/10/2024
+IN-M-287K,08/07/2024,,Binta Sawo,Mariama Fofana,Malamin Sawo,Sankandi,15,20,5,1,43,20/11/2024
+IN-M-288G,26/03/2024,,Binta Minteh,Binta Ceesay,Molipha Minteh,Keneba,,13,5,1,50.85714286,26/09/2024
+IN-M-290B,26/03/2024,,Ramatoulie Darboe,Sutehring Drammeh,Bakary Darboe,Sankandi,10,7,4,1,44.71428571,08/11/2024
+IN-M-291J,26/03/2024,EDN1436-K,Ndey Nget,Fatoumata Sanyang,Kebba Nget,Manduar,,8,5,1,45.85714286,31/10/2024
+IN-M-293C,02/04/2024,,Jaila Ceesay,Pullo Jallow,Mamadou Ceesay,,31,16,3,3,52.57142857,14/09/2024
+IN-M-294F,02/04/2024,,Assia Ceesay,Adama Jawo,Biran Ceesay,,45,,,3,,
+IN-M-295F,02/04/2024,,Fatoumata Kuyateh,Sutay Camara,Karamo Kuyateh,Mandina,,17,0,1,53.14285714,10/09/2024
+IN-M-296G,15/04/2024,EDN1313-M,Kaddy Camara,Banna Fofana,Wandifa Camara,Jiffarong,1,11,1,1,45.42857143,03/11/2024
+IN-M-297E,15/04/2024,EDN1106-F,Kuta Darboe,Kamaranding Camara,Demba Darboe,Bajana,13,8,1,1,42.42857143,24/11/2024
+IN-M-298B,04/06/2024,EDN0519-B,Fatou Touray,Rokiatou Solly,Lamin Touray,WUROKANG,,14,4,2,41.71428571,29/11/2024
+IN-M-299A,16/04/2024,,Oumie Bah,Penda Bah,Yerro Bah,NEMA,21,13,3,2,47.57142857,19/10/2024
+IN-M-302A,16/04/2024,EDN0444-J,Sarjo Sise,Fatoumata Dibba,Lamin Sise,Jattaba,,6,2,1,40.42857143,08/12/2024
+IN-M-305B,22/04/2024,,Nyimasatou Sanyang,Fatoumata Sanyang,Alagie Sanyang,Batelling,,13,1,2,46.42857143,27/10/2024
+IN-M-306K,22/04/2024,,Nyimanding Drammeh,Safura Manneh,Almameh Drammeh,Joli,,19,3,1,52.71428571,13/09/2024
+IN-M-307K,22/04/2024,,Nyimasata Suwareh,Gibeh Joof,Karafa Suwareh,Kuli Kunda,6,12,2,1,45.57142857,02/11/2024
+IN-M-308B,22/04/2024,EDN0789-G,Aja Drammeh,Mbi Drammeh,Fakebba Drammeh,Jali,12,8,2,1,41.57142857,30/11/2024
+IN-M-310B,22/04/2024,,Fatou Sanyany,Mamie Manjang,Ousman Sanyang,KWINELLA SANSANKONO,38,13,1,2,46.42857143,27/10/2024
+IN-M-312C,23/04/2024,EDN1879-B,Ansata Kanteh,Fatou Dampha,Sanbou Kanteh,,5,8,0,3,41.14285714,03/12/2024
+IN-M-313E,23/04/2024,EDN1844-G,Jarra Sanyang,Jankey Manneh,Jalamang SAnyang,,4,7,4,2,40.71428571,06/12/2024
+IN-M-314F,23/04/2024,EDN1861-E,Jainaba Sallah,Ngetu Bah,Samba Sallah,,4,9,5,3,42.85714286,21/11/2024
+IN-M-315E,23/04/2024,,Fatou Keita,Fatou Sanneh,Baboucarr Sanneh,,15,9,3,2,42.57142857,23/11/2024
+IN-M-316H,23/04/2024,,Fatomata Kanteh,Jony Fatty,Keluntang Kanteh,KUNDANG NUMU KUNDA,4,12,3,2,45.57142857,02/11/2024
+IN-M-317J,24/04/2024,EDN2120-Z,Nurse Saidykhan,Mariama Drammeh,Lamin Saidykhan,,59,10,2,3,43.28571429,18/11/2024
+IN-M-318F,24/04/2024,EDN1403-C,Binta Njie,Naffie Njie,Jutala Njie,Kuli Kunda,,10,2,1,43.28571429,18/11/2024
+IN-M-321D,25/04/2024,,Fanta Jallow,Kamisa Jallow,Mariama Jallow,Wudeba,22,14,3,2,47.28571429,21/10/2024
+IN-M-322F,25/04/2024,,Mariatou Jallow,Kumba Jallow,Bubacarr Jallow,Wudeba,22,7,5,1,40.57142857,07/12/2024
+IN-M-324J,29/04/2024,EDN0262-C,Sonna Sanyang,Kumbel Ceesay,Bambo Sanyang,KUNDANG NUMU KUNDA,,8,0,2,40.28571429,09/12/2024
+IN-M-327F,02/05/2024,,Fatou Jarju,Nyimanding Kanyi,Dembo Jarju,Karantaba,8,19,0,1,50.85714286,26/09/2024
+IN-M-328K,02/05/2024,,Mariama Bah,Jaila Ceesay,Juka Bah,,,16,4,3,48.42857143,13/10/2024
+IN-M-329D,02/05/2024,EDN1590-E,Yama Ceesay,Mariama Minteh,Sheriff Ceesay,Keneba,,15,5,1,47.57142857,19/10/2024
+IN-M-332E,02/05/2024,EDN0701-G,Alimatou Njie,Jomma Njie,Bafoday Njie,Kuli Kunda,10,11,5,1,43.57142857,16/11/2024
+IN-M-333H,06/05/2024,EDN1205-E,Fatoumata Sise,Nurse Sanneh,Bunja Ceesay,Sankandi,,12,1,1,43.42857143,17/11/2024
+IN-M-335V,06/05/2024,EDN0179-J,Kaddy Kinteh,Mai Sanyang,Kabiro Kinteh,MANDINA CENTRAL,,8,6,2,40.14285714,10/12/2024
+IN-M-336H,24/07/2024,,Mariama Sanneh,Bakoto Manga,Botto Sanneh,BAMBAKO,34,16,4,2,36.57142857,04/01/2025
+IN-M-337B,06/05/2024,,Nyima Ceesay,Kaddy Barrow,Dembo Ceesay,BAMBAKO,35,12,2,2,43.57142857,16/11/2024
+IN-M-339K,06/05/2024,,,,,,,19,5,3,51,25/09/2024
+IN-M-340D,06/05/2024,,Bintou Sanyang,Kaddy Jadama,Ebrima Sanyang,Taborangkoto,9,6,2,1,37.57142857,28/12/2024
+IN-M-341A,06/05/2024,EDN0041-G,Kaddy Yarbo,Binta Jammeh,Demba Yarbo,NEMA,5,13,3,2,44.71428571,08/11/2024
+IN-M-342B,06/05/2024,EDN0246-E,Fatoumata Sowe,Jaiwo Jallow,Yerro Sowe,Batelling,10,4,6,2,36.14285714,07/01/2025
+IN-M-346A,07/05/2024,,Ftou Korta,Fatou Kamara,Fabakary Korta,NEMA,,14,4,2,45.71428571,01/11/2024
+IN-M-348F,07/05/2024,EDN1526-E,Mariama Darboe,Majula Jabbie,Ousman Darboe,Karantaba,12,13,1,1,44.28571429,11/11/2024
+IN-M-351B,08/05/2024,,Binta Bah,Sira Bah,Yobi Bah,Kenokoto,1,9,0,1,40,11/12/2024
+IN-M-352C,08/05/2024,,Mariama Baldeh,Awa Jawo,Samba Baldeh,Kenokoto,1,8,2,1,39.28571429,16/12/2024
+IN-M-355U,14/05/2024,,Fatoumata Ceesay,Mama Saidy,Abdoulie Ceesay,Mandina,,9,2,1,39.42857143,15/12/2024
+IN-M-356C,14/05/2024,,Kaddijatou Sanneh,Fatou Sanneh,Ebrima Sanneh,,95,16,1,3,46.28571429,28/10/2024
+IN-M-357T,14/05/2024,,Manding Jarju,Nyimansatou Jawara,Ansumana Jarju,,30,,,3,,
+IN-M-358J,14/05/2024,,Mbassey Sanneh,Sutay Sanneh,Sainey Sanneh,,37,,,3,,
+IN-M-359R,09/07/2024,,Alimatou Beyai,Binta Gibba ,Mutarr Beyai,Mandina,,13,4,1,35.71428571,10/01/2025
+IN-M-361J,15/05/2024,,Isatou Bajo,Musukebba Njie,Jaiteh Bajo,Tankular,,8,2,1,38.28571429,23/12/2024
+IN-M-362E,15/05/2024,EDN0312-J,Mariama Jaiteh,Fatou Darboe,Saikou Jaiteh,Dumbuto,,6,3,2,36.42857143,05/01/2025
+IN-M-363J,15/05/2024,EDN1049-X,Mariama Dibba,Isatou Manka,Alasanna Dibba,KWINELLA NIA KUNDA,42,7,4,2,37.57142857,28/12/2024
+IN-M-364B,26/06/2024,EDN0426-C,Adama Bah,Adama Colley,Alagie Bah,Nioro Jattaba,,12,0,2,36,08/01/2025
+IN-M-365J,16/05/2024,,Mariama Fadera,Fatou Camara,Almamo Fadera,Jattaba,1,16,0,1,45.85714286,31/10/2024
+IN-M-366D,16/05/2024,EDN1972-K,Nyimansatou Fadera,Yamundaw Jarju,Fabakary Fadera,,19,6,0,3,35.85714286,09/01/2025
+IN-M-367G,16/05/2024,EDN1707-G,Isatou Demba,Fansainey Camara,Bakary Demba,BUMARR,4,8,2,2,38.14285714,24/12/2024
+IN-M-368G,16/05/2024,EDN2649-P,Sally Fatty,Satou Yaffa,Mamudou Fatty,,23,7,3,3,37.28571429,30/12/2024
+IN-M-369J,16/05/2024,EDN2646-T,Nyimansatou Jarju,Binta Manka,Jerreh Jarju,,,9,4,3,39.42857143,15/12/2024
+IN-M-370E,16/05/2024,EDN2165-S,Matty Drammeh,Joma Sanneh,Masanneh Drammeh,,100,6,1,3,36,08/01/2025
+IN-M-372J,08/07/2024,EDN1417-G,Jalika Njai,Kaddy Kinteh,Alassan Njai,Kantong Kunda,6,14,1,1,36.42857143,05/01/2025
+IN-M-373D,20/05/2024,EDN1840-N,Kaddijatou Sanneh,Jainaba Bah,Lamin Sanneh,,1,9,4,3,38.85714286,19/12/2024
+IN-M-374J,20/05/2024,,Fatou Kinteh,Kaddy Njai,Lamin Kinteh,Jiffarong,64,19,6,1,49.14285714,08/10/2024
+IN-M-375H,20/05/2024,EDN1725-F,Sangiba Gitteh,Sarjo Solo Ceesay,Ebrima Solo Gitteh,NEMA,45,12,3,2,41.71428571,29/11/2024
+IN-M-377X,21/05/2024,EDN2090-S,Jabou Sama,Mansata Manneh,Mamadou Sama,,,12,0,3,41.14285714,03/12/2024
+IN-M-378J,11/07/2024,EDN2561-H,Jaila Ceesay,Adam Bah,Mabou Ceesay,,6,13,0,3,34.85714286,16/01/2025
+IN-M-379Q,22/05/2024,EDN2588-G,Fato Bah,Tacko Ceesay,Hamadi Bah,,24,7,4,3,36.57142857,04/01/2025
+IN-M-380A,11/07/2024,EDN2707-W,Jainaba Bah,Kumba Gaye,Samba Bah,,22,14,5,3,36.57142857,04/01/2025
+IN-M-381H,22/05/2024,,Jainaba Bajo,Sireh Kolly,Bakary Bajo,Bajana,17,13,5,1,42.71428571,22/11/2024
+IN-M-382C,22/05/2024,EDN1344-S,Mariama Barrow,Fatou Njie,Njundu Barrow,Jiffarong,32,12,6,1,41.85714286,28/11/2024
+IN-M-387B,22/05/2024,EDN2564-D,Oumie Ceesay,July Bah,Numu Ceesay,,7,13,3,3,42.42857143,24/11/2024
+IN-M-390A,11/07/2024,EDN0452-B,Isata Bah,Fatoumata Jobe,Samba Bah,Nioro Jattaba,62,13,5,1,35.57142857,11/01/2025
+IN-M-392J,11/07/2024,,Binta Njie,Isatou Minteh,Manlafi Njie,Kuli Kunda,67,13,6,1,35.71428571,10/01/2025
+IN-M-393H,29/05/2024,,Jalika Sonko,Hawa Sanyang,"Bakary Sonko	",Keneba,154,9,4,1,37.57142857,28/12/2024
+IN-M-395J,29/05/2024,,Fatoumata Samateh,Jarra Drammeh,Mohammed Samateh,BUMARR,,7,6,2,35.85714286,09/01/2025
+IN-M-396F,17/07/2024,,Maimuna Jallow,Kumba Sowe,Mamadou Jallow,JIRROFF,3,13,0,2,34,22/01/2025
+IN-M-399C,29/05/2024,,Kaddy Sanyang,Isatou darboe,Modou Sanyang,WUROKANG,34,12,6,2,40.85714286,05/12/2024
+IN-M-400D,29/05/2024,EDN1349-X,Fatoumata Njai,Mama Kinteh,Baba Njai,Jiffarong,,8,5,1,36.71428571,03/01/2025
+IN-M-401A,30/05/2024,EDN1452-B,Adama Bah,Jainaba Jallow,Omar Bah,Tankular,16,10,6,1,38.71428571,20/12/2024
+IN-M-402K,11/07/2024,EDN1687-K,Natoma Sanyang,Nemuna Dibba,"Kebba Sanyang	",KWINELLA NIA KUNDA,84,11,3,2,33.28571429,27/01/2025
+IN-M-403C,30/05/2024,,Kaddy Jammeh,Jainaba Colley,Barra Jammeh,Keneba,103,11,6,1,39.71428571,13/12/2024
+IN-M-405C,04/06/2024,,Jonfolo Fatty,Wontonding Mass,Bakary Fatty,,28,19,0,3,46.14285714,29/10/2024
+IN-M-406K,04/06/2024,,Nyimansatou Barrow,Nanding Barrow,Alimame Barrow,Jiffarong,15,16,5,1,43.85714286,14/11/2024
+IN-M-407C,04/06/2024,,Kaddy Minteh,Isatou Sise,Sambou Minteh,Keneba,31,18,0,1,45.14285714,05/11/2024
+IN-M-408B,04/06/2024,EDN0415-C,Juldeh Jawo,Isatou Sabally,Modou Jawo,Jattaba,,8,2,1,35.42857143,12/01/2025
+IN-M-409B,05/06/2024,,Binta korta,Nyara Njie,Bubacarr Korta,KWINELLA NIA KUNDA,57,7,4,2,34.57142857,18/01/2025
+IN-M-410J,30/07/2024,,Safiatou Saidy,Sona Camara,Ansu Saidy,WUROKANG,34,13,1,2,32.28571429,03/02/2025
+IN-M-411Q,06/06/2024,EDN1557-H,Oumie Manjang,Fansainey Janneh,Kalifa Manjang,Kemoto,32,9,2,1,36.14285714,07/01/2025
+IN-M-412E,11/06/2024,,Fansainey Jawara,Matida Fadera,Fafanding Jawara ,NEMA,39,15,5,2,41.85714286,28/11/2024
+IN-M-413B,12/06/2024,,Aminata Darboe,Sutering Drammeh,Bakary Darboe,Sankandi,11,8,5,1,34.71428571,17/01/2025
+IN-M-414B,24/07/2024,EDN1092-G,Fatou Wonto Camara,Alimatou Touray,Saikounding Camara,Dumbuto,33,11,0,1,31,12/02/2025
+IN-M-415L,26/06/2024,,Ndey Bah,Fatou Jawo,Samba Bah,Brikamanding,21,18,1,1,42.14285714,26/11/2024
+IN-M-416K,13/06/2024,,Fatou Sanyang,Kaddy Sanneh,Junkung Sanyang,Burong,17,19,4,1,45.42857143,03/11/2024
+IN-M-417F,26/06/2024,EDN1243-R,Mariama Jallow,Jaila Colley,Alhagie Madi Jallow,Nioro Jattaba,,12,4,2,36.57142857,04/01/2025
+IN-M-418C,26/06/2024,,Kaddy Marong,Natoma Manneh,Lanba Marong,Jattaba,22,18,0,1,42,27/11/2024
+IN-M-419C,26/06/2024,,Ramatoulie Bah,Sira Bah,Yerro Bah,MANDINA CENTRAL,15,12,1,2,36.14285714,07/01/2025
+IN-M-421E,02/07/2024,,Fatou Cham,Manding Kanteh,Lang Cham,KWINELLA SANSANKONO,4,8,0,2,31.14285714,11/02/2025
+IN-M-422K,02/07/2024,,Adama Jawara,Neffie Sora,Kebba Jawara,,13,12,4,3,35.71428571,10/01/2025
+IN-M-423K,03/07/2024,,Jainaba Colley,Duto Demba,Ismaila Colley,Manduar,1,13,6,1,36.85714286,02/01/2025
+IN-M-424B,02/07/2024,,Sarata Njie,Siba Ceesay,Demba Njie,KWINELLA NIA KUNDA,79,10,5,2,33.85714286,23/01/2025
+IN-M-425E,03/07/2024,EDN2661-X,Kaddy Camara,Nyakass Mass,Jalamang Camara,,17,7,2,3,30.28571429,17/02/2025
+IN-M-426G,03/07/2024,EDN0298-C,Sonna Colley,Fatoumata Sowe,Samba Colley,SARE MAMUDU,1,7,6,2,30.85714286,13/02/2025
+IN-M-427G,03/07/2024,EDN0529-F,Jatta Ceesay,Tako Fanneh,Ebrima Ceesay,MANDINA CENTRAL,22,7,4,2,30.57142857,15/02/2025
+IN-M-428C,03/07/2024,,Binta Sise,Boto Njai,Babanding Sise,Tankular,4,7,3,1,30.42857143,16/02/2025
+IN-M-429A,03/07/2024,EDN1037-L,Bintou Sise,Fatoumata Sawaneh,Saikou Alieu Sise,Burong,14,7,4,1,30.57142857,15/02/2025
+IN-M-431J,08/07/2024,EDN1340-O,Fatou Drammeh,Alamuta Kinteh,Karamo Drammeh,Jiffarong,28,10,5,1,33,29/01/2025
+IN-M-432G,08/07/2024,EDN1163-M,Adama Drammeh,Jainaba Sanyang,Omar Drammeh,Dumbuto,16,7,4,1,29.85714286,20/02/2025
+IN-M-433G,08/07/2024,EDN2051-U,Hawa Sanneh,Hawa Conteh,Alasana Sanneh,,27,11,4,3,33.85714286,23/01/2025
+IN-M-434E,10/07/2024,,,,,,,11,1,2,33.14285714,28/01/2025
+IN-M-435H,09/07/2024,,Bintou Touray,Terema Joof,Lang Touray,Jattaba,37,12,2,1,34.42857143,19/01/2025
+IN-M-439F,09/07/2024,EDN2386-G,Yassin Njie,Oumou Sallah ,Abdourahman Njie,,85,17,3,3,39.57142857,14/12/2024
+IN-M-440F,09/07/2024,EDN2394-K,Jama Jobe,Yassin Gai,Modou Jobe,,89,16,1,3,38.28571429,23/12/2024
+IN-M-442H,11/07/2024,EDN1640-D,Mariama Demba,Banna Darboe,Bakary Demba,WUROKANG,34,10,0,2,31.85714286,06/02/2025
+IN-M-443B,10/07/2024,EDN1907-V,Sarjo Sanneh,Fatoumata Camara,Kalilu Sanneh,,23,14,0,3,36,08/01/2025
+IN-M-444E,10/07/2024,EDN2730-T,Mam Cham Touray ,Isatou Touray ,Ali Kaddy Touray ,,96,18,0,3,40,11/12/2024
+IN-M-449F,17/07/2024,EDN0020-H,NABA B. SANYANG,BINTA DAFFEH,DEMBA SANYANG,KWINELLA SANSANKONO,1,14,1,2,35.14285714,14/01/2025
+IN-M-451B,17/07/2024,EDN1709-C,Fatou Darboe,Fatoumata Camara,Bakary Darboe,BUMARR,14,8,0,2,29,26/02/2025
+IN-M-452K,17/07/2024,,Kumba Baldeh,Sunkary Buwaro,Samba Baldeh,Sankandi,8,19,6,1,40.85714286,05/12/2024
+IN-M-454C,17/07/2024,EDN1950-U,NYIMASATOU  FATTY ,BANNA JARJU ,SISAWO FATTY ,,9,16,4,3,37.57142857,28/12/2024
+IN-M-455F,17/07/2024,EDN1932-Y,Sainabou Jobe,Penda Sowe,Seedy Jobe,,2,10,2,3,31.28571429,10/02/2025
+IN-M-456A,22/07/2024,EDN2696-T,Maimuna Sowe,Hawa Barry,Ebrima Sowe,,4,12,4,3,32.85714286,30/01/2025
+IN-M-460E,23/07/2024,EDN2160-N,Fatoumatta Joof,Musukebba Komah,Sulayman Joof,,90,13,6,3,34,22/01/2025
+IN-M-461H,23/07/2024,EDN2062-M,Aja Dibba,Musukebba Saidykhan,Ebrima Dibba,,36,7,0,3,27.14285714,11/03/2025
+IN-M-462F,23/07/2024,,Nyima Yaboe,Nyimasatou Sanneh ,Sunkary Yabo,NEMA,55,8,4,2,28.71428571,28/02/2025
+IN-M-464J,23/07/2024,EDN2082-G,Kaddy Darboe ,Nyomo Barrow,Nyuku Darboe,,4,6,4,3,26.71428571,14/03/2025
+IN-M-465G,23/07/2024,EDN0197-B,Isatou Jarju,Darboe Sillah,Mamadou Jarju,NEMA,57,5,3,2,25.57142857,22/03/2025
+IN-M-466E,23/07/2024,,Jainaba Barrow,Kaddy camara,Nurse Barrow,BUMARR,5,6,6,2,27,12/03/2025
+IN-M-468H,24/07/2024,EDN1216-P,Fatoumata Daffeh,Nyimanding Camara,Ansumana Daffeh,Sankandi,27,7,5,1,27.71428571,07/03/2025
+IN-M-471A,24/07/2024,EDN1605-K,Isatou Jallow,Kaddijatou Keita,Amadou Wurry Jallow,Wudeba,9,13,1,1,33.14285714,28/01/2025
+IN-M-472E,24/07/2024,EDN1062-L,Maimuna Demba,Tida Janneh,Bakary Demba,Karantaba,11,7,4,1,27.57142857,08/03/2025
+IN-M-473C,24/07/2024,EDN1555-D,Mariama Janneh,Jarra Bajo,Jerreh Janneh,Kemoto,14,7,0,1,27,12/03/2025
+IN-M-474B,25/07/2024,EDN0164-K,Aminata Fadera,Maimuna Jawara,Kemba Fadera,NEMA,28,12,4,2,32.42857143,02/02/2025
+IN-M-475G,18/07/2024,EDN0188-F,Chamunding saho,Fadiding Fadera,Lang saho,NEMA,46,7,5,2,28.57142857,01/03/2025
+IN-M-477F,25/07/2024,EDN0782-F,,,,,,5,5,2,25.57142857,22/03/2025
+IN-M-478F,30/07/2024,EDN2089-R,MARIAMA COLLY,MUSUKEBA MANNEH ,OUSMAN COLLY ,,15,10,3,3,29.57142857,22/02/2025
+IN-M-481K,30/07/2024,EDN2107-K,Tomaring Sanneh,Awa Sanneh ,Sarjo Sanneh,,50,9,1,3,28.28571429,03/03/2025
+IN-M-483S,01/08/2024,EDN1882-H,FANSAINEY CAMARA ,SARJOE CAMARA ,LANDING  CAMARA ,,7,17,3,3,36.28571429,06/01/2025
+IN-M-485G,06/08/2024,,Fatou Jawara,Faye Janneh,Madi Jawara,Jattaba,5,18,2,1,36.42857143,05/01/2025
+IN-M-486J,06/08/2024,,Sirreh Sanneh,Isatou Sanneh,Lamin Sanneh,,39,11,3,3,29.57142857,22/02/2025
+IN-M-487A,06/08/2024,EDN1029-D,Fatou Sarr,Mariama Jarjue,Alhagie Sarr,KUNDANG NUMU KUNDA,2,7,1,2,25.28571429,24/03/2025
+IN-M-489D,06/08/2024,,Mariama Njie,Fatoumata Sanneh,Karafa Njie,,32,16,6,3,35,15/01/2025
+IN-M-491D,07/08/2024,EDN0838-C,Isatou Jawo,Binta Marri,Jerreh Jawo,Missira,1,8,1,1,26.14285714,18/03/2025
+IN-M-492E,07/08/2024,,Hawa Sey,Isatou Sey,Ebrima Sey,Nioro Jattaba,65,13,3,1,31.42857143,09/02/2025
+IN-M-493A,07/08/2024,,Marie Sey,Ramata Bah,Bokarr Sey,Nioro Jattaba,52,19,5,1,37.71428571,27/12/2024
+IN-M-494G,07/08/2024,,Jainaba Darboe,Nyimanding Bojang,Alieu Darboe,Taborangkoto,4,15,5,1,33.71428571,24/01/2025
+IN-M-495J,08/08/2024,EDN1802-C,Jainaba Njai,Fatou Kinteh,Lang Lamin Njai,Jiffarong,15,17,5,1,35.57142857,11/01/2025
+IN-M-496D,13/08/2024,EDN1227-B,Isatou Jobe,Adama Jobe,Shriff Jobe,Nioro Jattaba,2,9,1,1,26.28571429,17/03/2025
+IN-M-497A,13/08/2024,,Kaddy Jammeh,Nadinding Camara,Jero Jammeh,Dumbuto,23,10,6,1,28,05/03/2025
+IN-M-502C,21/08/2024,EDN2392-A,Hatta Touray ,Fatoumata Touray ,Omar Touray ,,88,15,5,3,31.71428571,07/02/2025
+IN-M-503D,21/08/2024,EDN2272-G,Yassin Touray ,Harambee Cham,Modou Touray,,29,16,6,3,32.85714286,30/01/2025
+IN-M-504B,21/08/2024,EDN2382-U,Oumie Bah,Hawa Touray ,Babou Bah,,83,8,0,3,24,02/04/2025
+IN-M-505A,21/08/2024,EDN2785-J,Haji Jobe,Adama Jallow,Jailel Jobe,SARE SARJO,1,7,5,2,23.71428571,04/04/2025
+IN-M-506F,26/11/2024,,Aja Drammeh,Binta Njie,Karamo Drammeh,BUMARR,10,,,2,,
+IN-M-507F,21/08/2024,,Fatoumata Camara,Mariama Camara,Freey Camara,Sankandi,8,15,6,1,31.85714286,06/02/2025
+IN-M-508G,26/11/2024,EDN2695-J,Jankey Barry,Isatou Kolley,Mamadou  Barry,,1,18,3,3,20.57142857,26/04/2025
+IN-M-509F,21/08/2024,EDN2650-M,SUTAYRING SANYANG ,NYIMA  NJIE ,MAMADOU SANYANG ,,18,6,1,3,22.14285714,15/04/2025
+IN-M-510E,21/08/2024,,Mariama Darboe,Fatoumata Sanyang,Baba Darboe,Sankandi,9,9,5,1,25.71428571,21/03/2025
+IN-M-511F,21/08/2024,,Fatou Darboe,Ida Camara,Lang Darboe,WUROKANG,28,9,0,2,25,26/03/2025
+IN-M-513A,27/08/2024,EDN1564-G,Aminata Minteh,Jonyinding Sise,Sankung Minteh,Keneba,10,8,3,1,23.57142857,05/04/2025
+IN-M-517H,28/08/2024,,Nyimansatou Njai,Barrow Njai,Karamba Njai,Kuli Kunda,9,11,1,2,26.14285714,18/03/2025
+IN-M-518H,28/08/2024,,Fatou Jadama,Aminata Njai,Amadou Jadama,Dumbuto,21,13,4,1,28.57142857,01/03/2025
+IN-M-519J,28/08/2024,EDN0004-F,Mariama Camara,Binta Sanneh,Bully Camara,WUROKANG,9,16,5,2,31.71428571,07/02/2025
+IN-M-520B,28/08/2024,,Musukebba Touray,Nma Sise,Saikou Touray,Kuli Kunda,39,15,0,1,30,19/02/2025
+IN-M-521K,28/08/2024,,Nyima Sise,Siiya Jammeh,Modou Sise,Nioro Jattaba,41,14,6,1,29.85714286,20/02/2025
+IN-M-522A,28/08/2024,,Fatou Sise,Aminata Bajo,Kawsu Sise,Kuli Kunda,39,14,1,1,29.14285714,25/02/2025
+IN-M-523A,28/08/2024,,Fatou Camara,Fatou Touray,Momodou Camara,Sandeng,4,11,1,1,26.14285714,18/03/2025
+IN-M-524J,28/08/2024,,Aja Sise,Chaku Dibba,Dembo K. Sise,Tankular,31,19,4,1,34.57142857,18/01/2025
+IN-M-525G,28/08/2024,EDN2017-T,Isatou Colley,Jainaba Badjie,About Colley,,1,17,1,3,32.14285714,04/02/2025
+IN-M-526B,28/08/2024,,Mariama Cham,Kaddy Dibba,Wandifa Cham,KWINELLA NIA KUNDA,109,12,3,2,27.42857143,09/03/2025
+IN-M-527F,28/08/2024,,Kaddy Sawo,Mbajai Jarju,Demba Sawo,,10,12,6,3,27.85714286,06/03/2025
+IN-M-528J,29/08/2024,,Fatou Bajo,Adama Barrow,Fakebba Bajo,Bajana,9,14,3,1,29.28571429,24/02/2025
+IN-M-529C,29/08/2024,EDN1102-B,Binta Bojang,Fatoumata Kinteh,Lamin Bojang,Batelling,18,14,6,1,29.71428571,21/02/2025
+IN-M-530F,03/09/2024,EDN2206-P,Halima Njie,Lolly Mbaye,Modou Njie,,1,12,4,3,26.71428571,14/03/2025
+IN-M-531E,03/09/2024,EDN1419-S,Aja Sise,Ida Sise,Sankung Sise,Kantong Kunda,16,13,1,1,27.28571429,10/03/2025
+IN-M-532F,27/11/2024,EDN1818-D,Bintou Ceesay,Mama Minteh,Alagie Ceesay,KWINELLA SANSANKONO,35,19,3,3,21.42857143,20/04/2025
+IN-M-533E,27/11/2024,,kaddy bah,Sarjo Bah,Demba Bah,NEMA,21,19,3,2,21.42857143,20/04/2025
+IN-M-535A,03/12/2024,,Faddy Touray ,Kaddy Sallah,Nderra Touray ,,89,18,6,3,20,30/04/2025
+IN-M-536D,03/09/2024,EDN1022-V,Natoma Drammeh,Tumbulu Sise,Fanding Drammeh,Jiffarong,34,12,1,1,26.28571429,17/03/2025
+IN-M-537A,03/09/2024,,Adama Dampha,Amie Conteh,Lamin Dampha,Dumbuto,2,17,4,1,31.71428571,07/02/2025
+IN-M-538R,03/09/2024,EDN1757-H,Sally Ceesay,Funtu Binta Ceesay,Njundu Ceesay,MANDINA CENTRAL,19,8,0,2,22.14285714,15/04/2025
+IN-M-541A,04/09/2024,,Kaddijatou Baldeh,Rubi Baldeh,Samba Baldeh,Keneba,76,12,6,1,26.85714286,13/03/2025
+IN-M-542D,04/09/2024,EDN0574-D,Senbory Barrow,Manding Kinteh,Saikounding Barrow,Jiffarong,25,12,4,1,26.57142857,15/03/2025
+IN-M-543C,04/09/2024,EDN1542-H,Sarita Barrow,Mariama Barrow,Kemo Jatta Barrow,Janneh Kunda,32,16,0,1,30,19/02/2025
+IN-M-545G,04/09/2024,EDN2586-I,Isatou Jawo,Hulaye Ganno ,Youba Jawo,,21,10,6,3,24.85714286,27/03/2025
+IN-M-546H,04/09/2024,EDN2814-R,Kaddy Bah,Penda Bah,Mamadou Bah,JIRROFF,4,12,4,2,26.57142857,15/03/2025
+IN-M-547E,09/09/2024,,Ramatoulie Kinteh,Mama Njai,Turado Kinteh,Jiffarong,52,10,4,1,23.85714286,03/04/2025
+IN-M-551K,09/09/2024,,Kaddijatou Demba,Isatou Kambi,Omar Demba,Taborangkoto,12,13,4,1,26.85714286,13/03/2025
+IN-M-552E,09/09/2024,,Alimatou Jallow,Sira Camara,Kalifa Jallow,Sankandi,21,9,4,1,22.85714286,10/04/2025
+IN-M-553D,17/09/2024,EDN0860-D,Isatou Camara,Kaddy Jadama,Babylon Camara,Tankular,9,15,4,1,27.71428571,07/03/2025
+IN-M-554A,17/09/2024,EDN0859-J,Jankeh Manka,Fatou Sise,Momodou Manka,Tankular,30,8,4,1,20.71428571,25/04/2025
+IN-M-555A,03/12/2024,EDN1849-K,Hawa Manka,Kaddy Camara,Momodou Manka,,12,18,0,3,19.14285714,06/05/2025
+IN-M-556P,18/09/2024,EDN0114-D,Aminata ceesay,Sutayring Drammeh,Malang Ceesay,BUMARR,6,6,4,2,18.57142857,10/05/2025
+IN-M-557F,18/09/2024,EDN2614-B,PENDA JALLOW ,MARIAMA BARRY ,MALICK JALLOW ,,43,12,2,3,24.28571429,31/03/2025
+IN-M-558A,18/09/2024,,Mariama Sanneh,Sirrending Sanneh,Baba Sanneh,,93,19,3,3,31.42857143,09/02/2025
+IN-M-559E,18/09/2024,,Jammy Gassama,Alimatou Darboe,Mamadou L. Gassama,Taborangkoto,1,19,5,1,31.71428571,07/02/2025
+IN-M-560K,18/09/2024,EDN0391-K,Maimuna Colley,Mariama Ndow,Juka Colley,Nioro Jattaba,60,8,2,1,20.28571429,28/04/2025
+IN-M-562J,26/11/2024,EDN0429-H,Hawa Bah,Isatou Jallow,Amadou Bah,Nioro Jattaba,5,18,5,1,20.85714286,24/04/2025
+IN-M-563B,18/09/2024,EDN2774-R,Isatou Camara,Kaddy Gitteh,Musa Camara,KUNDANG NUMU KUNDA,8,,,2,,
+IN-M-564G,19/09/2024,EDN2737-U,Mbombeh Touray ,Fatou Touray ,Demba Touray ,,85,17,3,3,29.28571429,24/02/2025
+IN-M-565F,19/09/2024,EDN2088-T,MUSKEBA SAIDY ,FATOU MANNEH ,ABDOU SAIDY ,,14,9,5,3,21.57142857,19/04/2025
+IN-M-569D,24/09/2024,,Fatou Fatty,Mariama Jawara ,Ousman Fatty,,58,19,2,3,30.42857143,16/02/2025
+IN-M-571D,24/09/2024,EDN1302-B,Fatou Barrow,Isatou Njie,Mamadou Barrow,Jattaba,7,10,3,1,21.57142857,19/04/2025
+IN-M-575J,24/09/2024,EDN0883-F,Bintou Manjang,Hawa Janneh,Kijera Manjang,Manduar,13,16,5,1,27.85714286,06/03/2025
+IN-M-576G,25/09/2024,EDN0668-B,Kaddy Bajinka,Hawa Samateh,Ansumana Bajinka,Kemoto,28,14,5,1,25.71428571,21/03/2025
+IN-M-577D,25/09/2024,EDN1433-H,Sarjo Jarra,Kaddy Faal,Amadou Jarra,Jali,53,15,5,1,26.71428571,14/03/2025
+IN-M-579A,25/09/2024,EDN2672-D,Fatou Darboe ,Borry Touray,Lang Sandeng Darboe ,,4,12,2,3,23.28571429,07/04/2025
+IN-M-580A,26/09/2024,EDN0210-A,,,,,,7,6,2,18.71428571,09/05/2025
+IN-M-581A,26/09/2024,,Jainaba Fadrea,Fatoumatta Jawara,Ansumana Fadera,NEMA,58,10,1,2,21,23/04/2025
+IN-M-584K,01/10/2024,EDN2552-T,,,,,,9,1,1,19.28571429,05/05/2025
+IN-M-586C,01/10/2024,EDN0122-H,Mariama Bah,Isatou Colley,Demba Bah,JATTA KUNDA,1,18,5,2,28.85714286,27/02/2025
+IN-M-587B,03/10/2024,,Hawa Sanneh,Mariama Demba,Sulayman Sanneh,WUROKANG,39,13,1,2,23,09/04/2025
+IN-M-588C,03/10/2024,,Fatou Sanneh,Fatou Njai,Demba Sanneh,Jattaba,9,17,2,1,27.14285714,11/03/2025
+IN-M-589B,03/10/2024,,Mariama Njai,Ida Njai,Afang Munya Njai,Jiffarong,37,17,6,1,27.71428571,07/03/2025
+IN-M-590D,03/10/2024,EDN1866-Y,Binta Cham,Meta Fatty,Jerreh Kaddy Cham,,50,13,1,3,23,09/04/2025
+IN-M-591K,03/10/2024,,Mariama Sanyang,Naba Manjang,Bakary  Sanyang,WUROKANG,28,14,0,2,23.85714286,03/04/2025
+IN-M-593B,08/10/2024,,Mariama Sise,Bakoto Sise,Momodou Sise,Keneba,16,19,2,1,28.42857143,02/03/2025
+IN-M-594J,08/10/2024,EDN1924-A,Jaila Ceesay ,Njatty Bah,Samba Ceesay ,,9,12,0,3,21.14285714,22/04/2025
+IN-M-595E,08/10/2024,EDN2825-R,Jarra Fatty,Nancy Yabo,sarjo Fatty,KWINELLA NIA KUNDA,35,7,1,2,16.28571429,26/05/2025
+IN-M-596G,08/10/2024,,Isatou Njai,Kaddy Sise,Seedia Njai,Keneba,1,9,1,1,18.28571429,12/05/2025
+IN-M-597E,08/10/2024,,Naba Njai,Nembally Njai,Jamanty Njai,Kuli Kunda,69,8,0,1,17.14285714,20/05/2025
+IN-M-598J,08/10/2024,EDN0236-B,WONTONDING FADERA,KADDYJATOU  FADERA,Landing Fadera,NEMA,40,8,4,2,17.71428571,16/05/2025
+IN-M-599H,08/10/2024,,Fatou Njai,Kaddy Sise,Seedia Njai,Keneba,33,19,1,1,28.28571429,03/03/2025
+IN-M-602K,09/10/2024,,Kaddijatou Jallow,Isata Bah,Bocarra Jallow,Nioro Jattaba,96,17,5,1,26.71428571,14/03/2025
+IN-M-605F,16/10/2024,EDN2007-D,Isatou Drammeh ,Kintty Suwareh,Ebrima Drammeh,,42,18,4,3,26.57142857,15/03/2025
+IN-M-607A,16/10/2024,EDN2607-Z,Isata Ann,Jaila Sallah,Amadou Ann,,40,,,3,,
+IN-M-608C,16/10/2024,EDN1575-C,Isatou Njai,Ndey Njai,Mbemba Njai,Keneba,14,10,1,1,18.14285714,13/05/2025
+IN-M-609S,16/10/2024,EDN1670-F,,,,,,10,5,2,18.71428571,09/05/2025
+IN-M-611C,22/10/2024,,Naba Jabbie ,Isatou Ceesay,Jerreh Jabbie ,,103,11,1,3,18.28571429,12/05/2025
+IN-M-613J,16/10/2024,,Mariama Malado Krubally,Adama Camara,Jangduwa Krubally,Bajana,17,17,0,1,25,26/03/2025
+IN-M-614H,22/10/2024,EDN1352-B,Fatou Drammeh,Nyominding Kinteh,Manding Drammeh,Jiffarong,39,6,6,1,14,11/06/2025
+IN-M-615B,22/10/2024,EDN1496-U,Fatou Gassama,Binta Tamba,Cherno Gassama,Burong,18,10,1,1,17.28571429,19/05/2025
+IN-M-617G,22/10/2024,,Jully Bah,Sira Bah,Yobi Bah,Gissay,8,12,4,1,19.71428571,02/05/2025
+IN-M-619F,23/10/2024,,Ndey Njie Jagne,ISatou Jammeh,Tamba  jagne,KWINELLA SANSANKONO,97,8,0,2,15,04/06/2025
+IN-M-622E,23/10/2024,EDN2199-I,Haddy Ceesay,Fanna Ceesay ,Babou Ceesay ,,1,18,6,3,25.85714286,20/03/2025
+IN-M-623G,23/10/2024,EDN2401-N,Sainabou Touray ,Yassin Touray ,Layin Touray ,,90,13,1,3,20.14285714,29/04/2025
+IN-M-625A,28/10/2024,EDN0932-G,,,,,,17,3,1,23.71428571,04/04/2025
+IN-M-626B,28/10/2024,EDN1574-H,Jainaba Samateh,Pakaya Sise,Amfaal Samateh,Keneba,14,7,1,1,13.42857143,15/06/2025
+IN-M-627C,28/10/2024,EDN1672-G,Awa Sillah,Fatou Jadam,Muhammed Sillah,KWINELLA NIA KUNDA,52,,,2,,
+IN-M-629A,28/10/2024,,Isatou Manneh,Kaddijatou Sonko,Buya Manneh,Kuli Kunda,29,,,1,,
+IN-M-630A,29/10/2024,,Fatoumata Touray,Ndey Ceesay,Lamin Touray,Jali,3,19,0,1,25.14285714,25/03/2025
+IN-M-631A,29/10/2024,,Hawa Kinteh,Fatoumata Barrow,Sue Kinteh,Kuli Kunda,18,15,4,1,21.71428571,18/04/2025
+IN-M-632J,29/10/2024,,Fatou Jarra Barjo,Fatou Barjo,Foday Barjo,Bajana,12,14,2,1,20.42857143,27/04/2025
+IN-M-633H,30/10/2024,,Binta Manjang,Toulie Ceesay,Ousman Manjang,Batelling,6,,,1,,
+IN-M-635G,31/10/2024,EDN2717,Haddy Ceesay,Yassin Ceesay,Omar Ceesay ,,1,9,4,3,15.42857143,01/06/2025
+IN-M-636J,31/10/2024,,Ida Jarjou,Mama Minteh,Lamin Jarjou,Kemoto,47,12,4,1,18.42857143,11/05/2025
+IN-M-637J,31/10/2024,,Salimata Fatty,Mariama Jawara ,Alagie Fatty,,33,13,3,3,19.28571429,05/05/2025
+IN-M-638H,04/11/2024,,Fatou Sillah,Mama Sambou,Cherno Sillah,Keneba,108,14,3,1,19.71428571,02/05/2025
+IN-M-639G,04/11/2024,EDN1466-P,Adama Drammeh,Kaddy Camara,Sulayman Drammeh,Joli,18,7,0,1,12.28571429,23/06/2025
+IN-M-640E,04/11/2024,EDN1202-B,Fatou Bojang,Neneh Bojang,Cherno Bojang,Sankandi,6,11,1,1,16.42857143,25/05/2025
+IN-M-642N,05/11/2024,,Mariama Sise,Mari Jallow,Kebba Sise,Wudeba,14,7,5,1,12.85714286,19/06/2025
+IN-M-643G,05/11/2024,EDN1532-E,Fatoumata Fatty,Ndey Jobarteh,Faye Fatty,Karantaba,22,,,1,,
+IN-M-644K,05/11/2024,EDN1665-B,Isatou Jarjou,Mama Sanneh,Yahya Jarjou,KWINELLA NIA KUNDA,35,,,2,,
+IN-M-645K,05/11/2024,EDN2056-A,Fatoumata Dembajang,Jalima Dembajang,Mustapha Dembajang,,31,7,6,3,13,18/06/2025
+IN-M-646F,05/11/2024,,Fatou Drammeh ,Fatou Njie,Dembo Drammeh ,,5,17,6,3,23,09/04/2025
+IN-M-647G,06/11/2024,EDN2793-T,Mariatou Jobe,Hawa BAH ,Yaya jobe,WILLINGARA,7,18,5,3,23.71428571,04/04/2025
+IN-M-648G,07/11/2024,EDN2355-K,Mariama Njie,Isatou Ceesay ,Modou Njie,,65,16,4,3,21.42857143,20/04/2025
+IN-M-649K,07/11/2024,EDN1204-D,Kaddijatou Manjang,Fye Janneh,Jamba Manjang,Sankandi,1,7,2,1,12.14285714,24/06/2025
+IN-M-651H,11/11/2024,EDN0525-B,Hawa Touray,Kaddijatou Ann,Amadou Touray,TENDABA,27,,,2,,
+IN-M-652J,11/11/2024,EDN0524-G,Aminata Sanayang,Jarra Camara,Kebba Sanyang,TENDABA,21,,,2,,
+IN-M-653K,11/11/2024,EDN2556-B,Maimuna Ceesay,Kaddy Jallow,Mabo Ceesay,,4,8,1,3,12.42857143,22/06/2025
+IN-M-654K,19/11/2024,,Mimuna Minteh,Jarra Bajo,Afang Kemo Minteh,Keneba,31,18,3,1,21.57142857,19/04/2025
+IN-M-655A,19/11/2024,,Hawa Minteh,Saribanding Sise,Dodou Minteh,Kuli Kunda,2,14,5,1,17.85714286,15/05/2025
+IN-M-656J,19/11/2024,,Bintou Fofana,Nyimanding Kambi,Laye Fofana,Kemoto,32,14,0,1,17.14285714,20/05/2025
+IN-M-658A,20/11/2024,EDN1594-J,Fatou Tamba,Adama Sanyang,Tijan Tamba,Keneba,119,,,1,,
+IN-M-659A,20/11/2024,,Amie Trawally,Kaddy Manka,Sulayman Trawally,,6,10,2,3,13.28571429,16/06/2025
+IN-M-660F,20/11/2024,EDN1976-G,Fatou Camara,Nyimansatou Darboe,Borry Camara,,25,16,0,3,19,07/05/2025
+IN-M-661K,20/11/2024,,Fatou Ceesay,Banna Sanneh,Borry Ceesay,,48,14,6,3,17.85714286,15/05/2025
+IN-M-663G,05/12/2024,EDN0389-D,Jaila Bah,Isatou Bah,Ablie Bah,Nioro Jattaba,,,,1,,
+IN-M-664C,05/12/2024,EDN0990-C,Isata Jallow,Kaddy Jallow,Bokarr Jallow,Nioro Jattaba,,16,0,1,16.85714286,22/05/2025
+IN-M-665C,05/12/2024,,Mariama Barrow,Nyara Darbo,Fakebba Barrow,Bajana,4,20,6,1,21.71428571,18/04/2025
+IN-M-666K,05/12/2024,,Satou Jammeh,Binta Camara,lamin Jammeh,WUROKANG,8,10,5,2,11.57142857,28/06/2025
+IN-M-667J,05/12/2024,EDN2044-E,Fatou sanneh,Fatou Manneh,Mamadou sanneh,,20,,,3,,
+IN-M-668G,05/12/2024,,,,,,,25,4,1,26.42857143,16/03/2025
+IN-M-669D,05/12/2024,EDN1266-P,Dellam Bah,Fatou Jobe,Bubacarr Bah,Nioro Jattaba,,11,3,1,12.28571429,23/06/2025
+IN-M-670B,05/12/2024,EDN2811-U,Rokey Ceesay,Isatou Sowe,Mbgye Ceesay,SARE SARJO,20,,,2,,
