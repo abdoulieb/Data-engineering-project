@@ -2,6 +2,7 @@ participant_id,combined_reason,b_give_medical_reason
 EDN0018-C,Moved away,Off-Peak Season Conception
 EDN0024-B,Moved away,Conceived outside of conception period.
 EDN0025-F,Moved away,"After three engagement with family,  the father is not interested for the wife and the child to continue their participation in studies."
+EDN0114-D,,
 EDN0134-F,,Miscarriage 
 EDN0140-C,Moved away,Off-Peak Season Conception
 EDN0141-F,Moved away,Off-Peak Season Conception
@@ -132,6 +133,7 @@ EDN1510-B,Moved away,No pregnancy confirmed by USS and HCG negative.
 EDN1511-H,,
 EDN1521-A,,
 EDN1532-E,,
+EDN1672-G,,Complete abortion 
 EDN1725-F,Moved away,miscarriage
 EDN1785-J,,
 EDN1901-A,,
@@ -162,4 +164,5 @@ EDN2731-P,Moved away,No baseline sample collected nearer to conception.
 EDN2740-F,,gestation age at screening visit is above 20WKS 
 EDN2774-R,,
 EDN2803-P,,The woman was already pregnant 
+EDN2819-U,,
 EDN2855-F,,under aged. dob given was an estimate
